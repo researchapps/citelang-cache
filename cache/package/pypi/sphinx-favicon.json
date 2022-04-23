@@ -1,0 +1,56 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Sphinx Extension adding support for custom favicons",
+    "forks": 1,
+    "homepage": "https://github.com/tcmetzger/sphinx-favicon",
+    "keywords": [
+        "sphinx",
+        "extension",
+        "favicon",
+        "meta",
+        "html"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.2",
+    "latest_release_published_at": "2021-11-16T05:10:55.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "sphinx-favicon",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/sphinx-favicon/",
+    "platform": "Pypi",
+    "rank": 6,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/tcmetzger/sphinx-favicon",
+    "stars": 3,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2021-10-04T00:38:28.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2021-11-16T05:10:55.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

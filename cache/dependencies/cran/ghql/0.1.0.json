@@ -1,0 +1,118 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "General Purpose 'GraphQL' Client",
+    "forks": 0,
+    "homepage": "https://github.com/ropensci/ghql (devel)\nhttps://docs.ropensci.org/ghql (docs)",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/ghql_0.1.0.tar.gz",
+    "latest_release_number": "0.1.0",
+    "latest_release_published_at": "2020-03-04T00:00:00.000Z",
+    "latest_stable_release_number": "0.1.0",
+    "latest_stable_release_published_at": "2020-03-04T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "ghql",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=ghql",
+    "platform": "CRAN",
+    "rank": 4,
+    "repository_license": null,
+    "repository_url": "https://github.com/ropensci/ghqldevel",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2020-03-04T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.0",
+    "dependencies": [
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "graphql",
+            "name": "graphql",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.5",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "R6",
+            "name": "R6",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.5.1",
+            "latest": "2.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "jsonlite",
+            "name": "jsonlite",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "crul",
+            "name": "crul",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.2.0",
+            "latest": "1.2.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

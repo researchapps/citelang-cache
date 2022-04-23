@@ -1,0 +1,399 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "A package for the computation of Singular Value Decomposition",
+    "forks": 2,
+    "homepage": "https://github.com/danilosalvati/svd-js#readme",
+    "keywords": [
+        "SVD",
+        "Linear",
+        "Algebra",
+        "Matrix",
+        "linear-algebra"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/svd-js/-/svd-js-1.1.1.tgz",
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2020-08-20T01:20:31.707Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2020-08-20T01:20:31.707Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "svd-js",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/svd-js",
+    "platform": "NPM",
+    "rank": 9,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/danilosalvati/svd-js",
+    "stars": 12,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2018-01-12T09:46:47.796Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2018-01-13T02:27:44.425Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2019-07-07T21:29:58.519Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2019-07-15T01:48:41.733Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.4",
+            "published_at": "2019-08-27T00:42:59.279Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.5",
+            "published_at": "2019-12-26T23:48:56.218Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.6",
+            "published_at": "2020-04-05T17:23:16.464Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2020-06-22T20:31:53.137Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2020-08-20T01:20:31.707Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.1",
+    "dependencies": [
+        {
+            "project_name": "standard",
+            "name": "standard",
+            "platform": "NPM",
+            "requirements": "^14.3.4",
+            "latest_stable": "16.0.4",
+            "latest": "17.0.0-2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup-plugin-uglify",
+            "name": "rollup-plugin-uglify",
+            "platform": "NPM",
+            "requirements": "^6.0.4",
+            "latest_stable": "6.0.4",
+            "latest": "6.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup-plugin-babel",
+            "name": "rollup-plugin-babel",
+            "platform": "NPM",
+            "requirements": "^4.4.0",
+            "latest_stable": "4.4.0",
+            "latest": "5.0.0-alpha.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup",
+            "name": "rollup",
+            "platform": "NPM",
+            "requirements": "^2.26.4",
+            "latest_stable": "2.70.0",
+            "latest": "2.70.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "nyc",
+            "name": "nyc",
+            "platform": "NPM",
+            "requirements": "^15.1.0",
+            "latest_stable": "15.1.0",
+            "latest": "15.1.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "ISC"
+            ]
+        },
+        {
+            "project_name": "npm-run-all",
+            "name": "npm-run-all",
+            "platform": "NPM",
+            "requirements": "^4.1.5",
+            "latest_stable": "4.1.5",
+            "latest": "4.1.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "mocha",
+            "name": "mocha",
+            "platform": "NPM",
+            "requirements": "^8.1.1",
+            "latest_stable": "9.2.2",
+            "latest": "9.2.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "mathjs",
+            "name": "mathjs",
+            "platform": "NPM",
+            "requirements": "^7.1.0",
+            "latest_stable": "10.4.3",
+            "latest": "10.4.3",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "del-cli",
+            "name": "del-cli",
+            "platform": "NPM",
+            "requirements": "^3.0.1",
+            "latest_stable": "4.0.1",
+            "latest": "4.0.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "cross-env",
+            "name": "cross-env",
+            "platform": "NPM",
+            "requirements": "^7.0.2",
+            "latest_stable": "7.0.3",
+            "latest": "7.0.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "coveralls",
+            "name": "coveralls",
+            "platform": "NPM",
+            "requirements": "^3.1.0",
+            "latest_stable": "3.1.1",
+            "latest": "3.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "project_name": "const-version",
+            "name": "const-version",
+            "platform": "NPM",
+            "requirements": "^2.0.0",
+            "latest_stable": "2.0.0",
+            "latest": "2.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "chai",
+            "name": "chai",
+            "platform": "NPM",
+            "requirements": "^4.2.0",
+            "latest_stable": "4.3.6",
+            "latest": "4.3.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "@babel/register",
+            "name": "@babel/register",
+            "platform": "NPM",
+            "requirements": "^7.10.5",
+            "latest_stable": "7.17.7",
+            "latest": "7.17.7",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "@babel/preset-env",
+            "name": "@babel/preset-env",
+            "platform": "NPM",
+            "requirements": "^7.11.0",
+            "latest_stable": "7.16.11",
+            "latest": "7.16.11",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "@babel/plugin-proposal-object-rest-spread",
+            "name": "@babel/plugin-proposal-object-rest-spread",
+            "platform": "NPM",
+            "requirements": "^7.11.0",
+            "latest_stable": "7.17.3",
+            "latest": "7.17.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "@babel/core",
+            "name": "@babel/core",
+            "platform": "NPM",
+            "requirements": "^7.11.1",
+            "latest_stable": "7.17.9",
+            "latest": "7.17.9",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "@babel/cli",
+            "name": "@babel/cli",
+            "platform": "NPM",
+            "requirements": "^7.10.5",
+            "latest_stable": "7.17.6",
+            "latest": "7.17.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

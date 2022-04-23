@@ -1,0 +1,145 @@
+{
+    "dependent_repos_count": 30986,
+    "dependents_count": 85,
+    "deprecation_reason": null,
+    "description": "Built-in Pagination Generator for Jekyll",
+    "forks": 70,
+    "homepage": "https://github.com/jekyll/jekyll-paginate",
+    "keywords": [
+        "jekyll"
+    ],
+    "language": "Ruby",
+    "latest_download_url": "https://rubygems.org/downloads/jekyll-paginate-1.1.0.gem",
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2014-10-14T07:49:06.172Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2014-10-14T07:49:06.172Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "jekyll-paginate",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://rubygems.org/gems/jekyll-paginate",
+    "platform": "Rubygems",
+    "rank": 19,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/jekyll/jekyll-paginate",
+    "stars": 70,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2014-05-27T01:06:11.926Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.0.0.rc1",
+            "published_at": "2014-05-26T23:40:37.829Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.0.0.rc2",
+            "published_at": "2014-05-27T00:00:51.327Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.0.0.rc3",
+            "published_at": "2014-05-27T00:07:09.887Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2014-10-14T07:49:06.172Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.0",
+    "dependencies": [
+        {
+            "project_name": "bundler",
+            "name": "bundler",
+            "platform": "Rubygems",
+            "requirements": "~> 1.5",
+            "latest_stable": "2.3.9",
+            "latest": "2.3.10",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "jekyll",
+            "name": "jekyll",
+            "platform": "Rubygems",
+            "requirements": "~> 2.0",
+            "latest_stable": "4.2.2",
+            "latest": "3.9.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rake",
+            "name": "rake",
+            "platform": "Rubygems",
+            "requirements": ">= 0",
+            "latest_stable": "13.0.6",
+            "latest": "13.0.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rspec",
+            "name": "rspec",
+            "platform": "Rubygems",
+            "requirements": "~> 3.0",
+            "latest_stable": "3.10.0",
+            "latest": "3.10.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

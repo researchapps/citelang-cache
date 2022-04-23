@@ -1,0 +1,98 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "A broader implementation of pandas json_normalize function.",
+    "forks": 3,
+    "homepage": "https://github.com/metinsenturk/flat_table",
+    "keywords": [
+        "pandas",
+        "json_normalize",
+        "dict_to_columns",
+        "flatten"
+    ],
+    "language": "Jupyter Notebook",
+    "latest_download_url": null,
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2020-08-23T23:57:13.000Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2020-08-23T23:57:13.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "flat-table",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/flat-table/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/metinsenturk/flat_table",
+    "stars": 9,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2019-09-26T23:50:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2019-10-16T18:49:23.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2020-08-23T23:57:13.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.1",
+    "dependencies": [
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.22.3",
+            "latest": "1.22.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pandas",
+            "name": "pandas",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.4.2",
+            "latest": "1.4.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

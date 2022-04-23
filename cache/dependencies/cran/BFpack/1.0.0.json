@@ -1,0 +1,350 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Flexible Bayes Factor Testing of Scientific Expectations",
+    "forks": 3,
+    "homepage": "https://github.com/jomulder/BFpack",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/BFpack_1.0.0.tar.gz",
+    "latest_release_number": "1.0.0",
+    "latest_release_published_at": "2021-11-26T00:00:00.000Z",
+    "latest_stable_release_number": "1.0.0",
+    "latest_stable_release_published_at": "2021-11-26T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL (\u2265 3)",
+    "name": "BFpack",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=BFpack",
+    "platform": "CRAN",
+    "rank": 11,
+    "repository_license": null,
+    "repository_url": "https://github.com/jomulder/BFpack",
+    "stars": 8,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2019-10-31T16:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2020-02-19T18:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2020-05-11T19:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2020-11-30T16:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2021-02-02T11:20:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2021-11-26T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.0",
+    "dependencies": [
+        {
+            "project_name": "lmtest",
+            "name": "lmtest",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.9-39",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-2.0+"
+            ]
+        },
+        {
+            "project_name": "rmarkdown",
+            "name": "rmarkdown",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.6",
+            "latest": "2.13",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "knitr",
+            "name": "knitr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.15.1",
+            "latest": "1.38",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "metafor",
+            "name": "metafor",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "3.0-1",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "pscl",
+            "name": "pscl",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.5.5",
+            "latest": "1.5.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-2.0"
+            ]
+        },
+        {
+            "project_name": "survival",
+            "name": "survival",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "3.2-13",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CERN-OHL-S-2.0",
+                "CERN-OHL-W-2.0"
+            ]
+        },
+        {
+            "project_name": "polycor",
+            "name": "polycor",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.8-0",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "extraDistr",
+            "name": "extraDistr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.9.1",
+            "latest": "1.9.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-2.0"
+            ]
+        },
+        {
+            "project_name": "lme4",
+            "name": "lme4",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.1-29",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "pracma",
+            "name": "pracma",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.3.8",
+            "latest": "2.3.8",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "mvtnorm",
+            "name": "mvtnorm",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.0-11",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-2.0"
+            ]
+        },
+        {
+            "project_name": "Matrix",
+            "name": "Matrix",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.3-4",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MirOS",
+                "MirOS"
+            ]
+        },
+        {
+            "project_name": "MASS",
+            "name": "MASS",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "7.3-56",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-2.0+"
+            ]
+        },
+        {
+            "project_name": "stats",
+            "name": "stats",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "bain",
+            "name": "bain",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.2.8",
+            "latest": "0.2.8",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 3.0.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

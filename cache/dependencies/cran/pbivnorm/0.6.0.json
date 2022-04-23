@@ -1,0 +1,63 @@
+{
+    "dependent_repos_count": 21,
+    "dependents_count": 16,
+    "deprecation_reason": null,
+    "description": "Vectorized Bivariate Normal CDF",
+    "forks": 1,
+    "homepage": "https://github.com/brentonk/pbivnorm",
+    "keywords": [],
+    "language": "Fortran",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/pbivnorm_0.6.0.tar.gz",
+    "latest_release_number": "0.6.0",
+    "latest_release_published_at": "2015-01-23T00:00:00.000Z",
+    "latest_stable_release_number": "0.6.0",
+    "latest_stable_release_published_at": "2015-01-23T00:00:00.000Z",
+    "license_normalized": false,
+    "licenses": "GPL-2 | GPL-3 [expanded from: GPL (\u2265 2)]",
+    "name": "pbivnorm",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible",
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=pbivnorm",
+    "platform": "CRAN",
+    "rank": 9,
+    "repository_license": null,
+    "repository_url": "https://github.com/brentonk/pbivnorm",
+    "stars": 1,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.5-0",
+            "published_at": "2012-10-29T08:59:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5-1",
+            "published_at": "2012-10-31T17:02:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2015-01-23T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.6.0",
+    "dependencies": []
+}

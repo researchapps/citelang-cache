@@ -1,0 +1,223 @@
+{
+    "dependent_repos_count": 7,
+    "dependents_count": 76,
+    "deprecation_reason": null,
+    "description": "a modern parsing library",
+    "forks": 309,
+    "homepage": "https://github.com/lark-parser/lark",
+    "keywords": [
+        "Earley",
+        "LALR",
+        "parser",
+        "parsing",
+        "ast",
+        "cyk",
+        "grammar",
+        "lark",
+        "parse",
+        "parser-library",
+        "parsing-engine",
+        "parsing-library",
+        "python",
+        "tree"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.1.2",
+    "latest_release_published_at": "2022-03-01T14:20:48.000Z",
+    "latest_stable_release_number": "1.1.2",
+    "latest_stable_release_published_at": "2022-03-01T14:20:48.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "lark",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/lark/",
+    "platform": "Pypi",
+    "rank": 18,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/lark-parser/lark",
+    "stars": 3034,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2013-12-21T07:03:56.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2013-12-21T07:21:59.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2013-12-21T07:22:30.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.4",
+            "published_at": "2013-12-21T07:23:15.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.1",
+            "published_at": "2020-10-13T10:50:03.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.0",
+            "published_at": "2020-11-16T12:29:37.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.1",
+            "published_at": "2020-11-16T19:48:12.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.3",
+            "published_at": "2021-05-03T16:29:56.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.0",
+            "published_at": "2021-11-12T11:15:34.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2021-11-15T08:16:32.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2022-02-07T09:08:03.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2022-02-08T20:58:34.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.2",
+            "published_at": "2022-03-01T14:20:48.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.2",
+    "dependencies": [
+        {
+            "project_name": "regex",
+            "name": "regex",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2022.3.15",
+            "latest": "2022.3.15",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "js2py",
+            "name": "js2py",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.71",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "atomicwrites",
+            "name": "atomicwrites",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.4.0",
+            "latest": "1.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "A flake8 plugin for GNU Mailman import order",
+    "forks": 0,
+    "homepage": "https://gitlab.com/warsaw/flufl.flake8",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "0.10",
+    "latest_release_published_at": "2018-12-07T20:25:33.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "ASLv2",
+    "name": "flufl.flake8",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/flufl.flake8/",
+    "platform": "Pypi",
+    "rank": 6,
+    "repository_license": null,
+    "repository_url": "https://gitlab.com/warsaw/flufl.flake8",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.8",
+            "published_at": "2018-02-19T15:13:38.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9",
+            "published_at": "2018-12-04T03:08:05.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10",
+            "published_at": "2018-12-07T20:25:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "ASLv2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

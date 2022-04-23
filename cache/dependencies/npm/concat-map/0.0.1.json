@@ -1,0 +1,74 @@
+{
+    "dependent_repos_count": 817798,
+    "dependents_count": 459,
+    "deprecation_reason": null,
+    "description": "concatenative mapdashery",
+    "forks": 13,
+    "homepage": null,
+    "keywords": [
+        "concat",
+        "concatMap",
+        "map",
+        "functional",
+        "higher-order"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz",
+    "latest_release_number": "0.0.1",
+    "latest_release_published_at": "2014-01-30T03:06:35.982Z",
+    "latest_stable_release_number": "0.0.1",
+    "latest_stable_release_published_at": "2014-01-30T03:06:35.982Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "concat-map",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/concat-map",
+    "platform": "NPM",
+    "rank": 22,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/substack/node-concat-map",
+    "stars": 30,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.0",
+            "published_at": "2012-06-08T04:31:28.515Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.1",
+            "published_at": "2014-01-30T03:06:35.982Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.1",
+    "dependencies": [
+        {
+            "project_name": "tape",
+            "name": "tape",
+            "platform": "NPM",
+            "requirements": "~2.4.0",
+            "latest_stable": "5.5.3",
+            "latest": "5.5.3",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

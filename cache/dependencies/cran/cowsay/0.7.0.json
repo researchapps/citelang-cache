@@ -1,0 +1,229 @@
+{
+    "dependent_repos_count": 6,
+    "dependents_count": 5,
+    "deprecation_reason": null,
+    "description": "Messages, Warnings, Strings with Ascii Animals",
+    "forks": 34,
+    "homepage": "https://github.com/sckott/cowsay",
+    "keywords": [
+        "ascii-art",
+        "r",
+        "r-stats",
+        "rstats"
+    ],
+    "language": "HTML",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/cowsay_0.7.0.tar.gz",
+    "latest_release_number": "0.7.0",
+    "latest_release_published_at": "2018-09-18T00:00:00.000Z",
+    "latest_stable_release_number": "0.7.0",
+    "latest_stable_release_published_at": "2018-09-18T00:00:00.000Z",
+    "license_normalized": false,
+    "licenses": "MIT + file LICENSE",
+    "name": "cowsay",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=cowsay",
+    "platform": "CRAN",
+    "rank": 13,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/sckott/cowsay",
+    "stars": 157,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.4.0",
+            "published_at": "2015-10-13T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2016-12-16T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2018-05-15T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.7.0",
+            "published_at": "2018-09-18T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.7.0",
+    "dependencies": [
+        {
+            "project_name": "crayon",
+            "name": "crayon",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.5.1",
+            "latest": "1.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "fortunes",
+            "name": "fortunes",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.5-4",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-2.0+"
+            ]
+        },
+        {
+            "project_name": "rmsfact",
+            "name": "rmsfact",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.0.3",
+            "latest": "0.0.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "multicolor",
+            "name": "multicolor",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.1.5",
+            "latest": "0.1.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rmarkdown",
+            "name": "rmarkdown",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.6",
+            "latest": "2.13",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "roxygen2",
+            "name": "roxygen2",
+            "platform": "CRAN",
+            "requirements": ">=6.1.0",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "curl",
+            "name": "curl",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "4.3.2",
+            "latest": "4.3.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "jsonlite",
+            "name": "jsonlite",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "knitr",
+            "name": "knitr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.15.1",
+            "latest": "1.38",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        }
+    ]
+}

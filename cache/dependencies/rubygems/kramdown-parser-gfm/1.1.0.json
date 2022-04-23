@@ -1,0 +1,84 @@
+{
+    "dependent_repos_count": 491,
+    "dependents_count": 49,
+    "deprecation_reason": null,
+    "description": "kramdown-parser-gfm provides a kramdown parser for the GFM dialect of Markdown",
+    "forks": 6,
+    "homepage": "https://github.com/kramdown/parser-gfm",
+    "keywords": [],
+    "language": "Ruby",
+    "latest_download_url": "https://rubygems.org/downloads/kramdown-parser-gfm-1.1.0.gem",
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2019-05-29T13:06:41.611Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2019-05-29T13:06:41.611Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "kramdown-parser-gfm",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://rubygems.org/gems/kramdown-parser-gfm",
+    "platform": "Rubygems",
+    "rank": 17,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/kramdown/parser-gfm",
+    "stars": 22,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2019-01-11T23:28:34.750Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2019-01-13T21:34:17.939Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2019-05-29T13:06:41.611Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.0",
+    "dependencies": [
+        {
+            "project_name": "kramdown",
+            "name": "kramdown",
+            "platform": "Rubygems",
+            "requirements": "~> 2.0",
+            "latest_stable": "2.3.1",
+            "latest": "2.3.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

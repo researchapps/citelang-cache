@@ -1,0 +1,190 @@
+{
+    "dependent_repos_count": 134,
+    "dependents_count": 40,
+    "deprecation_reason": null,
+    "description": "Map Filenames to MIME Types",
+    "forks": 14,
+    "homepage": "https://github.com/yihui/mime",
+    "keywords": [
+        "mime-types",
+        "r"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/mime_0.12.tar.gz",
+    "latest_release_number": "0.12",
+    "latest_release_published_at": "2021-09-28T00:00:00.000Z",
+    "latest_stable_release_number": "0.1.2",
+    "latest_stable_release_published_at": "2014-07-25T07:43:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-2 | GPL-3 [expanded from: GPL]",
+    "name": "mime",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible",
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=mime",
+    "platform": "CRAN",
+    "rank": 15,
+    "repository_license": null,
+    "repository_url": "https://github.com/yihui/mime",
+    "stars": 30,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2014-04-30T22:25:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.10",
+            "published_at": "2021-02-13T08:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.11",
+            "published_at": "2021-06-23T06:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2014-05-12T07:48:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.12",
+            "published_at": "2021-09-28T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2014-07-25T07:43:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2014-09-26T23:43:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2015-03-29T08:43:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2015-09-03T12:20:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2016-07-07T07:38:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2018-10-05T20:10:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2019-06-11T22:10:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.8",
+            "published_at": "2019-12-19T07:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.9",
+            "published_at": "2020-02-04T19:20:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.12",
+    "dependencies": [
+        {
+            "project_name": "tools",
+            "name": "tools",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "dependent_repos_count": 45,
+    "dependents_count": 25,
+    "deprecation_reason": null,
+    "description": "Fitting Linear and Generalized Linear Models to Large Data Sets",
+    "forks": 0,
+    "homepage": null,
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/speedglm_0.3-2.tar.gz",
+    "latest_release_number": "0.3-2",
+    "latest_release_published_at": "2017-01-09T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "GPL-2 | GPL-3 [expanded from: GPL]",
+    "name": "speedglm",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible",
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=speedglm",
+    "platform": "CRAN",
+    "rank": 7,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2012-01-26T10:44:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2013-07-24T16:51:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2-1.0",
+            "published_at": "2014-10-22T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2015-05-25T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3-1",
+            "published_at": "2015-09-21T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3-2",
+            "published_at": "2017-01-09T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.3-2",
+    "dependencies": [
+        {
+            "project_name": "Matrix",
+            "name": "Matrix",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.3-4",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": [
+                "MirOS",
+                "MirOS"
+            ]
+        },
+        {
+            "project_name": "MASS",
+            "name": "MASS",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "7.3-56",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": [
+                "GPL-2.0+"
+            ]
+        },
+        {
+            "project_name": "methods",
+            "name": "methods",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "stats",
+            "name": "stats",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        }
+    ]
+}

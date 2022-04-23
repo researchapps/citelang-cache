@@ -1,0 +1,126 @@
+{
+    "dependent_repos_count": 23,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "A docutils backend for pybtex.",
+    "forks": 2,
+    "homepage": "https://github.com/mcmtroffaes/pybtex-docutils",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2021-07-29T12:38:33.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2021-07-29T12:38:33.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pybtex-docutils",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pybtex-docutils/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/mcmtroffaes/pybtex-docutils",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2013-08-07T11:27:28.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2013-08-08T15:34:56.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2014-12-08T08:51:02.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2019-10-09T14:52:18.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2021-01-15T16:55:17.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2021-07-29T12:38:33.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.1",
+    "dependencies": [
+        {
+            "project_name": "pybtex",
+            "name": "pybtex",
+            "platform": "Pypi",
+            "requirements": ">=0.16",
+            "latest_stable": "0.24.0",
+            "latest": "0.24.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "docutils",
+            "name": "docutils",
+            "platform": "Pypi",
+            "requirements": ">=0.8",
+            "latest_stable": "0.18.1",
+            "latest": "0.18.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Unlicense",
+                "Python-2.0",
+                "BSD-2-Clause",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        }
+    ]
+}

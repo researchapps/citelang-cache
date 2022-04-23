@@ -1,0 +1,64 @@
+{
+    "dependent_repos_count": 17,
+    "dependents_count": 12,
+    "deprecation_reason": null,
+    "description": "UUID v5 generator (SHA1 hash into 128 bits)",
+    "forks": 0,
+    "homepage": "https://github.com/velocityzen/uuid5#readme",
+    "keywords": [
+        "hash",
+        "sha1",
+        "uuid"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/uuid5/-/uuid5-1.0.2.tgz",
+    "latest_release_number": "1.0.2",
+    "latest_release_published_at": "2016-10-25T01:38:09.798Z",
+    "latest_stable_release_number": "1.0.2",
+    "latest_stable_release_published_at": "2016-10-25T01:38:09.798Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "uuid5",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/uuid5",
+    "platform": "NPM",
+    "rank": 11,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/velocityzen/uuid5",
+    "stars": 1,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2015-07-11T19:14:43.951Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2015-07-11T19:16:11.481Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2016-10-25T01:38:09.798Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ]
+}

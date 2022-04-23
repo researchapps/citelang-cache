@@ -1,0 +1,177 @@
+{
+    "dependent_repos_count": 16,
+    "dependents_count": 31,
+    "deprecation_reason": null,
+    "description": "louvain is a general algorithm for methods of community detection in large networks.",
+    "forks": 43,
+    "homepage": "https://github.com/vtraag/louvain-igraph",
+    "keywords": [
+        "graph",
+        "network",
+        "community",
+        "detection",
+        "clustering",
+        "community-detection",
+        "louvain",
+        "louvain-algorithm"
+    ],
+    "language": "C++",
+    "latest_download_url": null,
+    "latest_release_number": "0.7.1",
+    "latest_release_published_at": "2021-12-16T16:31:30.000Z",
+    "latest_stable_release_number": "0.7.1",
+    "latest_stable_release_published_at": "2021-12-16T16:31:30.000Z",
+    "license_normalized": true,
+    "licenses": "GPLv3+",
+    "name": "louvain",
+    "normalized_licenses": [
+        "GPL-3.0+"
+    ],
+    "package_manager_url": "https://pypi.org/project/louvain/",
+    "platform": "Pypi",
+    "rank": 12,
+    "repository_license": "GPL-3.0",
+    "repository_url": "https://github.com/vtraag/louvain-igraph",
+    "stars": 199,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.5",
+            "published_at": "2015-02-25T10:25:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2015-02-25T11:08:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2015-03-05T10:14:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.3",
+            "published_at": "2015-06-25T13:56:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2017-11-12T13:11:05.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2017-11-17T15:00:55.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1.dev0",
+            "published_at": "2017-11-17T14:10:10.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1.dev1",
+            "published_at": "2017-11-17T14:52:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.2",
+            "published_at": "2020-04-30T19:26:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.2a1",
+            "published_at": "2020-04-27T18:51:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.0",
+            "published_at": "2020-05-03T18:34:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2021-12-16T16:31:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.7.1",
+    "dependencies": [
+        {
+            "project_name": "igraph",
+            "name": "igraph",
+            "platform": "Pypi",
+            "requirements": ">=0.9.5",
+            "latest_stable": "0.9.9",
+            "latest": "0.9.9",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        }
+    ]
+}

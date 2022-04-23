@@ -1,0 +1,416 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Keyword Assisted Topic Model",
+    "forks": 7,
+    "homepage": "https://keyatm.github.io/keyATM/",
+    "keywords": [
+        "latent-dirichlet-allocation",
+        "natural-language-processing",
+        "political-science",
+        "r",
+        "rcpp",
+        "rcppeigen",
+        "social-science",
+        "topic-models"
+    ],
+    "language": "C++",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/keyATM_0.4.0.tar.gz",
+    "latest_release_number": "0.4.0",
+    "latest_release_published_at": "2021-02-14T00:00:00.000Z",
+    "latest_stable_release_number": "0.4.0",
+    "latest_stable_release_published_at": "2021-02-14T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-3",
+    "name": "keyATM",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=keyATM",
+    "platform": "CRAN",
+    "rank": 11,
+    "repository_license": "GPL-3.0",
+    "repository_url": "https://github.com/keyatm/keyATM",
+    "stars": 36,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2020-04-15T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2020-05-23T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2020-06-03T01:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2020-07-12T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2020-07-29T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2021-02-14T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.4.0",
+    "dependencies": [
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": ">= 2.1.0",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "readtext",
+            "name": "readtext",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.80",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "tidyr",
+            "name": "tidyr",
+            "platform": "CRAN",
+            "requirements": ">=1.0.0",
+            "latest_stable": "1.2.0",
+            "latest": "1.2.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "tibble",
+            "name": "tibble",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.1.4",
+            "latest": "3.1.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "stringr",
+            "name": "stringr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.4.0",
+            "latest": "1.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "AML"
+            ]
+        },
+        {
+            "project_name": "stats",
+            "name": "stats",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "rlang",
+            "name": "rlang",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.0.1",
+            "latest": "1.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "quanteda",
+            "name": "quanteda",
+            "platform": "CRAN",
+            "requirements": ">= 2.0.0",
+            "latest_stable": "3.2.1",
+            "latest": "3.2.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "purrr",
+            "name": "purrr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.3.4",
+            "latest": "0.3.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "AML"
+            ]
+        },
+        {
+            "project_name": "pgdraw",
+            "name": "pgdraw",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.1",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "MASS",
+            "name": "MASS",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "7.3-56",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-2.0+"
+            ]
+        },
+        {
+            "project_name": "matrixNormal",
+            "name": "matrixNormal",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.0.5",
+            "latest": "0.0.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "Matrix",
+            "name": "Matrix",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.3-4",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MirOS",
+                "MirOS"
+            ]
+        },
+        {
+            "project_name": "magrittr",
+            "name": "magrittr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.0.3",
+            "latest": "2.0.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "ggrepel",
+            "name": "ggrepel",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.8.2",
+            "latest": "0.8.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "AML"
+            ]
+        },
+        {
+            "project_name": "ggplot2",
+            "name": "ggplot2",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.3.5",
+            "latest": "3.3.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "future.apply",
+            "name": "future.apply",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.8.1",
+            "latest": "1.8.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "fastmap",
+            "name": "fastmap",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.1.0",
+            "latest": "1.1.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "dplyr",
+            "name": "dplyr",
+            "platform": "CRAN",
+            "requirements": ">= 1.0.0",
+            "latest_stable": "1.0.8",
+            "latest": "1.0.8",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "Rcpp",
+            "name": "Rcpp",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.0.8",
+            "latest": "1.0.8.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 3.6",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

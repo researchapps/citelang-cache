@@ -1,0 +1,194 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "Read and write the PLINK BED format, simply and efficiently.",
+    "forks": 1,
+    "homepage": null,
+    "keywords": [
+        "bioinformatics",
+        "plink",
+        "genomics",
+        "genetics",
+        "file-format",
+        "reader",
+        "genotype",
+        "bed-format",
+        "writer",
+        "python",
+        "snps"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.2.9",
+    "latest_release_published_at": "2022-01-25T03:19:41.000Z",
+    "latest_stable_release_number": "0.2.9",
+    "latest_stable_release_published_at": "2022-01-25T03:19:41.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "bed-reader",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/bed-reader/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/fastlmm/bed-reader",
+    "stars": 16,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.2a0",
+            "published_at": "2020-08-21T00:13:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.3a0",
+            "published_at": "2020-08-29T20:29:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.5a0",
+            "published_at": "2020-09-03T21:43:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2020-09-07T02:48:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2020-09-08T18:47:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2020-11-21T02:55:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.3",
+            "published_at": "2021-02-23T01:00:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.6",
+            "published_at": "2021-07-03T23:38:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.7",
+            "published_at": "2021-07-07T22:06:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.8",
+            "published_at": "2022-01-17T17:06:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.9",
+            "published_at": "2022-01-25T03:19:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.2.9",
+    "dependencies": [
+        {
+            "project_name": "pooch>=1.1.1",
+            "name": "pooch>=1.1.1",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "pandas>=0.25.1",
+            "name": "pandas>=0.25.1",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "numpy>=1.13.3",
+            "name": "numpy>=1.13.3",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        }
+    ]
+}

@@ -1,0 +1,2452 @@
+{
+    "dependent_repos_count": 2048,
+    "dependents_count": 1289,
+    "deprecation_reason": null,
+    "description": "ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order",
+    "forks": 55,
+    "homepage": "https://sourceforge.net/p/ruamel-yaml/code/ci/default/tree",
+    "keywords": [
+        "yaml",
+        "1",
+        "2",
+        "parser",
+        "round-trip",
+        "preserve",
+        "quotes",
+        "order",
+        "config"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.17.21",
+    "latest_release_published_at": "2022-02-12T08:54:03.000Z",
+    "latest_stable_release_number": "0.17.20",
+    "latest_stable_release_published_at": "2022-01-03T08:23:07.000Z",
+    "license_normalized": true,
+    "licenses": "MIT license",
+    "name": "ruamel.yaml",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/ruamel.yaml/",
+    "platform": "Pypi",
+    "rank": 17,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2015-05-28T05:54:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10",
+            "published_at": "2015-06-22T06:27:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.1",
+            "published_at": "2015-07-03T05:25:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.10",
+            "published_at": "2015-09-15T15:35:22.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.11",
+            "published_at": "2015-09-17T18:03:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.12",
+            "published_at": "2015-10-08T11:25:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.13",
+            "published_at": "2016-01-08T21:34:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.14",
+            "published_at": "2016-01-18T10:36:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.15",
+            "published_at": "2016-01-18T13:44:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.16",
+            "published_at": "2016-01-22T18:08:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.17",
+            "published_at": "2016-01-22T20:31:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.18",
+            "published_at": "2016-01-30T19:31:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.19",
+            "published_at": "2016-01-31T10:16:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.2",
+            "published_at": "2015-07-04T14:46:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.20",
+            "published_at": "2016-01-31T10:47:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.21",
+            "published_at": "2016-02-16T20:17:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.22",
+            "published_at": "2016-02-16T21:20:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.23",
+            "published_at": "2016-02-17T00:11:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.23.dev0",
+            "published_at": "2016-02-16T21:15:22.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.4",
+            "published_at": "2015-08-07T12:42:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.5",
+            "published_at": "2015-08-25T20:03:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.6",
+            "published_at": "2015-08-27T19:16:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.7",
+            "published_at": "2015-08-28T20:54:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.8",
+            "published_at": "2015-09-12T22:34:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.9",
+            "published_at": "2015-09-14T19:13:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.0",
+            "published_at": "2016-02-18T16:51:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.1",
+            "published_at": "2016-02-18T17:08:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.10",
+            "published_at": "2016-04-19T08:10:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.11",
+            "published_at": "2016-05-12T18:01:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.12",
+            "published_at": "2016-07-07T07:21:07.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.13",
+            "published_at": "2016-07-07T08:20:29.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.14",
+            "published_at": "2016-07-07T09:32:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.15",
+            "published_at": "2016-08-07T21:59:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.2",
+            "published_at": "2016-02-27T09:17:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.3",
+            "published_at": "2016-02-27T15:34:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.5",
+            "published_at": "2016-02-29T14:32:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.6",
+            "published_at": "2016-02-29T16:54:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.7",
+            "published_at": "2016-03-05T13:07:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.8",
+            "published_at": "2016-04-07T08:10:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.9",
+            "published_at": "2016-04-14T13:53:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.0",
+            "published_at": "2016-08-15T20:48:08.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.1",
+            "published_at": "2016-08-16T08:10:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.10",
+            "published_at": "2016-09-05T13:20:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.11",
+            "published_at": "2016-09-06T13:16:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.12",
+            "published_at": "2016-09-06T13:54:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.13",
+            "published_at": "2016-09-15T15:53:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.14",
+            "published_at": "2016-09-21T08:11:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.15",
+            "published_at": "2016-10-28T13:48:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.16",
+            "published_at": "2016-11-13T11:12:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.17",
+            "published_at": "2016-11-15T08:17:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.18",
+            "published_at": "2016-11-16T15:09:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.2",
+            "published_at": "2016-08-16T17:25:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.3",
+            "published_at": "2016-08-18T10:59:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.4",
+            "published_at": "2016-08-19T13:29:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.5",
+            "published_at": "2016-08-20T09:00:00.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.6",
+            "published_at": "2016-09-03T15:19:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.7",
+            "published_at": "2016-09-04T12:03:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.8",
+            "published_at": "2016-09-05T07:28:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.9",
+            "published_at": "2016-09-05T12:29:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.0",
+            "published_at": "2016-11-20T18:31:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.1",
+            "published_at": "2016-11-22T08:27:22.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.10",
+            "published_at": "2017-01-22T10:38:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.11",
+            "published_at": "2017-01-23T11:25:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.13",
+            "published_at": "2017-01-28T08:58:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.14",
+            "published_at": "2017-02-12T16:57:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.2",
+            "published_at": "2016-11-28T17:05:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.3",
+            "published_at": "2016-12-05T12:21:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.4",
+            "published_at": "2016-12-05T17:09:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.5",
+            "published_at": "2016-12-25T13:49:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.6",
+            "published_at": "2016-12-27T07:49:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.7",
+            "published_at": "2016-12-27T15:31:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.8",
+            "published_at": "2017-01-18T08:34:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.9",
+            "published_at": "2017-01-18T23:05:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.0",
+            "published_at": "2017-03-21T16:20:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.1",
+            "published_at": "2017-03-22T14:55:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.10",
+            "published_at": "2017-04-26T13:32:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.11",
+            "published_at": "2017-05-01T07:18:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.12",
+            "published_at": "2017-05-14T08:37:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.2",
+            "published_at": "2017-03-23T13:25:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.3",
+            "published_at": "2017-03-31T12:15:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.4",
+            "published_at": "2017-03-31T12:28:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.5",
+            "published_at": "2017-04-04T09:43:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.6",
+            "published_at": "2017-04-14T06:50:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.7",
+            "published_at": "2017-04-18T16:47:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.8",
+            "published_at": "2017-04-19T13:15:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.9",
+            "published_at": "2017-04-22T07:49:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.0",
+            "published_at": "2017-06-04T12:29:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.1",
+            "published_at": "2017-06-07T08:27:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.10",
+            "published_at": "2017-06-23T09:50:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.100",
+            "published_at": "2019-07-17T08:36:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.11",
+            "published_at": "2017-06-24T05:37:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.12",
+            "published_at": "2017-06-24T07:38:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.13",
+            "published_at": "2017-06-24T19:45:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.14",
+            "published_at": "2017-06-25T06:45:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.15",
+            "published_at": "2017-06-27T09:55:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.16",
+            "published_at": "2017-07-01T14:34:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.17",
+            "published_at": "2017-07-03T06:51:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.18",
+            "published_at": "2017-07-04T21:20:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.19",
+            "published_at": "2017-07-13T21:35:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.2",
+            "published_at": "2017-06-07T09:48:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.20",
+            "published_at": "2017-07-23T19:31:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.21",
+            "published_at": "2017-07-25T06:10:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.22",
+            "published_at": "2017-07-28T05:25:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.23",
+            "published_at": "2017-08-01T19:38:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.24",
+            "published_at": "2017-08-09T14:50:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.25",
+            "published_at": "2017-08-09T18:05:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.26",
+            "published_at": "2017-08-10T16:51:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.27",
+            "published_at": "2017-08-13T11:18:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.28",
+            "published_at": "2017-08-13T12:34:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.29",
+            "published_at": "2017-08-14T18:46:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.3",
+            "published_at": "2017-06-07T11:18:08.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.30",
+            "published_at": "2017-08-14T20:28:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.31",
+            "published_at": "2017-08-15T14:01:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.32",
+            "published_at": "2017-08-21T15:52:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.33",
+            "published_at": "2017-08-31T06:20:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.34",
+            "published_at": "2017-09-17T11:01:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.35",
+            "published_at": "2017-12-03T10:09:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.37",
+            "published_at": "2018-03-21T20:32:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.38",
+            "published_at": "2018-06-13T10:59:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.39",
+            "published_at": "2018-06-16T22:14:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.4",
+            "published_at": "2017-06-08T08:05:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.40",
+            "published_at": "2018-06-18T07:45:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.40.dev0",
+            "published_at": "2018-06-18T07:23:30.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.41",
+            "published_at": "2018-06-27T10:52:22.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.42",
+            "published_at": "2018-07-01T16:05:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.43",
+            "published_at": "2018-07-12T17:51:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.44",
+            "published_at": "2018-07-14T07:41:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.45",
+            "published_at": "2018-07-26T21:46:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.46",
+            "published_at": "2018-07-29T13:25:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.47",
+            "published_at": "2018-07-31T22:06:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.48",
+            "published_at": "2018-08-03T20:28:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.49",
+            "published_at": "2018-08-05T10:36:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.5",
+            "published_at": "2017-06-08T16:42:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.50",
+            "published_at": "2018-08-05T21:32:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.51",
+            "published_at": "2018-08-08T16:17:35.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.52",
+            "published_at": "2018-08-09T06:56:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.53",
+            "published_at": "2018-08-12T08:29:35.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.54",
+            "published_at": "2018-08-13T09:32:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.55",
+            "published_at": "2018-08-14T19:12:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.56",
+            "published_at": "2018-08-15T14:35:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.57",
+            "published_at": "2018-08-15T19:30:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.58",
+            "published_at": "2018-08-17T06:45:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.59",
+            "published_at": "2018-08-17T16:35:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.6",
+            "published_at": "2017-06-10T21:01:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.60",
+            "published_at": "2018-08-19T18:01:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.61",
+            "published_at": "2018-08-23T06:37:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.62",
+            "published_at": "2018-08-29T11:28:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.63",
+            "published_at": "2018-08-29T15:43:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.64",
+            "published_at": "2018-08-30T19:44:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.65",
+            "published_at": "2018-09-07T08:39:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.66",
+            "published_at": "2018-09-07T12:34:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.67",
+            "published_at": "2018-09-19T19:42:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.68",
+            "published_at": "2018-09-20T12:42:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.69",
+            "published_at": "2018-09-20T15:04:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.7",
+            "published_at": "2017-06-14T20:30:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.70",
+            "published_at": "2018-09-21T18:50:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.71",
+            "published_at": "2018-09-26T21:16:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.72",
+            "published_at": "2018-10-06T17:57:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.73",
+            "published_at": "2018-10-16T15:41:08.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.74",
+            "published_at": "2018-10-17T08:08:00.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.75",
+            "published_at": "2018-10-27T16:36:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.76",
+            "published_at": "2018-11-01T15:04:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.77",
+            "published_at": "2018-11-09T10:10:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.78",
+            "published_at": "2018-11-15T17:20:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.79",
+            "published_at": "2018-11-21T09:31:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.8",
+            "published_at": "2017-06-15T18:57:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.80",
+            "published_at": "2018-11-26T09:00:22.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.81",
+            "published_at": "2018-12-06T17:55:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.82",
+            "published_at": "2018-12-28T17:12:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.83",
+            "published_at": "2019-01-02T19:56:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.84",
+            "published_at": "2019-01-07T14:54:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.85",
+            "published_at": "2019-01-08T08:24:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.86",
+            "published_at": "2019-01-16T08:45:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.87",
+            "published_at": "2019-01-22T21:53:00.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.88",
+            "published_at": "2019-02-12T21:52:00.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.89",
+            "published_at": "2019-02-27T22:05:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.9",
+            "published_at": "2017-06-16T07:41:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.90",
+            "published_at": "2019-04-04T06:41:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.91",
+            "published_at": "2019-04-05T20:16:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.92",
+            "published_at": "2019-04-16T07:02:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.93",
+            "published_at": "2019-04-21T15:54:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.94",
+            "published_at": "2019-04-23T07:05:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.95",
+            "published_at": "2019-05-15T22:44:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.96",
+            "published_at": "2019-05-16T20:58:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.97",
+            "published_at": "2019-06-06T05:28:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.98",
+            "published_at": "2019-07-09T11:09:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.99",
+            "published_at": "2019-07-12T06:14:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.0",
+            "published_at": "2019-07-25T21:44:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.1",
+            "published_at": "2019-08-09T18:46:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.10",
+            "published_at": "2020-02-12T12:41:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.11",
+            "published_at": "2020-09-03T18:46:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.12",
+            "published_at": "2020-09-04T14:26:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.13",
+            "published_at": "2021-03-05T09:46:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.2",
+            "published_at": "2019-08-15T11:14:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.3",
+            "published_at": "2019-08-15T20:38:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.4",
+            "published_at": "2019-08-16T05:24:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.5",
+            "published_at": "2019-08-18T18:27:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.6",
+            "published_at": "2020-01-20T18:48:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.7",
+            "published_at": "2020-01-30T10:07:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.9",
+            "published_at": "2020-02-11T21:26:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.0",
+            "published_at": "2021-03-26T10:21:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.1",
+            "published_at": "2021-03-29T10:10:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.10",
+            "published_at": "2021-06-24T08:37:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.11",
+            "published_at": "2021-08-19T05:42:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.12",
+            "published_at": "2021-08-21T13:06:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.13",
+            "published_at": "2021-08-21T13:34:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.14",
+            "published_at": "2021-08-25T19:30:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.15",
+            "published_at": "2021-08-28T14:33:35.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.16",
+            "published_at": "2021-08-29T12:25:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.17",
+            "published_at": "2021-10-31T20:25:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.18",
+            "published_at": "2021-12-24T13:31:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.19",
+            "published_at": "2021-12-26T15:06:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.2",
+            "published_at": "2021-03-29T10:33:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.20",
+            "published_at": "2022-01-03T08:23:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.21",
+            "published_at": "2022-02-12T08:54:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.3",
+            "published_at": "2021-04-07T19:14:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.4",
+            "published_at": "2021-04-07T19:50:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.5",
+            "published_at": "2021-05-30T07:28:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.6",
+            "published_at": "2021-05-31T06:37:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.7",
+            "published_at": "2021-05-31T14:31:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.8",
+            "published_at": "2021-06-09T13:30:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.9",
+            "published_at": "2021-06-10T06:14:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2014-11-23T15:44:00.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2014-11-24T09:16:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2014-11-25T13:50:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2015-01-12T16:47:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2015-01-14T20:24:35.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2015-03-11T08:09:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2015-03-18T18:35:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2015-03-26T10:05:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2015-03-27T06:11:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.2",
+            "published_at": "2015-03-29T12:11:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8",
+            "published_at": "2015-04-15T08:49:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9",
+            "published_at": "2015-04-18T18:10:35.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.1",
+            "published_at": "2015-05-13T19:34:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.2",
+            "published_at": "2015-05-27T10:25:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.4",
+            "published_at": "2015-06-02T14:36:22.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.5",
+            "published_at": "2015-06-05T07:34:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.6",
+            "published_at": "2015-06-05T19:56:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.7",
+            "published_at": "2015-06-13T08:00:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.8",
+            "published_at": "2015-06-18T13:31:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.17.21",
+    "dependencies": []
+}

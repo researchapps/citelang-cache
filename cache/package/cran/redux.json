@@ -1,0 +1,60 @@
+{
+    "dependent_repos_count": 6,
+    "dependents_count": 4,
+    "deprecation_reason": null,
+    "description": "R Bindings to 'hiredis'",
+    "forks": 17,
+    "homepage": "https://github.com/richfitz/redux",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/redux_1.1.3.tar.gz",
+    "latest_release_number": "1.1.3",
+    "latest_release_published_at": "2022-01-12T00:00:00.000Z",
+    "latest_stable_release_number": "1.1.3",
+    "latest_stable_release_published_at": "2022-01-12T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-2",
+    "name": "redux",
+    "normalized_licenses": [
+        "GPL-2.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=redux",
+    "platform": "CRAN",
+    "rank": 15,
+    "repository_license": null,
+    "repository_url": "https://github.com/richfitz/redux",
+    "stars": 66,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2017-05-15T16:11:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2018-05-31T22:38:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.3",
+            "published_at": "2022-01-12T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

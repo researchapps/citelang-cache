@@ -1,0 +1,108 @@
+{
+    "name": "vsoch/citelang",
+    "versions": [
+        {
+            "published_at": "2022-03-31T22:00:04Z",
+            "number": "latest"
+        }
+    ],
+    "default_version": "latest",
+    "dependencies": [
+        {
+            "name": "sphinx",
+            "project_name": "sphinx",
+            "number": "4.5.0",
+            "published_at": "2022-03-27T15:56:46.000Z",
+            "researched_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "name": "sphinxcontrib-napoleon",
+            "project_name": "sphinxcontrib-napoleon",
+            "number": "0.7",
+            "published_at": "2017-02-28T04:49:08.000Z",
+            "researched_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "name": "sphinx-argparse",
+            "project_name": "sphinx-argparse",
+            "number": "0.3.1",
+            "published_at": "2021-09-06T20:01:55.000Z",
+            "researched_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT",
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "name": "sphinx_rtd_theme",
+            "project_name": "sphinx_rtd_theme",
+            "number": "0.4.2",
+            "published_at": "2018-10-05T13:20:49.000Z",
+            "researched_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT",
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "name": "docutils",
+            "project_name": "docutils",
+            "number": "0.12",
+            "published_at": "2018-10-05T13:20:49.000Z",
+            "researched_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT",
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "name": "recommonmark",
+            "project_name": "recommonmark",
+            "number": "0.7.1",
+            "published_at": "2020-12-17T19:24:55.000Z",
+            "researched_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT",
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "name": "configargparse",
+            "project_name": "configargparse",
+            "number": "1.5.3",
+            "published_at": "2021-10-03T00:17:22.000Z",
+            "researched_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT",
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "name": "appdirs",
+            "project_name": "appdirs",
+            "number": "1.4.4",
+            "published_at": "2020-05-11T07:59:49.000Z",
+            "researched_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT",
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

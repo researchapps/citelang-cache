@@ -1,0 +1,50 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Python wrapper for libc's dlinfo and dyld_find on Mac",
+    "forks": 0,
+    "homepage": "https://code.grasp-open.com/grasp-tools/python-dlinfo",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "1.2.0",
+    "latest_release_published_at": "2019-11-05T10:07:37.000Z",
+    "latest_stable_release_number": "1.2.0",
+    "latest_stable_release_published_at": "2019-11-05T10:07:37.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "dlinfo",
+    "normalized_licenses": [],
+    "package_manager_url": "https://pypi.org/project/dlinfo/",
+    "platform": "Pypi",
+    "rank": 5,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.1.0",
+            "published_at": "2019-09-03T14:29:37.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2019-11-05T10:07:37.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.2.0",
+    "dependencies": []
+}

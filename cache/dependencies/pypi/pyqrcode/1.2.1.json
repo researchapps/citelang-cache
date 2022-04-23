@@ -1,0 +1,115 @@
+{
+    "dependent_repos_count": 579,
+    "dependents_count": 82,
+    "deprecation_reason": null,
+    "description": "A QR code generator written purely in Python with SVG, EPS, PNG and terminal output.",
+    "forks": 33,
+    "homepage": "https://github.com/mnooner256/pyqrcode",
+    "keywords": [
+        "qrcode",
+        "qr"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.2.1",
+    "latest_release_published_at": "2016-06-20T03:28:03.000Z",
+    "latest_stable_release_number": "1.2.1",
+    "latest_stable_release_published_at": "2016-06-20T03:28:03.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "PyQRCode",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/PyQRCode/",
+    "platform": "Pypi",
+    "rank": 18,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/mnooner256/pyqrcode",
+    "stars": 170,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.10",
+            "published_at": "2013-06-27T16:36:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.1",
+            "published_at": "2013-07-01T15:34:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11",
+            "published_at": "2014-08-14T12:25:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0",
+            "published_at": "2014-12-07T19:34:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2015-04-30T23:32:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2016-02-27T01:21:48.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2",
+            "published_at": "2016-05-15T08:44:15.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.1",
+            "published_at": "2016-06-20T03:28:03.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.2.1",
+    "dependencies": []
+}

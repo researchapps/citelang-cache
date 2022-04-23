@@ -1,0 +1,86 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 15,
+    "deprecation_reason": null,
+    "description": "Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'",
+    "forks": 21,
+    "homepage": "https://rstudio.github.io/bslib/",
+    "keywords": [
+        "bootstrap",
+        "htmltools",
+        "rmarkdown",
+        "sass",
+        "shiny"
+    ],
+    "language": "SCSS",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/bslib_0.3.1.tar.gz",
+    "latest_release_number": "0.3.1",
+    "latest_release_published_at": "2021-10-06T00:00:00.000Z",
+    "latest_stable_release_number": "0.3.1",
+    "latest_stable_release_published_at": "2021-10-06T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "bslib",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=bslib",
+    "platform": "CRAN",
+    "rank": 12,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/rstudio/bslib",
+    "stars": 238,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.2.4",
+            "published_at": "2021-01-25T09:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.5",
+            "published_at": "2021-05-12T21:22:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.5.1",
+            "published_at": "2021-05-18T17:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2021-09-02T16:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2021-10-06T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

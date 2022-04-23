@@ -1,0 +1,68 @@
+{
+    "dependent_repos_count": 9,
+    "dependents_count": 16,
+    "deprecation_reason": null,
+    "description": "Fast Polygon to Raster Conversion",
+    "forks": 13,
+    "homepage": "https://github.com/ecohealthalliance/fasterize",
+    "keywords": [
+        "r",
+        "raster",
+        "rcpp",
+        "rcpparmadillo",
+        "rstats",
+        "sf",
+        "spatial"
+    ],
+    "language": "C++",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/fasterize_1.0.3.tar.gz",
+    "latest_release_number": "1.0.3",
+    "latest_release_published_at": "2020-07-27T00:00:00.000Z",
+    "latest_stable_release_number": "1.0.3",
+    "latest_stable_release_published_at": "2020-07-27T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "fasterize",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=fasterize",
+    "platform": "CRAN",
+    "rank": 14,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/ecohealthalliance/fasterize",
+    "stars": 156,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2018-03-22T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2020-03-25T19:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2020-07-27T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

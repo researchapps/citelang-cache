@@ -1,0 +1,215 @@
+{
+    "dependent_repos_count": 1,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Tool to generate CWL workflows",
+    "forks": 8,
+    "homepage": "https://github.com/nlesc/scriptcwl",
+    "keywords": [
+        "cwl",
+        "workflow",
+        "pipeline",
+        "common",
+        "language",
+        "python"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.8.1",
+    "latest_release_published_at": "2019-08-11T17:08:22.000Z",
+    "latest_stable_release_number": "0.8.1",
+    "latest_stable_release_published_at": "2019-08-11T17:08:22.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "scriptcwl",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/scriptcwl/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/nlesc/scriptcwl",
+    "stars": 34,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2016-11-22T09:52:03.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2017-02-02T14:29:11.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2017-02-14T11:05:13.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2017-02-28T12:25:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2017-05-23T11:37:15.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2017-07-31T07:22:38.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2017-11-09T09:58:58.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2017-11-15T15:43:01.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.0",
+            "published_at": "2017-12-14T15:24:20.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2018-01-26T07:38:09.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.2",
+            "published_at": "2018-07-19T08:23:34.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.0",
+            "published_at": "2018-11-28T09:07:31.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.1",
+            "published_at": "2019-08-11T17:08:22.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.8.1",
+    "dependencies": [
+        {
+            "project_name": "click",
+            "name": "click",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "8.1.2",
+            "latest": "8.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "cwltool",
+            "name": "cwltool",
+            "platform": "Pypi",
+            "requirements": ">=1.0.20170727112954",
+            "latest_stable": "3.1.20220224085855",
+            "latest": "3.1.20220224085855",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "six",
+            "name": "six",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.16.0",
+            "latest": "1.16.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

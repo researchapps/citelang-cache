@@ -1,0 +1,57 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Low-level CFFI bindings for Argon2",
+    "forks": 0,
+    "homepage": "https://github.com/hynek/argon2-cffi-bindings",
+    "keywords": [
+        "password",
+        "hash",
+        "hashing",
+        "security",
+        "bindings",
+        "cffi"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "21.2.0",
+    "latest_release_published_at": "2021-12-01T08:52:55.000Z",
+    "latest_stable_release_number": "21.2.0",
+    "latest_stable_release_published_at": "2021-12-01T08:52:55.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "argon2-cffi-bindings",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/argon2-cffi-bindings/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/hynek/argon2-cffi-bindings",
+    "stars": 3,
+    "status": null,
+    "versions": [
+        {
+            "number": "21.1.0",
+            "published_at": "2021-11-28T10:41:13.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "21.2.0",
+            "published_at": "2021-12-01T08:52:55.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

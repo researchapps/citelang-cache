@@ -1,0 +1,315 @@
+{
+    "dependent_repos_count": 60,
+    "dependents_count": 56,
+    "deprecation_reason": null,
+    "description": "Ridgeline Plots in 'ggplot2'",
+    "forks": 26,
+    "homepage": "https://wilkelab.org/ggridges/",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/ggridges_0.5.3.tar.gz",
+    "latest_release_number": "0.5.3",
+    "latest_release_published_at": "2021-01-08T00:00:00.000Z",
+    "latest_stable_release_number": "0.5.3",
+    "latest_stable_release_published_at": "2021-01-08T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-2 | file LICENSE",
+    "name": "ggridges",
+    "normalized_licenses": [
+        "AML"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=ggridges",
+    "platform": "CRAN",
+    "rank": 17,
+    "repository_license": "GPL-2.0",
+    "repository_url": "https://github.com/clauswilke/ggridges",
+    "stars": 346,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.4.0",
+            "published_at": "2017-09-14T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4.1",
+            "published_at": "2017-09-15T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2018-04-05T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2018-09-27T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2020-01-12T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5.3",
+            "published_at": "2021-01-08T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.5.3",
+    "dependencies": [
+        {
+            "project_name": "vdiffr",
+            "name": "vdiffr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.0.4",
+            "latest": "1.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rmarkdown",
+            "name": "rmarkdown",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.6",
+            "latest": "2.13",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "knitr",
+            "name": "knitr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.15.1",
+            "latest": "1.38",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "forcats",
+            "name": "forcats",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.5.1",
+            "latest": "0.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "ggplot2movies",
+            "name": "ggplot2movies",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.0.1",
+            "latest": "0.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "patchwork",
+            "name": "patchwork",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.1.1",
+            "latest": "1.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "dplyr",
+            "name": "dplyr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.0.8",
+            "latest": "1.0.8",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "covr",
+            "name": "covr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.5.1",
+            "latest": "3.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "withr",
+            "name": "withr",
+            "platform": "CRAN",
+            "requirements": ">= 2.1.1",
+            "latest_stable": "2.4.0",
+            "latest": "2.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "scales",
+            "name": "scales",
+            "platform": "CRAN",
+            "requirements": ">= 0.4.1",
+            "latest_stable": "1.0.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "plyr",
+            "name": "plyr",
+            "platform": "CRAN",
+            "requirements": ">= 1.8.0",
+            "latest_stable": "1.8.5",
+            "latest": "1.8.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "grid",
+            "name": "grid",
+            "platform": "CRAN",
+            "requirements": ">= 3.0.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "ggplot2",
+            "name": "ggplot2",
+            "platform": "CRAN",
+            "requirements": ">= 3.0.0",
+            "latest_stable": "3.3.5",
+            "latest": "3.3.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 3.2",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

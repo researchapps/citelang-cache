@@ -1,0 +1,81 @@
+{
+    "dependent_repos_count": 5,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Persistent Fast Amortized Stack and Queue Data Structures",
+    "forks": 3,
+    "homepage": "https://github.com/oneilsh/rstackdeque",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/rstackdeque_1.1.1.tar.gz",
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2015-04-13T00:00:00.000Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2015-04-13T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "rstackdeque",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=rstackdeque",
+    "platform": "CRAN",
+    "rank": 9,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/oneilsh/rstackdeque",
+    "stars": 28,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.1",
+            "published_at": "2014-12-05T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2015-04-13T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.1",
+    "dependencies": [
+        {
+            "project_name": "utils",
+            "name": "utils",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

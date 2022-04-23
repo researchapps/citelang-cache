@@ -1,0 +1,63 @@
+{
+    "dependent_repos_count": 260,
+    "dependents_count": 51,
+    "deprecation_reason": null,
+    "description": "{{mustache}} for R, Logicless Templating",
+    "forks": 19,
+    "homepage": "http://github.com/edwindj/whisker",
+    "keywords": [
+        "mustache-templates",
+        "r"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/whisker_0.4.tar.gz",
+    "latest_release_number": "0.4",
+    "latest_release_published_at": "2019-08-28T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "GPL-3",
+    "name": "whisker",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=whisker",
+    "platform": "CRAN",
+    "rank": 15,
+    "repository_license": null,
+    "repository_url": "https://github.com/edwindj/whisker",
+    "stars": 170,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2011-09-05T21:37:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3-2",
+            "published_at": "2013-04-28T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2019-08-28T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

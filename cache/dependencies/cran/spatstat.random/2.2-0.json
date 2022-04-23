@@ -1,0 +1,270 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 23,
+    "deprecation_reason": null,
+    "description": "Random Generation Functionality for the 'spatstat' Family",
+    "forks": 0,
+    "homepage": "http://spatstat.org/",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/spatstat.random_2.2-0.tar.gz",
+    "latest_release_number": "2.2-0",
+    "latest_release_published_at": "2022-03-30T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "GPL-2 | GPL-3 [expanded from: GPL (\u2265 2)]",
+    "name": "spatstat.random",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible",
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=spatstat.random",
+    "platform": "CRAN",
+    "rank": 6,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "2.0-0",
+            "published_at": "2022-01-06T11:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.1-0",
+            "published_at": "2022-02-12T11:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-0",
+            "published_at": "2022-03-30T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "2.2-0",
+    "dependencies": [
+        {
+            "project_name": "spatstat",
+            "name": "spatstat",
+            "platform": "CRAN",
+            "requirements": ">= 2.3",
+            "latest_stable": null,
+            "latest": "2.3-3",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "spatstat.core",
+            "name": "spatstat.core",
+            "platform": "CRAN",
+            "requirements": ">= 2.4",
+            "latest_stable": null,
+            "latest": "2.4-2",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "spatstat.linnet",
+            "name": "spatstat.linnet",
+            "platform": "CRAN",
+            "requirements": ">= 2.0",
+            "latest_stable": null,
+            "latest": "2.3-2",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "RandomFieldsUtils",
+            "name": "RandomFieldsUtils",
+            "platform": "CRAN",
+            "requirements": ">=0.3.3.1",
+            "latest_stable": "1.0.11",
+            "latest": "1.0.11",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "RandomFields",
+            "name": "RandomFields",
+            "platform": "CRAN",
+            "requirements": ">= 3.1.24.1",
+            "latest_stable": "3.3.8",
+            "latest": "3.3.8",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "spatial",
+            "name": "spatial",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "7.3-15",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-2.0+"
+            ]
+        },
+        {
+            "project_name": "spatstat.utils",
+            "name": "spatstat.utils",
+            "platform": "CRAN",
+            "requirements": ">= 2.2",
+            "latest_stable": null,
+            "latest": "2.3-0",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "grDevices",
+            "name": "grDevices",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "methods",
+            "name": "methods",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "utils",
+            "name": "utils",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "stats",
+            "name": "stats",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "spatstat.geom",
+            "name": "spatstat.geom",
+            "platform": "CRAN",
+            "requirements": ">=2.4",
+            "latest_stable": null,
+            "latest": "2.4-0",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "spatstat.data",
+            "name": "spatstat.data",
+            "platform": "CRAN",
+            "requirements": ">= 2.1",
+            "latest_stable": null,
+            "latest": "2.1-4",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 3.5.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

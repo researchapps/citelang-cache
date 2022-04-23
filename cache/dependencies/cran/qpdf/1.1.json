@@ -1,0 +1,114 @@
+{
+    "dependent_repos_count": 3,
+    "dependents_count": 4,
+    "deprecation_reason": null,
+    "description": "Split, Combine and Compress PDF Files",
+    "forks": 0,
+    "homepage": "https://github.com/ropensci/qpdf (devel)",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/qpdf_1.1.tar.gz",
+    "latest_release_number": "1.1",
+    "latest_release_published_at": "2019-03-07T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "Apache License 2.0",
+    "name": "qpdf",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=qpdf",
+    "platform": "CRAN",
+    "rank": 6,
+    "repository_license": null,
+    "repository_url": "https://github.com/ropensci/qpdfdevel",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0",
+            "published_at": "2019-02-28T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2019-03-07T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1",
+    "dependencies": [
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "curl",
+            "name": "curl",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "4.3.2",
+            "latest": "4.3.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "askpass",
+            "name": "askpass",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.1",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "Rcpp",
+            "name": "Rcpp",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.0.8",
+            "latest": "1.0.8.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        }
+    ]
+}

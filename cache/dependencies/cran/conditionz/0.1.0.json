@@ -1,0 +1,106 @@
+{
+    "dependent_repos_count": 1,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "Control How Many Times Conditions are Thrown",
+    "forks": 0,
+    "homepage": "https://github.com/ropenscilabs/conditionz",
+    "keywords": [
+        "conditions",
+        "r",
+        "r-package",
+        "rstats"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/conditionz_0.1.0.tar.gz",
+    "latest_release_number": "0.1.0",
+    "latest_release_published_at": "2019-04-24T00:00:00.000Z",
+    "latest_stable_release_number": "0.1.0",
+    "latest_stable_release_published_at": "2019-04-24T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "conditionz",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=conditionz",
+    "platform": "CRAN",
+    "rank": 6,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/ropenscilabs/conditionz",
+    "stars": 1,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2019-04-24T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.0",
+    "dependencies": [
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "uuid",
+            "name": "uuid",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.1-2",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "R6",
+            "name": "R6",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.5.1",
+            "latest": "2.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 3.2.1",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

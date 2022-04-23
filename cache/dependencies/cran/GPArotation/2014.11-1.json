@@ -1,0 +1,167 @@
+{
+    "dependent_repos_count": 42,
+    "dependents_count": 23,
+    "deprecation_reason": null,
+    "description": "GPA Factor Rotation",
+    "forks": 0,
+    "homepage": "http://www.stat.ucla.edu/research/gpa",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/GPArotation_2014.11-1.tar.gz",
+    "latest_release_number": "2014.11-1",
+    "latest_release_published_at": "2014-11-25T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "GPL-2 | GPL-3 | file LICENSE [expanded from: GPL (\u2265 2) | file LICENSE]",
+    "name": "GPArotation",
+    "normalized_licenses": [
+        "xpp",
+        "AML"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=GPArotation",
+    "platform": "CRAN",
+    "rank": 8,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "2005.1-1",
+            "published_at": "2005-01-21T18:24:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2005.1-2",
+            "published_at": "2005-02-02T10:33:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2005.4-1",
+            "published_at": "2005-04-27T10:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2006.2-1",
+            "published_at": "2006-02-03T09:10:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2006.2-2",
+            "published_at": "2006-02-07T16:02:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2007.04-1",
+            "published_at": "2007-04-23T19:34:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2007.06-1",
+            "published_at": "2007-06-10T21:49:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2008.05-1",
+            "published_at": "2008-05-08T09:12:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2009.02-1",
+            "published_at": "2009-02-03T21:02:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2010.07-1",
+            "published_at": "2011-01-20T14:07:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2012.3-1",
+            "published_at": "2012-03-27T14:54:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2014.11-1",
+            "published_at": "2014-11-25T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "2014.11-1",
+    "dependencies": [
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 2.0.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

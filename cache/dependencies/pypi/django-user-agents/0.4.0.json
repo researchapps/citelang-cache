@@ -1,0 +1,143 @@
+{
+    "dependent_repos_count": 13,
+    "dependents_count": 18,
+    "deprecation_reason": null,
+    "description": "A django package that allows easy identification of visitors' browser, operating system and device information (mobile phone, tablet or has touch capabilities).",
+    "forks": 89,
+    "homepage": "https://github.com/selwin/django-user_agents",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.4.0",
+    "latest_release_published_at": "2019-06-22T13:33:48.000Z",
+    "latest_stable_release_number": "0.4.0",
+    "latest_stable_release_published_at": "2019-06-22T13:33:48.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "django-user-agents",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/django-user-agents/",
+    "platform": "Pypi",
+    "rank": 13,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/selwin/django-user_agents",
+    "stars": 502,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2013-01-06T03:07:47.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2013-01-07T14:48:47.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2013-01-10T12:44:38.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2013-02-16T14:09:37.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2013-03-28T02:29:32.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2014-08-24T08:32:22.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2017-08-08T05:04:24.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2019-06-22T13:33:48.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.4.0",
+    "dependencies": [
+        {
+            "project_name": "django",
+            "name": "django",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.0.4",
+            "latest": "4.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "user-agents",
+            "name": "user-agents",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.2.0",
+            "latest": "2.2.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

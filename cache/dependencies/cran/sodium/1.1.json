@@ -1,0 +1,114 @@
+{
+    "dependent_repos_count": 23,
+    "dependents_count": 18,
+    "deprecation_reason": null,
+    "description": "A Modern and Easy-to-Use Crypto Library",
+    "forks": 8,
+    "homepage": "https://github.com/jeroen/sodium#readme (devel)\nhttps://download.libsodium.org/doc/ (upstream)",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/sodium_1.1.tar.gz",
+    "latest_release_number": "1.1",
+    "latest_release_published_at": "2017-03-30T00:00:00.000Z",
+    "latest_stable_release_number": "v1.2.0",
+    "latest_stable_release_published_at": "2021-10-21T14:22:59.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "sodium",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=sodium",
+    "platform": "CRAN",
+    "rank": 12,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/jeroen/sodium",
+    "stars": 55,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2015-10-11T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2015-10-18T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2016-07-06T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0",
+            "published_at": "2017-03-18T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2017-03-30T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1",
+    "dependencies": [
+        {
+            "project_name": "knitr",
+            "name": "knitr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.15.1",
+            "latest": "1.38",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "rmarkdown",
+            "name": "rmarkdown",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.6",
+            "latest": "2.13",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        }
+    ]
+}

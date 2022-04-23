@@ -1,0 +1,88 @@
+{
+    "dependent_repos_count": 581994,
+    "dependents_count": 444,
+    "deprecation_reason": null,
+    "description": "Node.js os.tmpdir() ponyfill",
+    "forks": 5,
+    "homepage": "https://github.com/sindresorhus/os-tmpdir#readme",
+    "keywords": [
+        "built-in",
+        "core",
+        "ponyfill",
+        "polyfill",
+        "shim",
+        "os",
+        "tmpdir",
+        "tempdir",
+        "tmp",
+        "temp",
+        "dir",
+        "directory",
+        "env",
+        "environment",
+        "deprecated",
+        "javascript",
+        "nodejs"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/os-tmpdir/-/os-tmpdir-2.0.0.tgz",
+    "latest_release_number": "2.0.0",
+    "latest_release_published_at": "2018-11-08T11:14:15.596Z",
+    "latest_stable_release_number": "2.0.0",
+    "latest_stable_release_published_at": "2018-11-08T11:14:15.596Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "os-tmpdir",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/os-tmpdir",
+    "platform": "NPM",
+    "rank": 23,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/sindresorhus/os-tmpdir",
+    "stars": 31,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2015-05-07T19:12:57.265Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2015-05-16T00:01:21.701Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2016-09-30T04:54:34.812Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.0",
+            "published_at": "2018-11-08T11:14:15.596Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ]
+}

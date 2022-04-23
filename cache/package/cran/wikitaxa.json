@@ -1,0 +1,78 @@
+{
+    "dependent_repos_count": 2,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Taxonomic Information from 'Wikipedia'",
+    "forks": 3,
+    "homepage": "https://github.com/ropensci/wikitaxa",
+    "keywords": [
+        "r",
+        "r-package",
+        "rstats",
+        "taxize",
+        "taxonomy",
+        "wikipedia-api",
+        "wikispecies"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/wikitaxa_0.3.0.tar.gz",
+    "latest_release_number": "0.3.0",
+    "latest_release_published_at": "2018-10-19T00:00:00.000Z",
+    "latest_stable_release_number": "0.3.0",
+    "latest_stable_release_published_at": "2018-10-19T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "wikitaxa",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=wikitaxa",
+    "platform": "CRAN",
+    "rank": 8,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/ropensci/wikitaxa",
+    "stars": 15,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2017-04-03T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.4",
+            "published_at": "2017-05-06T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2017-12-21T16:47:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2018-10-19T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

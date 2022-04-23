@@ -1,0 +1,128 @@
+{
+    "dependent_repos_count": 757,
+    "dependents_count": 75,
+    "deprecation_reason": null,
+    "description": "A sphinx extension which renders display math in HTML via JavaScript",
+    "forks": 0,
+    "homepage": "http://sphinx-doc.org/",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2019-01-21T16:10:14.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2019-01-21T16:10:14.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "sphinxcontrib-jsmath",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/sphinxcontrib-jsmath/",
+    "platform": "Pypi",
+    "rank": 14,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2019-01-13T02:37:28.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2019-01-21T16:10:14.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.1",
+    "dependencies": [
+        {
+            "project_name": "mypy",
+            "name": "mypy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.942",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "mypy",
+            "name": "mypy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.942",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "flake8",
+            "name": "flake8",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.0.1",
+            "latest": "4.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "flake8",
+            "name": "flake8",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.0.1",
+            "latest": "4.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.1",
+            "latest": "7.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

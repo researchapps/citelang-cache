@@ -1,0 +1,71 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Read Until API",
+    "forks": 0,
+    "homepage": null,
+    "keywords": [],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "3.0.0",
+    "latest_release_published_at": "2020-10-13T09:28:45.000Z",
+    "latest_stable_release_number": "3.0.0",
+    "latest_stable_release_published_at": "2020-10-13T09:28:45.000Z",
+    "license_normalized": false,
+    "licenses": null,
+    "name": "read-until",
+    "normalized_licenses": [],
+    "package_manager_url": "https://pypi.org/project/read-until/",
+    "platform": "Pypi",
+    "rank": 3,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "3.0.0",
+            "published_at": "2020-10-13T09:28:45.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "3.0.0",
+    "dependencies": [
+        {
+            "project_name": "minknow-api",
+            "name": "minknow-api",
+            "platform": "Pypi",
+            "requirements": ">=4.0.4",
+            "latest_stable": "5.0.0",
+            "latest": "5.0.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Other"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "==1.17.4",
+            "latest_stable": "1.22.3",
+            "latest": "1.22.3",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

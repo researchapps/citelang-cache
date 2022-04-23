@@ -1,0 +1,437 @@
+{
+    "dependent_repos_count": 30,
+    "dependents_count": 83,
+    "deprecation_reason": null,
+    "description": "ITK is an open-source toolkit for multidimensional image analysis",
+    "forks": 0,
+    "homepage": "https://itk.org/",
+    "keywords": [
+        "ITK",
+        "InsightToolkit",
+        "segmentation",
+        "registration",
+        "image",
+        "imaging"
+    ],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "5.3rc4",
+    "latest_release_published_at": "2022-04-03T00:38:36.000Z",
+    "latest_stable_release_number": "5.2.1",
+    "latest_stable_release_published_at": "2021-08-14T20:17:39.000Z",
+    "license_normalized": true,
+    "licenses": "Apache",
+    "name": "itk",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/itk/",
+    "platform": "Pypi",
+    "rank": 11,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "4.12.0.post1",
+            "published_at": "2017-06-15T05:07:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.13.0",
+            "published_at": "2017-12-21T03:37:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0a1",
+            "published_at": "2018-04-17T03:40:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0a2",
+            "published_at": "2018-05-25T20:17:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.13.1.post1",
+            "published_at": "2018-08-11T17:00:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0b1",
+            "published_at": "2018-09-07T19:53:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0b3",
+            "published_at": "2018-12-21T02:35:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0rc1",
+            "published_at": "2019-02-01T21:45:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.13.2",
+            "published_at": "2019-03-06T01:09:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.13.2.post1",
+            "published_at": "2019-03-21T21:49:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0rc2",
+            "published_at": "2019-04-29T15:34:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.0",
+            "published_at": "2019-05-23T03:07:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.0.post1",
+            "published_at": "2019-06-07T22:39:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.1",
+            "published_at": "2019-07-24T21:46:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1b1",
+            "published_at": "2019-09-04T19:27:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1rc1",
+            "published_at": "2019-12-06T22:14:52.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1rc1.post1",
+            "published_at": "2019-12-09T02:53:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1rc2",
+            "published_at": "2020-02-21T13:29:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1rc3",
+            "published_at": "2020-04-02T01:15:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.0",
+            "published_at": "2020-04-27T11:54:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.0.post1",
+            "published_at": "2020-05-26T14:54:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.0.post2",
+            "published_at": "2020-05-30T22:58:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.0.post3",
+            "published_at": "2020-06-15T00:26:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.1",
+            "published_at": "2020-08-11T15:08:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.1.post1",
+            "published_at": "2020-10-21T16:36:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.2",
+            "published_at": "2020-12-02T12:18:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2rc1",
+            "published_at": "2021-01-06T16:03:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2rc2",
+            "published_at": "2021-02-12T20:08:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2rc3",
+            "published_at": "2021-03-05T00:52:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2.0",
+            "published_at": "2021-04-04T14:11:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2.0.post1",
+            "published_at": "2021-04-29T02:49:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2.0.post2",
+            "published_at": "2021-05-06T01:32:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2.0.post3",
+            "published_at": "2021-05-28T12:47:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2.1",
+            "published_at": "2021-08-14T20:17:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2.1.post1",
+            "published_at": "2021-09-01T16:53:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.3rc1",
+            "published_at": "2021-09-13T01:26:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.3rc2",
+            "published_at": "2021-10-29T14:15:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.3rc2.post1",
+            "published_at": "2021-11-03T15:33:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.3rc3",
+            "published_at": "2022-01-18T03:22:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.3rc4",
+            "published_at": "2022-04-03T00:38:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

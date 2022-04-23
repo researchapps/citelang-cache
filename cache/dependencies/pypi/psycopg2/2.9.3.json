@@ -1,0 +1,567 @@
+{
+    "dependent_repos_count": 59606,
+    "dependents_count": 1255,
+    "deprecation_reason": null,
+    "description": "psycopg2 - Python-PostgreSQL Database Adapter",
+    "forks": 424,
+    "homepage": "https://psycopg.org/",
+    "keywords": [
+        "database",
+        "driver",
+        "postgresql",
+        "python"
+    ],
+    "language": "C",
+    "latest_download_url": null,
+    "latest_release_number": "2.9.3",
+    "latest_release_published_at": "2021-12-29T15:27:12.000Z",
+    "latest_stable_release_number": "2.9.3",
+    "latest_stable_release_published_at": "2021-12-29T15:27:12.000Z",
+    "license_normalized": true,
+    "licenses": "LGPL with exceptions",
+    "name": "psycopg2",
+    "normalized_licenses": [
+        "BSD-3-Clause-Attribution"
+    ],
+    "package_manager_url": "https://pypi.org/project/psycopg2/",
+    "platform": "Pypi",
+    "rank": 24,
+    "repository_license": "Other",
+    "repository_url": "",
+    "stars": 2442,
+    "status": "",
+    "versions": [
+        {
+            "number": "2.0.10",
+            "published_at": "2010-10-19T15:36:38.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.11",
+            "published_at": "2010-10-19T15:35:04.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.12",
+            "published_at": "2010-10-19T15:33:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.13",
+            "published_at": "2010-10-19T15:31:38.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.14",
+            "published_at": "2010-10-19T15:29:17.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.2",
+            "published_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "psycopg and the GPL\r\n===================\r\n\r\npsycopg is free software; you can redistribute it and/or modify it under the\r\nterms of the GNU General Public License as published by the Free Software\r\nFoundation; either version 2 of the License, or (at your option) any later\r\nversion. See file COPYING for details.\r\n\r\nAs a special exception, specific permission is granted for the GPLed code in\r\nthis distribition to be linked to OpenSSL and PostgreSQL libpq without invoking\r\nGPL clause 2(b).\r\n\r\nNote that the GPL was chosen to avoid proprietary adapters based on psycopg\r\ncode. Using psycopg in a proprietary product (even bundling psycopg with the\r\nproprietary product) is fine as long as:\r\n\r\n 1. psycopg is called from Python only using only the provided API\r\n    (i.e., no linking with C code and no C modules based on it); and\r\n\r\n 2. all the other points of the GPL are respected (you offer a copy\r\n    of psycopg's source code, and so on.)\r\n\r\nAlternative licenses\r\n====================\r\n\r\nIf you prefer you can use the Zope Database Adapter ZPsycopgDA (i.e., every file\r\ninside the ZPsycopgDA directory) user the ZPL license as published on the Zope\r\nweb site, http://www.zope.org/Resources/ZPL.\r\n\r\nAlso, the following BSD-like license applies (at your option) to the files\r\nfollowing the pattern psycopg/adapter*.{h,c} and psycopg/microprotocol*.{h,c}:\r\n\r\n Permission is granted to anyone to use this software for any purpose, \r\nincluding commercial applications, and to alter it and redistribute it freely,\r\nsubject to the following restrictions:\r\n\r\n 1. The origin of this software must not be misrepresented; you must not\r\n    claim that you wrote the original software. If you use this\r\n    software in a product, an acknowledgment in the product documentation\r\n    would be appreciated but is not required.\r\n \r\n 2. Altered source versions must be plainly marked as such, and must not\r\n    be misrepresented as being the original software.\r\n \r\n 3. This notice may not be removed or altered from any source distribution.\r\n\r\npsycopg is distributed in the hope that it will be useful,\r\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\r\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\r\nGNU General Public License for more details.\r\n\r\nProprietary licenses\r\n====================\r\n\r\nA non-exclusive license is available for companies that want to include psycopg\r\nin their proprietary products without respecting the spirit of the GPL. The\r\nprice of the license is one day of development done by the author, at the\r\nconsulting fee he applies to his usual customers at the day of the request.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.3",
+            "published_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "psycopg and the GPL\r\n===================\r\n\r\npsycopg is free software; you can redistribute it and/or modify it under the\r\nterms of the GNU General Public License as published by the Free Software\r\nFoundation; either version 2 of the License, or (at your option) any later\r\nversion. See file COPYING for details.\r\n\r\nAs a special exception, specific permission is granted for the GPLed code in\r\nthis distribition to be linked to OpenSSL and PostgreSQL libpq without invoking\r\nGPL clause 2(b).\r\n\r\nNote that the GPL was chosen to avoid proprietary adapters based on psycopg\r\ncode. Using psycopg in a proprietary product (even bundling psycopg with the\r\nproprietary product) is fine as long as:\r\n\r\n 1. psycopg is called from Python only using only the provided API\r\n    (i.e., no linking with C code and no C modules based on it); and\r\n\r\n 2. all the other points of the GPL are respected (you offer a copy\r\n    of psycopg's source code, and so on.)\r\n\r\nAlternative licenses\r\n====================\r\n\r\nIf you prefer you can use the Zope Database Adapter ZPsycopgDA (i.e., every file\r\ninside the ZPsycopgDA directory) user the ZPL license as published on the Zope\r\nweb site, http://www.zope.org/Resources/ZPL.\r\n\r\nAlso, the following BSD-like license applies (at your option) to the files\r\nfollowing the pattern psycopg/adapter*.{h,c} and psycopg/microprotocol*.{h,c}:\r\n\r\n Permission is granted to anyone to use this software for any purpose, \r\nincluding commercial applications, and to alter it and redistribute it freely,\r\nsubject to the following restrictions:\r\n\r\n 1. The origin of this software must not be misrepresented; you must not\r\n    claim that you wrote the original software. If you use this\r\n    software in a product, an acknowledgment in the product documentation\r\n    would be appreciated but is not required.\r\n \r\n 2. Altered source versions must be plainly marked as such, and must not\r\n    be misrepresented as being the original software.\r\n \r\n 3. This notice may not be removed or altered from any source distribution.\r\n\r\npsycopg is distributed in the hope that it will be useful,\r\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\r\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\r\nGNU General Public License for more details.\r\n\r\nProprietary licenses\r\n====================\r\n\r\nA non-exclusive license is available for companies that want to include psycopg\r\nin their proprietary products without respecting the spirit of the GPL. The\r\nprice of the license is one day of development done by the author, at the\r\nconsulting fee he applies to his usual customers at the day of the request.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.4",
+            "published_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "psycopg and the GPL\r\n===================\r\n\r\npsycopg is free software; you can redistribute it and/or modify it under the\r\nterms of the GNU General Public License as published by the Free Software\r\nFoundation; either version 2 of the License, or (at your option) any later\r\nversion. See file COPYING for details.\r\n\r\nAs a special exception, specific permission is granted for the GPLed code in\r\nthis distribition to be linked to OpenSSL and PostgreSQL libpq without invoking\r\nGPL clause 2(b).\r\n\r\nNote that the GPL was chosen to avoid proprietary adapters based on psycopg\r\ncode. Using psycopg in a proprietary product (even bundling psycopg with the\r\nproprietary product) is fine as long as:\r\n\r\n 1. psycopg is called from Python only using only the provided API\r\n    (i.e., no linking with C code and no C modules based on it); and\r\n\r\n 2. all the other points of the GPL are respected (you offer a copy\r\n    of psycopg's source code, and so on.)\r\n\r\nAlternative licenses\r\n====================\r\n\r\nIf you prefer you can use the Zope Database Adapter ZPsycopgDA (i.e., every file\r\ninside the ZPsycopgDA directory) user the ZPL license as published on the Zope\r\nweb site, http://www.zope.org/Resources/ZPL.\r\n\r\nAlso, the following BSD-like license applies (at your option) to the files\r\nfollowing the pattern psycopg/adapter*.{h,c} and psycopg/microprotocol*.{h,c}:\r\n\r\n Permission is granted to anyone to use this software for any purpose, \r\nincluding commercial applications, and to alter it and redistribute it freely,\r\nsubject to the following restrictions:\r\n\r\n 1. The origin of this software must not be misrepresented; you must not\r\n    claim that you wrote the original software. If you use this\r\n    software in a product, an acknowledgment in the product documentation\r\n    would be appreciated but is not required.\r\n \r\n 2. Altered source versions must be plainly marked as such, and must not\r\n    be misrepresented as being the original software.\r\n \r\n 3. This notice may not be removed or altered from any source distribution.\r\n\r\npsycopg is distributed in the hope that it will be useful,\r\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\r\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\r\nGNU General Public License for more details.\r\n\r\nProprietary licenses\r\n====================\r\n\r\nA non-exclusive license is available for companies that want to include psycopg\r\nin their proprietary products without respecting the spirit of the GPL. The\r\nprice of the license is one day of development done by the author, at the\r\nconsulting fee he applies to his usual customers at the day of the request.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.5.1",
+            "published_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "psycopg and the GPL\r\n===================\r\n\r\npsycopg is free software; you can redistribute it and/or modify it under the\r\nterms of the GNU General Public License as published by the Free Software\r\nFoundation; either version 2 of the License, or (at your option) any later\r\nversion. See file COPYING for details.\r\n\r\nAs a special exception, specific permission is granted for the GPLed code in\r\nthis distribition to be linked to OpenSSL and PostgreSQL libpq without invoking\r\nGPL clause 2(b).\r\n\r\nNote that the GPL was chosen to avoid proprietary adapters based on psycopg\r\ncode. Using psycopg in a proprietary product (even bundling psycopg with the\r\nproprietary product) is fine as long as:\r\n\r\n 1. psycopg is called from Python only using only the provided API\r\n    (i.e., no linking with C code and no C modules based on it); and\r\n\r\n 2. all the other points of the GPL are respected (you offer a copy\r\n    of psycopg's source code, and so on.)\r\n\r\nAlternative licenses\r\n====================\r\n\r\nIf you prefer you can use the Zope Database Adapter ZPsycopgDA (i.e., every file\r\ninside the ZPsycopgDA directory) user the ZPL license as published on the Zope\r\nweb site, http://www.zope.org/Resources/ZPL.\r\n\r\nAlso, the following BSD-like license applies (at your option) to the files\r\nfollowing the pattern psycopg/adapter*.{h,c} and psycopg/microprotocol*.{h,c}:\r\n\r\n Permission is granted to anyone to use this software for any purpose, \r\nincluding commercial applications, and to alter it and redistribute it freely,\r\nsubject to the following restrictions:\r\n\r\n 1. The origin of this software must not be misrepresented; you must not\r\n    claim that you wrote the original software. If you use this\r\n    software in a product, an acknowledgment in the product documentation\r\n    would be appreciated but is not required.\r\n \r\n 2. Altered source versions must be plainly marked as such, and must not\r\n    be misrepresented as being the original software.\r\n \r\n 3. This notice may not be removed or altered from any source distribution.\r\n\r\npsycopg is distributed in the hope that it will be useful,\r\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\r\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\r\nGNU General Public License for more details.\r\n\r\nProprietary licenses\r\n====================\r\n\r\nA non-exclusive license is available for companies that want to include psycopg\r\nin their proprietary products without respecting the spirit of the GPL. The\r\nprice of the license is one day of development done by the author, at the\r\nconsulting fee he applies to his usual customers at the day of the request.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.2.0",
+            "published_at": "2010-10-19T15:41:50.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.2.1",
+            "published_at": "2010-10-19T15:42:13.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.2.2",
+            "published_at": "2010-09-09T10:53:08.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.3.0",
+            "published_at": "2010-12-02T00:53:24.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.3.1",
+            "published_at": "2010-12-04T22:24:29.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.3.2",
+            "published_at": "2011-02-18T12:33:34.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.4",
+            "published_at": "2011-02-27T16:52:11.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.4.1",
+            "published_at": "2011-05-11T12:56:53.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.4.2",
+            "published_at": "2011-06-17T15:15:38.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.4.3",
+            "published_at": "2011-12-12T12:15:35.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.4.4",
+            "published_at": "2011-12-19T13:38:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.4.5",
+            "published_at": "2012-03-29T11:42:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.4.6",
+            "published_at": "2012-12-12T10:51:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.5",
+            "published_at": "2013-04-07T18:18:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.5.1",
+            "published_at": "2013-06-23T19:24:08.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.5.2",
+            "published_at": "2014-01-07T12:25:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.5.3",
+            "published_at": "2014-05-13T16:51:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.5.4",
+            "published_at": "2014-08-30T18:04:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.5.5",
+            "published_at": "2015-02-09T09:59:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.6",
+            "published_at": "2015-02-09T10:02:22.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.6.1",
+            "published_at": "2015-11-06T21:07:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.6.2",
+            "published_at": "2016-07-07T02:23:58.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7",
+            "published_at": "2017-03-01T14:49:38.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.1",
+            "published_at": "2017-03-13T11:36:02.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.2",
+            "published_at": "2017-07-22T14:08:57.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.3",
+            "published_at": "2017-07-24T16:24:56.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.3.1",
+            "published_at": "2017-08-26T13:30:58.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.3.2",
+            "published_at": "2017-10-24T16:05:53.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.4",
+            "published_at": "2018-02-08T15:10:43.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.5",
+            "published_at": "2018-06-17T18:14:09.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.6",
+            "published_at": "2018-11-09T11:01:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.6.1",
+            "published_at": "2018-11-11T14:48:13.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.7",
+            "published_at": "2019-01-22T17:55:35.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.8",
+            "published_at": "2019-04-04T09:50:21.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.8.1",
+            "published_at": "2019-04-06T20:04:14.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.8.2",
+            "published_at": "2019-04-14T17:20:39.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.8.3",
+            "published_at": "2019-06-13T23:57:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.8.4",
+            "published_at": "2019-10-20T09:11:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions or ZPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.8.5",
+            "published_at": "2020-04-06T07:02:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.8.6",
+            "published_at": "2020-09-06T22:41:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.9",
+            "published_at": "2021-06-16T15:32:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.9.1",
+            "published_at": "2021-06-17T01:04:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.9.2",
+            "published_at": "2021-11-12T00:44:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.9.3",
+            "published_at": "2021-12-29T15:27:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL with exceptions",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "2.9.3",
+    "dependencies": []
+}

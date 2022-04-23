@@ -1,0 +1,382 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Automatically conversion of .ini/.cfg files to TOML equivalents",
+    "forks": 0,
+    "homepage": "https://github.com/abravalheri/ini2toml/",
+    "keywords": [
+        "cfg-files",
+        "ini",
+        "pep621",
+        "setuptools",
+        "toml"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.10",
+    "latest_release_published_at": "2022-03-09T18:22:24.000Z",
+    "latest_stable_release_number": "0.6.1",
+    "latest_stable_release_published_at": "2021-12-23T00:59:05.000Z",
+    "license_normalized": false,
+    "licenses": "MPL-2.0",
+    "name": "ini2toml",
+    "normalized_licenses": [
+        "MPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/ini2toml/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "MPL-2.0",
+    "repository_url": "https://github.com/abravalheri/ini2toml",
+    "stars": 6,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2021-10-11T22:08:10.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2021-10-12T10:39:06.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2021-10-25T15:29:36.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1",
+            "published_at": "2021-11-01T17:57:00.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10",
+            "published_at": "2022-03-09T18:22:24.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2021-12-02T19:00:32.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2021-12-03T08:23:42.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2021-12-07T16:46:38.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2021-12-09T17:07:04.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2021-12-09T18:58:34.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2021-12-10T17:51:24.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2021-12-11T18:44:43.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2021-12-23T00:59:05.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2022-02-07T19:12:39.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8",
+            "published_at": "2022-02-10T19:49:16.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9",
+            "published_at": "2022-03-04T11:43:35.000Z",
+            "spdx_expression": "MPL-2.0",
+            "original_license": "MPL-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.10",
+    "dependencies": [
+        {
+            "project_name": "typing-extensions",
+            "name": "typing-extensions",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.1.1",
+            "latest": "4.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "PSF-2.0"
+            ]
+        },
+        {
+            "project_name": "validate-pyproject",
+            "name": "validate-pyproject",
+            "platform": "Pypi",
+            "requirements": "<2,>=0.6",
+            "latest_stable": "0.6.1",
+            "latest": "0.7.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MPL-2.0",
+                "MIT",
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pytest-cov",
+            "name": "pytest-cov",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.0.0",
+            "latest": "3.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.1",
+            "latest": "7.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "tomli",
+            "name": "tomli",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.0.1",
+            "latest": "2.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "setuptools",
+            "name": "setuptools",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "61.3.1",
+            "latest": "62.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "importlib-metadata",
+            "name": "importlib-metadata",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.11.3",
+            "latest": "4.11.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "pyproject-fmt",
+            "name": "pyproject-fmt",
+            "platform": "Pypi",
+            "requirements": ">=0.3.2",
+            "latest_stable": "0.3.2",
+            "latest": "0.3.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "tomli-w",
+            "name": "tomli-w",
+            "platform": "Pypi",
+            "requirements": "<2,>=0.4.0",
+            "latest_stable": "1.0.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "tomlkit",
+            "name": "tomlkit",
+            "platform": "Pypi",
+            "requirements": "<2,>=0.10.0",
+            "latest_stable": "0.10.1",
+            "latest": "0.10.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "configupdater",
+            "name": "configupdater",
+            "platform": "Pypi",
+            "requirements": "<4,>=3.0.1",
+            "latest_stable": "0.3.2",
+            "latest": "1.0",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "packaging",
+            "name": "packaging",
+            "platform": "Pypi",
+            "requirements": ">=20.7",
+            "latest_stable": null,
+            "latest": "21.3",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-2-Clause",
+                "Apache-2.0"
+            ]
+        }
+    ]
+}

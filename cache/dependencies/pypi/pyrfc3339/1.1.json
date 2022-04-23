@@ -1,0 +1,92 @@
+{
+    "dependent_repos_count": 463,
+    "dependents_count": 26,
+    "deprecation_reason": null,
+    "description": "Generate and parse RFC 3339 timestamps",
+    "forks": 3,
+    "homepage": "https://github.com/kurtraschke/pyRFC3339",
+    "keywords": [
+        "rfc",
+        "3339",
+        "timestamp"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.1",
+    "latest_release_published_at": "2018-06-11T00:22:40.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pyRFC3339",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyRFC3339/",
+    "platform": "Pypi",
+    "rank": 12,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/kurtraschke/pyRFC3339",
+    "stars": 2,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2011-01-26T01:52:56.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2014-02-09T21:43:39.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0",
+            "published_at": "2015-11-09T04:00:29.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2018-06-11T00:22:40.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1",
+    "dependencies": [
+        {
+            "project_name": "pytz",
+            "name": "pytz",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2016.6.1",
+            "latest": "2022.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

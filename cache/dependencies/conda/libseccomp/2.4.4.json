@@ -1,0 +1,92 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 10,
+    "deprecation_reason": null,
+    "description": "The libseccomp library provides an easy to use, platform independent, interface to the Linux Kernel's syscall filtering mechanism. The libseccomp API is designed to abstract away the underlying BPF based syscall filter language and present a more conventional function-call based filtering interface that should be familiar to, and easily adopted by, application developers.",
+    "forks": 137,
+    "homepage": "https://github.com/seccomp/libseccomp",
+    "keywords": [
+        "bpf",
+        "libseccomp",
+        "seccomp"
+    ],
+    "language": "C",
+    "latest_download_url": "https://conda.anaconda.org/conda-forge/linux-64/libseccomp-2.4.4-h36c2ea0_0.tar.bz2",
+    "latest_release_number": "2.4.4",
+    "latest_release_published_at": "2020-11-13T08:06:59.000Z",
+    "latest_stable_release_number": "2.4.4",
+    "latest_stable_release_published_at": "2020-11-13T08:06:59.000Z",
+    "license_normalized": false,
+    "licenses": "LGPL-2.1-only",
+    "name": "libseccomp",
+    "normalized_licenses": [
+        "LGPL-2.1-only"
+    ],
+    "package_manager_url": "https://anaconda.org/conda-forge/libseccomp",
+    "platform": "Conda",
+    "rank": 14,
+    "repository_license": "LGPL-2.1",
+    "repository_url": "https://github.com/seccomp/libseccomp",
+    "stars": 529,
+    "status": null,
+    "versions": [
+        {
+            "number": "2.3.3",
+            "published_at": "2018-12-08T15:00:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "2.4.0",
+            "published_at": "2019-03-16T00:25:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LGPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "2.4.1",
+            "published_at": "2020-10-31T11:57:34.000Z",
+            "spdx_expression": "LGPL-2.1-only",
+            "original_license": "LGPL-2.1-only",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "2.4.4",
+            "published_at": "2020-11-13T08:06:59.000Z",
+            "spdx_expression": "LGPL-2.1-only",
+            "original_license": "LGPL-2.1-only",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        }
+    ],
+    "dependencies_for_version": "2.4.4",
+    "dependencies": [
+        {
+            "project_name": "libgcc-ng",
+            "name": "libgcc-ng",
+            "platform": "Conda",
+            "requirements": ">=7.5.0",
+            "latest_stable": "11.2.0",
+            "latest": "11.2.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause-Attribution"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "dependent_repos_count": 20,
+    "dependents_count": 15,
+    "deprecation_reason": null,
+    "description": "Manage Cached Files",
+    "forks": 2,
+    "homepage": "https://github.com/ropensci/hoardr",
+    "keywords": [
+        "caching",
+        "r",
+        "r-package",
+        "rstats"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/hoardr_0.5.2.tar.gz",
+    "latest_release_number": "0.5.2",
+    "latest_release_published_at": "2018-12-02T00:00:00.000Z",
+    "latest_stable_release_number": "0.5.2",
+    "latest_stable_release_published_at": "2018-12-02T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "hoardr",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=hoardr",
+    "platform": "CRAN",
+    "rank": 11,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/ropensci/hoardr",
+    "stars": 18,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2017-04-21T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2017-05-10T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2018-10-13T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2018-12-02T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.5.2",
+    "dependencies": [
+        {
+            "project_name": "rmarkdown",
+            "name": "rmarkdown",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.6",
+            "latest": "2.13",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "knitr",
+            "name": "knitr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.15.1",
+            "latest": "1.38",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "roxygen2",
+            "name": "roxygen2",
+            "platform": "CRAN",
+            "requirements": ">= 6.0.1",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "digest",
+            "name": "digest",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.6.29",
+            "latest": "0.6.29",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "rappdirs",
+            "name": "rappdirs",
+            "platform": "CRAN",
+            "requirements": ">= 0.3.1",
+            "latest_stable": "0.3.3",
+            "latest": "0.3.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "R6",
+            "name": "R6",
+            "platform": "CRAN",
+            "requirements": ">= 2.2.0",
+            "latest_stable": "2.5.1",
+            "latest": "2.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

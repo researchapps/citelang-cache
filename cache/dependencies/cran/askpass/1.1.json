@@ -1,0 +1,83 @@
+{
+    "dependent_repos_count": 11,
+    "dependents_count": 13,
+    "deprecation_reason": null,
+    "description": "Safe Password Entry for R, Git, and SSH",
+    "forks": 0,
+    "homepage": "https://github.com/jeroen/askpass#readme",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/askpass_1.1.tar.gz",
+    "latest_release_number": "1.1",
+    "latest_release_published_at": "2019-01-13T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "askpass",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=askpass",
+    "platform": "CRAN",
+    "rank": 11,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/jeroen/askpass",
+    "stars": 72,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0",
+            "published_at": "2019-01-02T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2019-01-13T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1",
+    "dependencies": [
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "sys",
+            "name": "sys",
+            "platform": "CRAN",
+            "requirements": ">= 2.1",
+            "latest_stable": null,
+            "latest": "3.4",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

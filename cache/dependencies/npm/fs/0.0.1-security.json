@@ -1,0 +1,72 @@
+{
+    "dependent_repos_count": 30527,
+    "dependents_count": 9017,
+    "deprecation_reason": null,
+    "description": "File system abstraction layer for the browser",
+    "forks": 5,
+    "homepage": "https://github.com/npm/security-holder#readme",
+    "keywords": [],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/fs/-/fs-0.0.2.tgz",
+    "latest_release_number": "0.0.2",
+    "latest_release_published_at": "2014-09-12T06:09:38.952Z",
+    "latest_stable_release_number": "0.0.2",
+    "latest_stable_release_published_at": "2014-09-12T06:09:38.952Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "fs",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/fs",
+    "platform": "NPM",
+    "rank": 22,
+    "repository_license": null,
+    "repository_url": "https://github.com/npm/security-holder",
+    "stars": 135,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.0",
+            "published_at": "2014-09-12T06:06:20.404Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.1",
+            "published_at": "2014-06-02T02:18:51.732Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.1-security",
+            "published_at": "2016-08-23T17:56:58.976Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2014-09-12T06:09:38.952Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.1-security",
+    "dependencies": []
+}

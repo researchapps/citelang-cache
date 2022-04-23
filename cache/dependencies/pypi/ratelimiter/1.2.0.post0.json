@@ -1,0 +1,181 @@
+{
+    "dependent_repos_count": 37,
+    "dependents_count": 16,
+    "deprecation_reason": null,
+    "description": "Simple python rate limiting object",
+    "forks": 12,
+    "homepage": "https://github.com/RazerM/ratelimiter",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.2.0.post0",
+    "latest_release_published_at": "2017-12-12T00:33:37.000Z",
+    "latest_stable_release_number": "1.2.0",
+    "latest_stable_release_published_at": "2017-06-17T20:10:43.000Z",
+    "license_normalized": true,
+    "licenses": "Apache",
+    "name": "ratelimiter",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/ratelimiter/",
+    "platform": "Pypi",
+    "rank": 13,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/RazerM/ratelimiter",
+    "stars": 62,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.2.1",
+            "published_at": "2015-01-20T00:36:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2015-01-20T00:40:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.3",
+            "published_at": "2015-01-20T01:07:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.4",
+            "published_at": "2015-11-27T15:44:03.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2016-01-06T02:28:47.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2016-01-06T04:08:27.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2016-03-01T18:12:28.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2.post0",
+            "published_at": "2016-03-01T19:43:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2017-02-02T00:11:43.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2017-03-11T01:00:58.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2017-06-17T20:10:43.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.0.post0",
+            "published_at": "2017-12-12T00:33:37.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.2.0.post0",
+    "dependencies": [
+        {
+            "project_name": "pytest-asyncio;",
+            "name": "pytest-asyncio;",
+            "platform": "Pypi",
+            "requirements": "python_version>=\"3.5\"",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": ">=3.0;",
+            "latest_stable": "7.1.1",
+            "latest": "7.1.1",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

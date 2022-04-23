@@ -1,0 +1,99 @@
+{
+    "dependent_repos_count": 279,
+    "dependents_count": 35,
+    "deprecation_reason": null,
+    "description": "Patch ssl.match_hostname for Unicode(idna) domains support",
+    "forks": 8,
+    "homepage": "https://github.com/aio-libs/idna-ssl",
+    "keywords": [
+        "ssl",
+        "Unicode",
+        "idna",
+        "match_hostname",
+        "aiohttp",
+        "asyncio"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2018-07-05T09:15:37.000Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2018-07-05T09:15:37.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "idna_ssl",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/idna_ssl/",
+    "platform": "Pypi",
+    "rank": 16,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/aio-libs/idna-ssl",
+    "stars": 10,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2017-11-02T09:09:02.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2017-11-02T09:14:06.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2018-02-01T13:53:44.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0a1",
+            "published_at": "2018-02-01T11:10:52.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2018-03-06T15:12:24.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2018-07-05T09:15:37.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.0",
+    "dependencies": []
+}

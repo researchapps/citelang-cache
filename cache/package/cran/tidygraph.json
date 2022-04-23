@@ -1,0 +1,87 @@
+{
+    "dependent_repos_count": 30,
+    "dependents_count": 30,
+    "deprecation_reason": null,
+    "description": "A Tidy API for Graph Manipulation",
+    "forks": 40,
+    "homepage": "https://tidygraph.data-imaginist.com",
+    "keywords": [
+        "graph-algorithms",
+        "graph-manipulation",
+        "igraph",
+        "network-analysis",
+        "r",
+        "tidyverse"
+    ],
+    "language": "HTML",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/tidygraph_1.2.0.tar.gz",
+    "latest_release_number": "1.2.0",
+    "latest_release_published_at": "2020-05-12T00:00:00.000Z",
+    "latest_stable_release_number": "1.2.0",
+    "latest_stable_release_published_at": "2020-05-12T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "tidygraph",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=tidygraph",
+    "platform": "CRAN",
+    "rank": 15,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/thomasp85/tidygraph",
+    "stars": 402,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2017-07-07T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2018-02-10T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2018-11-20T21:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.2",
+            "published_at": "2019-02-18T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2020-05-12T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

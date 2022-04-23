@@ -1,0 +1,87 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Tidy Anomaly Detection",
+    "forks": 59,
+    "homepage": "https://github.com/business-science/anomalize",
+    "keywords": [
+        "time-series",
+        "decomposition",
+        "anomaly",
+        "anomaly-detection",
+        "detect-anomalies",
+        "iqr"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/anomalize_0.2.2.tar.gz",
+    "latest_release_number": "0.2.2",
+    "latest_release_published_at": "2020-10-20T00:00:00.000Z",
+    "latest_stable_release_number": "0.2.2",
+    "latest_stable_release_published_at": "2020-10-20T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL (\u2265 3)",
+    "name": "anomalize",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=anomalize",
+    "platform": "CRAN",
+    "rank": 10,
+    "repository_license": null,
+    "repository_url": "https://github.com/business-science/anomalize",
+    "stars": 275,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2018-04-06T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2018-04-17T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2019-09-21T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2020-06-19T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2020-10-20T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

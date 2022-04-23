@@ -1,0 +1,170 @@
+{
+    "dependent_repos_count": 24,
+    "dependents_count": 9,
+    "deprecation_reason": null,
+    "description": "Regular Expression Removal, Extraction, and Replacement Tools",
+    "forks": 4,
+    "homepage": "http://trinker.github.com/qdapRegex/",
+    "keywords": [
+        "qdapregex",
+        "r",
+        "regular-expression"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/qdapRegex_0.7.2.tar.gz",
+    "latest_release_number": "0.7.2",
+    "latest_release_published_at": "2017-04-09T00:00:00.000Z",
+    "latest_stable_release_number": "0.7.2",
+    "latest_stable_release_published_at": "2017-04-09T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-2",
+    "name": "qdapRegex",
+    "normalized_licenses": [
+        "GPL-2.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=qdapRegex",
+    "platform": "CRAN",
+    "rank": 12,
+    "repository_license": null,
+    "repository_url": "https://github.com/trinker/qdapRegex",
+    "stars": 43,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.1",
+            "published_at": "2014-09-20T23:38:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2014-09-24T00:36:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2014-12-22T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2015-04-06T07:47:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2015-07-18T17:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2015-08-16T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2015-10-11T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2015-12-13T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.7.2",
+            "published_at": "2017-04-09T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.7.2",
+    "dependencies": [
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "stringi",
+            "name": "stringi",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.7.6",
+            "latest": "1.7.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT-feh"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

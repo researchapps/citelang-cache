@@ -1,0 +1,175 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 2531,
+    "deprecation_reason": null,
+    "description": null,
+    "forks": 0,
+    "homepage": "https://gcc.gnu.org/",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://conda.anaconda.org/conda-forge/linux-64/libstdcxx-ng-11.2.0-he4da1e4_10.tar.bz2",
+    "latest_release_number": "11.2.0",
+    "latest_release_published_at": "2021-10-08T22:50:56.000Z",
+    "latest_stable_release_number": "11.2.0",
+    "latest_stable_release_published_at": "2021-10-08T22:50:56.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-3.0-only WITH GCC-exception-3.1",
+    "name": "libstdcxx-ng",
+    "normalized_licenses": [
+        "BSD-3-Clause-Attribution"
+    ],
+    "package_manager_url": "https://anaconda.org/conda-forge/libstdcxx-ng",
+    "platform": "Conda",
+    "rank": 13,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "10.2.0",
+            "published_at": "2021-02-09T02:43:48.000Z",
+            "spdx_expression": "GPL-3.0-only WITH GCC-exception-3.1",
+            "original_license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "researched_at": null,
+            "repository_sources": [
+                "Main"
+            ]
+        },
+        {
+            "number": "10.3.0",
+            "published_at": "2021-10-08T22:55:51.000Z",
+            "spdx_expression": "GPL-3.0-only WITH GCC-exception-3.1",
+            "original_license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "11.1.0",
+            "published_at": "2021-07-29T05:31:46.000Z",
+            "spdx_expression": "GPL-3.0-only WITH GCC-exception-3.1",
+            "original_license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "11.2.0",
+            "published_at": "2021-10-08T22:50:56.000Z",
+            "spdx_expression": "GPL-3.0-only WITH GCC-exception-3.1",
+            "original_license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "5.4.0",
+            "published_at": "2018-03-13T19:31:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL3 with runtime exception",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "7.2.0",
+            "published_at": "2017-09-17T16:26:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL3 with runtime exception",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "7.3.0",
+            "published_at": "2018-08-18T21:41:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL3 with runtime exception",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "7.5.0",
+            "published_at": "2021-06-02T18:54:36.000Z",
+            "spdx_expression": "GPL-3.0-only WITH GCC-exception-3.1",
+            "original_license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge",
+                "Main"
+            ]
+        },
+        {
+            "number": "8.2.0",
+            "published_at": "2018-08-14T20:11:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL3 with runtime exception",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "8.4.0",
+            "published_at": "2021-06-02T19:21:26.000Z",
+            "spdx_expression": "GPL-3.0-only WITH GCC-exception-3.1",
+            "original_license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge",
+                "Main"
+            ]
+        },
+        {
+            "number": "8.5.0",
+            "published_at": "2021-10-08T22:44:02.000Z",
+            "spdx_expression": "GPL-3.0-only WITH GCC-exception-3.1",
+            "original_license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "9.1.0",
+            "published_at": "2019-06-09T20:30:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL3 with runtime exception",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "9.3.0",
+            "published_at": "2021-06-02T19:48:55.000Z",
+            "spdx_expression": "GPL-3.0-only WITH GCC-exception-3.1",
+            "original_license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge",
+                "Main"
+            ]
+        },
+        {
+            "number": "9.4.0",
+            "published_at": "2021-10-08T22:53:26.000Z",
+            "spdx_expression": "GPL-3.0-only WITH GCC-exception-3.1",
+            "original_license": "GPL-3.0-only WITH GCC-exception-3.1",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        }
+    ],
+    "dependencies_for_version": "9.4.0",
+    "dependencies": []
+}

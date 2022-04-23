@@ -1,0 +1,95 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Container Network Interface - networking for Linux containers",
+    "forks": 895,
+    "homepage": "https://github.com/containernetworking/cni",
+    "keywords": [
+        "containers",
+        "docker",
+        "kubernetes",
+        "networking"
+    ],
+    "language": "Go",
+    "latest_download_url": "https://conda.anaconda.org/conda-forge/linux-64/cni-1.0.1-ha975731_0.tar.bz2",
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2021-09-13T14:13:08.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2021-09-13T14:13:08.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "cni",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://anaconda.org/conda-forge/cni",
+    "platform": "Conda",
+    "rank": 14,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/containernetworking/cni",
+    "stars": 4047,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.7.1",
+            "published_at": "2019-08-02T14:59:33.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "0.8.0",
+            "published_at": "2020-09-17T13:11:21.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "0.8.1",
+            "published_at": "2021-02-02T18:45:34.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2021-02-03T08:21:52.168Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2021-08-06T17:49:48.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2021-09-13T14:13:08.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        }
+    ]
+}

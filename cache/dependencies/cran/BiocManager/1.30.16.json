@@ -1,0 +1,282 @@
+{
+    "dependent_repos_count": 26,
+    "dependents_count": 34,
+    "deprecation_reason": null,
+    "description": "Access the Bioconductor Project Package Repository",
+    "forks": 15,
+    "homepage": "",
+    "keywords": [
+        "core-services"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/BiocManager_1.30.16.tar.gz",
+    "latest_release_number": "1.30.16",
+    "latest_release_published_at": "2021-06-15T00:00:00.000Z",
+    "latest_stable_release_number": "1.30.16",
+    "latest_stable_release_published_at": "2021-06-15T00:00:00.000Z",
+    "license_normalized": false,
+    "licenses": "Artistic-2.0",
+    "name": "BiocManager",
+    "normalized_licenses": [
+        "Artistic-2.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=BiocManager",
+    "platform": "CRAN",
+    "rank": 17,
+    "repository_license": null,
+    "repository_url": "https://github.com/Bioconductor/BiocManager",
+    "stars": 47,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.30.1",
+            "published_at": "2018-06-15T10:57:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.10",
+            "published_at": "2019-11-16T06:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.12",
+            "published_at": "2021-03-28T08:51:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.13",
+            "published_at": "2021-05-07T16:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.14",
+            "published_at": "2021-05-10T09:22:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.15",
+            "published_at": "2021-05-11T14:12:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.16",
+            "published_at": "2021-06-15T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.2",
+            "published_at": "2018-08-24T16:46:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.3",
+            "published_at": "2018-10-11T01:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.4",
+            "published_at": "2018-11-13T09:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.7",
+            "published_at": "2019-10-07T19:20:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.8",
+            "published_at": "2019-10-16T06:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.30.9",
+            "published_at": "2019-10-23T07:10:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.30.16",
+    "dependencies": [
+        {
+            "project_name": "knitr",
+            "name": "knitr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.15.1",
+            "latest": "1.38",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "curl",
+            "name": "curl",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "4.3.2",
+            "latest": "4.3.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "withr",
+            "name": "withr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.4.0",
+            "latest": "2.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rmarkdown",
+            "name": "rmarkdown",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.6",
+            "latest": "2.13",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "remotes",
+            "name": "remotes",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.4.1",
+            "latest": "2.4.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "BiocVersion",
+            "name": "BiocVersion",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "utils",
+            "name": "utils",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        }
+    ]
+}

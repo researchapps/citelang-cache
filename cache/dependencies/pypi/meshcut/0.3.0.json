@@ -1,0 +1,124 @@
+{
+    "dependent_repos_count": 3,
+    "dependents_count": 4,
+    "deprecation_reason": null,
+    "description": "Utilities to slice 3D triangular meshes.",
+    "forks": 23,
+    "homepage": "https://github.com/julienr/meshcut",
+    "keywords": [
+        "mesh",
+        "slice",
+        "cross-section",
+        "3D",
+        "triangular"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.3.0",
+    "latest_release_published_at": "2022-01-08T12:35:38.000Z",
+    "latest_stable_release_number": "0.3.0",
+    "latest_stable_release_published_at": "2022-01-08T12:35:38.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "meshcut",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/meshcut/",
+    "platform": "Pypi",
+    "rank": 12,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/julienr/meshcut",
+    "stars": 51,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2015-05-24T12:31:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2018-10-18T08:28:52.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2018-10-18T08:42:58.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2022-01-08T12:35:38.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.3.0",
+    "dependencies": [
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.22.3",
+            "latest": "1.22.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy-stl",
+            "name": "numpy-stl",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.16.3",
+            "latest": "2.16.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

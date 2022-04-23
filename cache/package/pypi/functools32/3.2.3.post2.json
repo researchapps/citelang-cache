@@ -1,0 +1,60 @@
+{
+    "dependent_repos_count": 3418,
+    "dependents_count": 111,
+    "deprecation_reason": null,
+    "description": "Backport of the functools module from Python 3.2.3 for use on 2.7 and PyPy.",
+    "forks": 12,
+    "homepage": "https://github.com/MiCHiLU/python-functools32",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "3.2.3",
+    "latest_release_published_at": "2021-12-15T14:08:21.935Z",
+    "latest_stable_release_number": "3.2.3",
+    "latest_stable_release_published_at": "2021-12-15T14:08:21.935Z",
+    "license_normalized": true,
+    "licenses": "PSF license",
+    "name": "functools32",
+    "normalized_licenses": [
+        "psfrag"
+    ],
+    "package_manager_url": "https://pypi.org/project/functools32/",
+    "platform": "Pypi",
+    "rank": 20,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/MiCHiLU/python-functools32",
+    "stars": 51,
+    "status": null,
+    "versions": [
+        {
+            "number": "3.2.3-1",
+            "published_at": "2012-09-19T04:48:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.2.3-2",
+            "published_at": "2015-07-11T02:46:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.2.3",
+            "published_at": "2021-12-15T14:08:21.935Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

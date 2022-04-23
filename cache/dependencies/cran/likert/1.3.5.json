@@ -1,0 +1,243 @@
+{
+    "dependent_repos_count": 8,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "Analysis and Visualization Likert Items",
+    "forks": 0,
+    "homepage": "http://jason.bryer.org/likert",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/likert_1.3.5.tar.gz",
+    "latest_release_number": "1.3.5",
+    "latest_release_published_at": "2016-12-31T00:00:00.000Z",
+    "latest_stable_release_number": "1.3.5",
+    "latest_stable_release_published_at": "2016-12-31T00:00:00.000Z",
+    "license_normalized": false,
+    "licenses": "GPL-2 | GPL-3 [expanded from: GPL]",
+    "name": "likert",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible",
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=likert",
+    "platform": "CRAN",
+    "rank": 6,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.1",
+            "published_at": "2013-09-25T22:24:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.2",
+            "published_at": "2014-10-17T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.3.0",
+            "published_at": "2015-10-23T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.3.1",
+            "published_at": "2015-11-03T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.3.3",
+            "published_at": "2015-12-15T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.3.5",
+            "published_at": "2016-12-31T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.3.5",
+    "dependencies": [
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 3.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "ggplot2",
+            "name": "ggplot2",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.3.5",
+            "latest": "3.3.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "xtable",
+            "name": "xtable",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.8-4",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "psych",
+            "name": "psych",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.2.3",
+            "latest": "2.2.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "reshape2",
+            "name": "reshape2",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.4.3",
+            "latest": "1.4.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "gridExtra",
+            "name": "gridExtra",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.2.1",
+            "latest": "2.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "grid",
+            "name": "grid",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "plyr",
+            "name": "plyr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.8.5",
+            "latest": "1.8.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "devtools",
+            "name": "devtools",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.4.3",
+            "latest": "2.4.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "shiny",
+            "name": "shiny",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.7.1",
+            "latest": "1.7.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "AML"
+            ]
+        }
+    ]
+}

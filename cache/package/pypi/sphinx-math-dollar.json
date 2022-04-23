@@ -1,0 +1,70 @@
+{
+    "dependent_repos_count": 2,
+    "dependents_count": 12,
+    "deprecation_reason": null,
+    "description": "Sphinx extension to let you write LaTeX math using $$",
+    "forks": 4,
+    "homepage": "https://github.com/sympy/sphinx-math-dollar/",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.2",
+    "latest_release_published_at": "2020-09-17T19:03:02.000Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2019-10-01T01:03:16.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "sphinx-math-dollar",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/sphinx-math-dollar/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/sympy/sphinx-math-dollar",
+    "stars": 19,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0",
+            "published_at": "2019-09-16T17:47:41.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2019-09-17T23:57:27.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2019-10-01T01:03:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2",
+            "published_at": "2020-09-17T19:03:02.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

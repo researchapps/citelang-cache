@@ -1,0 +1,135 @@
+{
+    "dependent_repos_count": 5125,
+    "dependents_count": 174,
+    "deprecation_reason": null,
+    "description": "Flash Messages for your Express Application",
+    "forks": 18,
+    "homepage": null,
+    "keywords": [
+        "express",
+        "flash",
+        "messages"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/express-flash/-/express-flash-0.0.2.tgz",
+    "latest_release_number": "0.0.2",
+    "latest_release_published_at": "2013-07-13T22:24:15.103Z",
+    "latest_stable_release_number": "0.0.2",
+    "latest_stable_release_published_at": "2013-07-13T22:24:15.103Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "express-flash",
+    "normalized_licenses": [],
+    "package_manager_url": "https://www.npmjs.com/package/express-flash",
+    "platform": "NPM",
+    "rank": 16,
+    "repository_license": null,
+    "repository_url": "https://github.com/RGBboy/express-flash",
+    "stars": 61,
+    "status": "",
+    "versions": [
+        {
+            "number": "0.0.2",
+            "published_at": "2013-07-13T22:24:15.103Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.2",
+    "dependencies": [
+        {
+            "project_name": "express",
+            "name": "express",
+            "platform": "NPM",
+            "requirements": "3.x.x",
+            "latest_stable": "4.17.3",
+            "latest": "4.17.3",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "jade",
+            "name": "jade",
+            "platform": "NPM",
+            "requirements": "0.x.x",
+            "latest_stable": "1.11.0",
+            "latest": "1.11.0",
+            "deprecated": true,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "mocha",
+            "name": "mocha",
+            "platform": "NPM",
+            "requirements": "1.x.x",
+            "latest_stable": "9.2.2",
+            "latest": "9.2.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "superagent",
+            "name": "superagent",
+            "platform": "NPM",
+            "requirements": "0.x.x",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "should",
+            "name": "should",
+            "platform": "NPM",
+            "requirements": "1.x.x",
+            "latest_stable": "13.2.3",
+            "latest": "13.2.3",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "connect-flash",
+            "name": "connect-flash",
+            "platform": "NPM",
+            "requirements": "0.1.x",
+            "latest_stable": "0.1.1",
+            "latest": "0.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

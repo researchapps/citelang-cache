@@ -1,0 +1,148 @@
+{
+    "dependent_repos_count": 42,
+    "dependents_count": 6,
+    "deprecation_reason": null,
+    "description": "A straight-forward WebDAV client, implemented using Requests",
+    "forks": 94,
+    "homepage": "http://github.com/amnong/easywebdav",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.2.0",
+    "latest_release_published_at": "2014-05-30T21:33:58.000Z",
+    "latest_stable_release_number": "1.2.0",
+    "latest_stable_release_published_at": "2014-05-30T21:33:58.000Z",
+    "license_normalized": false,
+    "licenses": "ISC",
+    "name": "easywebdav",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://pypi.org/project/easywebdav/",
+    "platform": "Pypi",
+    "rank": 15,
+    "repository_license": "ISC",
+    "repository_url": "https://github.com/amnong/easywebdav",
+    "stars": 117,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2012-03-11T10:43:08.000Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2012-03-11T11:57:12.000Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2012-03-12T12:29:41.000Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2012-06-17T16:23:07.000Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.4",
+            "published_at": "2012-06-20T13:41:58.000Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.5",
+            "published_at": "2012-08-25T19:40:44.000Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.6",
+            "published_at": "2012-11-13T22:05:09.000Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.7",
+            "published_at": "2012-11-13T22:38:09.000Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2014-05-30T20:58:30.000Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2014-05-30T21:33:58.000Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.2.0",
+    "dependencies": [
+        {
+            "project_name": "requests",
+            "name": "requests",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.27.1",
+            "latest": "2.27.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Portable Native and Joint Stack Traces",
+    "forks": 2,
+    "homepage": "https://r-prof.github.io/winch/",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/winch_0.0.8.tar.gz",
+    "latest_release_number": "0.0.8",
+    "latest_release_published_at": "2022-03-17T00:00:00.000Z",
+    "latest_stable_release_number": "0.0.8",
+    "latest_stable_release_published_at": "2022-03-17T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-3",
+    "name": "winch",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=winch",
+    "platform": "CRAN",
+    "rank": 10,
+    "repository_license": null,
+    "repository_url": "https://github.com/r-prof/winch",
+    "stars": 8,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2020-10-05T13:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.0.5",
+            "published_at": "2020-11-09T23:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.0.6",
+            "published_at": "2020-11-16T08:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.0.7",
+            "published_at": "2021-10-24T11:20:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.0.8",
+            "published_at": "2022-03-17T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.8",
+    "dependencies": [
+        {
+            "project_name": "vctrs",
+            "name": "vctrs",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.4.0",
+            "latest": "0.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": ">= 3.0.0",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "RSQLite",
+            "name": "RSQLite",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.2.11",
+            "latest": "2.2.11",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CERN-OHL-S-2.0",
+                "CERN-OHL-W-2.0"
+            ]
+        },
+        {
+            "project_name": "rmarkdown",
+            "name": "rmarkdown",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.6",
+            "latest": "2.13",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "rlang",
+            "name": "rlang",
+            "platform": "CRAN",
+            "requirements": ">= 0.4.8",
+            "latest_stable": "1.0.1",
+            "latest": "1.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "purrr",
+            "name": "purrr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.3.4",
+            "latest": "0.3.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "AML"
+            ]
+        },
+        {
+            "project_name": "magrittr",
+            "name": "magrittr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.0.3",
+            "latest": "2.0.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "knitr",
+            "name": "knitr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.15.1",
+            "latest": "1.38",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "DBI",
+            "name": "DBI",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.1.2",
+            "latest": "1.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CERN-OHL-S-2.0",
+                "CERN-OHL-W-2.0"
+            ]
+        },
+        {
+            "project_name": "procmaps",
+            "name": "procmaps",
+            "platform": "CRAN",
+            "requirements": ">= 0.0.2",
+            "latest_stable": "0.0.4",
+            "latest": "0.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        }
+    ]
+}

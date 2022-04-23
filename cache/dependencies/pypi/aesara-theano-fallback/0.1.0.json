@@ -1,0 +1,78 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 9,
+    "deprecation_reason": null,
+    "description": "Striving towards backwards compatibility with the Theano -> Aesara transition",
+    "forks": 0,
+    "homepage": "https://github.com/exoplanet-dev/aesara-theano-fallback",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.1.0",
+    "latest_release_published_at": "2022-01-10T21:23:27.000Z",
+    "latest_stable_release_number": "0.1.0",
+    "latest_stable_release_published_at": "2022-01-10T21:23:27.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "aesara-theano-fallback",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/aesara-theano-fallback/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/exoplanet-dev/aesara-theano-fallback",
+    "stars": 1,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.2",
+            "published_at": "2021-03-10T17:35:07.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2021-03-11T19:55:18.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2022-01-10T21:23:27.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.0",
+    "dependencies": [
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.1",
+            "latest": "7.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

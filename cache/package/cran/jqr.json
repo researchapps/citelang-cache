@@ -1,0 +1,116 @@
+{
+    "dependent_repos_count": 13,
+    "dependents_count": 7,
+    "deprecation_reason": null,
+    "description": "Client for 'jq', a 'JSON' Processor",
+    "forks": 14,
+    "homepage": "https://docs.ropensci.org/jqr/ (docs)",
+    "keywords": [
+        "jq",
+        "json",
+        "r",
+        "r-package",
+        "rstats"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/jqr_1.2.1.tar.gz",
+    "latest_release_number": "1.2.1",
+    "latest_release_published_at": "2021-05-06T00:00:00.000Z",
+    "latest_stable_release_number": "1.2.1",
+    "latest_stable_release_published_at": "2021-05-06T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "jqr",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=jqr",
+    "platform": "CRAN",
+    "rank": 14,
+    "repository_license": "Other",
+    "repository_url": "",
+    "stars": 126,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.2.0",
+            "published_at": "2016-03-23T23:24:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2016-05-03T01:56:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.3",
+            "published_at": "2016-05-10T06:56:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.4",
+            "published_at": "2016-07-29T06:41:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2017-09-28T16:39:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2018-10-23T00:22:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2020-11-13T17:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.2.1",
+            "published_at": "2021-05-06T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

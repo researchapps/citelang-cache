@@ -1,0 +1,50 @@
+{
+    "dependent_repos_count": 3,
+    "dependents_count": 4,
+    "deprecation_reason": null,
+    "description": "Split, Combine and Compress PDF Files",
+    "forks": 0,
+    "homepage": "https://github.com/ropensci/qpdf (devel)",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/qpdf_1.1.tar.gz",
+    "latest_release_number": "1.1",
+    "latest_release_published_at": "2019-03-07T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "Apache License 2.0",
+    "name": "qpdf",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=qpdf",
+    "platform": "CRAN",
+    "rank": 6,
+    "repository_license": null,
+    "repository_url": "https://github.com/ropensci/qpdfdevel",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0",
+            "published_at": "2019-02-28T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2019-03-07T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "dependent_repos_count": 1020,
+    "dependents_count": 202,
+    "deprecation_reason": null,
+    "description": "Utility library for gitignore style pattern matching of file paths.",
+    "forks": 28,
+    "homepage": "https://github.com/cpburnz/python-path-specification",
+    "keywords": [
+        "gitignore-patterns",
+        "python",
+        "wildmatch"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.9.0",
+    "latest_release_published_at": "2021-07-18T00:27:58.000Z",
+    "latest_stable_release_number": "0.9.0",
+    "latest_stable_release_published_at": "2021-07-18T00:27:58.000Z",
+    "license_normalized": true,
+    "licenses": "MPL 2.0",
+    "name": "pathspec",
+    "normalized_licenses": [
+        "MPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pathspec/",
+    "platform": "Pypi",
+    "rank": 19,
+    "repository_license": "MPL-2.0",
+    "repository_url": "https://github.com/cpburnz/python-path-specification",
+    "stars": 84,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.2.2",
+            "published_at": "2013-12-17T17:01:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MPL 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2014-09-18T02:55:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MPL 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2014-09-18T03:10:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MPL 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2014-11-08T15:32:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MPL 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.3",
+            "published_at": "2014-11-21T12:58:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MPL 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.4",
+            "published_at": "2015-08-24T12:57:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MPL 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2016-07-15T13:33:17.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2016-08-23T02:08:08.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2017-04-05T02:35:17.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2017-04-05T02:38:33.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.3",
+            "published_at": "2017-07-01T20:17:17.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.4",
+            "published_at": "2017-09-09T14:00:37.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.5",
+            "published_at": "2017-09-09T14:05:57.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.6",
+            "published_at": "2018-04-06T13:24:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.7",
+            "published_at": "2018-08-14T13:30:49.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.8",
+            "published_at": "2018-09-15T16:45:07.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.9",
+            "published_at": "2018-09-15T17:51:54.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2019-10-04T01:08:45.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.0",
+            "published_at": "2019-12-27T15:32:04.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.0",
+            "published_at": "2020-04-09T13:08:35.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MPL 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.1",
+            "published_at": "2020-11-07T19:39:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MPL 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.0",
+            "published_at": "2021-07-18T00:27:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MPL 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

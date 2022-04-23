@@ -1,0 +1,140 @@
+{
+    "dependent_repos_count": 311,
+    "dependents_count": 30,
+    "deprecation_reason": null,
+    "description": "Pytest plugin for controlling remote data access.",
+    "forks": 11,
+    "homepage": "https://github.com/astropy/pytest-remotedata",
+    "keywords": [
+        "remote",
+        "data",
+        "pytest",
+        "py",
+        "test"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.3.3",
+    "latest_release_published_at": "2021-12-21T22:23:37.000Z",
+    "latest_stable_release_number": "0.3.3",
+    "latest_stable_release_published_at": "2021-12-21T22:23:37.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "pytest-remotedata",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-remotedata/",
+    "platform": "Pypi",
+    "rank": 15,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/astropy/pytest-remotedata",
+    "stars": 9,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2017-10-10T17:52:26.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2017-11-10T15:24:03.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2018-04-20T17:42:24.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2018-05-29T20:32:04.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2018-10-23T20:41:01.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2019-07-20T14:19:36.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.3",
+            "published_at": "2021-12-21T22:23:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.3.3",
+    "dependencies": [
+        {
+            "project_name": "packaging",
+            "name": "packaging",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "21.3",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-2-Clause",
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": ">=4.6",
+            "latest_stable": "7.1.1",
+            "latest": "7.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "dependent_repos_count": 48,
+    "dependents_count": 16,
+    "deprecation_reason": null,
+    "description": "A pure Python implementation of systemd's service notification protocol (sd_notify)",
+    "forks": 2,
+    "homepage": "https://github.com/bb4242/sdnotify",
+    "keywords": [
+        "systemd",
+        "protocol",
+        "python",
+        "systemd-service-notification"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.3.2",
+    "latest_release_published_at": "2017-08-02T20:03:44.000Z",
+    "latest_stable_release_number": "0.3.2",
+    "latest_stable_release_published_at": "2017-08-02T20:03:44.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "sdnotify",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/sdnotify/",
+    "platform": "Pypi",
+    "rank": 12,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/bb4242/sdnotify",
+    "stars": 22,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.3.0",
+            "published_at": "2016-01-15T22:31:41.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2016-06-15T20:55:06.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2017-08-02T20:03:44.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

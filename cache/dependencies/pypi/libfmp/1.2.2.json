@@ -1,0 +1,262 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Python module for fundamentals of music processing",
+    "forks": 0,
+    "homepage": "http://audiolabs-erlangen.de/FMP",
+    "keywords": [
+        "audio",
+        "music",
+        "sound"
+    ],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "1.2.2",
+    "latest_release_published_at": "2021-11-29T08:06:55.000Z",
+    "latest_stable_release_number": "1.2.2",
+    "latest_stable_release_published_at": "2021-11-29T08:06:55.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "libfmp",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/libfmp/",
+    "platform": "Pypi",
+    "rank": 6,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.1.0",
+            "published_at": "2020-12-10T12:32:18.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2020-12-15T09:41:09.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.2",
+            "published_at": "2021-04-26T08:50:44.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2021-07-15T11:50:16.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.1",
+            "published_at": "2021-07-22T11:14:00.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.2",
+            "published_at": "2021-11-29T08:06:55.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.2.2",
+    "dependencies": [
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "==6.2.*",
+            "latest_stable": "7.1.1",
+            "latest": "7.1.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "<2.0.0,>=1.3.0",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pysoundfile",
+            "name": "pysoundfile",
+            "platform": "Pypi",
+            "requirements": "<1.0.0,>=0.9.0",
+            "latest_stable": "0.9.0",
+            "latest": "0.9.0.post1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "pretty-midi",
+            "name": "pretty-midi",
+            "platform": "Pypi",
+            "requirements": "<1.0.0,>=0.2.0",
+            "latest_stable": "0.2.9",
+            "latest": "0.2.9",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pandas",
+            "name": "pandas",
+            "platform": "Pypi",
+            "requirements": "<2.0.0,>=1.0.0",
+            "latest_stable": "1.4.2",
+            "latest": "1.4.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "<2.0.0,>=1.17.0",
+            "latest_stable": "1.22.3",
+            "latest": "1.22.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numba",
+            "name": "numba",
+            "platform": "Pypi",
+            "requirements": "<1.0.0,>=0.51.0",
+            "latest_stable": "0.55.1",
+            "latest": "0.55.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "music21",
+            "name": "music21",
+            "platform": "Pypi",
+            "requirements": "<6.0.0,>=5.7.0",
+            "latest_stable": "7.3.1",
+            "latest": "7.3.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "matplotlib",
+            "name": "matplotlib",
+            "platform": "Pypi",
+            "requirements": "<4.0.0,>=3.1.0",
+            "latest_stable": "3.5.1",
+            "latest": "3.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "project_name": "librosa",
+            "name": "librosa",
+            "platform": "Pypi",
+            "requirements": "<1.0.0,>=0.8.0",
+            "latest_stable": "0.9.1",
+            "latest": "0.9.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "ISC"
+            ]
+        },
+        {
+            "project_name": "ipython",
+            "name": "ipython",
+            "platform": "Pypi",
+            "requirements": "<8.0.0,>=7.8.0",
+            "latest_stable": "8.2.0",
+            "latest": "8.2.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

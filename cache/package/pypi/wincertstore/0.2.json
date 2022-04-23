@@ -1,0 +1,66 @@
+{
+    "dependent_repos_count": 1712,
+    "dependents_count": 68,
+    "deprecation_reason": null,
+    "description": "Python module to extract CA and CRL certs from Windows' cert store (ctypes based).",
+    "forks": 0,
+    "homepage": "https://github.com/tiran/wincertstore",
+    "keywords": [
+        "windows",
+        "cert",
+        "ssl",
+        "ca",
+        "crl"
+    ],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "0.2.1",
+    "latest_release_published_at": "2021-06-08T11:20:50.000Z",
+    "latest_stable_release_number": "0.2.1",
+    "latest_stable_release_published_at": "2021-06-08T11:20:50.000Z",
+    "license_normalized": true,
+    "licenses": "PSFL",
+    "name": "wincertstore",
+    "normalized_licenses": [
+        "Python-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/wincertstore/",
+    "platform": "Pypi",
+    "rank": 12,
+    "repository_license": null,
+    "repository_url": "https://github.com/tiran/wincertstore",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2013-03-22T16:23:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSFL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2014-02-26T11:42:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSFL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2021-06-08T11:20:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSFL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

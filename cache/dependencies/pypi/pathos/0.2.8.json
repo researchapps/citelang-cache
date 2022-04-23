@@ -1,0 +1,203 @@
+{
+    "dependent_repos_count": 209,
+    "dependents_count": 185,
+    "deprecation_reason": null,
+    "description": "parallel graph management and execution in heterogeneous computing",
+    "forks": 85,
+    "homepage": "https://github.com/uqfoundation/pathos",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.2.8",
+    "latest_release_published_at": "2021-06-14T13:15:53.000Z",
+    "latest_stable_release_number": "0.2.8",
+    "latest_stable_release_published_at": "2021-06-14T13:15:53.000Z",
+    "license_normalized": true,
+    "licenses": "3-clause BSD",
+    "name": "pathos",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pathos/",
+    "platform": "Pypi",
+    "rank": 17,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/uqfoundation/pathos",
+    "stars": 941,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1a1",
+            "published_at": "2015-12-22T20:23:38.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2016-07-18T08:30:56.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2017-07-07T23:19:30.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2018-06-21T06:30:44.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2.1",
+            "published_at": "2018-07-05T13:22:02.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.3",
+            "published_at": "2019-01-22T00:43:51.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.4",
+            "published_at": "2019-06-27T18:45:38.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.5",
+            "published_at": "2019-09-28T17:56:14.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.6",
+            "published_at": "2020-06-16T14:27:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "3-clause BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.7",
+            "published_at": "2020-11-02T23:16:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "3-clause BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.8",
+            "published_at": "2021-06-14T13:15:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "3-clause BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.2.8",
+    "dependencies": [
+        {
+            "project_name": "ppft",
+            "name": "ppft",
+            "platform": "Pypi",
+            "requirements": ">=1.6.6.4",
+            "latest_stable": null,
+            "latest": "1.6.6.4",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Other"
+            ]
+        },
+        {
+            "project_name": "pox",
+            "name": "pox",
+            "platform": "Pypi",
+            "requirements": ">=0.3.0",
+            "latest_stable": "0.3.0",
+            "latest": "0.3.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "multiprocess",
+            "name": "multiprocess",
+            "platform": "Pypi",
+            "requirements": ">=0.70.12",
+            "latest_stable": "0.70.12",
+            "latest": "0.70.12.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "dill",
+            "name": "dill",
+            "platform": "Pypi",
+            "requirements": ">=0.3.4",
+            "latest_stable": "0.3.4",
+            "latest": "0.3.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

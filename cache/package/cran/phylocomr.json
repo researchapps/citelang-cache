@@ -1,0 +1,67 @@
+{
+    "dependent_repos_count": 1,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Interface to 'Phylocom'",
+    "forks": 4,
+    "homepage": "https://github.com/ropensci/phylocomr",
+    "keywords": [
+        "community-ecology",
+        "ecology",
+        "evolution",
+        "r",
+        "r-package",
+        "rstats"
+    ],
+    "language": "C",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/phylocomr_0.1.4.tar.gz",
+    "latest_release_number": "0.1.4",
+    "latest_release_published_at": "2019-07-24T00:00:00.000Z",
+    "latest_stable_release_number": "0.1.4",
+    "latest_stable_release_published_at": "2019-07-24T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "BSD_2_clause + file LICENSE",
+    "name": "phylocomr",
+    "normalized_licenses": [
+        "BSD-1-Clause"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=phylocomr",
+    "platform": "CRAN",
+    "rank": 9,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/ropensci/phylocomr",
+    "stars": 15,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2018-11-19T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2018-11-29T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.4",
+            "published_at": "2019-07-24T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

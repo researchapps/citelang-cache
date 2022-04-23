@@ -1,0 +1,65 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "A collection of tools for the analysis of nanocrystals.",
+    "forks": 2,
+    "homepage": "https://github.com/nlesc-nano/nano-CAT",
+    "keywords": [
+        "quantum-mechanics",
+        "molecular-mechanics",
+        "science",
+        "chemistry",
+        "python-3",
+        "python-3-7",
+        "python-3-8",
+        "python-3-9",
+        "automation",
+        "scientific-workflows",
+        "python-3-6",
+        "scientific-workflow",
+        "workflow"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.7.1",
+    "latest_release_published_at": "2021-12-02T16:31:15.000Z",
+    "latest_stable_release_number": "0.7.1",
+    "latest_stable_release_published_at": "2021-12-02T16:31:15.000Z",
+    "license_normalized": true,
+    "licenses": "GNU Lesser General Public License v3 or later",
+    "name": "Nano-CAT",
+    "normalized_licenses": [
+        "LGPL-3.0",
+        "GPL-3.0+"
+    ],
+    "package_manager_url": "https://pypi.org/project/Nano-CAT/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/nlesc-nano/nano-CAT",
+    "stars": 1,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.7.0",
+            "published_at": "2021-11-17T14:16:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License v3 or later",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2021-12-02T16:31:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License v3 or later",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

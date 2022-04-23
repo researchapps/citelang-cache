@@ -1,0 +1,178 @@
+{
+    "dependent_repos_count": 125,
+    "dependents_count": 67,
+    "deprecation_reason": null,
+    "description": "a fast newline (or any delimiter) splitter stream - like require('split') but faster",
+    "forks": 17,
+    "homepage": "https://github.com/maxogden/binary-split#readme",
+    "keywords": [],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/binary-split/-/binary-split-1.0.5.tgz",
+    "latest_release_number": "1.0.5",
+    "latest_release_published_at": "2018-10-23T12:02:58.653Z",
+    "latest_stable_release_number": "1.0.5",
+    "latest_stable_release_published_at": "2018-10-23T12:02:58.653Z",
+    "license_normalized": false,
+    "licenses": "BSD-2-Clause",
+    "name": "binary-split",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/binary-split",
+    "platform": "NPM",
+    "rank": 16,
+    "repository_license": "BSD-2-Clause",
+    "repository_url": "https://github.com/maxogden/binary-split",
+    "stars": 65,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2013-09-07T12:55:45.961Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2013-09-13T13:49:20.010Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2013-12-11T18:46:28.984Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2014-02-21T20:48:05.601Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2015-11-28T20:46:41.189Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2016-03-15T13:54:17.024Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2016-03-16T14:18:52.822Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2016-08-22T09:47:43.169Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.4",
+            "published_at": "2018-10-23T12:01:16.832Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.5",
+            "published_at": "2018-10-23T12:02:58.653Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.5",
+    "dependencies": [
+        {
+            "project_name": "standard",
+            "name": "standard",
+            "platform": "NPM",
+            "requirements": "^12.0.1",
+            "latest_stable": "16.0.4",
+            "latest": "17.0.0-2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "through2",
+            "name": "through2",
+            "platform": "NPM",
+            "requirements": "^2.0.3",
+            "latest_stable": "4.0.2",
+            "latest": "4.0.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "tape",
+            "name": "tape",
+            "platform": "NPM",
+            "requirements": "~4.9.1",
+            "latest_stable": "5.5.3",
+            "latest": "5.5.3",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 14,
+    "deprecation_reason": null,
+    "description": "Find Differences Between R Objects",
+    "forks": 14,
+    "homepage": "https://github.com/r-lib/waldo",
+    "keywords": [
+        "diff",
+        "r",
+        "testing"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/waldo_0.2.0.tar.gz",
+    "latest_release_number": "0.2.0",
+    "latest_release_published_at": "2020-07-13T00:00:00.000Z",
+    "latest_stable_release_number": "0.2.0",
+    "latest_stable_release_published_at": "2020-07-13T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "waldo",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=waldo",
+    "platform": "CRAN",
+    "rank": 12,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/r-lib/waldo",
+    "stars": 225,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2020-04-16T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2020-07-13T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

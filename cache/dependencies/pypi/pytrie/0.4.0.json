@@ -1,0 +1,82 @@
+{
+    "dependent_repos_count": 73,
+    "dependents_count": 5,
+    "deprecation_reason": null,
+    "description": "A pure Python implementation of the trie data structure.",
+    "forks": 6,
+    "homepage": "https://github.com/gsakkis/pytrie/",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.4.0",
+    "latest_release_published_at": "2020-10-21T15:39:30.000Z",
+    "latest_stable_release_number": "0.4.0",
+    "latest_stable_release_published_at": "2020-10-21T15:39:30.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "PyTrie",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/PyTrie/",
+    "platform": "Pypi",
+    "rank": 12,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/gsakkis/pytrie",
+    "stars": 18,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2009-12-22T00:27:48.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2013-12-02T10:16:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2016-12-27T16:23:04.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2018-07-28T17:17:27.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2020-10-21T15:39:30.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.4.0",
+    "dependencies": []
+}

@@ -1,0 +1,958 @@
+{
+    "dependent_repos_count": 31304,
+    "dependents_count": 4369,
+    "deprecation_reason": null,
+    "description": "Mocking and stubbing library with JMock/SchMock syntax, which allows mocking and stubbing of methods on real (non-mock) classes.",
+    "forks": 150,
+    "homepage": "https://mocha.jamesmead.org",
+    "keywords": [
+        "ruby",
+        "testing",
+        "mock",
+        "stub",
+        "minitest",
+        "test-unit"
+    ],
+    "language": "Ruby",
+    "latest_download_url": "https://rubygems.org/downloads/mocha-1.13.0.gem",
+    "latest_release_number": "1.13.0",
+    "latest_release_published_at": "2021-06-25T13:51:44.300Z",
+    "latest_stable_release_number": "1.13.0",
+    "latest_stable_release_published_at": "2021-06-25T13:51:44.300Z",
+    "license_normalized": true,
+    "licenses": "MIT,BSD-2-Clause",
+    "name": "mocha",
+    "normalized_licenses": [
+        "MIT",
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://rubygems.org/gems/mocha",
+    "platform": "Rubygems",
+    "rank": 25,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/freerange/mocha",
+    "stars": 1084,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2009-07-25T18:07:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.10.0",
+            "published_at": "2011-09-05T14:10:40.270Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.10.1",
+            "published_at": "2012-01-16T21:22:55.356Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.10.2",
+            "published_at": "2012-01-17T22:07:46.563Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.10.3",
+            "published_at": "2012-01-20T12:36:58.767Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.10.4",
+            "published_at": "2012-02-10T11:40:32.637Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.10.5",
+            "published_at": "2012-02-29T12:16:42.091Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2009-07-25T18:07:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.11.0",
+            "published_at": "2012-04-19T09:56:46.480Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.11.1",
+            "published_at": "2012-04-21T10:47:21.694Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.11.2",
+            "published_at": "2012-04-24T10:18:11.884Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.11.3",
+            "published_at": "2012-04-25T15:52:51.757Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.11.4",
+            "published_at": "2012-05-04T14:45:27.609Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2009-07-25T18:07:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.0",
+            "published_at": "2012-07-04T14:59:56.949Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.1",
+            "published_at": "2012-07-19T08:54:54.918Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.10",
+            "published_at": "2013-02-16T21:12:39.991Z",
+            "spdx_expression": "NONE",
+            "original_license": [],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.2",
+            "published_at": "2012-08-02T10:01:20.257Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.3",
+            "published_at": "2012-08-06T10:56:22.100Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.4",
+            "published_at": "2012-09-06T08:46:42.256Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.5",
+            "published_at": "2012-09-25T17:54:06.444Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.6",
+            "published_at": "2012-09-28T09:28:34.398Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.7",
+            "published_at": "2012-10-10T21:07:18.026Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.8",
+            "published_at": "2013-01-10T16:00:23.160Z",
+            "spdx_expression": "NONE",
+            "original_license": [],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.9",
+            "published_at": "2013-02-02T12:57:15.929Z",
+            "spdx_expression": "NONE",
+            "original_license": [],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.13.0",
+            "published_at": "2012-11-11T18:07:40.652Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.13.1",
+            "published_at": "2012-12-04T10:35:25.777Z",
+            "spdx_expression": "NONE",
+            "original_license": [],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.13.2",
+            "published_at": "2013-01-23T08:18:20.343Z",
+            "spdx_expression": "NONE",
+            "original_license": [],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.13.3",
+            "published_at": "2013-03-07T17:32:52.660Z",
+            "spdx_expression": "NONE",
+            "original_license": [],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.14.0",
+            "published_at": "2013-05-14T21:35:43.929Z",
+            "spdx_expression": "NONE",
+            "original_license": [],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.14.0.alpha",
+            "published_at": "2013-05-08T21:03:20.218Z",
+            "spdx_expression": "NONE",
+            "original_license": [],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2009-07-25T18:07:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2009-07-25T18:07:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2009-07-25T18:07:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2009-07-25T18:07:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2009-07-25T18:07:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.3.3",
+            "published_at": "2009-07-25T18:07:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2009-07-25T18:07:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2009-07-25T18:07:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.5.3",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.5.4",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.5.5",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.5.6",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.0",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.1",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.10",
+            "published_at": "2010-11-25T16:03:54.311Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.11",
+            "published_at": "2011-02-03T23:51:03.342Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.12",
+            "published_at": "2011-02-13T00:51:09.094Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.2",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.3",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.4",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.5",
+            "published_at": "2009-07-25T18:07:02.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.6",
+            "published_at": "2009-08-05T00:50:34.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.7",
+            "published_at": "2009-08-05T00:50:30.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.8",
+            "published_at": "2009-09-24T22:15:37.756Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.9",
+            "published_at": "2010-10-22T15:04:18.515Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2014-01-11T16:53:25.162Z",
+            "spdx_expression": "NONE",
+            "original_license": [],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.0.0.alpha",
+            "published_at": "2013-12-31T14:13:30.033Z",
+            "spdx_expression": "NONE",
+            "original_license": [],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2014-05-13T19:09:00.550Z",
+            "spdx_expression": "NONE",
+            "original_license": [],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.10.0",
+            "published_at": "2019-12-02T18:25:33.094Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.10.0.alpha",
+            "published_at": "2019-11-24T16:48:23.014Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.10.0.beta.1",
+            "published_at": "2019-11-26T22:02:08.269Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.10.1",
+            "published_at": "2019-12-04T09:25:06.716Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.10.2",
+            "published_at": "2019-12-12T11:13:22.972Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.11.0",
+            "published_at": "2019-12-16T19:00:25.356Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.11.1",
+            "published_at": "2019-12-17T13:07:37.625Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.11.2",
+            "published_at": "2020-01-04T17:39:41.892Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.12.0",
+            "published_at": "2020-12-23T15:46:38.051Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.13.0",
+            "published_at": "2021-06-25T13:51:44.300Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2016-10-10T14:40:25.745Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.2.1",
+            "published_at": "2016-10-15T13:09:13.699Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.3.0",
+            "published_at": "2017-08-24T21:45:10.777Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.4.0",
+            "published_at": "2018-03-20T19:47:59.740Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.5.0",
+            "published_at": "2018-04-06T17:01:37.357Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.6.0",
+            "published_at": "2018-07-23T18:47:27.280Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.7.0",
+            "published_at": "2018-08-09T17:37:57.198Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.8.0",
+            "published_at": "2019-01-15T17:16:26.067Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "1.9.0",
+            "published_at": "2019-06-17T18:43:13.609Z",
+            "spdx_expression": "MIT AND BSD-2-Clause",
+            "original_license": [
+                "MIT",
+                "BSD-2-Clause"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.13.0",
+    "dependencies": [
+        {
+            "project_name": "rubocop",
+            "name": "rubocop",
+            "platform": "Rubygems",
+            "requirements": "<= 0.58.2",
+            "latest_stable": "1.26.1",
+            "latest": "1.27.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rake",
+            "name": "rake",
+            "platform": "Rubygems",
+            "requirements": ">= 0",
+            "latest_stable": "13.0.6",
+            "latest": "13.0.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "minitest",
+            "name": "minitest",
+            "platform": "Rubygems",
+            "requirements": ">= 0",
+            "latest_stable": "5.15.0",
+            "latest": "5.15.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "introspection",
+            "name": "introspection",
+            "platform": "Rubygems",
+            "requirements": "~> 0.0.1",
+            "latest_stable": "0.0.4",
+            "latest": "0.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

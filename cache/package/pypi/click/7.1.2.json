@@ -1,0 +1,515 @@
+{
+    "dependent_repos_count": 54731,
+    "dependents_count": 14406,
+    "deprecation_reason": null,
+    "description": "Composable command line interface toolkit",
+    "forks": 1240,
+    "homepage": "https://palletsprojects.com/p/click/",
+    "keywords": [
+        "cli",
+        "click",
+        "pallets",
+        "python"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "8.1.2",
+    "latest_release_published_at": "2022-03-31T20:52:50.000Z",
+    "latest_stable_release_number": "8.1.2",
+    "latest_stable_release_published_at": "2022-03-31T20:52:50.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "click",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/click/",
+    "platform": "Pypi",
+    "rank": 28,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/pallets/click",
+    "stars": 12270,
+    "status": "",
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2014-04-28T11:24:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2014-05-05T23:57:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2014-05-06T11:15:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2014-05-06T14:33:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2014-05-06T22:04:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2014-05-06T22:09:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2014-05-07T19:18:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2014-05-11T23:45:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0",
+            "published_at": "2014-05-21T23:30:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2014-05-23T18:31:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0",
+            "published_at": "2014-06-06T14:20:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1",
+            "published_at": "2014-06-14T09:40:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.2",
+            "published_at": "2014-06-26T11:30:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.3",
+            "published_at": "2014-07-03T09:38:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.4",
+            "published_at": "2014-07-04T13:07:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.5",
+            "published_at": "2014-07-27T22:09:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.6",
+            "published_at": "2014-08-11T11:49:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.0",
+            "published_at": "2014-08-12T21:24:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.1",
+            "published_at": "2014-08-13T07:19:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.2",
+            "published_at": "2014-08-22T20:49:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.3",
+            "published_at": "2014-09-07T21:40:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0",
+            "published_at": "2015-03-31T16:02:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.1",
+            "published_at": "2015-07-14T17:48:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0",
+            "published_at": "2015-08-16T17:28:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1",
+            "published_at": "2015-08-17T11:24:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.0",
+            "published_at": "2015-11-24T21:53:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.1",
+            "published_at": "2015-11-27T11:30:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.2",
+            "published_at": "2015-11-27T17:43:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.3",
+            "published_at": "2016-02-22T21:55:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.4",
+            "published_at": "2016-03-23T23:58:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.5",
+            "published_at": "2016-04-04T16:48:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.6",
+            "published_at": "2016-11-21T13:29:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.7",
+            "published_at": "2017-01-06T22:41:15.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.7.dev0",
+            "published_at": "2017-01-06T22:40:24.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "7.0",
+            "published_at": "2018-09-25T20:57:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "7.1",
+            "published_at": "2020-03-09T15:15:59.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "7.1.1",
+            "published_at": "2020-03-09T18:50:57.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "7.1.2",
+            "published_at": "2020-04-27T20:22:42.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.0a1",
+            "published_at": "2020-11-25T18:19:38.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.0rc1",
+            "published_at": "2021-04-16T14:09:35.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.0",
+            "published_at": "2021-05-11T20:45:59.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.1",
+            "published_at": "2021-05-19T21:00:32.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.2",
+            "published_at": "2021-10-08T22:33:16.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.3",
+            "published_at": "2021-10-10T18:07:30.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.4",
+            "published_at": "2022-02-18T20:31:27.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.1.0",
+            "published_at": "2022-03-28T17:37:48.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.1.1",
+            "published_at": "2022-03-30T20:14:15.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.1.2",
+            "published_at": "2022-03-31T20:52:50.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

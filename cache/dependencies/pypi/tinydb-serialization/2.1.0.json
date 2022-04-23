@@ -1,0 +1,124 @@
+{
+    "dependent_repos_count": 33,
+    "dependents_count": 16,
+    "deprecation_reason": null,
+    "description": "Serialization for objects that TinyDB otherwise couldn't handle",
+    "forks": 428,
+    "homepage": "https://tinydb.readthedocs.org",
+    "keywords": [
+        "database",
+        "nosql",
+        "documentdb",
+        "json",
+        "python"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "2.1.0",
+    "latest_release_published_at": "2021-01-23T15:25:15.000Z",
+    "latest_stable_release_number": "2.1.0",
+    "latest_stable_release_published_at": "2021-01-23T15:25:15.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "tinydb-serialization",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/tinydb-serialization/",
+    "platform": "Pypi",
+    "rank": 17,
+    "repository_license": "MIT",
+    "repository_url": "",
+    "stars": 4870,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2015-09-27T14:06:14.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2015-11-17T16:39:31.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2016-01-04T20:19:32.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2016-02-11T05:37:57.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.4",
+            "published_at": "2017-03-27T16:28:17.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.0",
+            "published_at": "2020-05-26T09:12:45.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1.0",
+            "published_at": "2021-01-23T15:25:15.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "2.1.0",
+    "dependencies": [
+        {
+            "project_name": "tinydb",
+            "name": "tinydb",
+            "platform": "Pypi",
+            "requirements": ">=4.0,<5.0",
+            "latest_stable": "4.7.0",
+            "latest": "4.7.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

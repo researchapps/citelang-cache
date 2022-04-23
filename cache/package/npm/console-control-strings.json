@@ -1,0 +1,50 @@
+{
+    "dependent_repos_count": 406584,
+    "dependents_count": 143,
+    "deprecation_reason": null,
+    "description": "A library of cross-platform tested terminal/console command strings for doing things like color and cursor positioning.  This is a subset of both ansi and vt100.  All control codes included work on both Windows & Unix-like OSes, except where noted.",
+    "forks": 3,
+    "homepage": "https://github.com/iarna/console-control-strings#readme",
+    "keywords": [],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/console-control-strings/-/console-control-strings-1.1.0.tgz",
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2016-06-15T23:29:58.743Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2016-06-15T23:29:58.743Z",
+    "license_normalized": false,
+    "licenses": "ISC",
+    "name": "console-control-strings",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/console-control-strings",
+    "platform": "NPM",
+    "rank": 21,
+    "repository_license": "ISC",
+    "repository_url": "https://github.com/iarna/console-control-strings",
+    "stars": 15,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2016-06-15T21:15:45.301Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2016-06-15T23:29:58.743Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ]
+}

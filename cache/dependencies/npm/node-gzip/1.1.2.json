@@ -1,0 +1,107 @@
+{
+    "dependent_repos_count": 25,
+    "dependents_count": 65,
+    "deprecation_reason": null,
+    "description": "Simply gzip and ungzip in Node.js with promises",
+    "forks": 0,
+    "homepage": "https://github.com/Rebsos/node-gzip#readme",
+    "keywords": [
+        "node",
+        "gzip",
+        "compress",
+        "promise",
+        "gunzip",
+        "ungzip",
+        "decompress",
+        "uncompress",
+        "gz",
+        "zlib",
+        "async",
+        "await",
+        "promises"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/node-gzip/-/node-gzip-1.1.2.tgz",
+    "latest_release_number": "1.1.2",
+    "latest_release_published_at": "2018-04-24T12:11:13.685Z",
+    "latest_stable_release_number": "1.1.2",
+    "latest_stable_release_published_at": "2018-04-24T12:11:13.685Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "node-gzip",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/node-gzip",
+    "platform": "NPM",
+    "rank": 13,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/Rebsos/node-gzip",
+    "stars": 3,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.1.0",
+            "published_at": "2018-04-22T18:37:58.450Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2018-04-22T19:21:01.040Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.2",
+            "published_at": "2018-04-24T12:11:13.685Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.2",
+    "dependencies": [
+        {
+            "project_name": "babel-preset-env",
+            "name": "babel-preset-env",
+            "platform": "NPM",
+            "requirements": "^1.6.1",
+            "latest_stable": "1.7.0",
+            "latest": "1.7.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "babel-cli",
+            "name": "babel-cli",
+            "platform": "NPM",
+            "requirements": "^6.26.0",
+            "latest_stable": "6.26.0",
+            "latest": "7.0.0-beta.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

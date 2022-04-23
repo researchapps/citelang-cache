@@ -1,0 +1,76 @@
+{
+    "dependent_repos_count": 5,
+    "dependents_count": 10,
+    "deprecation_reason": null,
+    "description": "Nested sampling algorithms for evaluating Bayesian evidence",
+    "forks": 23,
+    "homepage": "http://github.com/kbarbary/nestle",
+    "keywords": [
+        "bayesian-inference",
+        "nested-sampling",
+        "python"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.1.0.dev",
+    "latest_release_published_at": "2021-12-15T16:37:35.461Z",
+    "latest_stable_release_number": "0.2.0",
+    "latest_stable_release_published_at": "2016-11-03T22:25:05.000Z",
+    "license_normalized": true,
+    "licenses": "UNKNOWN",
+    "name": "nestle",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/nestle/",
+    "platform": "Pypi",
+    "rank": 13,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/kbarbary/nestle",
+    "stars": 65,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2015-09-20T22:47:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0.dev",
+            "published_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2015-09-26T22:35:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2016-11-03T22:25:05.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.0.dev",
+    "dependencies": []
+}

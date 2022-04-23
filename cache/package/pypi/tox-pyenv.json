@@ -1,0 +1,85 @@
+{
+    "dependent_repos_count": 251,
+    "dependents_count": 40,
+    "deprecation_reason": null,
+    "description": "tox plugin that makes tox use `pyenv which` to find python executables",
+    "forks": 5,
+    "homepage": "https://github.com/samstav/tox-pyenv",
+    "keywords": [
+        "tox",
+        "pyenv",
+        "python",
+        "ae48885f"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2017-08-29T23:13:22.000Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2017-08-29T23:13:22.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License, Version 2.0",
+    "name": "tox-pyenv",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/tox-pyenv/",
+    "platform": "Pypi",
+    "rank": 17,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/samstav/tox-pyenv",
+    "stars": 69,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2015-09-29T14:54:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License, Version 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2015-09-29T15:58:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License, Version 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2015-10-01T20:52:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License, Version 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2016-03-30T18:47:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2017-08-29T23:13:22.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

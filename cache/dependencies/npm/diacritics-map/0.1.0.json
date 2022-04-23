@@ -1,0 +1,67 @@
+{
+    "dependent_repos_count": 2428,
+    "dependents_count": 17,
+    "deprecation_reason": null,
+    "description": "Map of more than 1,200 diacritics and ligatures to english alphabet equivalents.",
+    "forks": 0,
+    "homepage": "https://github.com/jonschlinkert/diacrictics-map",
+    "keywords": [
+        "accent",
+        "accents",
+        "characters",
+        "diacrictics",
+        "diacrictics-map",
+        "ligatures",
+        "map",
+        "mapping"
+    ],
+    "language": null,
+    "latest_download_url": "https://registry.npmjs.org/diacritics-map/-/diacritics-map-0.1.0.tgz",
+    "latest_release_number": "0.1.0",
+    "latest_release_published_at": "2017-01-15T08:37:44.585Z",
+    "latest_stable_release_number": "0.1.0",
+    "latest_stable_release_published_at": "2017-01-15T08:37:44.585Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "diacritics-map",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/diacritics-map",
+    "platform": "NPM",
+    "rank": 10,
+    "repository_license": null,
+    "repository_url": "https://github.com/jonschlinkert/diacrictics-map",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2017-01-15T08:37:44.585Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.0",
+    "dependencies": [
+        {
+            "project_name": "gulp-format-md",
+            "name": "gulp-format-md",
+            "platform": "NPM",
+            "requirements": "^0.1.11",
+            "latest_stable": "2.0.0",
+            "latest": "2.0.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

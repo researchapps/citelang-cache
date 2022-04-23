@@ -1,0 +1,121 @@
+{
+    "dependent_repos_count": 2,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "semantic path names and more",
+    "forks": 0,
+    "homepage": "https://github.com/return42/fspath",
+    "keywords": [
+        "path-names",
+        "development"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "20190323",
+    "latest_release_published_at": "2019-03-23T17:18:16.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "GPLv2",
+    "name": "fspath",
+    "normalized_licenses": [
+        "GPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/fspath/",
+    "platform": "Pypi",
+    "rank": 6,
+    "repository_license": null,
+    "repository_url": "https://github.com/return42/fspath",
+    "stars": 1,
+    "status": null,
+    "versions": [
+        {
+            "number": "20160722",
+            "published_at": "2016-07-23T12:20:21.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20170612",
+            "published_at": "2017-06-12T15:59:09.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20170725",
+            "published_at": "2017-07-24T23:39:40.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20170730",
+            "published_at": "2017-07-30T13:46:24.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20171125",
+            "published_at": "2017-11-25T16:31:57.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20190110",
+            "published_at": "2019-01-10T15:58:27.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20190323",
+            "published_at": "2019-03-23T17:18:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "20190323",
+    "dependencies": [
+        {
+            "project_name": "six",
+            "name": "six",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.16.0",
+            "latest": "1.16.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

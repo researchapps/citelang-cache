@@ -1,0 +1,126 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "More picky version of Python dictionary.",
+    "forks": 0,
+    "homepage": "https://github.com/florian-huber/pickydict",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.4.0",
+    "latest_release_published_at": "2022-03-07T21:10:44.000Z",
+    "latest_stable_release_number": "0.4.0",
+    "latest_stable_release_published_at": "2022-03-07T21:10:44.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pickydict",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pickydict/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/florian-huber/pickydict",
+    "stars": 4,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2022-01-06T13:03:55.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2022-01-06T13:35:18.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2022-01-06T17:30:07.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2022-02-09T11:54:59.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2022-03-07T21:10:44.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.4.0",
+    "dependencies": [
+        {
+            "project_name": "pytest-cov",
+            "name": "pytest-cov",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.0.0",
+            "latest": "3.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.1",
+            "latest": "7.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "prospector[with_pyroma]",
+            "name": "prospector[with_pyroma]",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        }
+    ]
+}

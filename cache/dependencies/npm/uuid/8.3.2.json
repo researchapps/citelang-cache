@@ -1,0 +1,782 @@
+{
+    "dependent_repos_count": 592123,
+    "dependents_count": 26453,
+    "deprecation_reason": null,
+    "description": "RFC4122 (v1, v4, and v5) UUIDs",
+    "forks": 807,
+    "homepage": "https://github.com/uuidjs/uuid#readme",
+    "keywords": [
+        "uuid",
+        "guid",
+        "rfc4122"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/uuid/-/uuid-8.3.2.tgz",
+    "latest_release_number": "8.3.2",
+    "latest_release_published_at": "2020-12-08T20:38:36.233Z",
+    "latest_stable_release_number": "8.3.2",
+    "latest_stable_release_published_at": "2020-12-08T20:38:36.233Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "uuid",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/uuid",
+    "platform": "NPM",
+    "rank": 29,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/uuidjs/uuid",
+    "stars": 11959,
+    "status": "",
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2011-03-31T08:12:51.801Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2011-03-31T08:12:51.801Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.0",
+            "published_at": "2013-02-19T22:28:10.376Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.1",
+            "published_at": "2013-03-14T05:25:04.735Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.2",
+            "published_at": "2014-09-25T09:03:34.083Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.0",
+            "published_at": "2014-09-29T09:03:24.612Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.1",
+            "published_at": "2014-09-29T09:16:55.228Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.2",
+            "published_at": "2016-04-13T07:37:23.788Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.3",
+            "published_at": "2016-09-18T21:03:38.127Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "3.0.0",
+            "published_at": "2016-11-18T05:55:37.542Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "3.0.1",
+            "published_at": "2016-11-29T07:18:07.016Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "3.1.0",
+            "published_at": "2017-06-16T17:54:51.877Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "3.2.0",
+            "published_at": "2018-01-16T14:44:50.639Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "3.2.1",
+            "published_at": "2018-01-16T17:44:57.871Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "3.3.0",
+            "published_at": "2018-06-26T13:23:39.426Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "3.3.2",
+            "published_at": "2018-06-28T21:29:01.853Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "3.3.3",
+            "published_at": "2019-08-19T13:26:25.072Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "3.4.0",
+            "published_at": "2020-01-16T21:05:38.628Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "7.0.0",
+            "published_at": "2020-02-24T13:23:46.712Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "7.0.0-beta.0",
+            "published_at": "2020-02-17T11:25:25.965Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "7.0.1",
+            "published_at": "2020-02-25T20:26:35.800Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "7.0.2",
+            "published_at": "2020-03-04T12:49:00.666Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "7.0.2-beta.0",
+            "published_at": "2020-03-02T20:31:08.402Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "7.0.3",
+            "published_at": "2020-03-31T19:41:24.836Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "8.0.0",
+            "published_at": "2020-04-29T20:42:26.823Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "8.0.0-beta.0",
+            "published_at": "2020-04-29T20:21:52.783Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "8.1.0",
+            "published_at": "2020-05-20T18:52:38.248Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "8.2.0",
+            "published_at": "2020-06-23T20:56:14.285Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "8.2.0-beta.0",
+            "published_at": "2020-06-23T07:38:42.240Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "8.3.0",
+            "published_at": "2020-07-27T19:01:36.217Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "8.3.0-beta.0",
+            "published_at": "2020-07-22T22:28:57.880Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "8.3.1",
+            "published_at": "2020-10-04T15:46:46.276Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "8.3.2",
+            "published_at": "2020-12-08T20:38:36.233Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "8.3.2-beta.0",
+            "published_at": "2020-11-21T13:10:15.605Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "8.3.2",
+    "dependencies": [
+        {
+            "project_name": "standard-version",
+            "name": "standard-version",
+            "platform": "NPM",
+            "requirements": "9.0.0",
+            "latest_stable": "9.3.2",
+            "latest": "9.3.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "ISC"
+            ]
+        },
+        {
+            "project_name": "runmd",
+            "name": "runmd",
+            "platform": "NPM",
+            "requirements": "1.3.2",
+            "latest_stable": "1.3.2",
+            "latest": "1.3.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup-plugin-terser",
+            "name": "rollup-plugin-terser",
+            "platform": "NPM",
+            "requirements": "7.0.2",
+            "latest_stable": "7.0.2",
+            "latest": "7.0.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup",
+            "name": "rollup",
+            "platform": "NPM",
+            "requirements": "2.28.2",
+            "latest_stable": "2.70.0",
+            "latest": "2.70.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "random-seed",
+            "name": "random-seed",
+            "platform": "NPM",
+            "requirements": "0.3.0",
+            "latest_stable": "0.3.0",
+            "latest": "0.3.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "prettier",
+            "name": "prettier",
+            "platform": "NPM",
+            "requirements": "2.1.2",
+            "latest_stable": "2.6.2",
+            "latest": "2.6.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "optional-dev-dependency",
+            "name": "optional-dev-dependency",
+            "platform": "NPM",
+            "requirements": "2.0.1",
+            "latest_stable": "2.0.1",
+            "latest": "2.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "ISC"
+            ]
+        },
+        {
+            "project_name": "npm-run-all",
+            "name": "npm-run-all",
+            "platform": "NPM",
+            "requirements": "4.1.5",
+            "latest_stable": "4.1.5",
+            "latest": "4.1.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "lint-staged",
+            "name": "lint-staged",
+            "platform": "NPM",
+            "requirements": "10.4.0",
+            "latest_stable": "12.3.6",
+            "latest": "12.3.7",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "jest",
+            "name": "jest",
+            "platform": "NPM",
+            "requirements": "25.5.4",
+            "latest_stable": "27.5.0",
+            "latest": "28.0.0-alpha.6",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "husky",
+            "name": "husky",
+            "platform": "NPM",
+            "requirements": "4.3.0",
+            "latest_stable": "7.0.4",
+            "latest": "7.0.4",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "eslint-plugin-standard",
+            "name": "eslint-plugin-standard",
+            "platform": "NPM",
+            "requirements": "4.0.1",
+            "latest_stable": "5.0.0",
+            "latest": "5.0.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "eslint-plugin-promise",
+            "name": "eslint-plugin-promise",
+            "platform": "NPM",
+            "requirements": "4.2.1",
+            "latest_stable": "6.0.0",
+            "latest": "6.0.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "ISC"
+            ]
+        },
+        {
+            "project_name": "eslint-plugin-prettier",
+            "name": "eslint-plugin-prettier",
+            "platform": "NPM",
+            "requirements": "3.1.4",
+            "latest_stable": "4.0.0",
+            "latest": "4.0.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "eslint-plugin-node",
+            "name": "eslint-plugin-node",
+            "platform": "NPM",
+            "requirements": "11.1.0",
+            "latest_stable": "11.1.0",
+            "latest": "11.1.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "eslint-plugin-import",
+            "name": "eslint-plugin-import",
+            "platform": "NPM",
+            "requirements": "2.22.1",
+            "latest_stable": "2.25.4",
+            "latest": "2.25.4",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "eslint-config-standard",
+            "name": "eslint-config-standard",
+            "platform": "NPM",
+            "requirements": "14.1.1",
+            "latest_stable": "16.0.3",
+            "latest": "17.0.0-0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "eslint-config-prettier",
+            "name": "eslint-config-prettier",
+            "platform": "NPM",
+            "requirements": "6.12.0",
+            "latest_stable": "8.5.0",
+            "latest": "8.5.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "eslint",
+            "name": "eslint",
+            "platform": "NPM",
+            "requirements": "7.10.0",
+            "latest_stable": "8.12.0",
+            "latest": "8.12.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "bundlewatch",
+            "name": "bundlewatch",
+            "platform": "NPM",
+            "requirements": "0.3.1",
+            "latest_stable": "0.3.3",
+            "latest": "0.3.3",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "babel-eslint",
+            "name": "babel-eslint",
+            "platform": "NPM",
+            "requirements": "10.1.0",
+            "latest_stable": "10.1.0",
+            "latest": "10.1.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "@rollup/plugin-node-resolve",
+            "name": "@rollup/plugin-node-resolve",
+            "platform": "NPM",
+            "requirements": "9.0.0",
+            "latest_stable": "13.1.3",
+            "latest": "13.2.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "@commitlint/config-conventional",
+            "name": "@commitlint/config-conventional",
+            "platform": "NPM",
+            "requirements": "11.0.0",
+            "latest_stable": "16.2.1",
+            "latest": "16.2.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "@commitlint/cli",
+            "name": "@commitlint/cli",
+            "platform": "NPM",
+            "requirements": "11.0.0",
+            "latest_stable": "16.2.3",
+            "latest": "16.2.3",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "@babel/preset-env",
+            "name": "@babel/preset-env",
+            "platform": "NPM",
+            "requirements": "7.11.5",
+            "latest_stable": "7.16.11",
+            "latest": "7.16.11",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "@babel/core",
+            "name": "@babel/core",
+            "platform": "NPM",
+            "requirements": "7.11.6",
+            "latest_stable": "7.17.9",
+            "latest": "7.17.9",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "@babel/cli",
+            "name": "@babel/cli",
+            "platform": "NPM",
+            "requirements": "7.11.6",
+            "latest_stable": "7.17.6",
+            "latest": "7.17.6",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

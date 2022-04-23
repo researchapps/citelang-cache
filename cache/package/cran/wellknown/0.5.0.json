@@ -1,0 +1,60 @@
+{
+    "dependent_repos_count": 6,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Convert Between 'WKT' and 'GeoJSON'",
+    "forks": 1,
+    "homepage": "https://github.com/ropensci/wellknown",
+    "keywords": [
+        "geojson",
+        "geospatial",
+        "r",
+        "r-package",
+        "rstats",
+        "spatial",
+        "wellknown",
+        "wkb",
+        "wkt"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/wellknown_0.5.0.tar.gz",
+    "latest_release_number": "0.5.0",
+    "latest_release_published_at": "2018-03-29T00:00:00.000Z",
+    "latest_stable_release_number": "0.5.0",
+    "latest_stable_release_published_at": "2018-03-29T00:00:00.000Z",
+    "license_normalized": false,
+    "licenses": "MIT + file LICENSE",
+    "name": "wellknown",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=wellknown",
+    "platform": "CRAN",
+    "rank": 9,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/ropensci/wellknown",
+    "stars": 15,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2015-10-22T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2018-03-29T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "dependent_repos_count": 70,
+    "dependents_count": 30,
+    "deprecation_reason": null,
+    "description": "Download Files over HTTP and HTTPS",
+    "forks": 8,
+    "homepage": "https://github.com/wch/downloader",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/downloader_0.4.tar.gz",
+    "latest_release_number": "0.4",
+    "latest_release_published_at": "2015-07-09T00:00:00.000Z",
+    "latest_stable_release_number": "0.2.2",
+    "latest_stable_release_published_at": "2013-02-11T20:54:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-2",
+    "name": "downloader",
+    "normalized_licenses": [
+        "GPL-2.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=downloader",
+    "platform": "CRAN",
+    "rank": 11,
+    "repository_license": null,
+    "repository_url": "https://github.com/wch/downloader",
+    "stars": 31,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2012-11-01T15:49:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2013-02-04T22:08:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2013-02-05T19:36:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2013-02-11T20:54:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2013-05-01T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2015-07-09T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.4",
+    "dependencies": [
+        {
+            "project_name": "utils",
+            "name": "utils",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "digest",
+            "name": "digest",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.6.29",
+            "latest": "0.6.29",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

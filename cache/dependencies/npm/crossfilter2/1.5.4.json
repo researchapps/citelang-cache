@@ -1,0 +1,497 @@
+{
+    "dependent_repos_count": 163,
+    "dependents_count": 44,
+    "deprecation_reason": null,
+    "description": "Fast multidimensional filtering for coordinated views.",
+    "forks": 191,
+    "homepage": "https://crossfilter.github.io/crossfilter/",
+    "keywords": [
+        "analytics",
+        "visualization",
+        "crossfilter"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/crossfilter2/-/crossfilter2-2.0.0-alpha.4.tgz",
+    "latest_release_number": "2.0.0-alpha.4",
+    "latest_release_published_at": "2016-03-15T21:49:00.165Z",
+    "latest_stable_release_number": "1.5.4",
+    "latest_stable_release_published_at": "2020-09-25T03:40:48.734Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "crossfilter2",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/crossfilter2",
+    "platform": "NPM",
+    "rank": 18,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/crossfilter/crossfilter",
+    "stars": 1528,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.3.12",
+            "published_at": "2016-03-16T16:02:31.631Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.3.13",
+            "published_at": "2016-03-16T16:13:41.281Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.3.14",
+            "published_at": "2016-06-09T17:32:27.460Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.0",
+            "published_at": "2017-04-26T20:34:12.685Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.0-alpha.1",
+            "published_at": "2016-03-16T15:45:05.486Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.0-alpha.2",
+            "published_at": "2016-04-19T18:45:30.641Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.0-alpha.5",
+            "published_at": "2016-04-29T16:22:18.502Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.0-alpha.6",
+            "published_at": "2016-05-17T21:12:54.405Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.1",
+            "published_at": "2017-07-26T13:29:36.505Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.2",
+            "published_at": "2017-09-18T10:32:14.856Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.3",
+            "published_at": "2017-09-22T15:49:04.596Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.4",
+            "published_at": "2018-02-16T19:24:10.667Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.5",
+            "published_at": "2018-02-16T19:31:05.753Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.6",
+            "published_at": "2018-04-25T16:14:13.416Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.7",
+            "published_at": "2019-04-04T14:37:46.222Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.4.8",
+            "published_at": "2019-11-09T16:06:48.863Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.5.0",
+            "published_at": "2019-11-09T21:13:58.742Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.5.1",
+            "published_at": "2019-12-20T00:49:22.700Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.5.2",
+            "published_at": "2020-01-02T13:38:54.606Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.5.3",
+            "published_at": "2020-08-20T15:50:43.855Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.5.4",
+            "published_at": "2020-09-25T03:40:48.734Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.0-alpha.1",
+            "published_at": "2015-08-27T13:04:44.128Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.0-alpha.2",
+            "published_at": "2015-08-27T13:18:30.037Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.0-alpha.3",
+            "published_at": "2015-10-02T14:36:08.707Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.0-alpha.4",
+            "published_at": "2016-03-15T21:49:00.165Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.5.4",
+    "dependencies": [
+        {
+            "project_name": "vows",
+            "name": "vows",
+            "platform": "NPM",
+            "requirements": "0.8.2",
+            "latest_stable": "0.8.3",
+            "latest": "1.0.0-alpha.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "uglify-js",
+            "name": "uglify-js",
+            "platform": "NPM",
+            "requirements": "^3.6.7",
+            "latest_stable": "3.15.3",
+            "latest": "3.15.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "project_name": "sinon",
+            "name": "sinon",
+            "platform": "NPM",
+            "requirements": "^7.5.0",
+            "latest_stable": "13.0.0",
+            "latest": "13.0.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "semver",
+            "name": "semver",
+            "platform": "NPM",
+            "requirements": "^5.7.0",
+            "latest_stable": "7.3.7",
+            "latest": "7.3.7",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "ISC"
+            ]
+        },
+        {
+            "project_name": "rollup-plugin-terser",
+            "name": "rollup-plugin-terser",
+            "platform": "NPM",
+            "requirements": "5",
+            "latest_stable": "7.0.2",
+            "latest": "7.0.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup-plugin-node-resolve",
+            "name": "rollup-plugin-node-resolve",
+            "platform": "NPM",
+            "requirements": "5",
+            "latest_stable": "5.2.0",
+            "latest": "5.2.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup-plugin-json",
+            "name": "rollup-plugin-json",
+            "platform": "NPM",
+            "requirements": "4",
+            "latest_stable": "4.0.0",
+            "latest": "4.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup-plugin-commonjs",
+            "name": "rollup-plugin-commonjs",
+            "platform": "NPM",
+            "requirements": "^10.1.0",
+            "latest_stable": "10.1.0",
+            "latest": "10.1.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup",
+            "name": "rollup",
+            "platform": "NPM",
+            "requirements": "1",
+            "latest_stable": "2.70.0",
+            "latest": "2.70.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "package-json-versionify",
+            "name": "package-json-versionify",
+            "platform": "NPM",
+            "requirements": "1.0.2",
+            "latest_stable": "1.0.4",
+            "latest": "1.0.4",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "esm",
+            "name": "esm",
+            "platform": "NPM",
+            "requirements": "^3.2.25",
+            "latest_stable": "3.2.25",
+            "latest": "3.2.25",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "eslint",
+            "name": "eslint",
+            "platform": "NPM",
+            "requirements": "^6.5.1",
+            "latest_stable": "8.12.0",
+            "latest": "8.12.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "d3",
+            "name": "d3",
+            "platform": "NPM",
+            "requirements": "^3.5.17",
+            "latest_stable": "7.4.4",
+            "latest": "7.4.4",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "ISC"
+            ]
+        },
+        {
+            "project_name": "@ranfdev/deepobj",
+            "name": "@ranfdev/deepobj",
+            "platform": "NPM",
+            "requirements": "1.0.2",
+            "latest_stable": "1.0.2",
+            "latest": "1.0.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

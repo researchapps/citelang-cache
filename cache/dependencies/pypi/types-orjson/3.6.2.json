@@ -1,0 +1,87 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 21,
+    "deprecation_reason": null,
+    "description": "Typing stubs for orjson",
+    "forks": 1276,
+    "homepage": "https://github.com/python/typeshed",
+    "keywords": [
+        "python",
+        "stub",
+        "types",
+        "typing"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "3.6.2",
+    "latest_release_published_at": "2022-01-07T11:31:09.000Z",
+    "latest_stable_release_number": "3.6.2",
+    "latest_stable_release_published_at": "2022-01-07T11:31:09.000Z",
+    "license_normalized": true,
+    "licenses": "Apache-2.0 license",
+    "name": "types-orjson",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/types-orjson/",
+    "platform": "Pypi",
+    "rank": 16,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/python/typeshed",
+    "stars": 2743,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2021-02-02T20:52:10.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2021-06-17T15:01:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache-2.0 license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.0",
+            "published_at": "2021-08-07T15:17:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache-2.0 license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.1",
+            "published_at": "2021-10-12T09:18:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache-2.0 license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.2",
+            "published_at": "2022-01-07T11:31:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache-2.0 license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "3.6.2",
+    "dependencies": []
+}

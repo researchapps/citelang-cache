@@ -1,0 +1,128 @@
+{
+    "dependent_repos_count": 583185,
+    "dependents_count": 377,
+    "deprecation_reason": null,
+    "description": "Like ruby's abbrev module, but in js",
+    "forks": 29,
+    "homepage": "https://github.com/isaacs/abbrev-js#readme",
+    "keywords": [],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz",
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2017-09-28T02:47:13.220Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2017-09-28T02:47:13.220Z",
+    "license_normalized": false,
+    "licenses": "ISC",
+    "name": "abbrev",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/abbrev",
+    "platform": "NPM",
+    "rank": 24,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/isaacs/abbrev-js",
+    "stars": 138,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.3",
+            "published_at": "2011-03-21T22:21:11.183Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.4",
+            "published_at": "2013-01-09T00:01:24.135Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.5",
+            "published_at": "2014-04-17T20:09:12.523Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.6",
+            "published_at": "2015-05-21T00:58:16.778Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.7",
+            "published_at": "2015-05-30T22:57:54.685Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.9",
+            "published_at": "2016-06-15T18:41:01.215Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2017-02-14T06:33:20.235Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2017-09-28T02:47:13.220Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.1",
+    "dependencies": [
+        {
+            "project_name": "tap",
+            "name": "tap",
+            "platform": "NPM",
+            "requirements": "^10.1",
+            "latest_stable": "16.0.1",
+            "latest": "16.0.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "ISC"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "dependent_repos_count": 2642,
+    "dependents_count": 5,
+    "deprecation_reason": null,
+    "description": "HTTP library for Python",
+    "forks": 1,
+    "homepage": "https://github.com/franckcuny/http",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.1.0",
+    "latest_release_published_at": "2021-12-15T13:49:41.311Z",
+    "latest_stable_release_number": "0.1.0",
+    "latest_stable_release_published_at": "2021-12-15T13:49:41.311Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "http",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/http/",
+    "platform": "Pypi",
+    "rank": 14,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/franckcuny/http",
+    "stars": 3,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.02",
+            "published_at": "2012-02-12T02:53:36.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1",
+            "published_at": "2012-02-10T05:48:10.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": null,
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.0",
+    "dependencies": []
+}

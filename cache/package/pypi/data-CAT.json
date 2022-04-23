@@ -1,0 +1,62 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "A databasing framework for the Compound Attachment Tools package (CAT).",
+    "forks": 1,
+    "homepage": "https://github.com/nlesc-nano/data-CAT",
+    "keywords": [
+        "database",
+        "science",
+        "chemistry",
+        "python-3",
+        "python-3-7",
+        "python-3-8",
+        "python-3-9",
+        "python-3-10",
+        "automation",
+        "python-3-6"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.7.2",
+    "latest_release_published_at": "2022-03-04T16:12:34.000Z",
+    "latest_stable_release_number": "0.7.2",
+    "latest_stable_release_published_at": "2022-03-04T16:12:34.000Z",
+    "license_normalized": true,
+    "licenses": "GNU Lesser General Public License v3 or later",
+    "name": "Data-CAT",
+    "normalized_licenses": [
+        "LGPL-3.0",
+        "GPL-3.0+"
+    ],
+    "package_manager_url": "https://pypi.org/project/Data-CAT/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/nlesc-nano/data-CAT",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.7.0",
+            "published_at": "2021-11-17T14:55:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License v3 or later",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.2",
+            "published_at": "2022-03-04T16:12:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License v3 or later",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

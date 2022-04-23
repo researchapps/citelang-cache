@@ -1,0 +1,142 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "K2 light curve detrending with Gaussian Processes.",
+    "forks": 11,
+    "homepage": "https://github.com/OxES/k2sc",
+    "keywords": [
+        "astronomy",
+        "exoplanet-transits",
+        "exoplanets",
+        "gaussian-processes",
+        "k2",
+        "k2-light-curves",
+        "kepler",
+        "mast-light-curve"
+    ],
+    "language": "Jupyter Notebook",
+    "latest_download_url": null,
+    "latest_release_number": "1.0.2.1",
+    "latest_release_published_at": "2021-09-19T08:46:28.000Z",
+    "latest_stable_release_number": "1.0.2",
+    "latest_stable_release_published_at": "2021-09-12T07:11:38.000Z",
+    "license_normalized": true,
+    "licenses": "GPLv3",
+    "name": "K2SC",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/K2SC/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "GPL-3.0",
+    "repository_url": "https://github.com/OxES/k2sc",
+    "stars": 14,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.1.4",
+            "published_at": "2020-02-12T15:33:30.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1.5",
+            "published_at": "2020-05-05T23:26:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2021-09-12T07:11:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2.1",
+            "published_at": "2021-09-19T08:46:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.2.1",
+    "dependencies": [
+        {
+            "project_name": "george",
+            "name": "george",
+            "platform": "Pypi",
+            "requirements": ">=0.3",
+            "latest_stable": "0.4.0",
+            "latest": "0.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "astropy",
+            "name": "astropy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.0.4",
+            "latest": "5.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.22.3",
+            "latest": "1.22.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

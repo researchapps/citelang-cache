@@ -1,0 +1,419 @@
+{
+    "dependent_repos_count": 171,
+    "dependents_count": 1146,
+    "deprecation_reason": null,
+    "description": "Python logging made (stupidly) simple",
+    "forks": 481,
+    "homepage": "https://github.com/Delgan/loguru",
+    "keywords": [
+        "loguru",
+        "logging",
+        "logger",
+        "log",
+        "python"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.5.3",
+    "latest_release_published_at": "2020-09-20T07:54:28.000Z",
+    "latest_stable_release_number": "0.5.3",
+    "latest_stable_release_published_at": "2020-09-20T07:54:28.000Z",
+    "license_normalized": true,
+    "licenses": "MIT license",
+    "name": "loguru",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/loguru/",
+    "platform": "Pypi",
+    "rank": 21,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/Delgan/loguru",
+    "stars": 10870,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2017-09-04T21:48:30.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2018-12-07T09:09:56.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2018-12-08T15:42:09.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2018-12-08T15:59:52.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2018-12-12T21:49:55.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.3",
+            "published_at": "2018-12-16T17:20:59.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.4",
+            "published_at": "2018-12-26T22:47:05.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.5",
+            "published_at": "2019-01-20T23:00:37.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2019-06-29T08:32:31.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2019-07-13T15:47:49.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2019-07-21T21:06:17.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2019-12-01T23:13:20.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.1",
+            "published_at": "2020-01-19T11:36:01.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2020-05-17T20:36:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2020-06-12T14:15:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2020-09-06T19:15:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.3",
+            "published_at": "2020-09-20T07:54:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.5.3",
+    "dependencies": [
+        {
+            "project_name": "isort",
+            "name": "isort",
+            "platform": "Pypi",
+            "requirements": ">=5.1.1",
+            "latest_stable": "5.10.1",
+            "latest": "5.10.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "black",
+            "name": "black",
+            "platform": "Pypi",
+            "requirements": ">=19.10b0",
+            "latest_stable": "22.3.0",
+            "latest": "22.3.0",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "sphinx-rtd-theme",
+            "name": "sphinx-rtd-theme",
+            "platform": "Pypi",
+            "requirements": ">=0.4.3",
+            "latest_stable": "1.0.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "sphinx-autobuild",
+            "name": "sphinx-autobuild",
+            "platform": "Pypi",
+            "requirements": ">=0.7.1",
+            "latest_stable": "2021.3.14",
+            "latest": "2021.3.14",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "Sphinx",
+            "name": "Sphinx",
+            "platform": "Pypi",
+            "requirements": ">=2.2.1",
+            "latest_stable": "4.5.0",
+            "latest": "4.5.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pytest-cov",
+            "name": "pytest-cov",
+            "platform": "Pypi",
+            "requirements": ">=2.7.1",
+            "latest_stable": "3.0.0",
+            "latest": "3.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": ">=4.6.2",
+            "latest_stable": "7.1.1",
+            "latest": "7.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "tox-travis",
+            "name": "tox-travis",
+            "platform": "Pypi",
+            "requirements": ">=0.12",
+            "latest_stable": "0.7.2",
+            "latest": "0.12",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "tox",
+            "name": "tox",
+            "platform": "Pypi",
+            "requirements": ">=3.9.0",
+            "latest_stable": "3.24.5",
+            "latest": "4.0.0b1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "flake8",
+            "name": "flake8",
+            "platform": "Pypi",
+            "requirements": ">=3.7.7",
+            "latest_stable": "4.0.1",
+            "latest": "4.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "codecov",
+            "name": "codecov",
+            "platform": "Pypi",
+            "requirements": ">=2.0.15",
+            "latest_stable": "2.1.12",
+            "latest": "2.1.12",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "win32-setctime",
+            "name": "win32-setctime",
+            "platform": "Pypi",
+            "requirements": ">=1.0.0",
+            "latest_stable": "1.1.0",
+            "latest": "1.1.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "colorama",
+            "name": "colorama",
+            "platform": "Pypi",
+            "requirements": ">=0.3.4",
+            "latest_stable": "0.4.4",
+            "latest": "0.4.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "aiocontextvars",
+            "name": "aiocontextvars",
+            "platform": "Pypi",
+            "requirements": ">=0.2.0",
+            "latest_stable": "0.2.2",
+            "latest": "0.2.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

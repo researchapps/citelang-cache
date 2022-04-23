@@ -1,0 +1,132 @@
+{
+    "dependent_repos_count": 420229,
+    "dependents_count": 3667,
+    "deprecation_reason": null,
+    "description": "Node's querystring module for all engines.",
+    "forks": 66,
+    "homepage": "https://github.com/Gozala/querystring#readme",
+    "keywords": [
+        "commonjs",
+        "query",
+        "querystring"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/querystring/-/querystring-0.2.1.tgz",
+    "latest_release_number": "0.2.1",
+    "latest_release_published_at": "2021-02-15T14:38:16.963Z",
+    "latest_stable_release_number": "0.2.1",
+    "latest_stable_release_published_at": "2021-02-15T14:38:16.963Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "querystring",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/querystring",
+    "platform": "NPM",
+    "rank": 26,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/Gozala/querystring",
+    "stars": 255,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2011-04-15T13:01:21.027Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MPL 1.1/LGPL 2.1/GPL 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.4",
+            "published_at": "2011-08-01T21:10:27.098Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2011-12-13T19:26:29.378Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2013-03-05T22:13:43.986Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2021-02-15T14:38:16.963Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.2.1",
+    "dependencies": [
+        {
+            "project_name": "tape",
+            "name": "tape",
+            "platform": "NPM",
+            "requirements": "~0.1.5",
+            "latest_stable": "5.5.3",
+            "latest": "5.5.3",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "retape",
+            "name": "retape",
+            "platform": "NPM",
+            "requirements": "~0.x.0",
+            "latest_stable": "0.0.3",
+            "latest": "0.0.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "test",
+            "name": "test",
+            "platform": "NPM",
+            "requirements": "~0.x.0",
+            "latest_stable": "0.6.0",
+            "latest": "0.6.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

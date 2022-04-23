@@ -1,0 +1,140 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Some reference and example networking plugins, maintained by the CNI team.",
+    "forks": 563,
+    "homepage": "https://github.com/containernetworking/plugins",
+    "keywords": [],
+    "language": "Go",
+    "latest_download_url": "https://conda.anaconda.org/conda-forge/linux-64/cni-plugins-1.0.1-ha8f183a_0.tar.bz2",
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2022-01-31T18:07:07.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2022-01-31T18:07:07.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "cni-plugins",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://anaconda.org/conda-forge/cni-plugins",
+    "platform": "Conda",
+    "rank": 13,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/containernetworking/plugins",
+    "stars": 1328,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.7.3",
+            "published_at": "2018-08-09T02:07:37.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "0.7.4",
+            "published_at": "2018-11-08T23:57:31.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "0.7.5",
+            "published_at": "2019-03-16T00:31:01.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "0.8.1",
+            "published_at": "2019-07-17T11:30:12.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "0.8.2",
+            "published_at": "2019-09-11T03:44:46.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "0.8.6",
+            "published_at": "2020-05-13T21:28:50.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "0.7.0",
+            "published_at": "2020-10-21T16:42:43.046Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Conda"
+            ]
+        },
+        {
+            "number": "0.8.7",
+            "published_at": "2020-11-07T09:24:23.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "0.9.0",
+            "published_at": "2020-12-10T07:56:24.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "0.9.1",
+            "published_at": "2021-02-13T20:44:22.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2022-01-31T18:07:07.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "CondaForge"
+            ]
+        }
+    ]
+}

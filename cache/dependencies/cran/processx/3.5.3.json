@@ -1,0 +1,214 @@
+{
+    "dependent_repos_count": 77,
+    "dependents_count": 64,
+    "deprecation_reason": null,
+    "description": "Execute and Control System Processes",
+    "forks": 35,
+    "homepage": "https://processx.r-lib.org",
+    "keywords": [
+        "r"
+    ],
+    "language": "C",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/processx_3.5.3.tar.gz",
+    "latest_release_number": "3.5.3",
+    "latest_release_published_at": "2022-03-25T00:00:00.000Z",
+    "latest_stable_release_number": "3.5.3",
+    "latest_stable_release_published_at": "2022-03-25T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "processx",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=processx",
+    "platform": "CRAN",
+    "rank": 17,
+    "repository_license": "Other",
+    "repository_url": null,
+    "stars": 193,
+    "status": null,
+    "versions": [
+        {
+            "number": "2.0.0",
+            "published_at": "2017-05-30T11:44:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.0.0.1",
+            "published_at": "2017-07-30T08:34:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.0.3",
+            "published_at": "2018-05-07T14:14:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.1.0",
+            "published_at": "2018-05-15T09:48:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.2.0",
+            "published_at": "2018-08-16T11:20:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.2.1",
+            "published_at": "2018-12-05T08:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.3.0",
+            "published_at": "2019-03-10T23:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.3.1",
+            "published_at": "2019-05-08T07:20:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.4.0",
+            "published_at": "2019-07-03T11:01:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.4.1",
+            "published_at": "2019-07-18T08:35:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.4.2",
+            "published_at": "2020-02-09T17:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.4.3",
+            "published_at": "2020-07-05T15:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.4.4",
+            "published_at": "2020-09-03T15:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.4.5",
+            "published_at": "2020-11-30T12:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.5.0",
+            "published_at": "2021-03-23T18:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.5.1",
+            "published_at": "2021-04-04T18:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.5.2",
+            "published_at": "2021-04-30T21:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "3.5.3",
+            "published_at": "2022-03-25T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "3.5.3",
+    "dependencies": []
+}

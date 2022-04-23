@@ -1,0 +1,77 @@
+{
+    "dependent_repos_count": 8,
+    "dependents_count": 4,
+    "deprecation_reason": null,
+    "description": "Makefile execution powered by pure Python",
+    "forks": 10,
+    "homepage": "https://github.com/tqdm/pymake",
+    "keywords": [
+        "make",
+        "makefile",
+        "gnumake",
+        "gnu",
+        "console",
+        "terminal",
+        "cli"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.1.1",
+    "latest_release_published_at": "2019-01-21T00:18:55.000Z",
+    "latest_stable_release_number": "0.1.1",
+    "latest_stable_release_published_at": "2019-01-21T00:18:55.000Z",
+    "license_normalized": true,
+    "licenses": "MPLv2.0, MIT Licenses",
+    "name": "py-make",
+    "normalized_licenses": [
+        "MPL-2.0",
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/py-make/",
+    "platform": "Pypi",
+    "rank": 12,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/tqdm/pymake",
+    "stars": 55,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2019-01-20T21:18:59.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2019-01-21T00:18:55.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.1",
+    "dependencies": [
+        {
+            "project_name": "docopt",
+            "name": "docopt",
+            "platform": "Pypi",
+            "requirements": ">=0.6.0",
+            "latest_stable": "0.6.2",
+            "latest": "0.6.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

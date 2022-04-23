@@ -1,0 +1,314 @@
+{
+    "dependent_repos_count": 62,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Simple wrapper for the HTML input tag and HTML5 FileReader API",
+    "forks": 4,
+    "homepage": "https://github.com/greena13/react-simple-file-input#readme",
+    "keywords": [
+        "file",
+        "upload",
+        "FileReader",
+        "React",
+        "input"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/react-simple-file-input/-/react-simple-file-input-2.1.0.tgz",
+    "latest_release_number": "2.1.0",
+    "latest_release_published_at": "2018-02-11T16:24:37.799Z",
+    "latest_stable_release_number": "2.1.0",
+    "latest_stable_release_published_at": "2018-02-11T16:24:37.799Z",
+    "license_normalized": false,
+    "licenses": "ISC",
+    "name": "react-simple-file-input",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/react-simple-file-input",
+    "platform": "NPM",
+    "rank": 12,
+    "repository_license": "ISC",
+    "repository_url": "https://github.com/greena13/react-simple-file-input",
+    "stars": 20,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2016-01-08T07:42:55.828Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2016-01-08T07:56:18.222Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2016-01-08T15:10:01.223Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.4",
+            "published_at": "2016-01-09T11:45:08.289Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2016-01-13T20:14:56.829Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2016-01-14T13:36:49.987Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2016-01-14T18:17:54.955Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2017-01-05T08:48:06.109Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.0",
+            "published_at": "2017-10-14T12:04:55.562Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.1",
+            "published_at": "2017-11-14T07:00:36.896Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.1.0",
+            "published_at": "2018-02-11T16:24:37.799Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "2.1.0",
+    "dependencies": [
+        {
+            "project_name": "babel-preset-react",
+            "name": "babel-preset-react",
+            "platform": "NPM",
+            "requirements": "^6.16.0",
+            "latest_stable": "6.24.1",
+            "latest": "7.0.0-beta.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup-plugin-uglify",
+            "name": "rollup-plugin-uglify",
+            "platform": "NPM",
+            "requirements": "^3.0.0",
+            "latest_stable": "6.0.4",
+            "latest": "6.0.4",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup",
+            "name": "rollup",
+            "platform": "NPM",
+            "requirements": "^0.55.5",
+            "latest_stable": "2.70.0",
+            "latest": "2.70.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "babel-preset-es2015",
+            "name": "babel-preset-es2015",
+            "platform": "NPM",
+            "requirements": "^6.18.0",
+            "latest_stable": "6.24.1",
+            "latest": "7.0.0-beta.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup-plugin-replace",
+            "name": "rollup-plugin-replace",
+            "platform": "NPM",
+            "requirements": "^2.0.0",
+            "latest_stable": "2.2.0",
+            "latest": "2.2.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup-plugin-babel",
+            "name": "rollup-plugin-babel",
+            "platform": "NPM",
+            "requirements": "^3.0.3",
+            "latest_stable": "4.4.0",
+            "latest": "5.0.0-alpha.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "babel-plugin-external-helpers",
+            "name": "babel-plugin-external-helpers",
+            "platform": "NPM",
+            "requirements": "^6.22.0",
+            "latest_stable": "6.22.0",
+            "latest": "7.0.0-beta.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rollup-plugin-license",
+            "name": "rollup-plugin-license",
+            "platform": "NPM",
+            "requirements": "^0.5.0",
+            "latest_stable": "2.7.0",
+            "latest": "2.7.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "babel-cli",
+            "name": "babel-cli",
+            "platform": "NPM",
+            "requirements": "^6.24.1",
+            "latest_stable": "6.26.0",
+            "latest": "7.0.0-beta.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "prop-types",
+            "name": "prop-types",
+            "platform": "NPM",
+            "requirements": "^15.5.7",
+            "latest_stable": "15.8.1",
+            "latest": "15.8.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "babel-plugin-remove-comments",
+            "name": "babel-plugin-remove-comments",
+            "platform": "NPM",
+            "requirements": "^2.0.0",
+            "latest_stable": "2.0.0",
+            "latest": "2.0.0",
+            "deprecated": true,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

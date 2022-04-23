@@ -1,0 +1,95 @@
+{
+    "dependent_repos_count": 11,
+    "dependents_count": 9,
+    "deprecation_reason": null,
+    "description": "This package provides the stringdist module, which includes several functions for calculating string distances. Under the hood, a C extension module is preferentially used for optimal performance, with an automatic fallback to a Python implementation.",
+    "forks": 1,
+    "homepage": "https://github.com/obulkin/string-dist",
+    "keywords": [
+        "string",
+        "metric",
+        "distance",
+        "edit",
+        "levenshtein",
+        "damerau-levenshtein",
+        "optimal",
+        "alignment",
+        "c",
+        "c-extension",
+        "python",
+        "string-distance"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.0.9",
+    "latest_release_published_at": "2017-05-11T07:54:54.000Z",
+    "latest_stable_release_number": "1.0.9",
+    "latest_stable_release_published_at": "2017-05-11T07:54:54.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "StringDist",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/StringDist/",
+    "platform": "Pypi",
+    "rank": 11,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/obulkin/string-dist",
+    "stars": 2,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.4",
+            "published_at": "2017-05-11T04:18:41.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.6",
+            "published_at": "2017-05-11T07:37:05.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.7",
+            "published_at": "2017-05-11T07:48:27.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.8",
+            "published_at": "2017-05-11T07:50:13.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.9",
+            "published_at": "2017-05-11T07:54:54.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.9",
+    "dependencies": []
+}

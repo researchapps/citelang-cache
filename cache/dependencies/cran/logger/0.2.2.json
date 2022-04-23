@@ -1,0 +1,448 @@
+{
+    "dependent_repos_count": 4,
+    "dependents_count": 10,
+    "deprecation_reason": null,
+    "description": "A Lightweight, Modern and Flexible Logging Utility",
+    "forks": 26,
+    "homepage": "https://daroczig.github.io/logger/",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/logger_0.2.2.tar.gz",
+    "latest_release_number": "0.2.2",
+    "latest_release_published_at": "2021-10-19T00:00:00.000Z",
+    "latest_stable_release_number": "0.2.2",
+    "latest_stable_release_published_at": "2021-10-19T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "AGPL-3",
+    "name": "logger",
+    "normalized_licenses": [
+        "AGPL-3.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=logger",
+    "platform": "CRAN",
+    "rank": 13,
+    "repository_license": null,
+    "repository_url": "https://github.com/daroczig/logger",
+    "stars": 189,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2019-01-02T16:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2021-03-04T08:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2021-07-06T18:10:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2021-10-19T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.2.2",
+    "dependencies": [
+        {
+            "project_name": "log4r",
+            "name": "log4r",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.4.2",
+            "latest": "0.4.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "enhances",
+            "normalized_licenses": [
+                "Artistic-2.0"
+            ]
+        },
+        {
+            "project_name": "futile.logger",
+            "name": "futile.logger",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.4.3",
+            "latest": "1.4.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "enhances",
+            "normalized_licenses": [
+                "LGPL-3.0"
+            ]
+        },
+        {
+            "project_name": "logging",
+            "name": "logging",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.10-108",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "enhances",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "syslognet",
+            "name": "syslognet",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.1.2.1",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "R.utils",
+            "name": "R.utils",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.11.0",
+            "latest": "2.11.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CERN-OHL-S-2.0",
+                "CERN-OHL-W-2.0"
+            ]
+        },
+        {
+            "project_name": "botor",
+            "name": "botor",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.3.0",
+            "latest": "0.3.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "AGPL-3.0"
+            ]
+        },
+        {
+            "project_name": "txtq",
+            "name": "txtq",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.1.6",
+            "latest": "0.1.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "callr",
+            "name": "callr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.7.0",
+            "latest": "3.7.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "shiny",
+            "name": "shiny",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.7.1",
+            "latest": "1.7.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "AML"
+            ]
+        },
+        {
+            "project_name": "rsyslog",
+            "name": "rsyslog",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.0.1",
+            "latest": "1.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "parallel",
+            "name": "parallel",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "roxygen2",
+            "name": "roxygen2",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "devtools",
+            "name": "devtools",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.4.3",
+            "latest": "2.4.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rmarkdown",
+            "name": "rmarkdown",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.6",
+            "latest": "2.13",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "knitr",
+            "name": "knitr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.15.1",
+            "latest": "1.38",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "covr",
+            "name": "covr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.5.1",
+            "latest": "3.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "telegram",
+            "name": "telegram",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.6.0",
+            "latest": "0.6.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "RPushbullet",
+            "name": "RPushbullet",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.3.2",
+            "latest": "0.3.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "slackr",
+            "name": "slackr",
+            "platform": "CRAN",
+            "requirements": ">= 1.4.1",
+            "latest_stable": "3.0.1",
+            "latest": "3.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "crayon",
+            "name": "crayon",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.5.1",
+            "latest": "1.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "jsonlite",
+            "name": "jsonlite",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pander",
+            "name": "pander",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.6.5",
+            "latest": "0.6.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "AML"
+            ]
+        },
+        {
+            "project_name": "glue",
+            "name": "glue",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.6.2",
+            "latest": "1.6.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "utils",
+            "name": "utils",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "dependent_repos_count": 27,
+    "dependents_count": 7,
+    "deprecation_reason": null,
+    "description": "Stores files in folders easily",
+    "forks": 2,
+    "homepage": "https://github.com/jacoborus/node-filesaver",
+    "keywords": [
+        "storage",
+        "safe",
+        "filename",
+        "collections",
+        "fs"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/filesaver/-/filesaver-0.0.13.tgz",
+    "latest_release_number": "0.0.13",
+    "latest_release_published_at": "2014-08-05T20:25:34.174Z",
+    "latest_stable_release_number": "0.0.13",
+    "latest_stable_release_published_at": "2014-08-05T20:25:34.174Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "filesaver",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/filesaver",
+    "platform": "NPM",
+    "rank": 10,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/jacoborus/node-filesaver",
+    "stars": 4,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2014-01-20T22:38:26.778Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.10",
+            "published_at": "2014-05-19T05:24:47.890Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.11",
+            "published_at": "2014-06-25T15:34:39.224Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.12",
+            "published_at": "2014-06-25T15:40:17.963Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.13",
+            "published_at": "2014-08-05T20:25:34.174Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2014-01-21T18:43:40.573Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2014-01-21T19:05:07.630Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.4",
+            "published_at": "2014-02-21T10:04:10.358Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.5",
+            "published_at": "2014-02-21T10:08:17.421Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.6",
+            "published_at": "2014-05-18T06:47:57.317Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.7",
+            "published_at": "2014-05-18T07:18:41.126Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.8",
+            "published_at": "2014-05-18T18:21:18.876Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.9",
+            "published_at": "2014-05-18T18:45:15.203Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.13",
+    "dependencies": [
+        {
+            "project_name": "chai",
+            "name": "chai",
+            "platform": "NPM",
+            "requirements": "^1.9.1",
+            "latest_stable": "4.3.6",
+            "latest": "4.3.6",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "mocha",
+            "name": "mocha",
+            "platform": "NPM",
+            "requirements": "latest",
+            "latest_stable": "9.2.2",
+            "latest": "9.2.2",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "updox",
+            "name": "updox",
+            "platform": "NPM",
+            "requirements": "0.0.5",
+            "latest_stable": "0.0.5",
+            "latest": "0.0.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "mkdirp",
+            "name": "mkdirp",
+            "platform": "NPM",
+            "requirements": "^0.5.0",
+            "latest_stable": "0.5.6",
+            "latest": "0.5.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "safename",
+            "name": "safename",
+            "platform": "NPM",
+            "requirements": "0.0.4",
+            "latest_stable": "2.0.0",
+            "latest": "2.0.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

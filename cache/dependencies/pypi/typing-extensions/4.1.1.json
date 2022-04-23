@@ -1,0 +1,209 @@
+{
+    "dependent_repos_count": 938,
+    "dependents_count": 2961,
+    "deprecation_reason": null,
+    "description": "Backported and Experimental Type Hints for Python 3.6+",
+    "forks": 193,
+    "homepage": "https://typing.readthedocs.io/",
+    "keywords": [
+        "annotations",
+        "backport",
+        "checker",
+        "checking",
+        "function",
+        "hinting",
+        "hints",
+        "type",
+        "typechecking",
+        "typehinting",
+        "typehints",
+        "typing",
+        "gradual-typing",
+        "python",
+        "static-typing",
+        "types"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "4.1.1",
+    "latest_release_published_at": "2022-02-14T03:19:55.000Z",
+    "latest_stable_release_number": "4.1.1",
+    "latest_stable_release_published_at": "2022-02-14T03:19:55.000Z",
+    "license_normalized": true,
+    "licenses": "Python Software Foundation License",
+    "name": "typing-extensions",
+    "normalized_licenses": [
+        "PSF-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/typing-extensions/",
+    "platform": "Pypi",
+    "rank": 22,
+    "repository_license": "Other",
+    "repository_url": "",
+    "stars": 1147,
+    "status": null,
+    "versions": [
+        {
+            "number": "3.10.0.0",
+            "published_at": "2021-05-01T18:03:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.10.0.1",
+            "published_at": "2021-08-29T15:53:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.10.0.2",
+            "published_at": "2021-08-30T18:46:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.2",
+            "published_at": "2017-09-17T12:25:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.2.1",
+            "published_at": "2017-09-30T08:53:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.5",
+            "published_at": "2018-05-07T22:16:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.6",
+            "published_at": "2018-10-06T22:03:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.7.2",
+            "published_at": "2019-01-12T18:17:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.7.4",
+            "published_at": "2019-06-19T23:58:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.7.4.1",
+            "published_at": "2019-10-28T13:29:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.7.4.2",
+            "published_at": "2020-04-02T17:40:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.7.4.3",
+            "published_at": "2020-08-23T16:44:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "PSF",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0",
+            "published_at": "2021-11-14T22:11:20.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.1",
+            "published_at": "2021-12-01T01:45:37.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.1.0",
+            "published_at": "2022-02-12T21:35:42.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.1.1",
+            "published_at": "2022-02-14T03:19:55.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "4.1.1",
+    "dependencies": []
+}

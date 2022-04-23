@@ -1,0 +1,61 @@
+{
+    "dependent_repos_count": 2,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "A library/plugin for handling 3D structural molecular data (not only) in the browser.",
+    "forks": 32,
+    "homepage": "https://webchemdev.ncbr.muni.cz/LiteMol/",
+    "keywords": [
+        "litemol",
+        "molecule",
+        "macromolecule",
+        "protein",
+        "visualization",
+        "3d visualization",
+        "3d viewer",
+        "electron density viewer",
+        "structural molecular data",
+        "PDBe"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/litemol/-/litemol-2.4.2.tgz",
+    "latest_release_number": "2.4.2",
+    "latest_release_published_at": "2019-06-08T13:38:04.555Z",
+    "latest_stable_release_number": "2.4.2",
+    "latest_stable_release_published_at": "2019-06-08T13:38:04.555Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "litemol",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/litemol",
+    "platform": "NPM",
+    "rank": 11,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/dsehnal/LiteMol",
+    "stars": 125,
+    "status": null,
+    "versions": [
+        {
+            "number": "2.4.1",
+            "published_at": "2018-12-14T17:16:23.027Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.4.2",
+            "published_at": "2019-06-08T13:38:04.555Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ]
+}

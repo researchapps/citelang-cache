@@ -1,0 +1,207 @@
+{
+    "dependent_repos_count": 86,
+    "dependents_count": 64,
+    "deprecation_reason": null,
+    "description": "Ninja is a small build system with a focus on speed",
+    "forks": 1180,
+    "homepage": "http://ninja-build.org/",
+    "keywords": [
+        "ninja",
+        "build",
+        "c++",
+        "fortran",
+        "cross-platform",
+        "cross-compilation"
+    ],
+    "language": "C++",
+    "latest_download_url": null,
+    "latest_release_number": "1.10.2.3",
+    "latest_release_published_at": "2021-11-21T10:55:35.000Z",
+    "latest_stable_release_number": "1.10.2",
+    "latest_stable_release_published_at": "2021-07-28T06:39:25.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "ninja",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/ninja/",
+    "platform": "Pypi",
+    "rank": 19,
+    "repository_license": "Apache-2.0",
+    "repository_url": "",
+    "stars": 7448,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.5.3",
+            "published_at": "2015-02-04T00:26:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License (2.0)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.7.2",
+            "published_at": "2016-12-24T02:54:40.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.7.2.post1",
+            "published_at": "2017-05-30T21:56:53.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.7.2.post2",
+            "published_at": "2017-06-06T03:56:48.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.8.2",
+            "published_at": "2018-04-08T03:48:25.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.8.2.post1",
+            "published_at": "2018-07-22T11:30:08.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.8.2.post2",
+            "published_at": "2018-08-22T21:35:57.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.9.0",
+            "published_at": "2019-02-26T03:21:24.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.9.0.post1",
+            "published_at": "2019-05-27T06:01:54.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.10.0",
+            "published_at": "2020-06-04T23:38:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.10.0.post1",
+            "published_at": "2020-06-15T22:29:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.10.0.post2",
+            "published_at": "2020-09-10T13:07:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.10.0.post3",
+            "published_at": "2021-07-17T08:40:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.10.2",
+            "published_at": "2021-07-28T06:39:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.10.2.1",
+            "published_at": "2021-10-02T11:40:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.10.2.2",
+            "published_at": "2021-10-04T21:59:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.10.2.3",
+            "published_at": "2021-11-21T10:55:35.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

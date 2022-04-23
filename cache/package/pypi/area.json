@@ -1,0 +1,74 @@
+{
+    "dependent_repos_count": 8,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox'sgeojson-area for Python",
+    "forks": 5,
+    "homepage": "https://github.com/scisco/area",
+    "keywords": [
+        "geojson",
+        "area",
+        "geometry"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2018-10-31T14:22:29.000Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2018-10-31T14:22:29.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-2-Clause",
+    "name": "area",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/area/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/scisco/area",
+    "stars": 25,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.9rc0",
+            "published_at": "2015-11-25T18:00:31.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2015-11-25T18:08:18.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2016-01-08T18:49:58.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2018-10-31T14:22:29.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "dependent_repos_count": 755,
+    "dependents_count": 74,
+    "deprecation_reason": null,
+    "description": "sphinxcontrib-devhelp is a sphinx extension which outputs Devhelp document.",
+    "forks": 0,
+    "homepage": "http://sphinx-doc.org/",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "1.0.2",
+    "latest_release_published_at": "2020-02-29T04:14:40.000Z",
+    "latest_stable_release_number": "1.0.2",
+    "latest_stable_release_published_at": "2020-02-29T04:14:40.000Z",
+    "license_normalized": false,
+    "licenses": "BSD",
+    "name": "sphinxcontrib-devhelp",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/sphinxcontrib-devhelp/",
+    "platform": "Pypi",
+    "rank": 14,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": "",
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2019-01-19T17:52:07.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2019-02-14T16:32:04.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2020-02-29T04:14:40.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.2",
+    "dependencies": [
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.1",
+            "latest": "7.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "docutils-stubs",
+            "name": "docutils-stubs",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.0.22",
+            "latest": "0.0.22",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Unlicense"
+            ]
+        },
+        {
+            "project_name": "mypy",
+            "name": "mypy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.942",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "flake8",
+            "name": "flake8",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.0.1",
+            "latest": "4.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 9,
+    "deprecation_reason": null,
+    "description": "An RST directive for injecting a Towncrier-generated changelog draft containing fragments for the unreleased (next) project version",
+    "forks": 11,
+    "homepage": "https://github.com/sphinx-contrib/sphinxcontrib-towncrier",
+    "keywords": [
+        "hacktoberfest",
+        "sphinx",
+        "sphinx-doc",
+        "sphinx-extension"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.2.1a0",
+    "latest_release_published_at": "2021-12-31T00:03:14.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause License",
+    "name": "sphinxcontrib-towncrier",
+    "normalized_licenses": [
+        "BSD-1-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/sphinxcontrib-towncrier/",
+    "platform": "Pypi",
+    "rank": 11,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/sphinx-contrib/sphinxcontrib-towncrier",
+    "stars": 11,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0a1",
+            "published_at": "2020-11-08T15:41:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD 3-Clause License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0a0",
+            "published_at": "2021-04-14T12:38:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD 3-Clause License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1a0",
+            "published_at": "2021-12-31T00:03:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD 3-Clause License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "dependent_repos_count": 192,
+    "dependents_count": 32,
+    "deprecation_reason": null,
+    "description": "Native Angular Bootstrap Components",
+    "forks": 1681,
+    "homepage": "https://github.com/valor-software/ngx-bootstrap#readme",
+    "keywords": [
+        "ng",
+        "ng-bootstap",
+        "angular",
+        "angular2",
+        "bootstrap",
+        "twitter-bootstrap",
+        "carousel",
+        "components",
+        "datepicker",
+        "daterangepicker",
+        "modals",
+        "popover",
+        "select",
+        "sortable",
+        "typeahead",
+        "widgets"
+    ],
+    "language": "TypeScript",
+    "latest_download_url": "https://registry.npmjs.org/ng-bootstrap/-/ng-bootstrap-1.6.3.tgz",
+    "latest_release_number": "1.6.3",
+    "latest_release_published_at": "2017-04-05T21:29:17.057Z",
+    "latest_stable_release_number": "1.6.3",
+    "latest_stable_release_published_at": "2017-04-05T21:29:17.057Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "ng-bootstrap",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/ng-bootstrap",
+    "platform": "NPM",
+    "rank": 18,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/valor-software/ngx-bootstrap",
+    "stars": 5360,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.46.0",
+            "published_at": "2015-12-08T21:29:49.306Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0-beta.2",
+            "published_at": "2016-01-12T11:05:40.217Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.16",
+            "published_at": "2016-11-14T22:52:18.885Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.16-0",
+            "published_at": "2016-11-15T00:04:40.428Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.16-1",
+            "published_at": "2016-11-15T01:27:47.258Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.16-2",
+            "published_at": "2016-11-28T14:45:57.831Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.16-3",
+            "published_at": "2016-11-28T16:02:52.939Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.6.3",
+            "published_at": "2017-04-05T21:29:17.057Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.6.3",
+    "dependencies": [
+        {
+            "project_name": "moment",
+            "name": "moment",
+            "platform": "NPM",
+            "requirements": "2.18.1",
+            "latest_stable": "2.29.2",
+            "latest": "2.29.3",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

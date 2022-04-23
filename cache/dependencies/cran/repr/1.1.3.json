@@ -1,0 +1,472 @@
+{
+    "dependent_repos_count": 26,
+    "dependents_count": 10,
+    "deprecation_reason": null,
+    "description": "Serializable Representations",
+    "forks": 26,
+    "homepage": "https://github.com/IRkernel/repr/",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/repr_1.1.3.tar.gz",
+    "latest_release_number": "1.1.3",
+    "latest_release_published_at": "2021-01-21T00:00:00.000Z",
+    "latest_stable_release_number": "1.1.3",
+    "latest_stable_release_published_at": "2021-01-21T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-3",
+    "name": "repr",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=repr",
+    "platform": "CRAN",
+    "rank": 13,
+    "repository_license": null,
+    "repository_url": "https://github.com/IRkernel/repr",
+    "stars": 47,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.10",
+            "published_at": "2016-11-25T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.12.0",
+            "published_at": "2017-04-07T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.13",
+            "published_at": "2018-04-14T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.15.0",
+            "published_at": "2018-05-18T11:54:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.17",
+            "published_at": "2018-11-07T15:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.18",
+            "published_at": "2018-11-27T13:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.19.1",
+            "published_at": "2019-01-02T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.19.2",
+            "published_at": "2019-02-06T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2016-05-07T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2016-05-13T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.9",
+            "published_at": "2016-07-24T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2019-04-29T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2019-05-14T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2019-12-16T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2020-01-28T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.3",
+            "published_at": "2021-01-21T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.3",
+    "dependencies": [
+        {
+            "project_name": "geojsonio",
+            "name": "geojsonio",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.0",
+            "latest": "0.9.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "enhances",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "plotly",
+            "name": "plotly",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "4.9.4",
+            "latest": "4.9.4.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "enhances",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "vegalite",
+            "name": "vegalite",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.6.1",
+            "latest": "0.6.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "enhances",
+            "normalized_licenses": [
+                "AML"
+            ]
+        },
+        {
+            "project_name": "htmlwidgets",
+            "name": "htmlwidgets",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.5.4",
+            "latest": "1.5.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "enhances",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "tibble",
+            "name": "tibble",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.1.4",
+            "latest": "3.1.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "enhances",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "data.table",
+            "name": "data.table",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.14.2",
+            "latest": "1.14.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "enhances",
+            "normalized_licenses": [
+                "AML"
+            ]
+        },
+        {
+            "project_name": "leaflet",
+            "name": "leaflet",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.1.0",
+            "latest": "2.1.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": ">= 3.0.0",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "stringr",
+            "name": "stringr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.4.0",
+            "latest": "1.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "AML"
+            ]
+        },
+        {
+            "project_name": "Cairo",
+            "name": "Cairo",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.5-15",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-2.0+"
+            ]
+        },
+        {
+            "project_name": "highr",
+            "name": "highr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.5.1",
+            "latest": "0.8",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "methods",
+            "name": "methods",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "base64enc",
+            "name": "base64enc",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.1-3",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-2.0+"
+            ]
+        },
+        {
+            "project_name": "pillar",
+            "name": "pillar",
+            "platform": "CRAN",
+            "requirements": ">= 1.4.0",
+            "latest_stable": "1.7.0",
+            "latest": "1.7.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "jsonlite",
+            "name": "jsonlite",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "htmltools",
+            "name": "htmltools",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.5.2",
+            "latest": "0.5.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "grDevices",
+            "name": "grDevices",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "utils",
+            "name": "utils",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 3.0.1",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

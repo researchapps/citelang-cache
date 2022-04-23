@@ -1,0 +1,168 @@
+{
+    "dependent_repos_count": 3,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Connector to 'CouchDB'",
+    "forks": 14,
+    "homepage": "https://github.com/ropensci/sofa",
+    "keywords": [
+        "cloudant",
+        "couchdb",
+        "couchdb-client",
+        "database",
+        "r",
+        "r-package",
+        "rstats"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/sofa_0.3.0.tar.gz",
+    "latest_release_number": "0.3.0",
+    "latest_release_published_at": "2018-01-03T00:00:00.000Z",
+    "latest_stable_release_number": "0.3.0",
+    "latest_stable_release_published_at": "2018-01-03T00:00:00.000Z",
+    "license_normalized": false,
+    "licenses": "MIT + file LICENSE",
+    "name": "sofa",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=sofa",
+    "platform": "CRAN",
+    "rank": 8,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/ropensci/sofa",
+    "stars": 29,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.2.0",
+            "published_at": "2016-10-13T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2018-01-03T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.3.0",
+    "dependencies": [
+        {
+            "project_name": "crul",
+            "name": "crul",
+            "platform": "CRAN",
+            "requirements": ">= 0.4.0",
+            "latest_stable": "1.2.0",
+            "latest": "1.2.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "jsonlite",
+            "name": "jsonlite",
+            "platform": "CRAN",
+            "requirements": ">= 1.5",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "R6",
+            "name": "R6",
+            "platform": "CRAN",
+            "requirements": ">= 2.2.2",
+            "latest_stable": "2.5.1",
+            "latest": "2.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "mime",
+            "name": "mime",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.1.2",
+            "latest": "0.12",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "knitr",
+            "name": "knitr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.15.1",
+            "latest": "1.38",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "rmarkdown",
+            "name": "rmarkdown",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.6",
+            "latest": "2.13",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        }
+    ]
+}

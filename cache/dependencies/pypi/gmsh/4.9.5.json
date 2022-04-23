@@ -1,0 +1,239 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 24,
+    "deprecation_reason": null,
+    "description": "Gmsh is a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities.",
+    "forks": 0,
+    "homepage": "https://gmsh.info",
+    "keywords": [
+        "fem",
+        "mesh",
+        "finite",
+        "element",
+        "method",
+        "cad"
+    ],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "4.9.5",
+    "latest_release_published_at": "2022-02-21T14:21:42.000Z",
+    "latest_stable_release_number": "4.9.4",
+    "latest_stable_release_published_at": "2022-02-03T21:37:18.000Z",
+    "license_normalized": true,
+    "licenses": "GPLv2+",
+    "name": "gmsh",
+    "normalized_licenses": [
+        "GPL-2.0+"
+    ],
+    "package_manager_url": "https://pypi.org/project/gmsh/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "4.5.6",
+            "published_at": "2020-04-20T09:29:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.5.6.post1",
+            "published_at": "2020-04-16T13:53:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.6.0",
+            "published_at": "2020-06-22T10:46:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.6.0.post1",
+            "published_at": "2020-10-02T06:15:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.6.0.post2",
+            "published_at": "2020-10-03T10:59:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.6.0.post3",
+            "published_at": "2020-10-05T15:13:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.7.0",
+            "published_at": "2020-11-06T18:02:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.7.1",
+            "published_at": "2020-11-16T20:04:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.0",
+            "published_at": "2021-03-02T17:35:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.1",
+            "published_at": "2021-03-22T09:28:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.2",
+            "published_at": "2021-03-28T07:27:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.3",
+            "published_at": "2021-04-06T10:05:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.4",
+            "published_at": "2021-04-28T12:44:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL-2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.0",
+            "published_at": "2021-12-03T16:47:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv2+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.0.post1",
+            "published_at": "2021-12-03T19:36:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv2+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.1",
+            "published_at": "2021-12-18T13:24:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv2+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.2",
+            "published_at": "2021-12-23T10:27:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv2+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.3",
+            "published_at": "2022-01-04T19:37:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv2+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.4",
+            "published_at": "2022-02-03T21:37:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv2+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.5",
+            "published_at": "2022-02-21T14:21:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv2+",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "4.9.5",
+    "dependencies": []
+}

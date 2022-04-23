@@ -1,0 +1,121 @@
+{
+    "dependent_repos_count": 10,
+    "dependents_count": 8,
+    "deprecation_reason": null,
+    "description": "Building stream chains",
+    "forks": 0,
+    "homepage": "",
+    "keywords": [],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/pipeline/-/pipeline-0.1.3.tgz",
+    "latest_release_number": "0.1.3",
+    "latest_release_published_at": "2013-05-16T09:32:49.720Z",
+    "latest_stable_release_number": "0.1.3",
+    "latest_stable_release_published_at": "2013-05-16T09:32:49.720Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "pipeline",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/pipeline",
+    "platform": "NPM",
+    "rank": 11,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/pgte/pipeline",
+    "stars": 15,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2012-03-21T01:00:56.597Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2012-03-21T11:37:59.997Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2012-03-21T12:22:34.958Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2012-03-21T12:26:28.839Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2012-04-23T12:59:27.636Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.3",
+            "published_at": "2013-05-16T09:32:49.720Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.3",
+    "dependencies": [
+        {
+            "project_name": "tap",
+            "name": "tap",
+            "platform": "NPM",
+            "requirements": "*",
+            "latest_stable": "16.0.1",
+            "latest": "16.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "ISC"
+            ]
+        },
+        {
+            "project_name": "bufferedstream",
+            "name": "bufferedstream",
+            "platform": "NPM",
+            "requirements": "*",
+            "latest_stable": "3.1.1",
+            "latest": "3.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": []
+        }
+    ]
+}

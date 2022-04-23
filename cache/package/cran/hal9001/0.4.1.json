@@ -1,0 +1,65 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "The Scalable Highly Adaptive Lasso",
+    "forks": 10,
+    "homepage": "https://github.com/tlverse/hal9001",
+    "keywords": [
+        "cross-validation",
+        "lasso-regression",
+        "machine-learning-algorithms",
+        "nonparametric-regression"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/hal9001_0.2.7.tar.gz",
+    "latest_release_number": "0.2.7",
+    "latest_release_published_at": "2021-01-22T00:00:00.000Z",
+    "latest_stable_release_number": "0.2.7",
+    "latest_stable_release_published_at": "2021-01-22T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-3",
+    "name": "hal9001",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=hal9001",
+    "platform": "CRAN",
+    "rank": 10,
+    "repository_license": "GPL-3.0",
+    "repository_url": "https://github.com/tlverse/hal9001",
+    "stars": 24,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.2.5",
+            "published_at": "2020-03-05T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.6",
+            "published_at": "2020-06-27T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.7",
+            "published_at": "2021-01-22T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

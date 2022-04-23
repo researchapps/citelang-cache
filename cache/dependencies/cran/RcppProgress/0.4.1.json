@@ -1,0 +1,159 @@
+{
+    "dependent_repos_count": 44,
+    "dependents_count": 29,
+    "deprecation_reason": null,
+    "description": "An Interruptible Progress Bar with OpenMP Support for C++ in R\nPackages",
+    "forks": 8,
+    "homepage": "https://github.com/kforner/rcpp_progress",
+    "keywords": [
+        "openmp-support",
+        "pkg",
+        "r",
+        "rcpp"
+    ],
+    "language": "C++",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/RcppProgress_0.4.1.tar.gz",
+    "latest_release_number": "0.4.1",
+    "latest_release_published_at": "2018-05-11T00:00:00.000Z",
+    "latest_stable_release_number": "0.4.1",
+    "latest_stable_release_published_at": "2018-05-11T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL (\u2265 3)",
+    "name": "RcppProgress",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=RcppProgress",
+    "platform": "CRAN",
+    "rank": 12,
+    "repository_license": null,
+    "repository_url": "https://github.com/kforner/rcpp_progress",
+    "stars": 24,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2013-05-10T16:10:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2015-01-07T16:03:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2015-01-09T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2017-01-05T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2017-11-22T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4.1",
+            "published_at": "2018-05-11T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.4.1",
+    "dependencies": [
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "roxygen2",
+            "name": "roxygen2",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "devtools",
+            "name": "devtools",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.4.3",
+            "latest": "2.4.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "RcppArmadillo",
+            "name": "RcppArmadillo",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.3.820",
+            "latest": "0.10.8.1.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        }
+    ]
+}

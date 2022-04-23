@@ -1,0 +1,104 @@
+{
+    "dependent_repos_count": 160,
+    "dependents_count": 100,
+    "deprecation_reason": null,
+    "description": "Twitter Bootstrap Components for Shiny",
+    "forks": 46,
+    "homepage": "https://ebailey78.github.io/shinyBS",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/shinyBS_0.61.1.tar.gz",
+    "latest_release_number": "0.61.1",
+    "latest_release_published_at": "2022-04-17T00:00:00.000Z",
+    "latest_stable_release_number": "0.61.1",
+    "latest_stable_release_published_at": "2022-04-17T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-3",
+    "name": "shinyBS",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=shinyBS",
+    "platform": "CRAN",
+    "rank": 16,
+    "repository_license": null,
+    "repository_url": "https://github.com/ebailey78/shinyBS",
+    "stars": 172,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.10",
+            "published_at": "2014-03-11T17:39:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.20",
+            "published_at": "2014-03-20T03:01:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.61",
+            "published_at": "2015-03-31T07:52:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.61.1",
+            "published_at": "2022-04-17T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.61.1",
+    "dependencies": [
+        {
+            "project_name": "htmltools",
+            "name": "htmltools",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.5.2",
+            "latest": "0.5.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "shiny",
+            "name": "shiny",
+            "platform": "CRAN",
+            "requirements": ">= 0.11",
+            "latest_stable": "1.7.1",
+            "latest": "1.7.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "AML"
+            ]
+        }
+    ]
+}

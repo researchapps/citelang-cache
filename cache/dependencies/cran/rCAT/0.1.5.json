@@ -1,0 +1,119 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Conservation Assessment Tools",
+    "forks": 0,
+    "homepage": null,
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/rCAT_0.1.5.tar.gz",
+    "latest_release_number": "0.1.5",
+    "latest_release_published_at": "2017-01-17T00:00:00.000Z",
+    "latest_stable_release_number": "0.1.5",
+    "latest_stable_release_published_at": "2017-01-17T00:00:00.000Z",
+    "license_normalized": false,
+    "licenses": "GPL-2",
+    "name": "rCAT",
+    "normalized_licenses": [
+        "GPL-2.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=rCAT",
+    "platform": "CRAN",
+    "rank": 3,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.5",
+            "published_at": "2017-01-17T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.5",
+    "dependencies": [
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 3.3.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "pracma",
+            "name": "pracma",
+            "platform": "CRAN",
+            "requirements": ">= 1.9.5",
+            "latest_stable": "2.3.8",
+            "latest": "2.3.8",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "rgdal",
+            "name": "rgdal",
+            "platform": "CRAN",
+            "requirements": ">= 1.2",
+            "latest_stable": null,
+            "latest": "1.5-28",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "sp",
+            "name": "sp",
+            "platform": "CRAN",
+            "requirements": ">= 1.2",
+            "latest_stable": null,
+            "latest": "1.4-6",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "rgeos",
+            "name": "rgeos",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.5-9",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        }
+    ]
+}

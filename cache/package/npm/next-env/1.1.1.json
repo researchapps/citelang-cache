@@ -1,0 +1,84 @@
+{
+    "dependent_repos_count": 18,
+    "dependents_count": 10,
+    "deprecation_reason": null,
+    "description": "Automatic static (build-time) or runtime environment variables injection for [Next.js](https://github.com/zeit/next.js).",
+    "forks": 2,
+    "homepage": "https://github.com/formatlos/next-env",
+    "keywords": [
+        "next.js",
+        "next",
+        "plugins",
+        "environment",
+        "env",
+        "dotenv",
+        "runtime",
+        "configuration",
+        "build-time",
+        "environment-variables",
+        "nextjs",
+        "plugin",
+        "static"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/next-env/-/next-env-1.1.1.tgz",
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2020-03-23T17:10:46.130Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2020-03-23T17:10:46.130Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "next-env",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/next-env",
+    "platform": "NPM",
+    "rank": 13,
+    "repository_license": null,
+    "repository_url": "https://github.com/formatlos/next-env",
+    "stars": 46,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2018-08-16T06:37:36.363Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2018-08-17T18:09:37.288Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2019-02-18T14:17:18.690Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2020-03-23T17:10:46.130Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ]
+}

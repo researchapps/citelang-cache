@@ -1,0 +1,62 @@
+{
+    "dependent_repos_count": 4,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "manipulate SAM cigar strings",
+    "forks": 0,
+    "homepage": "https://github.com/brentp/cigar",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.1.3",
+    "latest_release_published_at": "2015-12-08T18:49:31.000Z",
+    "latest_stable_release_number": "0.1.3",
+    "latest_stable_release_published_at": "2015-12-08T18:49:31.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "cigar",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/cigar/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/brentp/cigar",
+    "stars": 14,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2014-07-12T13:15:03.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2015-12-08T18:48:50.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.3",
+            "published_at": "2015-12-08T18:49:31.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.3",
+    "dependencies": []
+}

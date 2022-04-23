@@ -1,0 +1,66 @@
+{
+    "dependent_repos_count": 1,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Simultaneous Confidence Intervals for Multinomial Proportions\nAccording to the Method by Sison and Glaz",
+    "forks": 0,
+    "homepage": "http://decsai.ugr.es/~pjvi",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/MultinomialCI_1.1.tar.gz",
+    "latest_release_number": "1.1",
+    "latest_release_published_at": "2019-09-07T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "LGPL (\u2265 3)",
+    "name": "MultinomialCI",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=MultinomialCI",
+    "platform": "CRAN",
+    "rank": 5,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0",
+            "published_at": "2012-12-07T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2019-09-07T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1",
+    "dependencies": [
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 2.15.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

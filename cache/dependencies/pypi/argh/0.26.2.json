@@ -1,0 +1,480 @@
+{
+    "dependent_repos_count": 2301,
+    "dependents_count": 140,
+    "deprecation_reason": null,
+    "description": "An unobtrusive argparse wrapper with natural syntax",
+    "forks": 41,
+    "homepage": "http://github.com/neithere/argh/",
+    "keywords": [
+        "cli",
+        "command",
+        "line",
+        "argparse",
+        "optparse",
+        "argument",
+        "option"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.26.2",
+    "latest_release_published_at": "2016-05-11T20:55:26.000Z",
+    "latest_stable_release_number": "0.26.2",
+    "latest_stable_release_published_at": "2016-05-11T20:55:26.000Z",
+    "license_normalized": true,
+    "licenses": "GNU Lesser General Public License (LGPL), Version 3",
+    "name": "argh",
+    "normalized_licenses": [
+        "LGPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/argh/",
+    "platform": "Pypi",
+    "rank": 18,
+    "repository_license": "LGPL-3.0",
+    "repository_url": "https://github.com/neithere/argh",
+    "stars": 231,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2010-11-12T22:41:22.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.0",
+            "published_at": "2010-12-02T01:10:51.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.1",
+            "published_at": "2010-12-04T17:25:11.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.2",
+            "published_at": "2010-12-05T15:15:25.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2010-11-13T00:26:43.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.0",
+            "published_at": "2010-12-06T01:28:21.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.0",
+            "published_at": "2010-12-06T15:19:01.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.0",
+            "published_at": "2010-12-08T00:25:27.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.0",
+            "published_at": "2011-01-02T02:07:20.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.1",
+            "published_at": "2011-09-03T17:41:23.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.2",
+            "published_at": "2011-09-19T20:20:48.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.0",
+            "published_at": "2012-02-14T02:03:00.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.1",
+            "published_at": "2012-03-10T16:33:22.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16.0",
+            "published_at": "2012-10-19T14:26:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.0",
+            "published_at": "2012-11-17T13:48:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.1",
+            "published_at": "2012-11-19T11:56:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.2",
+            "published_at": "2012-11-20T11:32:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.18.0",
+            "published_at": "2012-12-17T03:22:22.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.19.0",
+            "published_at": "2012-12-19T00:59:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2010-11-13T04:54:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.20.0",
+            "published_at": "2012-12-24T10:03:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.21.0",
+            "published_at": "2012-12-30T17:37:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.21.1",
+            "published_at": "2013-01-01T23:39:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.21.2",
+            "published_at": "2013-01-08T16:18:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.22.0",
+            "published_at": "2013-01-14T07:12:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.23.0",
+            "published_at": "2013-01-30T01:14:13.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.23.1",
+            "published_at": "2013-03-11T13:28:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.23.2",
+            "published_at": "2013-06-06T22:42:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.23.3",
+            "published_at": "2013-08-20T12:06:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.24.0",
+            "published_at": "2014-01-06T04:11:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.24.1",
+            "published_at": "2014-01-06T06:22:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.25.0",
+            "published_at": "2014-07-05T16:00:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.26.0",
+            "published_at": "2014-10-27T12:48:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.26.0-dev",
+            "published_at": "2014-10-26T22:30:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.26.1",
+            "published_at": "2014-10-30T13:54:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU Lesser General Public License (LGPL), Version 3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.26.2",
+            "published_at": "2016-05-11T20:55:26.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2010-11-18T00:09:08.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2010-11-19T01:33:59.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2010-11-19T01:41:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2010-11-19T01:52:34.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2010-11-19T16:28:59.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.0",
+            "published_at": "2010-11-22T04:35:40.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.0",
+            "published_at": "2010-11-22T12:32:11.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.1",
+            "published_at": "2010-11-27T13:23:58.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.26.2",
+    "dependencies": []
+}

@@ -1,0 +1,125 @@
+{
+    "dependent_repos_count": 6,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "Interface to the \"Geonames\" Spatial Query Web Service",
+    "forks": 8,
+    "homepage": null,
+    "keywords": [
+        "r",
+        "r-package",
+        "rstats"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/geonames_0.999.tar.gz",
+    "latest_release_number": "0.999",
+    "latest_release_published_at": "2019-02-19T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "GPL-3",
+    "name": "geonames",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=geonames",
+    "platform": "CRAN",
+    "rank": 9,
+    "repository_license": "GPL-3.0",
+    "repository_url": "https://github.com/ropensci/geonames",
+    "stars": 27,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.6",
+            "published_at": "2008-10-16T13:14:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.8",
+            "published_at": "2009-02-28T08:10:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.996",
+            "published_at": "2014-05-07T07:57:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.997",
+            "published_at": "2014-10-20T01:01:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.998",
+            "published_at": "2014-12-19T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.999",
+            "published_at": "2019-02-19T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.999",
+    "dependencies": [
+        {
+            "project_name": "rjson",
+            "name": "rjson",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.2.21",
+            "latest": "0.2.21",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-2.0"
+            ]
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 2.2.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

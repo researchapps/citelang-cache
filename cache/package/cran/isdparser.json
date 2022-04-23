@@ -1,0 +1,68 @@
+{
+    "dependent_repos_count": 5,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Parse 'NOAA' Integrated Surface Data Files",
+    "forks": 4,
+    "homepage": "https://github.com/ropensci/isdparser",
+    "keywords": [
+        "climate",
+        "isd",
+        "noaa",
+        "noaa-isd",
+        "r",
+        "r-package",
+        "rstats"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/isdparser_0.3.0.tar.gz",
+    "latest_release_number": "0.3.0",
+    "latest_release_published_at": "2018-10-23T00:00:00.000Z",
+    "latest_stable_release_number": "0.3.0",
+    "latest_stable_release_published_at": "2018-10-23T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "isdparser",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=isdparser",
+    "platform": "CRAN",
+    "rank": 9,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/ropensci/isdparser",
+    "stars": 5,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2016-11-03T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2017-01-18T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2018-10-23T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

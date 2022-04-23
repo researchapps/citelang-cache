@@ -1,0 +1,123 @@
+{
+    "dependent_repos_count": 388,
+    "dependents_count": 15,
+    "deprecation_reason": null,
+    "description": "Math extension for Python-Markdown",
+    "forks": 25,
+    "homepage": "https://github.com/mitya57/python-markdown-math",
+    "keywords": [
+        "markdown",
+        "math",
+        "mathjax",
+        "python-markdown"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.8",
+    "latest_release_published_at": "2020-11-03T17:33:02.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause License",
+    "name": "python-markdown-math",
+    "normalized_licenses": [
+        "BSD-1-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-markdown-math/",
+    "platform": "Pypi",
+    "rank": 14,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/mitya57/python-markdown-math",
+    "stars": 87,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2015-08-12T16:03:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2015-12-05T17:32:08.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2017-03-24T19:30:50.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2018-05-03T13:43:25.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2018-06-15T12:53:21.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2020-06-09T10:34:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD 3-Clause License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8",
+            "published_at": "2020-11-03T17:33:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD 3-Clause License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.8",
+    "dependencies": [
+        {
+            "project_name": "Markdown",
+            "name": "Markdown",
+            "platform": "Pypi",
+            "requirements": ">=3.0",
+            "latest_stable": "3.3.6",
+            "latest": "3.3.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

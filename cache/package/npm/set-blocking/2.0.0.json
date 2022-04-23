@@ -1,0 +1,57 @@
+{
+    "dependent_repos_count": 542985,
+    "dependents_count": 287,
+    "deprecation_reason": null,
+    "description": "set blocking stdio and stderr ensuring that terminal output does not truncate",
+    "forks": 10,
+    "homepage": "https://github.com/yargs/set-blocking#readme",
+    "keywords": [
+        "flush",
+        "terminal",
+        "blocking",
+        "shim",
+        "stdio",
+        "stderr"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/set-blocking/-/set-blocking-2.0.0.tgz",
+    "latest_release_number": "2.0.0",
+    "latest_release_published_at": "2016-05-17T22:59:27.619Z",
+    "latest_stable_release_number": "2.0.0",
+    "latest_stable_release_published_at": "2016-05-17T22:59:27.619Z",
+    "license_normalized": false,
+    "licenses": "ISC",
+    "name": "set-blocking",
+    "normalized_licenses": [
+        "ISC"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/set-blocking",
+    "platform": "NPM",
+    "rank": 23,
+    "repository_license": "ISC",
+    "repository_url": "https://github.com/yargs/set-blocking",
+    "stars": 34,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2016-05-14T21:44:13.754Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.0.0",
+            "published_at": "2016-05-17T22:59:27.619Z",
+            "spdx_expression": "ISC",
+            "original_license": "ISC",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ]
+}

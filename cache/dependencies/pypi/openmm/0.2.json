@@ -1,0 +1,52 @@
+{
+    "dependent_repos_count": 41,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "OpenMM command line script",
+    "forks": 2,
+    "homepage": "https://github.com/rmcgibbo/openmm-cmd",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.2",
+    "latest_release_published_at": "2014-02-28T02:43:30.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "openmm",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/openmm/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": null,
+    "repository_url": "https://github.com/rmcgibbo/openmm-cmd",
+    "stars": 4,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2013-08-13T00:20:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2014-02-28T02:43:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.2",
+    "dependencies": []
+}

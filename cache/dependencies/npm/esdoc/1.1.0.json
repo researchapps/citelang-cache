@@ -1,0 +1,834 @@
+{
+    "dependent_repos_count": 4538,
+    "dependents_count": 2560,
+    "deprecation_reason": null,
+    "description": "Good Documentation Generator For JavaScript",
+    "forks": 216,
+    "homepage": "https://esdoc.org/",
+    "keywords": [
+        "jsdoc",
+        "api",
+        "document",
+        "documentation",
+        "ES6",
+        "ECMAScript6",
+        "ES2015",
+        "ECMAScript2015",
+        "ES7",
+        "ECMAScript7",
+        "ES2016",
+        "ECMAScript2016",
+        "ES8",
+        "ECMAScript8",
+        "ES2017",
+        "ECMAScript2017",
+        "proposal",
+        "ast",
+        "esdoc",
+        "javascript"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/esdoc/-/esdoc-1.1.0.tgz",
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2018-04-29T10:36:09.795Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2018-04-29T10:36:09.795Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "esdoc",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/esdoc",
+    "platform": "NPM",
+    "rank": 22,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/esdoc/esdoc",
+    "stars": 2695,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2015-04-19T08:18:53.337Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2015-04-19T08:29:24.612Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2015-05-05T11:57:58.269Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2015-05-10T06:32:14.466Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2015-06-06T13:06:53.082Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.3",
+            "published_at": "2015-07-05T05:19:41.031Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.4",
+            "published_at": "2015-07-20T14:39:00.899Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2015-08-03T13:16:45.119Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2015-08-09T03:50:13.112Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2015-08-23T12:03:20.208Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.2.3",
+            "published_at": "2015-08-29T09:49:20.737Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.2.4",
+            "published_at": "2015-08-30T10:41:43.464Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.2.5",
+            "published_at": "2015-09-06T10:08:54.815Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.2.6",
+            "published_at": "2015-09-13T11:53:34.919Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2015-09-21T08:41:01.986Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2015-09-27T11:23:04.203Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2015-10-04T12:17:08.039Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.4.1",
+            "published_at": "2015-10-18T12:32:40.983Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.4.2",
+            "published_at": "2015-11-01T09:41:32.883Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.4.3",
+            "published_at": "2015-11-02T13:35:36.559Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.4.4",
+            "published_at": "2016-02-06T07:02:23.012Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.4.5",
+            "published_at": "2016-02-14T13:16:55.389Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.4.6",
+            "published_at": "2016-03-06T12:12:14.074Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.4.7",
+            "published_at": "2016-05-01T16:39:50.469Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.4.8",
+            "published_at": "2016-08-07T02:34:29.365Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2016-12-25T12:56:31.434Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2016-12-26T00:20:48.265Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2017-01-02T02:12:22.529Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2014-11-21T12:29:13.142Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0-alpha.1",
+            "published_at": "2017-04-23T05:43:12.984Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0-alpha.2",
+            "published_at": "2017-04-23T09:25:52.967Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0-alpha.3",
+            "published_at": "2017-04-23T12:44:48.592Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0-alpha.4",
+            "published_at": "2017-05-07T02:36:15.166Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0-alpha.5",
+            "published_at": "2017-05-07T04:51:29.366Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0-alpha.6",
+            "published_at": "2017-05-13T03:02:44.763Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0-alpha.7",
+            "published_at": "2017-06-04T05:43:52.929Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0-alpha.8",
+            "published_at": "2017-06-11T08:16:40.532Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2017-07-30T04:48:10.218Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2017-09-03T10:03:06.310Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2017-09-20T12:29:02.674Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.4",
+            "published_at": "2017-11-12T00:36:59.131Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2018-04-29T10:36:09.795Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.0",
+    "dependencies": [
+        {
+            "project_name": "babel-generator",
+            "name": "babel-generator",
+            "platform": "NPM",
+            "requirements": "6.26.1",
+            "latest_stable": "6.26.1",
+            "latest": "6.26.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "marked",
+            "name": "marked",
+            "platform": "NPM",
+            "requirements": "0.3.19",
+            "latest_stable": "4.0.14",
+            "latest": "4.0.14",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "taffydb",
+            "name": "taffydb",
+            "platform": "NPM",
+            "requirements": "2.7.3",
+            "latest_stable": "2.7.3",
+            "latest": "2.7.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "project_name": "babel-cli",
+            "name": "babel-cli",
+            "platform": "NPM",
+            "requirements": "6.26.0",
+            "latest_stable": "6.26.0",
+            "latest": "7.0.0-beta.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "codecov",
+            "name": "codecov",
+            "platform": "NPM",
+            "requirements": "3.0.1",
+            "latest_stable": "3.8.3",
+            "latest": "4.0.0-0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "babel-plugin-transform-es2015-modules-commonjs",
+            "name": "babel-plugin-transform-es2015-modules-commonjs",
+            "platform": "NPM",
+            "requirements": "6.26.2",
+            "latest_stable": "6.26.2",
+            "latest": "6.26.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "fs-extra",
+            "name": "fs-extra",
+            "platform": "NPM",
+            "requirements": "5.0.0",
+            "latest_stable": "10.0.1",
+            "latest": "10.0.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "color-logger",
+            "name": "color-logger",
+            "platform": "NPM",
+            "requirements": "0.0.6",
+            "latest_stable": "0.0.6",
+            "latest": "0.0.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "nyc",
+            "name": "nyc",
+            "platform": "NPM",
+            "requirements": "11.7.1",
+            "latest_stable": "15.1.0",
+            "latest": "15.1.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "ISC"
+            ]
+        },
+        {
+            "project_name": "esdoc-importpath-plugin",
+            "name": "esdoc-importpath-plugin",
+            "platform": "NPM",
+            "requirements": "^1.0.1",
+            "latest_stable": "1.0.2",
+            "latest": "1.0.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "eslint",
+            "name": "eslint",
+            "platform": "NPM",
+            "requirements": "4.19.1",
+            "latest_stable": "8.12.0",
+            "latest": "8.12.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "mocha",
+            "name": "mocha",
+            "platform": "NPM",
+            "requirements": "5.1.1",
+            "latest_stable": "9.2.2",
+            "latest": "9.2.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "minimist",
+            "name": "minimist",
+            "platform": "NPM",
+            "requirements": "1.2.0",
+            "latest_stable": "1.2.6",
+            "latest": "1.2.6",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "esdoc-accessor-plugin",
+            "name": "esdoc-accessor-plugin",
+            "platform": "NPM",
+            "requirements": "latest",
+            "latest_stable": "1.0.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "ice-cap",
+            "name": "ice-cap",
+            "platform": "NPM",
+            "requirements": "0.0.4",
+            "latest_stable": "0.0.4",
+            "latest": "0.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "babylon",
+            "name": "babylon",
+            "platform": "NPM",
+            "requirements": "6.18.0",
+            "latest_stable": "6.18.0",
+            "latest": "7.0.0-beta.47",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "esdoc-standard-plugin",
+            "name": "esdoc-standard-plugin",
+            "platform": "NPM",
+            "requirements": "latest",
+            "latest_stable": "1.0.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "escape-html",
+            "name": "escape-html",
+            "platform": "NPM",
+            "requirements": "1.0.3",
+            "latest_stable": "1.0.3",
+            "latest": "1.0.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "esdoc-external-ecmascript-plugin",
+            "name": "esdoc-external-ecmascript-plugin",
+            "platform": "NPM",
+            "requirements": "latest",
+            "latest_stable": "1.0.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "cheerio",
+            "name": "cheerio",
+            "platform": "NPM",
+            "requirements": "1.0.0-rc.2",
+            "latest_stable": "0.22.0",
+            "latest": "1.0.0-rc.10",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "babel-plugin-istanbul",
+            "name": "babel-plugin-istanbul",
+            "platform": "NPM",
+            "requirements": "4.1.6",
+            "latest_stable": "6.1.1",
+            "latest": "6.1.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "babel-register",
+            "name": "babel-register",
+            "platform": "NPM",
+            "requirements": "6.26.0",
+            "latest_stable": "6.26.0",
+            "latest": "7.0.0-beta.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "babel-traverse",
+            "name": "babel-traverse",
+            "platform": "NPM",
+            "requirements": "6.26.0",
+            "latest_stable": "6.26.0",
+            "latest": "7.0.0-beta.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "esdoc-undocumented-identifier-plugin",
+            "name": "esdoc-undocumented-identifier-plugin",
+            "platform": "NPM",
+            "requirements": "latest",
+            "latest_stable": "1.0.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

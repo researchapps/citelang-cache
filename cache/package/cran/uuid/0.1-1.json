@@ -1,0 +1,50 @@
+{
+    "dependent_repos_count": 123,
+    "dependents_count": 43,
+    "deprecation_reason": null,
+    "description": "Tools for generating and handling of UUIDs",
+    "forks": 0,
+    "homepage": "http://www.rforge.net/uuid",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/uuid_0.1-2.tar.gz",
+    "latest_release_number": "0.1-2",
+    "latest_release_published_at": "2015-07-28T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "MIT + file LICENSE",
+    "name": "uuid",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=uuid",
+    "platform": "CRAN",
+    "rank": 10,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1-1",
+            "published_at": "2013-09-04T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1-2",
+            "published_at": "2015-07-28T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

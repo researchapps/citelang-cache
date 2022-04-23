@@ -1,0 +1,219 @@
+{
+    "dependent_repos_count": 41,
+    "dependents_count": 75,
+    "deprecation_reason": null,
+    "description": "A RuboCop extension to enforce common code style in Jekyll and Jekyll plugins",
+    "forks": 6,
+    "homepage": "https://github.com/jekyll/rubocop-jekyll",
+    "keywords": [],
+    "language": "Ruby",
+    "latest_download_url": "https://rubygems.org/downloads/rubocop-jekyll-0.12.0.gem",
+    "latest_release_number": "0.12.0",
+    "latest_release_published_at": "2021-09-16T13:34:28.787Z",
+    "latest_stable_release_number": "0.12.0",
+    "latest_stable_release_published_at": "2021-09-16T13:34:28.787Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "rubocop-jekyll",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://rubygems.org/gems/rubocop-jekyll",
+    "platform": "Rubygems",
+    "rank": 14,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/jekyll/rubocop-jekyll",
+    "stars": 4,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2018-07-15T14:58:04.387Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.10.0",
+            "published_at": "2019-06-16T07:27:09.987Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.11.0",
+            "published_at": "2020-03-19T15:20:46.936Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.12.0",
+            "published_at": "2021-09-16T13:34:28.787Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2018-09-10T04:41:03.864Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2018-10-26T14:09:47.410Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2018-12-06T07:36:57.288Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2019-01-03T07:10:53.062Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2019-01-03T14:01:41.490Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2019-01-23T07:45:36.258Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.7.0",
+            "published_at": "2019-02-10T16:45:47.289Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.8.0",
+            "published_at": "2019-02-20T06:24:39.651Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        },
+        {
+            "number": "0.9.0",
+            "published_at": "2019-03-18T10:27:32.960Z",
+            "spdx_expression": "MIT",
+            "original_license": [
+                "MIT"
+            ],
+            "researched_at": null,
+            "repository_sources": [
+                "Rubygems"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.12.0",
+    "dependencies": [
+        {
+            "project_name": "rubocop-performance",
+            "name": "rubocop-performance",
+            "platform": "Rubygems",
+            "requirements": "~> 1.2",
+            "latest_stable": "1.13.3",
+            "latest": "1.13.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rubocop",
+            "name": "rubocop",
+            "platform": "Rubygems",
+            "requirements": "~> 1.18.0",
+            "latest_stable": "1.26.0",
+            "latest": "1.26.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

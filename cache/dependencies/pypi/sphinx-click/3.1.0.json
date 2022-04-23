@@ -1,0 +1,366 @@
+{
+    "dependent_repos_count": 269,
+    "dependents_count": 213,
+    "deprecation_reason": null,
+    "description": "Sphinx extension that automatically documents click applications",
+    "forks": 43,
+    "homepage": "https://github.com/stephenfin/sphinx-click",
+    "keywords": [
+        "sphinx",
+        "cli",
+        "click",
+        "sphinx-plugin"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "3.1.0",
+    "latest_release_published_at": "2022-02-02T12:23:29.000Z",
+    "latest_stable_release_number": "3.1.0",
+    "latest_stable_release_published_at": "2022-02-02T12:23:29.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "sphinx-click",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/sphinx-click/",
+    "platform": "Pypi",
+    "rank": 18,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/click-contrib/sphinx-click",
+    "stars": 155,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1.dev2",
+            "published_at": "2017-04-05T23:09:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2017-04-05T23:16:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2017-05-04T17:51:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2017-05-31T10:07:00.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2017-08-25T12:46:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.4",
+            "published_at": "2017-11-01T18:11:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2018-03-22T14:18:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2018-04-27T16:57:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.3.0",
+            "published_at": "2018-06-28T10:24:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.4.0",
+            "published_at": "2018-10-11T13:20:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.4.1",
+            "published_at": "2018-11-09T20:07:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.0",
+            "published_at": "2019-01-22T22:29:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.1",
+            "published_at": "2019-01-24T12:00:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1.0",
+            "published_at": "2019-04-30T17:34:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.2.0",
+            "published_at": "2019-06-15T16:23:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.3.0",
+            "published_at": "2019-09-21T15:28:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.3.1",
+            "published_at": "2019-11-27T11:41:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.3.2",
+            "published_at": "2020-04-10T12:04:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.4.0",
+            "published_at": "2020-07-23T10:18:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.5.0",
+            "published_at": "2020-07-23T12:19:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.6.0",
+            "published_at": "2021-02-24T18:11:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.0",
+            "published_at": "2021-03-18T22:27:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.1",
+            "published_at": "2021-03-19T15:05:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.0.0",
+            "published_at": "2021-05-14T16:11:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.0.1",
+            "published_at": "2021-06-15T09:01:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.0.2",
+            "published_at": "2021-11-04T13:05:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.0.3",
+            "published_at": "2022-01-28T10:39:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.1.0",
+            "published_at": "2022-02-02T12:23:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "3.1.0",
+    "dependencies": [
+        {
+            "project_name": "docutils",
+            "name": "docutils",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.18.1",
+            "latest": "0.18.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Unlicense",
+                "Python-2.0",
+                "BSD-2-Clause",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "click",
+            "name": "click",
+            "platform": "Pypi",
+            "requirements": ">=7.0",
+            "latest_stable": "8.1.2",
+            "latest": "8.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "sphinx",
+            "name": "sphinx",
+            "platform": "Pypi",
+            "requirements": ">=2.0",
+            "latest_stable": "4.5.0",
+            "latest": "4.5.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

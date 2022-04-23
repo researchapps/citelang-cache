@@ -1,0 +1,66 @@
+{
+    "dependent_repos_count": 29,
+    "dependents_count": 17,
+    "deprecation_reason": null,
+    "description": "A Wes Anderson Palette Generator",
+    "forks": 107,
+    "homepage": "https://github.com/karthik/wesanderson",
+    "keywords": [
+        "color-palette",
+        "data-visualization",
+        "plot",
+        "r",
+        "wes-anderson-palettes"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/wesanderson_0.3.6.tar.gz",
+    "latest_release_number": "0.3.6",
+    "latest_release_published_at": "2018-04-20T00:00:00.000Z",
+    "latest_stable_release_number": "0.3.6",
+    "latest_stable_release_published_at": "2018-04-20T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "wesanderson",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=wesanderson",
+    "platform": "CRAN",
+    "rank": 13,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/karthik/wesanderson",
+    "stars": 1351,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.3",
+            "published_at": "2014-03-27T20:08:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2015-01-22T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.6",
+            "published_at": "2018-04-20T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

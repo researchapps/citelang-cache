@@ -1,0 +1,131 @@
+{
+    "dependent_repos_count": 1707,
+    "dependents_count": 158,
+    "deprecation_reason": null,
+    "description": "font-awesome package for webpack",
+    "forks": 48,
+    "homepage": "https://github.com/gowravshekar/font-awesome-webpack",
+    "keywords": [
+        "font-awesome",
+        "webpack"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/font-awesome-webpack/-/font-awesome-webpack-0.0.5-beta.2.tgz",
+    "latest_release_number": "0.0.5-beta.2",
+    "latest_release_published_at": "2017-02-24T15:23:19.084Z",
+    "latest_stable_release_number": "0.0.4",
+    "latest_stable_release_published_at": "2015-10-02T11:06:43.481Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "font-awesome-webpack",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/font-awesome-webpack",
+    "platform": "NPM",
+    "rank": 17,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/gowravshekar/font-awesome-webpack",
+    "stars": 198,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2014-09-10T21:25:57.654Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2014-09-16T09:18:49.654Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2015-02-27T18:50:59.802Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.4",
+            "published_at": "2015-10-02T11:06:43.481Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.5-beta.2",
+            "published_at": "2017-02-24T15:23:19.084Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.5-beta.2",
+    "dependencies": [
+        {
+            "project_name": "css-loader",
+            "name": "css-loader",
+            "platform": "NPM",
+            "requirements": "~0.26.1",
+            "latest_stable": "6.6.0",
+            "latest": "6.7.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "less-loader",
+            "name": "less-loader",
+            "platform": "NPM",
+            "requirements": "~2.2.3",
+            "latest_stable": "10.2.0",
+            "latest": "10.2.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "style-loader",
+            "name": "style-loader",
+            "platform": "NPM",
+            "requirements": "~0.13.1",
+            "latest_stable": "3.3.1",
+            "latest": "3.3.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

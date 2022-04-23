@@ -1,0 +1,397 @@
+{
+    "id": 181782286,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxODE3ODIyODY=",
+    "name": "crate-ci/typos",
+    "full_name": "crate-ci/typos",
+    "private": false,
+    "owner": {
+        "login": "crate-ci",
+        "id": 36412122,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2NDEyMTIy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36412122?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/crate-ci",
+        "html_url": "https://github.com/crate-ci",
+        "followers_url": "https://api.github.com/users/crate-ci/followers",
+        "following_url": "https://api.github.com/users/crate-ci/following{/other_user}",
+        "gists_url": "https://api.github.com/users/crate-ci/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/crate-ci/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/crate-ci/subscriptions",
+        "organizations_url": "https://api.github.com/users/crate-ci/orgs",
+        "repos_url": "https://api.github.com/users/crate-ci/repos",
+        "events_url": "https://api.github.com/users/crate-ci/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/crate-ci/received_events",
+        "type": "Organization",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/crate-ci/typos",
+    "description": "Source code spell checker",
+    "fork": false,
+    "url": "https://api.github.com/repos/crate-ci/typos",
+    "forks_url": "https://api.github.com/repos/crate-ci/typos/forks",
+    "keys_url": "https://api.github.com/repos/crate-ci/typos/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/crate-ci/typos/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/crate-ci/typos/teams",
+    "hooks_url": "https://api.github.com/repos/crate-ci/typos/hooks",
+    "issue_events_url": "https://api.github.com/repos/crate-ci/typos/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/crate-ci/typos/events",
+    "assignees_url": "https://api.github.com/repos/crate-ci/typos/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/crate-ci/typos/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/crate-ci/typos/tags",
+    "blobs_url": "https://api.github.com/repos/crate-ci/typos/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/crate-ci/typos/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/crate-ci/typos/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/crate-ci/typos/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/crate-ci/typos/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/crate-ci/typos/languages",
+    "stargazers_url": "https://api.github.com/repos/crate-ci/typos/stargazers",
+    "contributors_url": "https://api.github.com/repos/crate-ci/typos/contributors",
+    "subscribers_url": "https://api.github.com/repos/crate-ci/typos/subscribers",
+    "subscription_url": "https://api.github.com/repos/crate-ci/typos/subscription",
+    "commits_url": "https://api.github.com/repos/crate-ci/typos/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/crate-ci/typos/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/crate-ci/typos/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/crate-ci/typos/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/crate-ci/typos/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/crate-ci/typos/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/crate-ci/typos/merges",
+    "archive_url": "https://api.github.com/repos/crate-ci/typos/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/crate-ci/typos/downloads",
+    "issues_url": "https://api.github.com/repos/crate-ci/typos/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/crate-ci/typos/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/crate-ci/typos/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/crate-ci/typos/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/crate-ci/typos/labels{/name}",
+    "releases_url": "https://api.github.com/repos/crate-ci/typos/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/crate-ci/typos/deployments",
+    "created_at": "2019-04-16T23:28:35Z",
+    "updated_at": "2022-04-01T15:51:13Z",
+    "pushed_at": "2022-04-01T14:55:37Z",
+    "git_url": "git://github.com/crate-ci/typos.git",
+    "ssh_url": "git@github.com:crate-ci/typos.git",
+    "clone_url": "https://github.com/crate-ci/typos.git",
+    "svn_url": "https://github.com/crate-ci/typos",
+    "homepage": "https://github.com/crate-ci/typos",
+    "size": 11194,
+    "stargazers_count": 477,
+    "watchers_count": 477,
+    "language": "Rust",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "forks_count": 19,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 26,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "topics": [
+        "cli",
+        "code-quality",
+        "rust",
+        "spell-checker"
+    ],
+    "visibility": "public",
+    "forks": 19,
+    "open_issues": 26,
+    "watchers": 477,
+    "default_branch": "master",
+    "temp_clone_token": null,
+    "organization": {
+        "login": "crate-ci",
+        "id": 36412122,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2NDEyMTIy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36412122?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/crate-ci",
+        "html_url": "https://github.com/crate-ci",
+        "followers_url": "https://api.github.com/users/crate-ci/followers",
+        "following_url": "https://api.github.com/users/crate-ci/following{/other_user}",
+        "gists_url": "https://api.github.com/users/crate-ci/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/crate-ci/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/crate-ci/subscriptions",
+        "organizations_url": "https://api.github.com/users/crate-ci/orgs",
+        "repos_url": "https://api.github.com/users/crate-ci/repos",
+        "events_url": "https://api.github.com/users/crate-ci/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/crate-ci/received_events",
+        "type": "Organization",
+        "site_admin": false
+    },
+    "network_count": 19,
+    "subscribers_count": 4,
+    "default_version": "master",
+    "dependencies": [
+        {
+            "name": "Swatinem/rust-cache",
+            "homepage": "https://github.com/Swatinem/rust-cache"
+        },
+        {
+            "name": "actions-rs/audit-check",
+            "homepage": "https://github.com/actions-rs/audit-check"
+        },
+        {
+            "name": "actions-rs/clippy-check",
+            "homepage": "https://github.com/actions-rs/clippy-check"
+        },
+        {
+            "name": "actions-rs/toolchain",
+            "homepage": "https://github.com/actions-rs/toolchain"
+        },
+        {
+            "name": "actions/checkout",
+            "homepage": "https://github.com/actions/checkout"
+        },
+        {
+            "name": "actions/create-release",
+            "homepage": "https://github.com/actions/create-release"
+        },
+        {
+            "name": "actions/upload-release-asset",
+            "homepage": "https://github.com/actions/upload-release-asset"
+        },
+        {
+            "name": "crate-ci/committed",
+            "homepage": "https://github.com/crate-ci/committed"
+        }
+    ],
+    "versions": [
+        {
+            "published_at": "2022-03-09T15:02:18Z",
+            "number": "v1.5.0"
+        },
+        {
+            "published_at": "2022-02-14T15:06:54Z",
+            "number": "v1.4.1"
+        },
+        {
+            "published_at": "2022-02-08T13:14:08Z",
+            "number": "v1.4.0"
+        },
+        {
+            "published_at": "2022-01-26T20:34:24Z",
+            "number": "v1.3.9"
+        },
+        {
+            "published_at": "2022-01-26T16:03:05Z",
+            "number": "v1.3.8"
+        },
+        {
+            "published_at": "2022-01-25T02:36:48Z",
+            "number": "v1.3.7"
+        },
+        {
+            "published_at": "2022-01-24T18:32:09Z",
+            "number": "v1.3.6"
+        },
+        {
+            "published_at": "2022-01-21T16:41:16Z",
+            "number": "v1.3.5"
+        },
+        {
+            "published_at": "2022-01-12T17:18:19Z",
+            "number": "v1.3.4"
+        },
+        {
+            "published_at": "2021-12-18T23:53:55Z",
+            "number": "v1.3.3"
+        },
+        {
+            "published_at": "2021-12-14T19:01:25Z",
+            "number": "v1.3.2"
+        },
+        {
+            "published_at": "2021-12-14T19:01:23Z",
+            "number": "varcon-v0.6.1"
+        },
+        {
+            "published_at": "2021-12-14T19:01:22Z",
+            "number": "varcon-core-v2.2.1"
+        },
+        {
+            "published_at": "2021-11-16T13:51:10Z",
+            "number": "v1.3.1"
+        },
+        {
+            "published_at": "2021-11-16T13:49:23Z",
+            "number": "varcon-v0.6.0"
+        },
+        {
+            "published_at": "2021-11-16T13:49:22Z",
+            "number": "varcon-core-v2.2.0"
+        },
+        {
+            "published_at": "2021-11-15T14:38:16Z",
+            "number": "v1.3.0"
+        },
+        {
+            "published_at": "2021-11-03T16:51:12Z",
+            "number": "v1.2.1"
+        },
+        {
+            "published_at": "2021-10-23T14:45:44Z",
+            "number": "v1.2.0"
+        },
+        {
+            "published_at": "2021-09-14T15:08:09Z",
+            "number": "v1.1.9"
+        },
+        {
+            "published_at": "2021-08-30T14:26:48Z",
+            "number": "v1.1.8"
+        },
+        {
+            "published_at": "2021-08-30T14:26:46Z",
+            "number": "varcon-v0.5.1"
+        },
+        {
+            "published_at": "2021-08-30T14:26:46Z",
+            "number": "varcon-core-v2.1.1"
+        },
+        {
+            "published_at": "2021-08-20T17:20:12Z",
+            "number": "v1.1.7"
+        },
+        {
+            "published_at": "2021-08-06T14:06:47Z",
+            "number": "v1.1.6"
+        },
+        {
+            "published_at": "2021-08-04T13:51:16Z",
+            "number": "v1.1.5"
+        },
+        {
+            "published_at": "2021-08-02T15:01:12Z",
+            "number": "v1.1.4"
+        },
+        {
+            "published_at": "2021-07-30T17:17:35Z",
+            "number": "v1.1.3"
+        },
+        {
+            "published_at": "2021-07-30T16:13:09Z",
+            "number": "v1.1.2"
+        },
+        {
+            "published_at": "2021-07-27T20:48:25Z",
+            "number": "v1.1.1"
+        },
+        {
+            "published_at": "2021-07-27T20:36:58Z",
+            "number": "v1.1.0"
+        },
+        {
+            "published_at": "2021-06-29T20:40:44Z",
+            "number": "v1.0.11"
+        },
+        {
+            "published_at": "2021-06-28T20:06:09Z",
+            "number": "v1.0.10"
+        },
+        {
+            "published_at": "2021-06-15T22:38:48Z",
+            "number": "v1.0.9"
+        },
+        {
+            "published_at": "2021-06-15T15:58:35Z",
+            "number": "v1.0.8"
+        },
+        {
+            "published_at": "2021-06-07T13:09:48Z",
+            "number": "v1.0.6"
+        },
+        {
+            "published_at": "2021-06-05T19:53:13Z",
+            "number": "v1.0.5"
+        },
+        {
+            "published_at": "2021-06-01T02:35:22Z",
+            "number": "v1.0.4"
+        },
+        {
+            "published_at": "2021-05-29T00:48:39Z",
+            "number": "v1.0.3"
+        },
+        {
+            "published_at": "2021-05-28T13:43:47Z",
+            "number": "v1.0.2"
+        },
+        {
+            "published_at": "2021-05-27T19:03:56Z",
+            "number": "v1.0.1"
+        },
+        {
+            "published_at": "2021-05-26T02:08:33Z",
+            "number": "v1.0.0"
+        },
+        {
+            "published_at": "2021-05-22T02:11:47Z",
+            "number": "v0.4.0"
+        },
+        {
+            "published_at": "2021-05-22T01:58:55Z",
+            "number": "varcon-v0.5.0"
+        },
+        {
+            "published_at": "2021-05-22T01:54:09Z",
+            "number": "varcon-core-v2.1.0"
+        },
+        {
+            "published_at": "2021-05-22T01:43:28Z",
+            "number": "varcon-core-v2.0.0"
+        },
+        {
+            "published_at": "2021-05-22T02:09:48Z",
+            "number": "varcon-codegen-v1.3.0"
+        },
+        {
+            "published_at": "2021-05-13T15:22:09Z",
+            "number": "v0.3.0"
+        },
+        {
+            "published_at": "2021-05-13T15:13:45Z",
+            "number": "varcon-v0.4.0"
+        },
+        {
+            "published_at": "2021-05-13T15:08:28Z",
+            "number": "varcon-core-v1.2.0"
+        },
+        {
+            "published_at": "2021-05-13T15:19:13Z",
+            "number": "varcon-codegen-v1.2.0"
+        },
+        {
+            "published_at": "2021-04-15T00:38:02Z",
+            "number": "v0.2.0"
+        },
+        {
+            "published_at": "2021-04-15T00:26:29Z",
+            "number": "varcon-v0.3.0"
+        },
+        {
+            "published_at": "2021-04-15T00:22:30Z",
+            "number": "varcon-core-v1.1.0"
+        },
+        {
+            "published_at": "2021-04-15T00:33:47Z",
+            "number": "varcon-codegen-v1.1.0"
+        },
+        {
+            "published_at": "2019-10-29T15:37:06Z",
+            "number": "v0.1.3"
+        },
+        {
+            "published_at": "2019-10-29T14:51:08Z",
+            "number": "v0.1.2"
+        }
+    ]
+}

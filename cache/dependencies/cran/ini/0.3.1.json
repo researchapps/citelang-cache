@@ -1,0 +1,91 @@
+{
+    "dependent_repos_count": 31,
+    "dependents_count": 11,
+    "deprecation_reason": null,
+    "description": "Read and Write '.ini' Files",
+    "forks": 1,
+    "homepage": "https://github.com/dvdscripter/ini",
+    "keywords": [
+        "cran-r",
+        "r"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/ini_0.3.1.tar.gz",
+    "latest_release_number": "0.3.1",
+    "latest_release_published_at": "2018-05-20T00:00:00.000Z",
+    "latest_stable_release_number": "0.3.1",
+    "latest_stable_release_published_at": "2018-05-20T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-3",
+    "name": "ini",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=ini",
+    "platform": "CRAN",
+    "rank": 9,
+    "repository_license": null,
+    "repository_url": "https://github.com/dvdscripter/ini",
+    "stars": 3,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2016-03-29T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2016-04-01T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2017-09-30T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2018-05-20T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.3.1",
+    "dependencies": [
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

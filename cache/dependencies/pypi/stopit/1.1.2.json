@@ -1,0 +1,75 @@
+{
+    "dependent_repos_count": 77,
+    "dependents_count": 32,
+    "deprecation_reason": null,
+    "description": "Timeout control decorator and context managers, raise any exception in another thread",
+    "forks": 0,
+    "homepage": "http://pypi.python.org/pypi/stopit",
+    "keywords": [
+        "threads",
+        "timeout"
+    ],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "1.1.2",
+    "latest_release_published_at": "2018-02-09T00:32:14.000Z",
+    "latest_stable_release_number": "1.1.2",
+    "latest_stable_release_published_at": "2018-02-09T00:32:14.000Z",
+    "license_normalized": true,
+    "licenses": "GPLv3",
+    "name": "stopit",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/stopit/",
+    "platform": "Pypi",
+    "rank": 13,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2014-02-09T16:51:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2014-05-02T15:01:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2015-03-22T17:45:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.2",
+            "published_at": "2018-02-09T00:32:14.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.2",
+    "dependencies": []
+}

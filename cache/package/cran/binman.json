@@ -1,0 +1,74 @@
+{
+    "dependent_repos_count": 5,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "A Binary Download Manager",
+    "forks": 3,
+    "homepage": "https://docs.ropensci.org/binman/",
+    "keywords": [
+        "r",
+        "r-package",
+        "rstats"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/binman_0.1.2.tar.gz",
+    "latest_release_number": "0.1.2",
+    "latest_release_published_at": "2020-10-02T00:00:00.000Z",
+    "latest_stable_release_number": "0.1.2",
+    "latest_stable_release_published_at": "2020-10-02T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "binman",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=binman",
+    "platform": "CRAN",
+    "rank": 11,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/ropensci/binman",
+    "stars": 11,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.7",
+            "published_at": "2016-12-11T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2017-01-14T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2018-07-18T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2020-10-02T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

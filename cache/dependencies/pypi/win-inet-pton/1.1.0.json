@@ -1,0 +1,62 @@
+{
+    "dependent_repos_count": 223,
+    "dependents_count": 27,
+    "deprecation_reason": null,
+    "description": "Native inet_pton and inet_ntop implementation for Python on Windows (with ctypes).",
+    "forks": 10,
+    "homepage": "https://github.com/hickeroar/win_inet_pton",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.1.0",
+    "latest_release_published_at": "2019-02-19T17:46:22.000Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2019-02-19T17:46:22.000Z",
+    "license_normalized": true,
+    "licenses": "This software released into the public domain. Anyone is free to copy,",
+    "name": "win-inet-pton",
+    "normalized_licenses": [
+        "libselinux-1.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/win-inet-pton/",
+    "platform": "Pypi",
+    "rank": 13,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/hickeroar/win_inet_pton",
+    "stars": 22,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2014-08-30T07:25:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "This software released into the public domain. Anyone is free to copy,\r\nmodify, publish, use, compile, sell, or distribute this software,\r\neither in source code form or as a compiled binary, for any purpose,\r\ncommercial or non-commercial, and by any means.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2014-08-30T08:02:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "This software released into the public domain. Anyone is free to copy,\r\nmodify, publish, use, compile, sell, or distribute this software,\r\neither in source code form or as a compiled binary, for any purpose,\r\ncommercial or non-commercial, and by any means.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2019-02-19T17:46:22.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.0",
+    "dependencies": []
+}

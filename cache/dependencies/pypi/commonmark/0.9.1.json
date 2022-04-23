@@ -1,0 +1,292 @@
+{
+    "dependent_repos_count": 185,
+    "dependents_count": 123,
+    "deprecation_reason": null,
+    "description": "Python parser for the CommonMark Markdown spec",
+    "forks": 62,
+    "homepage": "https://github.com/rtfd/commonmark.py",
+    "keywords": [
+        "markup",
+        "markdown",
+        "commonmark"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.9.1",
+    "latest_release_published_at": "2019-10-04T15:37:37.000Z",
+    "latest_stable_release_number": "0.9.1",
+    "latest_stable_release_published_at": "2019-10-04T15:37:37.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "commonmark",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/commonmark/",
+    "platform": "Pypi",
+    "rank": 17,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/rtfd/commonmark.py",
+    "stars": 225,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.5.0",
+            "published_at": "2014-09-26T13:11:08.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2014-09-26T15:53:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2014-09-26T18:33:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.3",
+            "published_at": "2014-09-27T08:09:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.4",
+            "published_at": "2014-09-29T02:22:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.5",
+            "published_at": "2015-12-30T23:40:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2016-01-04T20:29:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2016-01-05T21:56:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.2",
+            "published_at": "2016-01-08T18:34:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.3",
+            "published_at": "2016-01-19T14:52:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.4",
+            "published_at": "2016-05-09T16:12:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.0",
+            "published_at": "2016-06-07T15:56:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2016-07-20T20:08:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.2",
+            "published_at": "2016-08-10T15:51:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.3",
+            "published_at": "2017-01-05T18:49:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.4",
+            "published_at": "2017-08-05T17:34:13.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.5",
+            "published_at": "2018-03-13T17:55:40.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.0",
+            "published_at": "2018-09-03T17:20:08.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.1",
+            "published_at": "2018-09-06T17:24:43.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.0",
+            "published_at": "2019-05-02T19:01:44.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.1",
+            "published_at": "2019-10-04T15:37:37.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.9.1",
+    "dependencies": [
+        {
+            "project_name": "hypothesis",
+            "name": "hypothesis",
+            "platform": "Pypi",
+            "requirements": "==3.55.3",
+            "latest_stable": "6.43.2",
+            "latest": "6.43.3",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MPL-2.0"
+            ]
+        },
+        {
+            "project_name": "flake8",
+            "name": "flake8",
+            "platform": "Pypi",
+            "requirements": "==3.7.8",
+            "latest_stable": "4.0.1",
+            "latest": "4.0.1",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "future",
+            "name": "future",
+            "platform": "Pypi",
+            "requirements": ">=0.14.0",
+            "latest_stable": "0.18.2",
+            "latest": "0.18.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

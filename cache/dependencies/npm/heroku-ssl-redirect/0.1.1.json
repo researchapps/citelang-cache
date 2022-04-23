@@ -1,0 +1,102 @@
+{
+    "dependent_repos_count": 128,
+    "dependents_count": 13,
+    "deprecation_reason": null,
+    "description": "Redirect users to the SSL version of your app. For ExpressJS running on Heroku",
+    "forks": 18,
+    "homepage": "https://github.com/paulomcnally/node-heroku-ssl-redirect",
+    "keywords": [
+        "express",
+        "expressjs",
+        "ssl",
+        "enforces",
+        "enforces-ssl",
+        "http",
+        "https",
+        "redirect",
+        "heroku"
+    ],
+    "language": "TypeScript",
+    "latest_download_url": "https://registry.npmjs.org/heroku-ssl-redirect/-/heroku-ssl-redirect-0.1.1.tgz",
+    "latest_release_number": "0.1.1",
+    "latest_release_published_at": "2020-08-09T06:03:52.187Z",
+    "latest_stable_release_number": "0.1.1",
+    "latest_stable_release_published_at": "2020-08-09T06:03:52.187Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "heroku-ssl-redirect",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/heroku-ssl-redirect",
+    "platform": "NPM",
+    "rank": 15,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/paulomcnally/node-heroku-ssl-redirect",
+    "stars": 128,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2014-08-26T23:02:32.194Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2014-08-26T23:23:26.474Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2015-03-30T02:37:01.485Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.4",
+            "published_at": "2017-05-14T21:54:04.915Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2020-08-09T05:32:55.306Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2020-08-09T06:03:52.187Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.1",
+    "dependencies": []
+}

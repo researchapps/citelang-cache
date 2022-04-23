@@ -1,0 +1,256 @@
+{
+    "dependent_repos_count": 7,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Test execution environment",
+    "forks": 1,
+    "homepage": "https://github.com/vxjs/vx",
+    "keywords": [
+        "vx",
+        "testing"
+    ],
+    "language": "JavaScript",
+    "latest_download_url": "https://registry.npmjs.org/vx/-/vx-0.0.1.tgz",
+    "latest_release_number": "0.0.1",
+    "latest_release_published_at": "2015-03-18T07:28:36.257Z",
+    "latest_stable_release_number": "0.0.1",
+    "latest_stable_release_published_at": "2015-03-18T07:28:36.257Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "vx",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/vx",
+    "platform": "NPM",
+    "rank": 7,
+    "repository_license": null,
+    "repository_url": "https://github.com/vxjs/vx",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2015-03-18T07:28:36.257Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.1",
+    "dependencies": [
+        {
+            "project_name": "grunt",
+            "name": "grunt",
+            "platform": "NPM",
+            "requirements": "^0.4.5",
+            "latest_stable": "1.5.2",
+            "latest": "1.5.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "grunt-contrib-clean",
+            "name": "grunt-contrib-clean",
+            "platform": "NPM",
+            "requirements": "^0.5.0",
+            "latest_stable": "2.0.0",
+            "latest": "2.0.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "grunt-contrib-watch",
+            "name": "grunt-contrib-watch",
+            "platform": "NPM",
+            "requirements": "^0.6.1",
+            "latest_stable": "1.1.0",
+            "latest": "1.1.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "grunt-eslint",
+            "name": "grunt-eslint",
+            "platform": "NPM",
+            "requirements": "^0.5.0",
+            "latest_stable": "24.0.0",
+            "latest": "24.0.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "grunt-release",
+            "name": "grunt-release",
+            "platform": "NPM",
+            "requirements": "^0.5.0",
+            "latest_stable": "0.14.0",
+            "latest": "0.14.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "grunt-jsdoc",
+            "name": "grunt-jsdoc",
+            "platform": "NPM",
+            "requirements": "^0.5.4",
+            "latest_stable": "2.4.1",
+            "latest": "2.4.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "grunt-mocha-istanbul",
+            "name": "grunt-mocha-istanbul",
+            "platform": "NPM",
+            "requirements": "^1.4.1",
+            "latest_stable": "5.0.2",
+            "latest": "5.0.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "help-me-test",
+            "name": "help-me-test",
+            "platform": "NPM",
+            "requirements": "0.0.2",
+            "latest_stable": "0.0.3",
+            "latest": "0.0.3",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "mocha",
+            "name": "mocha",
+            "platform": "NPM",
+            "requirements": "~2.0.0",
+            "latest_stable": "9.2.2",
+            "latest": "9.2.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "Development",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "bluebird",
+            "name": "bluebird",
+            "platform": "NPM",
+            "requirements": "~2.2.2",
+            "latest_stable": "3.7.2",
+            "latest": "3.7.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "cli-color",
+            "name": "cli-color",
+            "platform": "NPM",
+            "requirements": "~0.2.3",
+            "latest_stable": "2.0.2",
+            "latest": "2.0.2",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "ISC"
+            ]
+        },
+        {
+            "project_name": "minimist",
+            "name": "minimist",
+            "platform": "NPM",
+            "requirements": "^0.1.0",
+            "latest_stable": "1.2.6",
+            "latest": "1.2.6",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "require-dir",
+            "name": "require-dir",
+            "platform": "NPM",
+            "requirements": "^0.1.0",
+            "latest_stable": "1.2.0",
+            "latest": "1.2.0",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "through",
+            "name": "through",
+            "platform": "NPM",
+            "requirements": "~2.3.4",
+            "latest_stable": "2.3.8",
+            "latest": "2.3.8",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

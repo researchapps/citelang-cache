@@ -1,0 +1,98 @@
+{
+    "dependent_repos_count": 7,
+    "dependents_count": 11,
+    "deprecation_reason": null,
+    "description": "gRPC extensions for Google Cloud Platform",
+    "forks": 0,
+    "homepage": "https://grpc.io",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "0.2.2",
+    "latest_release_published_at": "2018-09-10T18:27:42.000Z",
+    "latest_stable_release_number": "0.2.2",
+    "latest_stable_release_published_at": "2018-09-10T18:27:42.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "grpcio-gcp",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/grpcio-gcp/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2018-06-27T03:15:08.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2018-06-27T04:13:31.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2018-06-29T22:32:05.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2018-07-03T04:12:18.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2018-09-10T18:27:42.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.2.2",
+    "dependencies": [
+        {
+            "project_name": "grpcio",
+            "name": "grpcio",
+            "platform": "Pypi",
+            "requirements": ">=1.12.0",
+            "latest_stable": "1.44.0",
+            "latest": "1.45.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        }
+    ]
+}

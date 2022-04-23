@@ -1,0 +1,69 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Sphinx-doc extensions & tools to extract documentation from C/C++ source file comments.",
+    "forks": 3,
+    "homepage": "https://github.com/return42/linuxdoc",
+    "keywords": [
+        "sphinx",
+        "extension",
+        "doc",
+        "source",
+        "code",
+        "comments",
+        "kernel-doc",
+        "linux"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "20211220",
+    "latest_release_published_at": "2021-12-20T16:59:04.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "GPLv2",
+    "name": "linuxdoc",
+    "normalized_licenses": [
+        "GPL-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/linuxdoc/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": null,
+    "repository_url": "https://github.com/return42/linuxdoc",
+    "stars": 15,
+    "status": null,
+    "versions": [
+        {
+            "number": "20210110",
+            "published_at": "2021-01-10T15:36:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20210324",
+            "published_at": "2021-03-24T11:03:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20211220",
+            "published_at": "2021-12-20T16:59:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

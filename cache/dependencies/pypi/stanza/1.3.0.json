@@ -1,0 +1,337 @@
+{
+    "dependent_repos_count": 2,
+    "dependents_count": 47,
+    "deprecation_reason": null,
+    "description": "A Python NLP Library for Many Human Languages, by the Stanford NLP Group",
+    "forks": 738,
+    "homepage": "https://github.com/stanfordnlp/stanza",
+    "keywords": [
+        "natural-language-processing",
+        "nlp",
+        "natural-language-understanding",
+        "stanford-nlp",
+        "deep-learning",
+        "artificial-intelligence",
+        "corenlp",
+        "machine-learning",
+        "named-entity-recognition",
+        "python",
+        "pytorch",
+        "universal-dependencies"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.3.0",
+    "latest_release_published_at": "2021-10-05T06:37:56.000Z",
+    "latest_stable_release_number": "1.3.0",
+    "latest_stable_release_published_at": "2021-10-05T06:37:56.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "stanza",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/stanza/",
+    "platform": "Pypi",
+    "rank": 17,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/stanfordnlp/stanza",
+    "stars": 5710,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2016-06-08T17:37:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2017-03-17T08:39:17.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2017-05-21T21:52:17.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2020-03-17T01:58:10.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0rc0",
+            "published_at": "2020-03-14T02:22:05.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2020-04-27T07:21:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2020-08-13T01:52:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0.post3",
+            "published_at": "2020-08-13T02:44:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2020-08-13T06:08:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2",
+            "published_at": "2021-01-27T16:31:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.1",
+            "published_at": "2021-06-08T21:17:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.2",
+            "published_at": "2021-07-13T04:41:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.3",
+            "published_at": "2021-08-09T23:13:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.3.0",
+            "published_at": "2021-10-05T06:37:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.3.0",
+    "dependencies": [
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.1",
+            "latest": "7.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "coverage",
+            "name": "coverage",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "6.3.2",
+            "latest": "6.3.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "check-manifest",
+            "name": "check-manifest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.48",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "tqdm",
+            "name": "tqdm",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.64.0",
+            "latest": "4.64.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MPL-2.0",
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "torch",
+            "name": "torch",
+            "platform": "Pypi",
+            "requirements": ">=1.3.0",
+            "latest_stable": "1.10.2",
+            "latest": "1.11.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "six",
+            "name": "six",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.16.0",
+            "latest": "1.16.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "requests",
+            "name": "requests",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.27.1",
+            "latest": "2.27.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "protobuf",
+            "name": "protobuf",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.19.4",
+            "latest": "3.20.0",
+            "deprecated": true,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.22.3",
+            "latest": "1.22.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "emoji",
+            "name": "emoji",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.7.0",
+            "latest": "1.7.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

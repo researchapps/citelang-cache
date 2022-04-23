@@ -1,0 +1,80 @@
+{
+    "dependent_repos_count": 17,
+    "dependents_count": 9,
+    "deprecation_reason": null,
+    "description": "JavaScript Object Signing and Encryption",
+    "forks": 0,
+    "homepage": "https://datatracker.ietf.org/wg/jose/documents/\nhttps://www.w3.org/TR/WebCryptoAPI/#jose\nhttps://github.com/r-lib/jose",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/jose_1.2.0.tar.gz",
+    "latest_release_number": "1.2.0",
+    "latest_release_published_at": "2021-11-06T00:00:00.000Z",
+    "latest_stable_release_number": "1.2.0",
+    "latest_stable_release_published_at": "2021-11-06T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "jose",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=jose",
+    "platform": "CRAN",
+    "rank": 9,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2016-05-27T15:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2018-04-12T18:38:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0",
+            "published_at": "2019-01-20T19:10:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2021-06-14T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2021-11-06T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

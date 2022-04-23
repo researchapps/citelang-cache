@@ -1,0 +1,92 @@
+{
+    "dependent_repos_count": 686,
+    "dependents_count": 45,
+    "deprecation_reason": null,
+    "description": "Repackaging of Google's Diff Match and Patch libraries. Offers robust algorithms to perform the operations required for synchronizing plain text.",
+    "forks": 5,
+    "homepage": "https://github.com/diff-match-patch-python/diff-match-patch",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "20200713",
+    "latest_release_published_at": "2020-07-13T18:12:09.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "Apache",
+    "name": "diff-match-patch",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/diff-match-patch/",
+    "platform": "Pypi",
+    "rank": 15,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/diff-match-patch-python/diff-match-patch",
+    "stars": 15,
+    "status": null,
+    "versions": [
+        {
+            "number": "20110725",
+            "published_at": "2011-09-08T18:20:05.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20110725.1",
+            "published_at": "2011-09-08T19:09:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20120106",
+            "published_at": "2012-04-07T22:40:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20121119",
+            "published_at": "2013-12-17T11:30:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20181111",
+            "published_at": "2018-11-12T02:41:57.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "20200713",
+            "published_at": "2020-07-13T18:12:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "20200713",
+    "dependencies": []
+}

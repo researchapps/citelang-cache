@@ -1,0 +1,309 @@
+{
+    "id": 15730865,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNTczMDg2NQ==",
+    "name": "spack/spack",
+    "full_name": "spack/spack",
+    "private": false,
+    "owner": {
+        "login": "spack",
+        "id": 25539161,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NTM5MTYx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25539161?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/spack",
+        "html_url": "https://github.com/spack",
+        "followers_url": "https://api.github.com/users/spack/followers",
+        "following_url": "https://api.github.com/users/spack/following{/other_user}",
+        "gists_url": "https://api.github.com/users/spack/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/spack/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/spack/subscriptions",
+        "organizations_url": "https://api.github.com/users/spack/orgs",
+        "repos_url": "https://api.github.com/users/spack/repos",
+        "events_url": "https://api.github.com/users/spack/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/spack/received_events",
+        "type": "Organization",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/spack/spack",
+    "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+    "fork": false,
+    "url": "https://api.github.com/repos/spack/spack",
+    "forks_url": "https://api.github.com/repos/spack/spack/forks",
+    "keys_url": "https://api.github.com/repos/spack/spack/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/spack/spack/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/spack/spack/teams",
+    "hooks_url": "https://api.github.com/repos/spack/spack/hooks",
+    "issue_events_url": "https://api.github.com/repos/spack/spack/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/spack/spack/events",
+    "assignees_url": "https://api.github.com/repos/spack/spack/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/spack/spack/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/spack/spack/tags",
+    "blobs_url": "https://api.github.com/repos/spack/spack/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/spack/spack/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/spack/spack/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/spack/spack/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/spack/spack/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/spack/spack/languages",
+    "stargazers_url": "https://api.github.com/repos/spack/spack/stargazers",
+    "contributors_url": "https://api.github.com/repos/spack/spack/contributors",
+    "subscribers_url": "https://api.github.com/repos/spack/spack/subscribers",
+    "subscription_url": "https://api.github.com/repos/spack/spack/subscription",
+    "commits_url": "https://api.github.com/repos/spack/spack/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/spack/spack/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/spack/spack/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/spack/spack/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/spack/spack/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/spack/spack/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/spack/spack/merges",
+    "archive_url": "https://api.github.com/repos/spack/spack/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/spack/spack/downloads",
+    "issues_url": "https://api.github.com/repos/spack/spack/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/spack/spack/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/spack/spack/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/spack/spack/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/spack/spack/labels{/name}",
+    "releases_url": "https://api.github.com/repos/spack/spack/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/spack/spack/deployments",
+    "created_at": "2014-01-08T09:22:12Z",
+    "updated_at": "2022-03-22T20:43:16Z",
+    "pushed_at": "2022-03-22T23:10:55Z",
+    "git_url": "git://github.com/spack/spack.git",
+    "ssh_url": "git@github.com:spack/spack.git",
+    "clone_url": "https://github.com/spack/spack.git",
+    "svn_url": "https://github.com/spack/spack",
+    "homepage": "https://spack.io",
+    "size": 169482,
+    "stargazers_count": 2577,
+    "watchers_count": 2577,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": true,
+    "forks_count": 1563,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 2367,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "topics": [
+        "build-tools",
+        "hpc",
+        "linux",
+        "macos",
+        "package-manager",
+        "python",
+        "radiuss",
+        "scientific-computing",
+        "spack"
+    ],
+    "visibility": "public",
+    "forks": 1563,
+    "open_issues": 2367,
+    "watchers": 2577,
+    "default_branch": "develop",
+    "temp_clone_token": null,
+    "organization": {
+        "login": "spack",
+        "id": 25539161,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NTM5MTYx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25539161?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/spack",
+        "html_url": "https://github.com/spack",
+        "followers_url": "https://api.github.com/users/spack/followers",
+        "following_url": "https://api.github.com/users/spack/following{/other_user}",
+        "gists_url": "https://api.github.com/users/spack/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/spack/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/spack/subscriptions",
+        "organizations_url": "https://api.github.com/users/spack/orgs",
+        "repos_url": "https://api.github.com/users/spack/repos",
+        "events_url": "https://api.github.com/users/spack/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/spack/received_events",
+        "type": "Organization",
+        "site_admin": false
+    },
+    "network_count": 1563,
+    "subscribers_count": 97,
+    "dependencies": [
+        {
+            "name": "NextThought/sphinxcontrib-programoutput",
+            "homepage": "https://github.com/NextThought/sphinxcontrib-programoutput"
+        },
+        {
+            "name": "actions/checkout",
+            "homepage": "https://github.com/actions/checkout"
+        },
+        {
+            "name": "actions/download-artifact",
+            "homepage": "https://github.com/actions/download-artifact"
+        },
+        {
+            "name": "actions/setup-python",
+            "homepage": "https://github.com/actions/setup-python"
+        },
+        {
+            "name": "actions/upload-artifact",
+            "homepage": "https://github.com/actions/upload-artifact"
+        },
+        {
+            "name": "codecov/codecov-action",
+            "homepage": "https://github.com/codecov/codecov-action"
+        },
+        {
+            "name": "docker/build-push-action",
+            "homepage": "https://github.com/docker/build-push-action"
+        },
+        {
+            "name": "docker/login-action",
+            "homepage": "https://github.com/docker/login-action"
+        },
+        {
+            "name": "docker/setup-buildx-action",
+            "homepage": "https://github.com/docker/setup-buildx-action"
+        },
+        {
+            "name": "docker/setup-qemu-action",
+            "homepage": "https://github.com/docker/setup-qemu-action"
+        },
+        {
+            "name": "dorny/paths-filter",
+            "homepage": "https://github.com/dorny/paths-filter"
+        },
+        {
+            "name": "readthedocs/sphinx_rtd_theme",
+            "homepage": "https://github.com/readthedocs/sphinx_rtd_theme"
+        },
+        {
+            "name": "sphinx-doc/sphinx",
+            "homepage": "https://github.com/sphinx-doc/sphinx"
+        },
+        {
+            "name": "ztane/python-Levenshtein",
+            "homepage": "https://github.com/ztane/python-Levenshtein"
+        }
+    ],
+    "versions": [
+        {
+            "published_at": "2021-12-23T17:38:20Z",
+            "number": "v0.17.1"
+        },
+        {
+            "published_at": "2021-11-06T00:25:28Z",
+            "number": "v0.17.0"
+        },
+        {
+            "published_at": "2021-09-22T23:21:01Z",
+            "number": "v0.16.3"
+        },
+        {
+            "published_at": "2021-05-22T22:08:23Z",
+            "number": "v0.16.2"
+        },
+        {
+            "published_at": "2021-02-23T00:07:01Z",
+            "number": "v0.16.1"
+        },
+        {
+            "published_at": "2020-11-18T14:07:34Z",
+            "number": "v0.16.0"
+        },
+        {
+            "published_at": "2020-08-13T14:18:47Z",
+            "number": "v0.15.4"
+        },
+        {
+            "published_at": "2020-07-28T09:14:14Z",
+            "number": "v0.15.3"
+        },
+        {
+            "published_at": "2020-07-23T23:47:20Z",
+            "number": "v0.15.2"
+        },
+        {
+            "published_at": "2020-07-11T01:25:45Z",
+            "number": "v0.15.1"
+        },
+        {
+            "published_at": "2020-07-01T00:01:21Z",
+            "number": "v0.15.0"
+        },
+        {
+            "published_at": "2020-04-15T22:15:00Z",
+            "number": "v0.14.2"
+        },
+        {
+            "published_at": "2020-03-20T20:14:18Z",
+            "number": "v0.14.1"
+        },
+        {
+            "published_at": "2020-02-24T01:30:48Z",
+            "number": "v0.14.0"
+        },
+        {
+            "published_at": "2020-02-07T22:59:53Z",
+            "number": "v0.13.4"
+        },
+        {
+            "published_at": "2019-12-24T08:57:35Z",
+            "number": "v0.13.3"
+        },
+        {
+            "published_at": "2019-12-05T05:08:17Z",
+            "number": "v0.13.2"
+        },
+        {
+            "published_at": "2019-11-05T13:06:53Z",
+            "number": "v0.13.1"
+        },
+        {
+            "published_at": "2019-10-26T06:20:58Z",
+            "number": "v0.13.0"
+        },
+        {
+            "published_at": "2019-01-13T22:32:55Z",
+            "number": "v0.12.1"
+        },
+        {
+            "published_at": "2018-11-13T17:06:52Z",
+            "number": "v0.12.0"
+        },
+        {
+            "published_at": "2018-02-07T17:57:21Z",
+            "number": "v0.11.2"
+        },
+        {
+            "published_at": "2018-01-19T22:13:43Z",
+            "number": "v0.11.1"
+        },
+        {
+            "published_at": "2018-01-17T22:53:43Z",
+            "number": "v0.11.0"
+        },
+        {
+            "published_at": "2017-01-17T11:30:12Z",
+            "number": "v0.10.0"
+        },
+        {
+            "published_at": "2015-03-24T17:21:46Z",
+            "number": "v0.8.17"
+        },
+        {
+            "published_at": "2015-03-14T04:22:11Z",
+            "number": "v0.8.16"
+        },
+        {
+            "published_at": "2015-02-24T19:30:39Z",
+            "number": "v0.8.15"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "dependent_repos_count": 9,
+    "dependents_count": 9,
+    "deprecation_reason": null,
+    "description": "Generate Attractive Random Colors",
+    "forks": 5,
+    "homepage": null,
+    "keywords": [],
+    "language": "JavaScript",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/randomcoloR_1.1.0.1.tar.gz",
+    "latest_release_number": "1.1.0.1",
+    "latest_release_published_at": "2019-11-24T00:00:00.000Z",
+    "latest_stable_release_number": "1.1.0",
+    "latest_stable_release_published_at": "2017-12-08T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "CC0",
+    "name": "randomcoloR",
+    "normalized_licenses": [
+        "CC0-1.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=randomcoloR",
+    "platform": "CRAN",
+    "rank": 13,
+    "repository_license": null,
+    "repository_url": "https://github.com/ronammar/randomcoloR",
+    "stars": 38,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2016-03-29T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2017-12-08T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.0.1",
+            "published_at": "2019-11-24T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.0.1",
+    "dependencies": [
+        {
+            "project_name": "cluster",
+            "name": "cluster",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "2.1.3",
+            "latest": "2.1.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "grDevices",
+            "name": "grDevices",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "Rtsne",
+            "name": "Rtsne",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.16",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT-feh"
+            ]
+        },
+        {
+            "project_name": "scales",
+            "name": "scales",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.0.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "methods",
+            "name": "methods",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "stats",
+            "name": "stats",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "V8",
+            "name": "V8",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "4.0.0",
+            "latest": "4.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "stringr",
+            "name": "stringr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.4.0",
+            "latest": "1.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "AML"
+            ]
+        },
+        {
+            "project_name": "colorspace",
+            "name": "colorspace",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "2.0-3",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        }
+    ]
+}

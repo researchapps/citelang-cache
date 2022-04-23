@@ -1,0 +1,587 @@
+{
+    "id": 178256593,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNzgyNTY1OTM=",
+    "name": "0xflotus/ncc",
+    "full_name": "0xflotus/ncc",
+    "private": false,
+    "owner": {
+        "login": "0xflotus",
+        "id": 26602940,
+        "node_id": "MDQ6VXNlcjI2NjAyOTQw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/26602940?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/0xflotus",
+        "html_url": "https://github.com/0xflotus",
+        "followers_url": "https://api.github.com/users/0xflotus/followers",
+        "following_url": "https://api.github.com/users/0xflotus/following{/other_user}",
+        "gists_url": "https://api.github.com/users/0xflotus/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/0xflotus/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/0xflotus/subscriptions",
+        "organizations_url": "https://api.github.com/users/0xflotus/orgs",
+        "repos_url": "https://api.github.com/users/0xflotus/repos",
+        "events_url": "https://api.github.com/users/0xflotus/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/0xflotus/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "html_url": "https://github.com/0xflotus/ncc",
+    "description": "Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.",
+    "fork": true,
+    "url": "https://api.github.com/repos/0xflotus/ncc",
+    "forks_url": "https://api.github.com/repos/0xflotus/ncc/forks",
+    "keys_url": "https://api.github.com/repos/0xflotus/ncc/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/0xflotus/ncc/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/0xflotus/ncc/teams",
+    "hooks_url": "https://api.github.com/repos/0xflotus/ncc/hooks",
+    "issue_events_url": "https://api.github.com/repos/0xflotus/ncc/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/0xflotus/ncc/events",
+    "assignees_url": "https://api.github.com/repos/0xflotus/ncc/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/0xflotus/ncc/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/0xflotus/ncc/tags",
+    "blobs_url": "https://api.github.com/repos/0xflotus/ncc/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/0xflotus/ncc/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/0xflotus/ncc/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/0xflotus/ncc/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/0xflotus/ncc/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/0xflotus/ncc/languages",
+    "stargazers_url": "https://api.github.com/repos/0xflotus/ncc/stargazers",
+    "contributors_url": "https://api.github.com/repos/0xflotus/ncc/contributors",
+    "subscribers_url": "https://api.github.com/repos/0xflotus/ncc/subscribers",
+    "subscription_url": "https://api.github.com/repos/0xflotus/ncc/subscription",
+    "commits_url": "https://api.github.com/repos/0xflotus/ncc/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/0xflotus/ncc/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/0xflotus/ncc/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/0xflotus/ncc/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/0xflotus/ncc/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/0xflotus/ncc/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/0xflotus/ncc/merges",
+    "archive_url": "https://api.github.com/repos/0xflotus/ncc/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/0xflotus/ncc/downloads",
+    "issues_url": "https://api.github.com/repos/0xflotus/ncc/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/0xflotus/ncc/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/0xflotus/ncc/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/0xflotus/ncc/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/0xflotus/ncc/labels{/name}",
+    "releases_url": "https://api.github.com/repos/0xflotus/ncc/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/0xflotus/ncc/deployments",
+    "created_at": "2019-03-28T17:58:53Z",
+    "updated_at": "2019-04-03T09:46:29Z",
+    "pushed_at": "2021-02-10T00:34:31Z",
+    "git_url": "git://github.com/0xflotus/ncc.git",
+    "ssh_url": "git@github.com:0xflotus/ncc.git",
+    "clone_url": "https://github.com/0xflotus/ncc.git",
+    "svn_url": "https://github.com/0xflotus/ncc",
+    "homepage": "https://npmjs.com/@zeit/ncc",
+    "size": 7495,
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "language": "JavaScript",
+    "has_issues": false,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 6,
+    "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 6,
+    "watchers": 1,
+    "default_branch": "master",
+    "temp_clone_token": null,
+    "parent": {
+        "id": 157318000,
+        "node_id": "MDEwOlJlcG9zaXRvcnkxNTczMTgwMDA=",
+        "name": "ncc",
+        "full_name": "vercel/ncc",
+        "private": false,
+        "owner": {
+            "login": "vercel",
+            "id": 14985020,
+            "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0OTg1MDIw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vercel",
+            "html_url": "https://github.com/vercel",
+            "followers_url": "https://api.github.com/users/vercel/followers",
+            "following_url": "https://api.github.com/users/vercel/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vercel/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vercel/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vercel/subscriptions",
+            "organizations_url": "https://api.github.com/users/vercel/orgs",
+            "repos_url": "https://api.github.com/users/vercel/repos",
+            "events_url": "https://api.github.com/users/vercel/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vercel/received_events",
+            "type": "Organization",
+            "site_admin": false
+        },
+        "html_url": "https://github.com/vercel/ncc",
+        "description": "Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.",
+        "fork": false,
+        "url": "https://api.github.com/repos/vercel/ncc",
+        "forks_url": "https://api.github.com/repos/vercel/ncc/forks",
+        "keys_url": "https://api.github.com/repos/vercel/ncc/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/vercel/ncc/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/vercel/ncc/teams",
+        "hooks_url": "https://api.github.com/repos/vercel/ncc/hooks",
+        "issue_events_url": "https://api.github.com/repos/vercel/ncc/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/vercel/ncc/events",
+        "assignees_url": "https://api.github.com/repos/vercel/ncc/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/vercel/ncc/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/vercel/ncc/tags",
+        "blobs_url": "https://api.github.com/repos/vercel/ncc/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/vercel/ncc/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/vercel/ncc/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/vercel/ncc/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/vercel/ncc/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/vercel/ncc/languages",
+        "stargazers_url": "https://api.github.com/repos/vercel/ncc/stargazers",
+        "contributors_url": "https://api.github.com/repos/vercel/ncc/contributors",
+        "subscribers_url": "https://api.github.com/repos/vercel/ncc/subscribers",
+        "subscription_url": "https://api.github.com/repos/vercel/ncc/subscription",
+        "commits_url": "https://api.github.com/repos/vercel/ncc/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/vercel/ncc/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/vercel/ncc/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/vercel/ncc/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/vercel/ncc/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/vercel/ncc/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/vercel/ncc/merges",
+        "archive_url": "https://api.github.com/repos/vercel/ncc/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/vercel/ncc/downloads",
+        "issues_url": "https://api.github.com/repos/vercel/ncc/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/vercel/ncc/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/vercel/ncc/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/vercel/ncc/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/vercel/ncc/labels{/name}",
+        "releases_url": "https://api.github.com/repos/vercel/ncc/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/vercel/ncc/deployments",
+        "created_at": "2018-11-13T04:00:21Z",
+        "updated_at": "2022-04-01T06:33:38Z",
+        "pushed_at": "2022-04-01T21:40:09Z",
+        "git_url": "git://github.com/vercel/ncc.git",
+        "ssh_url": "git@github.com:vercel/ncc.git",
+        "clone_url": "https://github.com/vercel/ncc.git",
+        "svn_url": "https://github.com/vercel/ncc",
+        "homepage": "https://npmjs.com/@vercel/ncc",
+        "size": 15485,
+        "stargazers_count": 6566,
+        "watchers_count": 6566,
+        "language": "JavaScript",
+        "has_issues": true,
+        "has_projects": false,
+        "has_downloads": true,
+        "has_wiki": false,
+        "has_pages": false,
+        "forks_count": 224,
+        "mirror_url": null,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 162,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "allow_forking": true,
+        "is_template": false,
+        "topics": [],
+        "visibility": "public",
+        "forks": 224,
+        "open_issues": 162,
+        "watchers": 6566,
+        "default_branch": "main"
+    },
+    "source": {
+        "id": 157318000,
+        "node_id": "MDEwOlJlcG9zaXRvcnkxNTczMTgwMDA=",
+        "name": "ncc",
+        "full_name": "vercel/ncc",
+        "private": false,
+        "owner": {
+            "login": "vercel",
+            "id": 14985020,
+            "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0OTg1MDIw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vercel",
+            "html_url": "https://github.com/vercel",
+            "followers_url": "https://api.github.com/users/vercel/followers",
+            "following_url": "https://api.github.com/users/vercel/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vercel/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vercel/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vercel/subscriptions",
+            "organizations_url": "https://api.github.com/users/vercel/orgs",
+            "repos_url": "https://api.github.com/users/vercel/repos",
+            "events_url": "https://api.github.com/users/vercel/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vercel/received_events",
+            "type": "Organization",
+            "site_admin": false
+        },
+        "html_url": "https://github.com/vercel/ncc",
+        "description": "Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.",
+        "fork": false,
+        "url": "https://api.github.com/repos/vercel/ncc",
+        "forks_url": "https://api.github.com/repos/vercel/ncc/forks",
+        "keys_url": "https://api.github.com/repos/vercel/ncc/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/vercel/ncc/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/vercel/ncc/teams",
+        "hooks_url": "https://api.github.com/repos/vercel/ncc/hooks",
+        "issue_events_url": "https://api.github.com/repos/vercel/ncc/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/vercel/ncc/events",
+        "assignees_url": "https://api.github.com/repos/vercel/ncc/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/vercel/ncc/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/vercel/ncc/tags",
+        "blobs_url": "https://api.github.com/repos/vercel/ncc/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/vercel/ncc/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/vercel/ncc/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/vercel/ncc/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/vercel/ncc/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/vercel/ncc/languages",
+        "stargazers_url": "https://api.github.com/repos/vercel/ncc/stargazers",
+        "contributors_url": "https://api.github.com/repos/vercel/ncc/contributors",
+        "subscribers_url": "https://api.github.com/repos/vercel/ncc/subscribers",
+        "subscription_url": "https://api.github.com/repos/vercel/ncc/subscription",
+        "commits_url": "https://api.github.com/repos/vercel/ncc/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/vercel/ncc/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/vercel/ncc/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/vercel/ncc/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/vercel/ncc/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/vercel/ncc/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/vercel/ncc/merges",
+        "archive_url": "https://api.github.com/repos/vercel/ncc/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/vercel/ncc/downloads",
+        "issues_url": "https://api.github.com/repos/vercel/ncc/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/vercel/ncc/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/vercel/ncc/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/vercel/ncc/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/vercel/ncc/labels{/name}",
+        "releases_url": "https://api.github.com/repos/vercel/ncc/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/vercel/ncc/deployments",
+        "created_at": "2018-11-13T04:00:21Z",
+        "updated_at": "2022-04-01T06:33:38Z",
+        "pushed_at": "2022-04-01T21:40:09Z",
+        "git_url": "git://github.com/vercel/ncc.git",
+        "ssh_url": "git@github.com:vercel/ncc.git",
+        "clone_url": "https://github.com/vercel/ncc.git",
+        "svn_url": "https://github.com/vercel/ncc",
+        "homepage": "https://npmjs.com/@vercel/ncc",
+        "size": 15485,
+        "stargazers_count": 6566,
+        "watchers_count": 6566,
+        "language": "JavaScript",
+        "has_issues": true,
+        "has_projects": false,
+        "has_downloads": true,
+        "has_wiki": false,
+        "has_pages": false,
+        "forks_count": 224,
+        "mirror_url": null,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 162,
+        "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "allow_forking": true,
+        "is_template": false,
+        "topics": [],
+        "visibility": "public",
+        "forks": 224,
+        "open_issues": 162,
+        "watchers": 6566,
+        "default_branch": "main"
+    },
+    "network_count": 224,
+    "subscribers_count": 1,
+    "default_version": "master",
+    "dependencies": [
+        {
+            "name": "0xflotus/ncc",
+            "homepage": "https://github.com/0xflotus/ncc"
+        },
+        {
+            "name": "Automattic/mongoose",
+            "homepage": "https://github.com/Automattic/mongoose"
+        },
+        {
+            "name": "Automattic/node-canvas",
+            "homepage": "https://github.com/Automattic/node-canvas"
+        },
+        {
+            "name": "Azure/azure-sdk-for-js",
+            "homepage": "https://github.com/Azure/azure-sdk-for-js"
+        },
+        {
+            "name": "Azure/azure-storage-node",
+            "homepage": "https://github.com/Azure/azure-storage-node"
+        },
+        {
+            "name": "Qix-/color-convert",
+            "homepage": "https://github.com/Qix-/color-convert"
+        },
+        {
+            "name": "Qix-/node-error-ex",
+            "homepage": "https://github.com/Qix-/node-error-ex"
+        },
+        {
+            "name": "TooTallNate/node-https-proxy-agent",
+            "homepage": "https://github.com/TooTallNate/node-https-proxy-agent"
+        },
+        {
+            "name": "acornjs/acorn",
+            "homepage": "https://github.com/acornjs/acorn"
+        },
+        {
+            "name": "apollographql/apollo-server",
+            "homepage": "https://github.com/apollographql/apollo-server"
+        },
+        {
+            "name": "auth0/node-auth0",
+            "homepage": "https://github.com/auth0/node-auth0"
+        },
+        {
+            "name": "aws/aws-sdk-js",
+            "homepage": "https://github.com/aws/aws-sdk-js"
+        },
+        {
+            "name": "axios/axios",
+            "homepage": "https://github.com/axios/axios"
+        },
+        {
+            "name": "bugsnag/bugsnag-js",
+            "homepage": "https://github.com/bugsnag/bugsnag-js"
+        },
+        {
+            "name": "chalk/ansi-regex",
+            "homepage": "https://github.com/chalk/ansi-regex"
+        },
+        {
+            "name": "chalk/ansi-styles",
+            "homepage": "https://github.com/chalk/ansi-styles"
+        },
+        {
+            "name": "chalk/chalk",
+            "homepage": "https://github.com/chalk/chalk"
+        },
+        {
+            "name": "chalk/strip-ansi",
+            "homepage": "https://github.com/chalk/strip-ansi"
+        },
+        {
+            "name": "chalk/supports-color",
+            "homepage": "https://github.com/chalk/supports-color"
+        },
+        {
+            "name": "codecov/codecov-node",
+            "homepage": "https://github.com/codecov/codecov-node"
+        },
+        {
+            "name": "colorjs/color-name",
+            "homepage": "https://github.com/colorjs/color-name"
+        },
+        {
+            "name": "date-fns/date-fns",
+            "homepage": "https://github.com/date-fns/date-fns"
+        },
+        {
+            "name": "getsentry/sentry-javascript",
+            "homepage": "https://github.com/getsentry/sentry-javascript"
+        },
+        {
+            "name": "googleapis/nodejs-bigquery",
+            "homepage": "https://github.com/googleapis/nodejs-bigquery"
+        },
+        {
+            "name": "googleapis/nodejs-firestore",
+            "homepage": "https://github.com/googleapis/nodejs-firestore"
+        },
+        {
+            "name": "handlebars-lang/handlebars.js",
+            "homepage": "https://github.com/handlebars-lang/handlebars.js"
+        },
+        {
+            "name": "isaacs/fs.realpath",
+            "homepage": "https://github.com/isaacs/fs.realpath"
+        },
+        {
+            "name": "isaacs/inherits",
+            "homepage": "https://github.com/isaacs/inherits"
+        },
+        {
+            "name": "isaacs/minimatch",
+            "homepage": "https://github.com/isaacs/minimatch"
+        },
+        {
+            "name": "isaacs/node-glob",
+            "homepage": "https://github.com/isaacs/node-glob"
+        },
+        {
+            "name": "isaacs/once",
+            "homepage": "https://github.com/isaacs/once"
+        },
+        {
+            "name": "jonschlinkert/kind-of",
+            "homepage": "https://github.com/jonschlinkert/kind-of"
+        },
+        {
+            "name": "jpeg-js/jpeg-js",
+            "homepage": "https://github.com/jpeg-js/jpeg-js"
+        },
+        {
+            "name": "juliangruber/balanced-match",
+            "homepage": "https://github.com/juliangruber/balanced-match"
+        },
+        {
+            "name": "juliangruber/brace-expansion",
+            "homepage": "https://github.com/juliangruber/brace-expansion"
+        },
+        {
+            "name": "leo/args",
+            "homepage": "https://github.com/leo/args"
+        },
+        {
+            "name": "lodash/lodash",
+            "homepage": "https://github.com/lodash/lodash"
+        },
+        {
+            "name": "mafintosh/end-of-stream",
+            "homepage": "https://github.com/mafintosh/end-of-stream"
+        },
+        {
+            "name": "moxystudio/node-cross-spawn",
+            "homepage": "https://github.com/moxystudio/node-cross-spawn"
+        },
+        {
+            "name": "node-fetch/node-fetch",
+            "homepage": "https://github.com/node-fetch/node-fetch"
+        },
+        {
+            "name": "nodeca/js-yaml",
+            "homepage": "https://github.com/nodeca/js-yaml"
+        },
+        {
+            "name": "npm/bin-links",
+            "homepage": "https://github.com/npm/bin-links"
+        },
+        {
+            "name": "npm/cli",
+            "homepage": "https://github.com/npm/cli"
+        },
+        {
+            "name": "npm/fstream",
+            "homepage": "https://github.com/npm/fstream"
+        },
+        {
+            "name": "npm/inflight",
+            "homepage": "https://github.com/npm/inflight"
+        },
+        {
+            "name": "npm/ini",
+            "homepage": "https://github.com/npm/ini"
+        },
+        {
+            "name": "npm/wrappy",
+            "homepage": "https://github.com/npm/wrappy"
+        },
+        {
+            "name": "open-cli-tools/concurrently",
+            "homepage": "https://github.com/open-cli-tools/concurrently"
+        },
+        {
+            "name": "pkrumins/node-tree-kill",
+            "homepage": "https://github.com/pkrumins/node-tree-kill"
+        },
+        {
+            "name": "rvagg/bl",
+            "homepage": "https://github.com/rvagg/bl"
+        },
+        {
+            "name": "segmentio/analytics-node",
+            "homepage": "https://github.com/segmentio/analytics-node"
+        },
+        {
+            "name": "sindresorhus/builtin-modules",
+            "homepage": "https://github.com/sindresorhus/builtin-modules"
+        },
+        {
+            "name": "sindresorhus/camelcase",
+            "homepage": "https://github.com/sindresorhus/camelcase"
+        },
+        {
+            "name": "sindresorhus/decamelize",
+            "homepage": "https://github.com/sindresorhus/decamelize"
+        },
+        {
+            "name": "sindresorhus/dot-prop",
+            "homepage": "https://github.com/sindresorhus/dot-prop"
+        },
+        {
+            "name": "sindresorhus/escape-string-regexp",
+            "homepage": "https://github.com/sindresorhus/escape-string-regexp"
+        },
+        {
+            "name": "sindresorhus/has-flag",
+            "homepage": "https://github.com/sindresorhus/has-flag"
+        },
+        {
+            "name": "sindresorhus/path-is-absolute",
+            "homepage": "https://github.com/sindresorhus/path-is-absolute"
+        },
+        {
+            "name": "strongloop/loopback",
+            "homepage": "https://github.com/strongloop/loopback"
+        },
+        {
+            "name": "substack/minimist",
+            "homepage": "https://github.com/substack/minimist"
+        },
+        {
+            "name": "substack/node-concat-map",
+            "homepage": "https://github.com/substack/node-concat-map"
+        },
+        {
+            "name": "substack/node-mkdirp",
+            "homepage": "https://github.com/substack/node-mkdirp"
+        },
+        {
+            "name": "tensorflow/tfjs",
+            "homepage": "https://github.com/tensorflow/tfjs"
+        },
+        {
+            "name": "vercel/arg",
+            "homepage": "https://github.com/vercel/arg"
+        },
+        {
+            "name": "visionmedia/bytes.js",
+            "homepage": "https://github.com/visionmedia/bytes.js"
+        },
+        {
+            "name": "yargs/cliui",
+            "homepage": "https://github.com/yargs/cliui"
+        },
+        {
+            "name": "yargs/yargs-parser",
+            "homepage": "https://github.com/yargs/yargs-parser"
+        }
+    ],
+    "versions": []
+}

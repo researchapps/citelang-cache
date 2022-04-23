@@ -1,0 +1,103 @@
+{
+    "dependent_repos_count": 112,
+    "dependents_count": 45,
+    "deprecation_reason": null,
+    "description": "Bitwise Operations",
+    "forks": 0,
+    "homepage": "https://github.com/mmaechler/R-bitops",
+    "keywords": [],
+    "language": "C",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/bitops_1.0-7.tar.gz",
+    "latest_release_number": "1.0-7",
+    "latest_release_published_at": "2021-04-24T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "GPL-2 | GPL-3 [expanded from: GPL (\u2265 2)]",
+    "name": "bitops",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible",
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=bitops",
+    "platform": "CRAN",
+    "rank": 13,
+    "repository_license": null,
+    "repository_url": "https://github.com/mmaechler/R-bitops",
+    "stars": 2,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0-3",
+            "published_at": "2005-01-28T09:13:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0-4",
+            "published_at": "2005-01-31T16:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0-4.1",
+            "published_at": "2012-10-29T08:58:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0-4.2",
+            "published_at": "2012-11-03T16:42:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0-5",
+            "published_at": "2012-11-12T09:27:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0-6",
+            "published_at": "2013-08-17T21:10:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0-7",
+            "published_at": "2021-04-24T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0-7",
+    "dependencies": []
+}
