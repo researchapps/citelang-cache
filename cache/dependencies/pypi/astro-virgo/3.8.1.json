@@ -1,0 +1,390 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "A Versatile Spectrometer for Radio Astronomy",
+    "forks": 15,
+    "homepage": "https://github.com/0xCoto/Virgo",
+    "keywords": [
+        "astronomy",
+        "astrophysics",
+        "radio",
+        "radio-astronomy",
+        "radio-telescope",
+        "rf",
+        "rfi-mitigation",
+        "sdr",
+        "spectrometer",
+        "telescope",
+        "virgo"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "3.8.1",
+    "latest_release_published_at": "2021-12-24T20:36:41.000Z",
+    "latest_stable_release_number": "3.8.1",
+    "latest_stable_release_published_at": "2021-12-24T20:36:41.000Z",
+    "license_normalized": true,
+    "licenses": "GNU General Public License v3 (GPLv3)",
+    "name": "astro-virgo",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/astro-virgo/",
+    "platform": "Pypi",
+    "rank": 11,
+    "repository_license": "GPL-3.0",
+    "repository_url": "https://github.com/0xCoto/Virgo",
+    "stars": 77,
+    "status": null,
+    "versions": [
+        {
+            "number": "2.0.0",
+            "published_at": "2020-10-02T01:17:41.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.1",
+            "published_at": "2020-10-02T01:29:55.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.2",
+            "published_at": "2020-10-02T12:07:19.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.3",
+            "published_at": "2020-10-07T20:58:11.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.0.0",
+            "published_at": "2020-11-07T13:28:25.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.1.0",
+            "published_at": "2020-11-19T19:24:43.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.2.0",
+            "published_at": "2020-12-06T17:47:50.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.3.0",
+            "published_at": "2020-12-17T20:29:38.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.0",
+            "published_at": "2020-12-19T03:54:35.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.2",
+            "published_at": "2020-12-20T02:44:43.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.3",
+            "published_at": "2020-12-20T03:00:44.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.5",
+            "published_at": "2020-12-20T03:08:22.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.6",
+            "published_at": "2020-12-20T03:54:42.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.7",
+            "published_at": "2020-12-20T04:33:08.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.8",
+            "published_at": "2020-12-24T05:08:05.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.9",
+            "published_at": "2020-12-24T05:41:10.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.5.0",
+            "published_at": "2021-01-04T17:05:56.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.5.1",
+            "published_at": "2021-01-04T17:10:16.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.0",
+            "published_at": "2021-01-14T06:50:37.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.1",
+            "published_at": "2021-01-31T13:49:58.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.2",
+            "published_at": "2021-01-31T14:04:28.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.3",
+            "published_at": "2021-01-31T14:07:24.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.4",
+            "published_at": "2021-02-09T22:17:30.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.5",
+            "published_at": "2021-04-01T23:33:12.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.6",
+            "published_at": "2021-04-02T00:54:40.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.7",
+            "published_at": "2021-05-03T09:53:13.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.6.9",
+            "published_at": "2021-05-21T10:59:58.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.7.0",
+            "published_at": "2021-05-21T11:09:54.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.8.0",
+            "published_at": "2021-07-09T13:43:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.8.1",
+            "published_at": "2021-12-24T20:36:41.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "3.8.1",
+    "dependencies": [
+        {
+            "project_name": "astropy",
+            "name": "astropy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.0.4",
+            "latest": "5.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "matplotlib",
+            "name": "matplotlib",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.5.1",
+            "latest": "3.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.21.6",
+            "latest": "1.21.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

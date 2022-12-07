@@ -1,0 +1,189 @@
+{
+    "dependent_repos_count": 7,
+    "dependents_count": 15,
+    "deprecation_reason": null,
+    "description": "forge (python signatures)",
+    "forks": 2,
+    "homepage": "http://github.com/dfee/forge",
+    "keywords": [
+        "signatures",
+        "parameters",
+        "arguments"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "18.6.0",
+    "latest_release_published_at": "2018-06-13T11:41:06.000Z",
+    "latest_stable_release_number": "18.6.0",
+    "latest_stable_release_published_at": "2018-06-13T11:41:06.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "python-forge",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-forge/",
+    "platform": "Pypi",
+    "rank": 13,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/dfee/forge",
+    "stars": 64,
+    "status": null,
+    "versions": [
+        {
+            "number": "18.5.0",
+            "published_at": "2018-05-24T09:09:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "18.6.0",
+            "published_at": "2018-06-13T11:41:06.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "18.6.0",
+    "dependencies": [
+        {
+            "project_name": "requests;",
+            "name": "requests;",
+            "platform": "Pypi",
+            "requirements": "extra",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "docutils;",
+            "name": "docutils;",
+            "platform": "Pypi",
+            "requirements": "extra",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "sphinx",
+            "name": "sphinx",
+            "platform": "Pypi",
+            "requirements": ">=1.7.4;",
+            "latest_stable": "5.1.0",
+            "latest": "5.0.1",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "sphinx-paramlinks;",
+            "name": "sphinx-paramlinks;",
+            "platform": "Pypi",
+            "requirements": "extra",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "sphinx-autodoc-typehints;",
+            "name": "sphinx-autodoc-typehints;",
+            "platform": "Pypi",
+            "requirements": "extra",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "sphinx;",
+            "name": "sphinx;",
+            "platform": "Pypi",
+            "requirements": "extra",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "pytest;",
+            "name": "pytest;",
+            "platform": "Pypi",
+            "requirements": "extra",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "pylint;",
+            "name": "pylint;",
+            "platform": "Pypi",
+            "requirements": "extra",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "mypy;",
+            "name": "mypy;",
+            "platform": "Pypi",
+            "requirements": "extra",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "coverage;",
+            "name": "coverage;",
+            "platform": "Pypi",
+            "requirements": "extra",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        }
+    ]
+}

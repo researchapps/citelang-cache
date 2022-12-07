@@ -1,0 +1,61 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Measure temperature of hot dust in type 2 AGN",
+    "forks": 1,
+    "homepage": "https://github.com/Gaiana/nirdust",
+    "keywords": [
+        "nirdust",
+        "dust",
+        "AGN",
+        "NIR",
+        "temperatures",
+        "astronomy",
+        "galaxies",
+        "spectra"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.0.1",
+    "latest_release_published_at": "2021-03-08T19:24:59.000Z",
+    "latest_stable_release_number": "0.2.0",
+    "latest_stable_release_published_at": "2022-10-13T00:34:24.417Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "nirdust",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/nirdust/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/Gaiana/nirdust",
+    "stars": 4,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2021-03-08T19:24:59.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": null,
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.2.0",
+    "dependencies": []
+}

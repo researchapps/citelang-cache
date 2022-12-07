@@ -1,0 +1,161 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Dask-based reader for CASA data",
+    "forks": 0,
+    "homepage": "http://casa-formats-io.readthedocs.org",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "0.1",
+    "latest_release_published_at": "2020-11-09T09:28:02.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "casa-formats-io",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/casa-formats-io/",
+    "platform": "Pypi",
+    "rank": 3,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2020-11-09T09:28:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1",
+    "dependencies": [
+        {
+            "project_name": "pytest-openfiles",
+            "name": "pytest-openfiles",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.5.0",
+            "latest": "0.5.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pytest-cov",
+            "name": "pytest-cov",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.0.0",
+            "latest": "3.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "sphinx-automodapi",
+            "name": "sphinx-automodapi",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.14.1",
+            "latest": "0.14.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "numpydoc",
+            "name": "numpydoc",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.4.0",
+            "latest": "1.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "dask[array]",
+            "name": "dask[array]",
+            "platform": "Pypi",
+            "requirements": ">=1.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": ">=1.17",
+            "latest_stable": "1.23.1",
+            "latest": "1.23.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "astropy",
+            "name": "astropy",
+            "platform": "Pypi",
+            "requirements": ">=4.0",
+            "latest_stable": "5.0.4",
+            "latest": "5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        }
+    ]
+}

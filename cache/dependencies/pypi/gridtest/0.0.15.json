@@ -1,0 +1,130 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "generate grid testing for Python modules and functions",
+    "forks": 2,
+    "homepage": "http://www.github.com/vsoch/gridtest",
+    "keywords": [
+        "python",
+        "testing",
+        "grid",
+        "ci",
+        "gridtest",
+        "yaml"
+    ],
+    "language": "HTML",
+    "latest_download_url": null,
+    "latest_release_number": "0.0.15",
+    "latest_release_published_at": "2020-07-04T15:35:02.000Z",
+    "latest_stable_release_number": "0.0.15",
+    "latest_stable_release_published_at": "2020-07-04T15:35:02.000Z",
+    "license_normalized": true,
+    "licenses": "LICENSE",
+    "name": "gridtest",
+    "normalized_licenses": [
+        "MIT-feh"
+    ],
+    "package_manager_url": "https://pypi.org/project/gridtest/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "MPL-2.0",
+    "repository_url": "https://github.com/vsoch/gridtest",
+    "stars": 2,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.0",
+            "published_at": "2020-04-16T22:46:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.1",
+            "published_at": "2020-05-06T16:44:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.11",
+            "published_at": "2020-05-08T03:27:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.13",
+            "published_at": "2020-05-10T19:25:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.14",
+            "published_at": "2020-05-12T22:03:08.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.15",
+            "published_at": "2020-07-04T15:35:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.15",
+    "dependencies": [
+        {
+            "project_name": "json-tricks",
+            "name": "json-tricks",
+            "platform": "Pypi",
+            "requirements": ">=3.15.2",
+            "latest_stable": "3.15.5",
+            "latest": "3.15.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pyaml",
+            "name": "pyaml",
+            "platform": "Pypi",
+            "requirements": ">=20.3.1",
+            "latest_stable": "21.10.1",
+            "latest": "21.10.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "WTFPL"
+            ]
+        }
+    ]
+}

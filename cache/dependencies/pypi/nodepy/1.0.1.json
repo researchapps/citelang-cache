@@ -1,0 +1,178 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Numerical ODE solvers in Python",
+    "forks": 21,
+    "homepage": "https://github.com/ketch/nodepy",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2020-11-16T05:52:42.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2020-11-16T05:52:42.000Z",
+    "license_normalized": true,
+    "licenses": "modified BSD",
+    "name": "nodepy",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/nodepy/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/ketch/nodepy",
+    "stars": 45,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.3",
+            "published_at": "2011-01-13T02:30:14.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2012-08-29T11:56:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "modified BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2013-11-04T13:24:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "modified BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2015-02-06T13:18:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "modified BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2015-05-14T11:39:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "modified BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2016-11-29T06:09:31.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8",
+            "published_at": "2019-10-17T06:38:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "modified BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9",
+            "published_at": "2020-05-11T07:52:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "modified BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2020-08-23T11:12:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "modified BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2020-11-16T05:52:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "modified BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.1",
+    "dependencies": [
+        {
+            "project_name": "matplotlib",
+            "name": "matplotlib",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.5.1",
+            "latest": "3.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "project_name": "sympy",
+            "name": "sympy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.7.1",
+            "latest": "1.10.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.21.6",
+            "latest": "1.21.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

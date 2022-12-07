@@ -1,0 +1,248 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Blind detection of faint emission line galaxies in MUSE datacubes",
+    "forks": 0,
+    "homepage": "https://github.com/musevlt/origin",
+    "keywords": [
+        "astronomy",
+        "astrophysics",
+        "science",
+        "muse",
+        "vlt",
+        "musevlt",
+        "python",
+        "source-detection"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "3.2",
+    "latest_release_published_at": "2020-01-29T03:09:02.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "muse-origin",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/muse-origin/",
+    "platform": "Pypi",
+    "rank": 5,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/musevlt/origin",
+    "stars": 1,
+    "status": null,
+    "versions": [
+        {
+            "number": "3.2",
+            "published_at": "2020-01-29T03:09:02.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "3.2",
+    "dependencies": [
+        {
+            "project_name": "nbsphinx",
+            "name": "nbsphinx",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.8.9",
+            "latest": "0.8.9",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "sphinx-automodapi",
+            "name": "sphinx-automodapi",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.14.1",
+            "latest": "0.14.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "sphinx-rtd-theme",
+            "name": "sphinx-rtd-theme",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.1.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "numpydoc",
+            "name": "numpydoc",
+            "platform": "Pypi",
+            "requirements": ">=0.9",
+            "latest_stable": "1.4.0",
+            "latest": "1.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "photutils",
+            "name": "photutils",
+            "platform": "Pypi",
+            "requirements": ">=0.5",
+            "latest_stable": "1.5.0",
+            "latest": "1.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "PyYAML",
+            "name": "PyYAML",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.4.1",
+            "latest": "6.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "joblib",
+            "name": "joblib",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.1.0",
+            "latest": "1.1.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "tqdm",
+            "name": "tqdm",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.64.0",
+            "latest": "4.64.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MPL-2.0",
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "mpdaf",
+            "name": "mpdaf",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.5.1",
+            "latest": "3.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "astropy",
+            "name": "astropy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.0.4",
+            "latest": "5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "matplotlib",
+            "name": "matplotlib",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.5.2",
+            "latest": "3.5.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.9.0",
+            "latest": "1.9.0rc2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.23.1",
+            "latest": "1.23.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

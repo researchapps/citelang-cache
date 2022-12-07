@@ -1,0 +1,143 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Solve Delay Differential Equations",
+    "forks": 0,
+    "homepage": "https://github.com/mrc-ide/dde",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/dde_1.0.1.tar.gz",
+    "latest_release_number": "1.0.1",
+    "latest_release_published_at": "2020-01-16T00:00:00.000Z",
+    "latest_stable_release_number": "1.0.1",
+    "latest_stable_release_published_at": "2020-01-16T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "dde",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=dde",
+    "platform": "CRAN",
+    "rank": 10,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/mrc-ide/dde",
+    "stars": 12,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2019-05-16T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2020-01-16T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.1",
+    "dependencies": [
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "rmarkdown",
+            "name": "rmarkdown",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.6",
+            "latest": "2.13",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "microbenchmark",
+            "name": "microbenchmark",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.4.9",
+            "latest": "1.4.9",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "knitr",
+            "name": "knitr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.15.1",
+            "latest": "1.38",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "deSolve",
+            "name": "deSolve",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.27.1",
+            "latest": "1.32",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 3.1.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

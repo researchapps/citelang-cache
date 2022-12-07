@@ -1,0 +1,106 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Interpolate using a calibration curve",
+    "forks": 0,
+    "homepage": "https://github.com/ginkgobioworks/calibrate",
+    "keywords": [
+        "calibrate",
+        "calibration",
+        "linear",
+        "regression",
+        "power",
+        "fit",
+        "quantify"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.10.0",
+    "latest_release_published_at": "2017-04-16T09:52:14.000Z",
+    "latest_stable_release_number": "0.10.0",
+    "latest_stable_release_published_at": "2017-04-16T09:52:14.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "calibrate",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/calibrate/",
+    "platform": "Pypi",
+    "rank": 6,
+    "repository_license": null,
+    "repository_url": "https://github.com/ginkgobioworks/calibrate",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.10.0",
+            "published_at": "2017-04-16T09:52:14.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9",
+            "published_at": "2014-04-14T14:13:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.10.0",
+    "dependencies": [
+        {
+            "project_name": "six",
+            "name": "six",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.16.0",
+            "latest": "1.16.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.9.0",
+            "latest": "1.9.0rc2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.23.1",
+            "latest": "1.23.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

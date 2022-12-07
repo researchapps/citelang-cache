@@ -1,0 +1,955 @@
+{
+    "dependent_repos_count": 12333,
+    "dependents_count": 3624,
+    "deprecation_reason": null,
+    "description": "Cross-platform lib for process and system monitoring in Python.",
+    "forks": 1276,
+    "homepage": "https://github.com/giampaolo/psutil",
+    "keywords": [
+        "ps",
+        "top",
+        "kill",
+        "free",
+        "lsof",
+        "netstat",
+        "nice",
+        "tty",
+        "ionice",
+        "uptime",
+        "taskmgr",
+        "process",
+        "df",
+        "iotop",
+        "iostat",
+        "ifconfig",
+        "taskset",
+        "who",
+        "pidof",
+        "pmap",
+        "smem",
+        "pstree",
+        "monitoring",
+        "ulimit",
+        "prlimit",
+        "performance",
+        "metrics",
+        "agent",
+        "observability",
+        "cpu",
+        "disk",
+        "freebsd",
+        "linux",
+        "memory",
+        "netbsd",
+        "openbsd",
+        "osx",
+        "psutil",
+        "python",
+        "sensors",
+        "system-monitoring",
+        "windows"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "5.9.2",
+    "latest_release_published_at": "2022-09-04T20:17:41.866Z",
+    "latest_stable_release_number": "5.9.4",
+    "latest_stable_release_published_at": "2022-11-07T18:47:02.742Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "psutil",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/psutil/",
+    "platform": "Pypi",
+    "rank": 27,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/giampaolo/psutil",
+    "stars": 8829,
+    "status": "",
+    "versions": [
+        {
+            "number": "0.1.1",
+            "published_at": "2014-02-06T02:06:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2014-02-06T02:06:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.3",
+            "published_at": "2014-02-06T02:06:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2014-02-06T02:03:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2014-02-06T02:06:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2014-02-06T02:06:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2014-02-06T02:06:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.1",
+            "published_at": "2014-02-06T02:06:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2014-02-06T02:06:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2014-02-06T02:06:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2014-02-06T02:05:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2014-02-06T02:05:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.0",
+            "published_at": "2014-02-06T02:05:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2014-02-06T02:05:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2014-02-06T02:05:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2014-02-06T02:05:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2013-09-28T09:48:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2013-10-07T22:38:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.2",
+            "published_at": "2013-10-22T18:13:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.3",
+            "published_at": "2013-11-07T20:47:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2013-11-20T20:02:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "License :: OSI Approved :: BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.1",
+            "published_at": "2013-11-25T20:06:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.0",
+            "published_at": "2014-03-10T11:23:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1.0",
+            "published_at": "2014-04-08T14:59:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1.1",
+            "published_at": "2014-04-30T14:27:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1.2",
+            "published_at": "2014-09-21T13:47:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1.3",
+            "published_at": "2014-09-26T20:26:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.2.0",
+            "published_at": "2015-01-06T15:36:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.2.1",
+            "published_at": "2015-02-02T13:08:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.0.0",
+            "published_at": "2015-06-13T19:16:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.0.1",
+            "published_at": "2015-06-18T02:36:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.1.0",
+            "published_at": "2015-07-15T00:41:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.1.1",
+            "published_at": "2015-07-15T12:34:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.2.0",
+            "published_at": "2015-09-02T11:56:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.2.1",
+            "published_at": "2015-09-03T15:37:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.2.2",
+            "published_at": "2015-10-04T16:38:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.3.0",
+            "published_at": "2015-11-25T01:20:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.0",
+            "published_at": "2016-01-15T09:04:12.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.1",
+            "published_at": "2016-01-15T12:34:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.2",
+            "published_at": "2016-01-20T16:25:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0",
+            "published_at": "2016-02-17T16:42:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.1.0",
+            "published_at": "2016-03-12T17:13:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.2.0",
+            "published_at": "2016-05-15T06:36:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.3.0",
+            "published_at": "2016-06-18T17:56:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.3.1",
+            "published_at": "2016-09-01T20:56:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.4.0",
+            "published_at": "2016-10-23T14:08:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.4.1",
+            "published_at": "2016-10-25T15:16:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.4.2",
+            "published_at": "2016-10-26T11:01:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.0",
+            "published_at": "2016-11-06T18:28:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.1",
+            "published_at": "2016-12-21T01:35:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.0",
+            "published_at": "2017-02-01T18:27:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.1",
+            "published_at": "2017-02-03T12:00:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.2",
+            "published_at": "2017-02-03T19:13:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.3",
+            "published_at": "2017-02-07T21:33:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2.0",
+            "published_at": "2017-03-05T04:50:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2.1",
+            "published_at": "2017-03-24T15:42:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2.2",
+            "published_at": "2017-04-10T17:19:35.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.3.0",
+            "published_at": "2017-09-01T10:50:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.3.1",
+            "published_at": "2017-09-10T05:26:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.4.0",
+            "published_at": "2017-10-12T07:26:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.4.1",
+            "published_at": "2017-11-08T13:50:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.4.2",
+            "published_at": "2017-12-07T12:03:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.4.3",
+            "published_at": "2018-01-01T20:33:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.4.4",
+            "published_at": "2018-04-13T09:10:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.4.5",
+            "published_at": "2018-04-13T17:59:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.4.6",
+            "published_at": "2018-06-07T15:39:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.4.7",
+            "published_at": "2018-08-14T21:01:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.4.8",
+            "published_at": "2018-10-30T09:57:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.5.0",
+            "published_at": "2019-01-23T18:23:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.5.1",
+            "published_at": "2019-02-15T19:34:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.6.0",
+            "published_at": "2019-03-05T12:00:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.6.1",
+            "published_at": "2019-03-11T17:24:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.6.2",
+            "published_at": "2019-04-26T02:43:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.6.3",
+            "published_at": "2019-06-11T04:24:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.6.4",
+            "published_at": "2019-11-04T08:38:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.6.5",
+            "published_at": "2019-11-06T10:07:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.6.6",
+            "published_at": "2019-11-25T12:30:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.6.7",
+            "published_at": "2019-11-26T07:25:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.7.0",
+            "published_at": "2020-02-18T18:02:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.7.1",
+            "published_at": "2020-07-15T11:14:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.7.2",
+            "published_at": "2020-07-15T13:19:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.7.3",
+            "published_at": "2020-10-24T14:00:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.8.0",
+            "published_at": "2020-12-19T01:19:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.9.0",
+            "published_at": "2021-12-29T21:26:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.9.1",
+            "published_at": "2022-05-20T20:09:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.9.2",
+            "published_at": "2022-09-04T20:17:41.866Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.9.3",
+            "published_at": null,
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.9.4",
+            "published_at": null,
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "5.9.4",
+    "dependencies": []
+}

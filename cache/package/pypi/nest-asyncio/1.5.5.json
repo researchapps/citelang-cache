@@ -1,9 +1,9 @@
 {
     "dependent_repos_count": 76,
-    "dependents_count": 261,
+    "dependents_count": 302,
     "deprecation_reason": null,
     "description": "Patch asyncio to allow nested event loops",
-    "forks": 27,
+    "forks": 34,
     "homepage": "https://github.com/erdewit/nest_asyncio",
     "keywords": [
         "asyncio",
@@ -16,8 +16,8 @@
     "latest_download_url": null,
     "latest_release_number": "1.5.5",
     "latest_release_published_at": "2022-04-02T18:39:11.000Z",
-    "latest_stable_release_number": "1.5.5",
-    "latest_stable_release_published_at": "2022-04-02T18:39:11.000Z",
+    "latest_stable_release_number": "1.5.6",
+    "latest_stable_release_published_at": "2022-09-30T07:11:17.617Z",
     "license_normalized": true,
     "licenses": "BSD",
     "name": "nest-asyncio",
@@ -29,7 +29,7 @@
     "rank": 20,
     "repository_license": "BSD-2-Clause",
     "repository_url": "https://github.com/erdewit/nest_asyncio",
-    "stars": 352,
+    "stars": 418,
     "status": null,
     "versions": [
         {
@@ -335,6 +335,16 @@
         {
             "number": "1.5.5",
             "published_at": "2022-04-02T18:39:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.5.6",
+            "published_at": "2022-09-30T07:11:17.617Z",
             "spdx_expression": "NOASSERTION",
             "original_license": "BSD",
             "researched_at": null,

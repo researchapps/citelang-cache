@@ -1,9 +1,9 @@
 {
     "dependent_repos_count": 48,
-    "dependents_count": 72,
+    "dependents_count": 89,
     "deprecation_reason": null,
     "description": "Annotate AST trees with source code positions",
-    "forks": 15,
+    "forks": 20,
     "homepage": "https://github.com/gristlabs/asttokens",
     "keywords": [
         "code",
@@ -16,8 +16,8 @@
     "latest_download_url": null,
     "latest_release_number": "2.0.5",
     "latest_release_published_at": "2021-04-19T15:38:24.000Z",
-    "latest_stable_release_number": "2.0.5",
-    "latest_stable_release_published_at": "2021-04-19T15:38:24.000Z",
+    "latest_stable_release_number": "2.0.6",
+    "latest_stable_release_published_at": "2022-08-08T13:50:07.304Z",
     "license_normalized": true,
     "licenses": "Apache 2.0",
     "name": "asttokens",
@@ -26,10 +26,10 @@
     ],
     "package_manager_url": "https://pypi.org/project/asttokens/",
     "platform": "Pypi",
-    "rank": 18,
+    "rank": 19,
     "repository_license": "Apache-2.0",
     "repository_url": "https://github.com/gristlabs/asttokens",
-    "stars": 106,
+    "stars": 119,
     "status": null,
     "versions": [
         {
@@ -265,6 +265,16 @@
         {
             "number": "2.0.5",
             "published_at": "2021-04-19T15:38:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.6",
+            "published_at": "2022-08-08T13:50:07.304Z",
             "spdx_expression": "NOASSERTION",
             "original_license": "Apache 2.0",
             "researched_at": null,

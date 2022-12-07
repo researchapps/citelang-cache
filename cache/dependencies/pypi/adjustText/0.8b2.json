@@ -1,0 +1,230 @@
+{
+    "dependent_repos_count": 43,
+    "dependents_count": 63,
+    "deprecation_reason": null,
+    "description": "Iteratively adjust text position in matplotlib plots to minimize overlaps",
+    "forks": 65,
+    "homepage": "https://github.com/Phlya/adjustText",
+    "keywords": [
+        "graph",
+        "matplotlib",
+        "plot",
+        "plotting",
+        "python",
+        "text"
+    ],
+    "language": "Jupyter Notebook",
+    "latest_download_url": null,
+    "latest_release_number": "0.8b2",
+    "latest_release_published_at": "2020-06-30T14:44:03.000Z",
+    "latest_stable_release_number": "0.7.3",
+    "latest_stable_release_published_at": "2018-06-16T17:34:52.000Z",
+    "license_normalized": true,
+    "licenses": "",
+    "name": "adjustText",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/adjustText/",
+    "platform": "Pypi",
+    "rank": 16,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/Phlya/adjustText",
+    "stars": 1012,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.2",
+            "published_at": "2016-01-13T17:55:35.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2016-01-13T17:57:58.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2016-01-19T15:34:24.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2016-01-25T17:15:20.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2016-02-04T23:33:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.3",
+            "published_at": "2016-09-23T23:17:32.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2017-01-03T10:49:27.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2017-04-23T09:25:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.2",
+            "published_at": "2018-04-11T16:54:43.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.3",
+            "published_at": "2018-04-11T17:07:38.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2018-04-29T16:15:13.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.2",
+            "published_at": "2018-05-26T22:40:11.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.3",
+            "published_at": "2018-06-16T17:34:52.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8b0",
+            "published_at": "2020-06-30T14:37:41.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8b1",
+            "published_at": "2020-06-30T14:39:50.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8b2",
+            "published_at": "2020-06-30T14:44:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.8b2",
+    "dependencies": [
+        {
+            "project_name": "matplotlib",
+            "name": "matplotlib",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.5.2",
+            "latest": "3.5.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.21.6",
+            "latest": "1.21.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

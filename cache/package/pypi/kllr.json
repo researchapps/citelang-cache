@@ -1,0 +1,61 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Kernel Localized Linear Regression, a scale-dependent, multi-variate model class for regression analysis.",
+    "forks": 0,
+    "homepage": "https://github.com/afarahi/kllr",
+    "keywords": [
+        "linear",
+        "regression",
+        "astronomy",
+        "astrophysics",
+        "parameter",
+        "estimation",
+        "kernel-methods",
+        "linear-model",
+        "linear-regression",
+        "localized-linear-regression"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "2.0",
+    "latest_release_published_at": "2022-02-15T03:18:46.000Z",
+    "latest_stable_release_number": "1.0.0",
+    "latest_stable_release_published_at": "2020-03-16T04:01:11.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "kllr",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/kllr/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/afarahi/kllr",
+    "stars": 5,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2020-03-16T04:01:11.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0",
+            "published_at": "2022-02-15T03:18:46.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "dependent_repos_count": 20,
+    "dependents_count": 35,
+    "deprecation_reason": null,
+    "description": "Tools for Working with ...",
+    "forks": 14,
+    "homepage": "https://ellipsis.r-lib.org",
+    "keywords": [
+        "dot-dot-dot",
+        "ellipsis",
+        "r"
+    ],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/ellipsis_0.3.2.tar.gz",
+    "latest_release_number": "0.3.2",
+    "latest_release_published_at": "2021-04-29T00:00:00.000Z",
+    "latest_stable_release_number": "0.3.2",
+    "latest_stable_release_published_at": "2021-04-29T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "ellipsis",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=ellipsis",
+    "platform": "CRAN",
+    "rank": 15,
+    "repository_license": "Other",
+    "repository_url": "",
+    "stars": 126,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2018-08-31T21:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2019-01-09T15:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2019-02-19T06:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2019-06-20T16:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.0.1",
+            "published_at": "2019-07-02T11:27:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2019-09-20T22:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2020-05-15T16:10:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2021-04-29T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.3.2",
+    "dependencies": [
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "covr",
+            "name": "covr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.5.1",
+            "latest": "3.5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "rlang",
+            "name": "rlang",
+            "platform": "CRAN",
+            "requirements": ">= 0.3.0",
+            "latest_stable": "1.0.4",
+            "latest": "1.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 3.2",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

@@ -1,0 +1,395 @@
+{
+    "dependent_repos_count": 24751,
+    "dependents_count": 1656,
+    "deprecation_reason": null,
+    "description": "Docutils -- Python Documentation Utilities",
+    "forks": 0,
+    "homepage": "https://docutils.sourceforge.io/",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "0.19",
+    "latest_release_published_at": "2022-07-05T20:17:26.000Z",
+    "latest_stable_release_number": "0.18.1",
+    "latest_stable_release_published_at": "2021-11-23T17:49:38.000Z",
+    "license_normalized": true,
+    "licenses": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+    "name": "docutils",
+    "normalized_licenses": [
+        "Unlicense",
+        "Python-2.0",
+        "BSD-2-Clause",
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://pypi.org/project/docutils/",
+    "platform": "Pypi",
+    "rank": 16,
+    "repository_license": null,
+    "repository_url": "https://sourceforge.net/projects/docutils.sourceforge.io/",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.10",
+            "published_at": "2012-12-16T18:22:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11",
+            "published_at": "2013-07-23T23:05:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12",
+            "published_at": "2015-05-07T15:02:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.1",
+            "published_at": "2016-12-09T13:07:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14",
+            "published_at": "2017-08-03T10:18:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14a0",
+            "published_at": "2017-05-27T12:42:23.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14rc1",
+            "published_at": "2017-05-27T15:45:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14rc2",
+            "published_at": "2017-07-08T10:43:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15",
+            "published_at": "2019-07-22T10:24:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.1",
+            "published_at": "2019-07-25T07:57:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.15.2",
+            "published_at": "2019-07-30T10:06:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16",
+            "published_at": "2020-01-12T13:55:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16b0.dev0",
+            "published_at": "2019-12-04T19:09:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.16rc1",
+            "published_at": "2019-12-19T19:52:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17",
+            "published_at": "2021-04-03T12:07:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.1",
+            "published_at": "2021-04-17T14:13:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17.1b1.dev0",
+            "published_at": "2021-04-09T20:18:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.17b1",
+            "published_at": "2021-02-10T20:51:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.18",
+            "published_at": "2021-10-26T12:09:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.18.1",
+            "published_at": "2021-11-23T17:49:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.18.1b0",
+            "published_at": "2021-11-18T19:21:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.18b1",
+            "published_at": "2021-10-05T21:28:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.19",
+            "published_at": "2022-07-05T20:17:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.19b1",
+            "published_at": "2022-06-21T21:34:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2013-07-24T05:33:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, BSD, GPL (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.5",
+            "published_at": "2013-07-24T05:40:22.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, BSD, GPL (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.7",
+            "published_at": "2013-07-24T05:45:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, BSD, GPL (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.9",
+            "published_at": "2013-07-24T05:45:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, BSD, GPL (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2013-07-24T05:47:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, BSD, GPL (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2013-07-23T23:12:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, BSD, GPL (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2009-12-28T09:54:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, BSD, GPL (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2010-07-07T16:49:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, BSD, GPL (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8",
+            "published_at": "2011-07-08T14:05:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.1",
+            "published_at": "2011-10-18T16:02:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9",
+            "published_at": "2012-08-30T17:40:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.1",
+            "published_at": "2012-08-16T14:05:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.19",
+    "dependencies": []
+}

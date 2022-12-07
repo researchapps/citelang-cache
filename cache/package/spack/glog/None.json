@@ -1,0 +1,65 @@
+{
+    "name": "glog",
+    "aliases": [],
+    "versions": [
+        {
+            "number": "0.4.0"
+        },
+        {
+            "number": "0.3.5"
+        },
+        {
+            "number": "0.3.4"
+        },
+        {
+            "number": "0.3.3"
+        }
+    ],
+    "latest_version": "0.4.0",
+    "build_system": "Package",
+    "conflicts": [],
+    "variants": [],
+    "homepage": "https://github.com/google/glog",
+    "maintainers": [],
+    "patches": [],
+    "resources": [],
+    "description": "C++ implementation of the Google logging module.\n",
+    "dependencies": [
+        {
+            "name": "gflags",
+            "description": "The gflags package contains a C++ library that implements commandline\nflags processing. It includes built-in support for standard types such\nas string and the ability to define flags in the source file in which\nthey are used. Online documentation available at:\nhttps://gflags.github.io/gflags/"
+        },
+        {
+            "name": "cmake",
+            "description": "A cross-platform, open-source build system. CMake is a family of tools\ndesigned to build, test and package software."
+        }
+    ],
+    "dependent_to": [
+        {
+            "name": "folly",
+            "description": "Folly (acronymed loosely after Facebook Open Source Library) is a\nlibrary of C++11 components designed with practicality and efficiency in\nmind. Folly contains a variety of core library components used\nextensively at Facebook. In particular, it's often a dependency of\nFacebook's other open source C++ efforts and place where those projects\ncan share code."
+        },
+        {
+            "name": "ceres-solver",
+            "description": "Ceres Solver is an open source C++ library for modeling and solving\nlarge, complicated optimization problems. It can be used to solve Non-\nlinear Least Squares problems with bounds constraints and general\nunconstrained optimization problems. It is a mature, feature rich, and\nperformant library that has been used in production at Google since\n2010."
+        },
+        {
+            "name": "caffe",
+            "description": "Caffe is a deep learning framework made with expression, speed, and\nmodularity in mind. It is developed by the Berkeley Vision and Learning\nCenter (BVLC) and by community contributors."
+        },
+        {
+            "name": "py-or-tools",
+            "description": "This project hosts operations research tools developed at Google and\nmade available as open source under the Apache 2.0 License."
+        },
+        {
+            "name": "opencv",
+            "description": "OpenCV (Open Source Computer Vision Library) is an open source computer\nvision and machine learning software library."
+        },
+        {
+            "name": "or-tools",
+            "description": "This project hosts operations research tools developed at Google and\nmade available as open source under the Apache 2.0 License."
+        }
+    ],
+    "keywords": [],
+    "language": null
+}

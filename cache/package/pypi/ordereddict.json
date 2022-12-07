@@ -1,0 +1,50 @@
+{
+    "dependent_repos_count": 5933,
+    "dependents_count": 102,
+    "deprecation_reason": null,
+    "description": "A drop-in substitute for Py2.7's new collections.OrderedDict that works in Python 2.4-2.6.",
+    "forks": 0,
+    "homepage": "UNKNOWN",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "1.1",
+    "latest_release_published_at": "2010-10-28T10:08:17.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "UNKNOWN",
+    "name": "ordereddict",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/ordereddict/",
+    "platform": "Pypi",
+    "rank": 13,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0",
+            "published_at": "2010-01-07T21:32:54.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2010-10-28T10:08:17.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

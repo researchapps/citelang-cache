@@ -1,0 +1,125 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "A python lib for readability analyses.",
+    "forks": 3,
+    "homepage": "https://github.com/dpalmasan/TRUNAJOD2.0",
+    "keywords": [
+        "NLP",
+        "readability",
+        "entity",
+        "grid",
+        "linguistics",
+        "text",
+        "complexity",
+        "coherence",
+        "natural-language-processing",
+        "readability-metrics",
+        "semantic-measurements",
+        "spacy",
+        "text-analysis",
+        "text-mining",
+        "text-processing",
+        "ttr"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.1.1b0",
+    "latest_release_published_at": "2021-04-11T20:04:39.000Z",
+    "latest_stable_release_number": "0.1.4",
+    "latest_stable_release_published_at": "2020-04-11T05:28:18.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "TRUNAJOD",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/TRUNAJOD/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/dpalmasan/TRUNAJOD2.0",
+    "stars": 8,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2020-04-11T02:32:00.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2020-04-11T05:55:04.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0.0",
+            "published_at": "2020-04-11T06:39:58.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2021-04-11T20:03:29.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1b0",
+            "published_at": "2021-04-11T20:04:39.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.4",
+            "published_at": "2020-04-11T05:28:18.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.1.1b0",
+    "dependencies": [
+        {
+            "project_name": "spacy",
+            "name": "spacy",
+            "platform": "Pypi",
+            "requirements": ">=2.3.2",
+            "latest_stable": "3.2.4",
+            "latest": "3.3.0.dev0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

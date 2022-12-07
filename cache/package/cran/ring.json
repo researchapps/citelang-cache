@@ -1,0 +1,50 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Circular / Ring Buffers",
+    "forks": 0,
+    "homepage": "https://github.com/mrc-ide/ring",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/ring_1.0.3.tar.gz",
+    "latest_release_number": "1.0.3",
+    "latest_release_published_at": "2021-06-15T00:00:00.000Z",
+    "latest_stable_release_number": "1.0.3",
+    "latest_stable_release_published_at": "2021-06-15T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "ring",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=ring",
+    "platform": "CRAN",
+    "rank": 7,
+    "repository_license": null,
+    "repository_url": "https://github.com/mrc-ide/ring",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2017-04-24T16:51:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2021-06-15T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Action-based galaxy modelling architecture",
+    "forks": 11,
+    "homepage": "https://github.com/GalacticDynamics-Oxford/Agama",
+    "keywords": [],
+    "language": "C++",
+    "latest_download_url": null,
+    "latest_release_number": "1.0b",
+    "latest_release_published_at": "2020-04-10T17:14:48.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "GPL,MIT,BSD",
+    "name": "agama",
+    "normalized_licenses": [
+        "GPL-2.0+",
+        "MIT",
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/agama/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/GalacticDynamics-Oxford/Agama",
+    "stars": 24,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0rc1",
+            "published_at": "2018-02-08T16:58:12.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0",
+            "published_at": "2018-11-13T19:02:47.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0a",
+            "published_at": "2019-08-24T21:29:42.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0b",
+            "published_at": "2020-04-10T17:14:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL,MIT,BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

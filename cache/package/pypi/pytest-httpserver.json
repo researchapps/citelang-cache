@@ -1,0 +1,240 @@
+{
+    "dependent_repos_count": 7,
+    "dependents_count": 24,
+    "deprecation_reason": null,
+    "description": "pytest-httpserver is a httpserver for pytest",
+    "forks": 18,
+    "homepage": "https://github.com/csernazs/pytest-httpserver",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.0.4",
+    "latest_release_published_at": "2022-01-27T18:50:20.000Z",
+    "latest_stable_release_number": "1.0.5",
+    "latest_stable_release_published_at": "2022-07-29T18:18:03.439Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "pytest-httpserver",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-httpserver/",
+    "platform": "Pypi",
+    "rank": 14,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/csernazs/pytest-httpserver",
+    "stars": 132,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2018-08-19T10:15:09.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2018-08-19T11:31:49.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2018-10-28T20:16:57.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2018-10-28T20:56:14.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2019-03-02T07:16:13.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2019-03-11T10:29:52.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2019-07-25T06:42:01.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2019-07-31T21:26:29.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.3",
+            "published_at": "2019-08-01T12:39:55.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.4",
+            "published_at": "2019-08-28T20:15:59.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.5",
+            "published_at": "2020-08-05T19:05:02.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.6",
+            "published_at": "2020-10-18T19:03:41.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.7",
+            "published_at": "2021-02-04T18:25:36.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.8",
+            "published_at": "2021-02-14T16:45:10.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0rc1",
+            "published_at": "2021-02-14T18:02:55.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2021-03-16T18:08:52.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2021-08-06T06:31:49.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2021-10-18T17:25:32.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2021-12-15T19:14:08.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.4",
+            "published_at": "2022-01-27T18:50:20.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.5",
+            "published_at": "2022-07-29T18:18:03.439Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,363 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Cosmic-CoNN: A Cosmic Ray Detection Deep Learning Framework, Dataset, and Toolkit",
+    "forks": 0,
+    "homepage": "https://github.com/cy-xu/cosmic-conn",
+    "keywords": [
+        "cosmic_conn",
+        "astronomy-data-reduction",
+        "ccd-observation",
+        "classification",
+        "convolutional-neural-networks",
+        "cosmic-rays",
+        "deep-learning",
+        "neural-networks"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.4.1",
+    "latest_release_published_at": "2022-06-10T08:49:44.000Z",
+    "latest_stable_release_number": "0.4.0",
+    "latest_stable_release_published_at": "2022-06-02T19:17:40.000Z",
+    "license_normalized": true,
+    "licenses": "GNU General Public License v3",
+    "name": "cosmic-conn",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/cosmic-conn/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "GPL-3.0",
+    "repository_url": "https://github.com/cy-xu/cosmic-conn",
+    "stars": 10,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.2.0",
+            "published_at": "2021-06-27T07:44:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2021-06-27T21:46:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2021-06-28T21:03:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.3",
+            "published_at": "2021-07-20T03:42:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.5",
+            "published_at": "2021-12-04T02:51:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.6",
+            "published_at": "2021-12-06T20:38:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.7",
+            "published_at": "2021-12-06T21:01:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.8",
+            "published_at": "2022-01-04T22:31:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2022-04-02T22:04:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2022-06-02T19:17:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.1",
+            "published_at": "2022-06-10T08:49:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.4.1",
+    "dependencies": [
+        {
+            "project_name": "Flask-APScheduler",
+            "name": "Flask-APScheduler",
+            "platform": "Pypi",
+            "requirements": ">=1.12.0",
+            "latest_stable": "1.12.4",
+            "latest": "1.12.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "Flask",
+            "name": "Flask",
+            "platform": "Pypi",
+            "requirements": ">=1.1.0",
+            "latest_stable": "2.2.2",
+            "latest": "2.2.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "scikit-learn",
+            "name": "scikit-learn",
+            "platform": "Pypi",
+            "requirements": ">=0.24.0",
+            "latest_stable": "1.1.2",
+            "latest": "1.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "tensorboard",
+            "name": "tensorboard",
+            "platform": "Pypi",
+            "requirements": ">=2.4.0",
+            "latest_stable": "2.10.0",
+            "latest": "2.9.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "requests",
+            "name": "requests",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.28.1",
+            "latest": "2.28.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "tqdm",
+            "name": "tqdm",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.64.0",
+            "latest": "4.64.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MPL-2.0",
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pretty-errors",
+            "name": "pretty-errors",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.2.25",
+            "latest": "1.2.25",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "psutil",
+            "name": "psutil",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.9.1",
+            "latest": "5.9.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "scikit-image",
+            "name": "scikit-image",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.19.3",
+            "latest": "0.19.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "project_name": "sep",
+            "name": "sep",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.2.1",
+            "latest": "1.2.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "LGPL-3.0+"
+            ]
+        },
+        {
+            "project_name": "reproject",
+            "name": "reproject",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.7.1",
+            "latest": "0.8",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "astropy",
+            "name": "astropy",
+            "platform": "Pypi",
+            "requirements": ">=3.0",
+            "latest_stable": "5.0.4",
+            "latest": "5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.23.1",
+            "latest": "1.23.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "torch",
+            "name": "torch",
+            "platform": "Pypi",
+            "requirements": ">=1.6.0",
+            "latest_stable": "1.12.0",
+            "latest": "1.12.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        }
+    ]
+}

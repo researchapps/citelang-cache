@@ -1,0 +1,218 @@
+{
+    "dependent_repos_count": 21,
+    "dependents_count": 7,
+    "deprecation_reason": null,
+    "description": "khmer k-mer counting library",
+    "forks": 308,
+    "homepage": "https://khmer.readthedocs.io/",
+    "keywords": [
+        "bioinformatics",
+        "bloom-filter",
+        "count-min-sketch",
+        "dna",
+        "graph-traversal",
+        "k-mer",
+        "python"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.4",
+    "latest_release_published_at": "2021-12-15T14:40:53.010Z",
+    "latest_stable_release_number": "2.1.1",
+    "latest_stable_release_published_at": "2017-05-26T06:19:00.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "khmer",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/khmer/",
+    "platform": "Pypi",
+    "rank": 15,
+    "repository_license": "Other",
+    "repository_url": "",
+    "stars": 662,
+    "status": "",
+    "versions": [
+        {
+            "number": "0.6",
+            "published_at": "2013-10-07T15:09:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2013-10-15T04:52:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2014-01-17T22:27:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2014-01-17T23:05:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8",
+            "published_at": "2014-02-27T21:21:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0",
+            "published_at": "2014-04-01T20:55:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2014-05-09T23:46:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2014-06-17T15:31:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2",
+            "published_at": "2014-12-08T16:37:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.3",
+            "published_at": "2015-01-08T20:16:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.4",
+            "published_at": "2015-05-13T22:10:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.4.1",
+            "published_at": "2015-05-28T20:53:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0rc1",
+            "published_at": "2015-07-06T20:28:01.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0",
+            "published_at": "2015-09-08T15:57:00.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1",
+            "published_at": "2017-05-22T17:40:15.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1rc3",
+            "published_at": "2017-05-22T04:37:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1.1",
+            "published_at": "2017-05-26T06:19:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2021-12-15T14:40:53.010Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "New BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

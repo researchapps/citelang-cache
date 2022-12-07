@@ -1,0 +1,124 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 29,
+    "deprecation_reason": null,
+    "description": "Clang Python Bindings, mirrored from the official LLVM repo: https://github.com/llvm/llvm-project/tree/main/clang/bindings/python, to make the installation process easier.",
+    "forks": 6,
+    "homepage": "https://github.com/sighingnow/libclang",
+    "keywords": [
+        "Clang",
+        "Python",
+        "Bindings"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "14.0.1",
+    "latest_release_published_at": "2022-04-23T11:57:47.000Z",
+    "latest_stable_release_number": "14.0.1",
+    "latest_stable_release_published_at": "2022-04-23T11:57:47.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "libclang",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/libclang/",
+    "platform": "Pypi",
+    "rank": 11,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/sighingnow/libclang",
+    "stars": 30,
+    "status": null,
+    "versions": [
+        {
+            "number": "9.0.1",
+            "published_at": "2020-08-10T19:00:35.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "10.0.1",
+            "published_at": "2020-08-11T01:24:56.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "10.0.1.0",
+            "published_at": "2020-08-11T14:55:17.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "11.0.0",
+            "published_at": "2020-12-12T09:58:35.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "11.0.1",
+            "published_at": "2021-03-12T05:20:32.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "11.1.0",
+            "published_at": "2021-03-12T05:15:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "12.0.0",
+            "published_at": "2021-04-16T17:03:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "13.0.0",
+            "published_at": "2022-01-27T01:56:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "14.0.1",
+            "published_at": "2022-04-23T11:57:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

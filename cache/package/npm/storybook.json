@@ -1,0 +1,5931 @@
+{
+    "dependent_repos_count": 170,
+    "dependents_count": 398,
+    "deprecation_reason": null,
+    "description": "Storybook CLI",
+    "forks": 7303,
+    "homepage": "https://github.com/storybookjs/storybook/tree/main/lib/cli",
+    "keywords": [
+        "storybook",
+        "angular",
+        "components",
+        "design-systems",
+        "documentation",
+        "ember",
+        "html",
+        "javascript",
+        "polymer",
+        "react",
+        "react-native",
+        "styleguide",
+        "svelte",
+        "testing",
+        "typescript",
+        "ui",
+        "ui-components",
+        "vue",
+        "web-components",
+        "webpack"
+    ],
+    "language": "TypeScript",
+    "latest_download_url": "https://registry.npmjs.org/storybook/-/storybook-6.5.0-beta.8.tgz",
+    "latest_release_number": "6.5.0-beta.8",
+    "latest_release_published_at": "2022-05-10T18:54:24.012Z",
+    "latest_stable_release_number": "6.4.22",
+    "latest_stable_release_published_at": "2022-04-14T04:46:44.875Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "storybook",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://www.npmjs.com/package/storybook",
+    "platform": "NPM",
+    "rank": 24,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/storybookjs/storybook",
+    "stars": 70701,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.0",
+            "published_at": "2016-04-04T23:39:56.753Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.0.1",
+            "published_at": "2017-08-10T18:09:56.559Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2017-09-13T13:07:47.306Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2017-09-13T13:26:12.704Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2017-09-15T17:20:01.148Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.1.11",
+            "published_at": "2019-09-09T10:05:52.221Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.0",
+            "published_at": "2020-01-11T09:34:12.457Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.1",
+            "published_at": "2020-01-12T15:37:01.822Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.2",
+            "published_at": "2020-01-13T15:36:50.204Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.3",
+            "published_at": "2020-01-14T09:58:06.401Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.4",
+            "published_at": "2020-01-16T06:22:19.121Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.5",
+            "published_at": "2020-01-16T19:32:35.709Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.6",
+            "published_at": "2020-01-17T08:14:58.234Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.7",
+            "published_at": "2020-01-20T06:56:24.704Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.8",
+            "published_at": "2020-01-21T16:53:17.141Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.0",
+            "published_at": "2020-01-21T14:23:22.634Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.1",
+            "published_at": "2020-01-23T12:23:12.910Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.9",
+            "published_at": "2020-01-24T14:14:05.258Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.2",
+            "published_at": "2020-01-30T13:40:36.325Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.10",
+            "published_at": "2020-02-02T07:03:10.488Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.3",
+            "published_at": "2020-02-02T05:51:41.064Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.4",
+            "published_at": "2020-02-03T15:52:35.464Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.11",
+            "published_at": "2020-02-04T15:58:57.020Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.12",
+            "published_at": "2020-02-04T23:20:46.181Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.5",
+            "published_at": "2020-02-04T08:56:19.703Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.6",
+            "published_at": "2020-02-04T23:47:32.997Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.7",
+            "published_at": "2020-02-07T15:50:42.022Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.8",
+            "published_at": "2020-02-07T16:26:03.633Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.9",
+            "published_at": "2020-02-08T17:29:03.866Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.10",
+            "published_at": "2020-02-11T14:34:16.505Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.13",
+            "published_at": "2020-02-12T03:48:32.906Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.11",
+            "published_at": "2020-02-13T04:11:42.086Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.12",
+            "published_at": "2020-02-13T17:05:10.999Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.13",
+            "published_at": "2020-02-15T12:47:21.529Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.14",
+            "published_at": "2020-02-18T22:59:36.566Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.15",
+            "published_at": "2020-02-20T04:00:32.776Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.17",
+            "published_at": "2020-02-21T04:05:28.621Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.18",
+            "published_at": "2020-02-21T20:37:32.292Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.19",
+            "published_at": "2020-02-24T14:33:58.983Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.14",
+            "published_at": "2020-02-25T15:18:58.965Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.20",
+            "published_at": "2020-02-27T00:32:45.637Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.21",
+            "published_at": "2020-03-05T09:31:59.351Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.22",
+            "published_at": "2020-03-10T10:50:49.220Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.24",
+            "published_at": "2020-03-11T09:02:46.011Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.25",
+            "published_at": "2020-03-11T11:00:28.733Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.26",
+            "published_at": "2020-03-12T12:59:56.820Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.27",
+            "published_at": "2020-03-13T12:36:18.374Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.15",
+            "published_at": "2020-03-14T03:36:43.233Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.17",
+            "published_at": "2020-03-14T07:45:55.883Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.28",
+            "published_at": "2020-03-23T06:00:58.417Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.29",
+            "published_at": "2020-03-26T02:45:22.755Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.18",
+            "published_at": "2020-03-31T13:38:48.270Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.30",
+            "published_at": "2020-03-31T11:13:45.835Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.31",
+            "published_at": "2020-04-07T10:25:35.943Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.32",
+            "published_at": "2020-04-11T08:14:09.386Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.33",
+            "published_at": "2020-04-13T23:57:54.193Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.34",
+            "published_at": "2020-04-15T09:04:54.895Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.35",
+            "published_at": "2020-04-15T16:13:36.632Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.36",
+            "published_at": "2020-04-16T00:37:40.984Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.37",
+            "published_at": "2020-04-16T18:49:17.138Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.39",
+            "published_at": "2020-04-18T11:45:13.770Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.40",
+            "published_at": "2020-04-20T08:18:00.545Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.41",
+            "published_at": "2020-04-20T23:18:13.853Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.42",
+            "published_at": "2020-04-23T00:19:11.118Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.43",
+            "published_at": "2020-04-23T22:31:03.361Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.44",
+            "published_at": "2020-04-27T04:13:34.794Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.45",
+            "published_at": "2020-04-28T03:31:52.718Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-alpha.46",
+            "published_at": "2020-04-29T09:04:35.117Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.0",
+            "published_at": "2020-04-29T13:33:42.408Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.1",
+            "published_at": "2020-05-02T14:05:33.937Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.2",
+            "published_at": "2020-05-04T12:13:50.518Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.3",
+            "published_at": "2020-05-07T04:56:47.586Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.4",
+            "published_at": "2020-05-08T13:05:31.918Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.5",
+            "published_at": "2020-05-11T08:56:41.713Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.6",
+            "published_at": "2020-05-12T13:26:26.992Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.7",
+            "published_at": "2020-05-15T04:15:22.652Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.8",
+            "published_at": "2020-05-17T11:08:53.142Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.9",
+            "published_at": "2020-05-20T23:23:21.280Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.11",
+            "published_at": "2020-05-21T04:30:42.721Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.12",
+            "published_at": "2020-05-21T06:04:14.621Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.13",
+            "published_at": "2020-05-22T18:12:21.044Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.19",
+            "published_at": "2020-05-24T04:22:25.484Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.14",
+            "published_at": "2020-05-25T13:41:26.530Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.15",
+            "published_at": "2020-05-26T23:11:53.410Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.16",
+            "published_at": "2020-05-27T16:28:19.302Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.17",
+            "published_at": "2020-05-28T04:40:29.343Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.18",
+            "published_at": "2020-05-29T15:00:44.344Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.19",
+            "published_at": "2020-05-29T19:35:06.439Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.20",
+            "published_at": "2020-06-01T14:12:50.208Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.21",
+            "published_at": "2020-06-04T00:42:57.766Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.22",
+            "published_at": "2020-06-05T19:02:27.466Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.23",
+            "published_at": "2020-06-08T07:49:59.450Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.24",
+            "published_at": "2020-06-11T13:02:06.195Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.25",
+            "published_at": "2020-06-11T13:23:54.184Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.26",
+            "published_at": "2020-06-12T09:46:43.838Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.27",
+            "published_at": "2020-06-14T02:08:02.474Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.28",
+            "published_at": "2020-06-15T11:00:27.009Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.29",
+            "published_at": "2020-06-16T06:10:13.849Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.30",
+            "published_at": "2020-06-16T14:40:58.194Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.31",
+            "published_at": "2020-06-17T11:06:36.202Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.32",
+            "published_at": "2020-06-19T13:32:27.869Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.33",
+            "published_at": "2020-06-22T02:53:25.151Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.34",
+            "published_at": "2020-06-23T15:47:27.403Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.35",
+            "published_at": "2020-06-24T09:39:19.850Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.36",
+            "published_at": "2020-06-25T02:17:44.233Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.37",
+            "published_at": "2020-06-26T05:49:17.069Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.38",
+            "published_at": "2020-06-30T15:43:47.700Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.39",
+            "published_at": "2020-07-02T11:38:10.213Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.40",
+            "published_at": "2020-07-03T16:23:55.111Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.41",
+            "published_at": "2020-07-04T07:21:19.775Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.42",
+            "published_at": "2020-07-05T04:16:09.261Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.43",
+            "published_at": "2020-07-05T10:41:08.777Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.44",
+            "published_at": "2020-07-06T14:27:27.785Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.45",
+            "published_at": "2020-07-07T13:04:21.790Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-beta.46",
+            "published_at": "2020-07-08T08:53:15.259Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.0",
+            "published_at": "2020-07-08T10:53:09.396Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.1",
+            "published_at": "2020-07-09T07:25:22.345Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.2",
+            "published_at": "2020-07-10T14:08:21.632Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.3",
+            "published_at": "2020-07-11T08:33:12.268Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.5",
+            "published_at": "2020-07-15T12:48:10.354Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.8",
+            "published_at": "2020-07-16T11:53:16.119Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.9",
+            "published_at": "2020-07-17T14:40:37.365Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.10",
+            "published_at": "2020-07-18T14:06:35.273Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.11",
+            "published_at": "2020-07-19T09:07:49.891Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.12",
+            "published_at": "2020-07-20T12:35:19.331Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.13",
+            "published_at": "2020-07-21T10:29:02.608Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.14",
+            "published_at": "2020-07-22T15:53:45.035Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.15",
+            "published_at": "2020-07-27T04:59:53.256Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.16",
+            "published_at": "2020-07-28T14:27:59.208Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.18",
+            "published_at": "2020-07-29T17:27:58.816Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.19",
+            "published_at": "2020-07-30T16:35:46.784Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.20",
+            "published_at": "2020-07-31T06:30:38.219Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.21",
+            "published_at": "2020-08-01T13:52:01.900Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.22",
+            "published_at": "2020-08-02T14:36:23.775Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.23",
+            "published_at": "2020-08-03T03:36:09.963Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.24",
+            "published_at": "2020-08-03T13:28:39.513Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.25",
+            "published_at": "2020-08-04T06:45:38.409Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.26",
+            "published_at": "2020-08-04T16:37:00.102Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.27",
+            "published_at": "2020-08-05T18:02:51.970Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.28",
+            "published_at": "2020-08-06T14:56:36.108Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.29",
+            "published_at": "2020-08-07T11:40:13.251Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0-rc.30",
+            "published_at": "2020-08-10T09:33:50.094Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.0",
+            "published_at": "2020-08-11T06:41:27.590Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.1",
+            "published_at": "2020-08-11T11:41:33.884Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.2",
+            "published_at": "2020-08-11T15:11:02.340Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.3",
+            "published_at": "2020-08-12T01:39:27.684Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.4",
+            "published_at": "2020-08-12T09:18:45.239Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.5",
+            "published_at": "2020-08-12T18:04:43.899Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.6",
+            "published_at": "2020-08-13T17:27:41.207Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.7",
+            "published_at": "2020-08-14T09:57:32.654Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.10",
+            "published_at": "2020-08-15T09:17:05.670Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.9",
+            "published_at": "2020-08-15T07:26:37.889Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.11",
+            "published_at": "2020-08-17T14:18:24.706Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.12",
+            "published_at": "2020-08-17T14:37:01.700Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.13",
+            "published_at": "2020-08-19T09:08:36.496Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.14",
+            "published_at": "2020-08-20T08:11:29.395Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.15",
+            "published_at": "2020-08-20T10:51:18.791Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.16",
+            "published_at": "2020-08-20T14:13:14.508Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.17",
+            "published_at": "2020-08-25T00:04:42.034Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.18",
+            "published_at": "2020-08-25T16:39:10.203Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.20",
+            "published_at": "2020-08-26T16:58:41.578Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.19",
+            "published_at": "2020-08-26T17:21:47.103Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.21",
+            "published_at": "2020-08-28T00:11:24.599Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.20",
+            "published_at": "2020-08-28T00:43:35.380Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.21",
+            "published_at": "2020-08-31T12:12:46.066Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.0",
+            "published_at": "2020-08-31T12:55:17.122Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.1",
+            "published_at": "2020-08-31T14:26:30.306Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.3",
+            "published_at": "2020-09-03T14:02:48.093Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.4",
+            "published_at": "2020-09-08T10:51:13.477Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.6",
+            "published_at": "2020-09-10T00:32:02.171Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.7",
+            "published_at": "2020-09-10T15:40:15.727Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.8",
+            "published_at": "2020-09-11T16:45:33.346Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.9",
+            "published_at": "2020-09-12T17:43:21.373Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.10",
+            "published_at": "2020-09-16T04:55:30.953Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.11",
+            "published_at": "2020-09-19T15:30:36.654Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.12",
+            "published_at": "2020-09-20T16:24:33.917Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.14",
+            "published_at": "2020-09-21T17:01:40.678Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.15",
+            "published_at": "2020-09-24T12:51:54.147Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.16",
+            "published_at": "2020-09-25T09:34:11.355Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.22",
+            "published_at": "2020-09-26T05:12:36.893Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.17",
+            "published_at": "2020-09-26T12:04:07.205Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.18",
+            "published_at": "2020-09-30T11:00:26.064Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.23",
+            "published_at": "2020-10-03T18:03:47.938Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.24",
+            "published_at": "2020-10-03T18:15:53.440Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.25",
+            "published_at": "2020-10-03T18:24:01.691Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.19",
+            "published_at": "2020-10-03T13:49:31.958Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.26",
+            "published_at": "2020-10-05T07:31:17.422Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.20",
+            "published_at": "2020-10-05T05:16:49.436Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.21",
+            "published_at": "2020-10-08T15:23:24.606Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.22",
+            "published_at": "2020-10-10T02:26:52.483Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.23",
+            "published_at": "2020-10-12T11:43:17.653Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.24",
+            "published_at": "2020-10-15T14:49:35.117Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.25",
+            "published_at": "2020-10-16T13:09:51.466Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.26",
+            "published_at": "2020-10-18T10:39:05.111Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.27",
+            "published_at": "2020-10-19T10:47:49.142Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.27",
+            "published_at": "2020-10-23T10:20:14.651Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.28",
+            "published_at": "2020-10-23T07:32:19.343Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.29",
+            "published_at": "2020-10-23T10:43:25.723Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.30",
+            "published_at": "2020-10-26T15:40:36.370Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.31",
+            "published_at": "2020-10-27T11:16:43.098Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.28-alpha.0",
+            "published_at": "2020-10-28T01:09:53.536Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.28-alpha.1",
+            "published_at": "2020-10-29T01:35:08.748Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.28-alpha.2",
+            "published_at": "2020-10-29T01:57:03.935Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.28-alpha.3",
+            "published_at": "2020-10-29T02:28:14.630Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.0.28",
+            "published_at": "2020-10-30T11:12:22.881Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.32",
+            "published_at": "2020-10-30T04:16:37.496Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.33",
+            "published_at": "2020-10-30T15:50:45.489Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.34",
+            "published_at": "2020-11-01T07:13:15.900Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-alpha.35",
+            "published_at": "2020-11-02T06:45:17.877Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-beta.0",
+            "published_at": "2020-11-02T18:30:10.738Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-beta.1",
+            "published_at": "2020-11-03T07:29:17.122Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-beta.2",
+            "published_at": "2020-11-04T09:05:48.661Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-beta.3",
+            "published_at": "2020-11-06T01:06:51.921Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-beta.4",
+            "published_at": "2020-11-06T13:38:05.831Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-beta.5",
+            "published_at": "2020-11-07T16:30:25.415Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-beta.6",
+            "published_at": "2020-11-09T15:07:48.336Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-beta.7",
+            "published_at": "2020-11-10T23:41:55.915Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-rc.0",
+            "published_at": "2020-11-12T10:25:30.562Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-rc.1",
+            "published_at": "2020-11-13T00:34:20.852Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-rc.2",
+            "published_at": "2020-11-13T08:42:43.165Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-rc.3",
+            "published_at": "2020-11-16T09:11:17.095Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-rc.4",
+            "published_at": "2020-11-16T23:07:49.203Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-rc.5",
+            "published_at": "2020-11-18T19:17:25.538Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0",
+            "published_at": "2020-11-19T02:23:25.181Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.0-rc.6",
+            "published_at": "2020-11-19T01:54:20.144Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.1",
+            "published_at": "2020-11-19T17:15:54.810Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.2",
+            "published_at": "2020-11-21T05:49:33.944Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.3",
+            "published_at": "2020-11-23T15:47:51.889Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.4",
+            "published_at": "2020-11-23T23:57:16.380Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.5",
+            "published_at": "2020-11-24T09:18:54.062Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.6",
+            "published_at": "2020-11-25T00:19:05.862Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.7",
+            "published_at": "2020-11-26T17:14:20.363Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.8",
+            "published_at": "2020-11-27T14:27:38.202Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.9",
+            "published_at": "2020-11-29T12:58:52.991Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.0",
+            "published_at": "2020-12-01T03:47:53.234Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.1",
+            "published_at": "2020-12-01T13:20:01.868Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.2",
+            "published_at": "2020-12-03T07:36:19.716Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.10",
+            "published_at": "2020-12-04T03:02:31.768Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.3",
+            "published_at": "2020-12-04T06:50:30.309Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.4",
+            "published_at": "2020-12-06T05:27:44.110Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.5",
+            "published_at": "2020-12-08T04:55:41.582Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.11",
+            "published_at": "2020-12-12T12:29:21.705Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.6",
+            "published_at": "2020-12-12T03:35:16.236Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.7",
+            "published_at": "2020-12-15T14:50:43.049Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.8",
+            "published_at": "2020-12-16T14:43:13.129Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.9",
+            "published_at": "2020-12-20T12:00:26.348Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.10",
+            "published_at": "2020-12-28T03:53:24.216Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.12",
+            "published_at": "2021-01-11T23:38:31.130Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.11",
+            "published_at": "2021-01-11T10:50:34.617Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.12",
+            "published_at": "2021-01-11T18:48:44.256Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.14",
+            "published_at": "2021-01-12T11:28:45.452Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.13",
+            "published_at": "2021-01-13T10:10:50.521Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.14",
+            "published_at": "2021-01-14T00:25:53.418Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.15",
+            "published_at": "2021-01-15T06:26:40.878Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.16",
+            "published_at": "2021-01-16T00:53:53.511Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.15",
+            "published_at": "2021-01-22T14:30:21.372Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.17",
+            "published_at": "2021-01-22T04:39:36.765Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.18",
+            "published_at": "2021-01-22T13:21:32.094Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.19",
+            "published_at": "2021-01-29T00:49:50.231Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.16",
+            "published_at": "2021-02-02T02:20:34.369Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.20",
+            "published_at": "2021-02-02T01:42:25.840Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.17",
+            "published_at": "2021-02-04T15:59:36.848Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.21",
+            "published_at": "2021-02-04T08:10:29.518Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.22",
+            "published_at": "2021-02-04T22:31:10.667Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.23",
+            "published_at": "2021-02-05T06:53:39.212Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.24",
+            "published_at": "2021-02-06T01:47:15.497Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.25",
+            "published_at": "2021-02-11T01:26:39.380Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.26",
+            "published_at": "2021-02-13T03:27:19.574Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.18",
+            "published_at": "2021-02-14T17:03:05.724Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.27",
+            "published_at": "2021-02-14T17:22:40.675Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.28",
+            "published_at": "2021-02-15T06:34:48.692Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.29",
+            "published_at": "2021-02-17T22:15:24.766Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.30",
+            "published_at": "2021-02-20T12:07:32.480Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.31",
+            "published_at": "2021-02-20T13:45:04.993Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.32",
+            "published_at": "2021-02-21T08:52:28.110Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.33",
+            "published_at": "2021-02-22T01:46:08.362Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.34",
+            "published_at": "2021-02-22T09:11:40.379Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-alpha.35",
+            "published_at": "2021-02-22T14:39:29.322Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.0",
+            "published_at": "2021-02-22T15:42:56.433Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.19",
+            "published_at": "2021-02-23T03:19:20.066Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.1",
+            "published_at": "2021-02-23T03:45:36.090Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.20",
+            "published_at": "2021-02-24T04:44:49.489Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.2",
+            "published_at": "2021-02-24T05:03:22.713Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.3",
+            "published_at": "2021-02-25T03:27:21.035Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.4",
+            "published_at": "2021-02-26T13:04:45.253Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.5",
+            "published_at": "2021-03-01T15:25:50.689Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.1.21",
+            "published_at": "2021-03-03T11:36:22.009Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.6",
+            "published_at": "2021-03-03T11:02:54.561Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.7",
+            "published_at": "2021-03-03T23:53:56.950Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.8",
+            "published_at": "2021-03-03T23:58:36.199Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.9",
+            "published_at": "2021-03-04T11:06:18.452Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.10",
+            "published_at": "2021-03-05T09:55:07.085Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.11",
+            "published_at": "2021-03-08T16:48:49.109Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.12",
+            "published_at": "2021-03-09T23:26:07.310Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.13",
+            "published_at": "2021-03-10T22:32:45.583Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.14",
+            "published_at": "2021-03-11T14:02:42.489Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-beta.15",
+            "published_at": "2021-03-15T11:21:39.872Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.0",
+            "published_at": "2021-03-15T15:04:56.674Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.1",
+            "published_at": "2021-03-16T14:52:01.833Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.2",
+            "published_at": "2021-03-17T10:04:04.691Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.3",
+            "published_at": "2021-03-18T14:05:52.096Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.4",
+            "published_at": "2021-03-19T05:39:47.603Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.5",
+            "published_at": "2021-03-20T08:54:46.722Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.6",
+            "published_at": "2021-03-20T16:26:00.591Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.7",
+            "published_at": "2021-03-22T16:23:16.299Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.8",
+            "published_at": "2021-03-23T02:09:36.131Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.9",
+            "published_at": "2021-03-24T16:46:25.677Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.10",
+            "published_at": "2021-03-26T07:59:36.175Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.11",
+            "published_at": "2021-03-29T08:35:43.468Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0",
+            "published_at": "2021-03-30T16:02:31.903Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.12",
+            "published_at": "2021-03-30T02:50:30.417Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.0-rc.13",
+            "published_at": "2021-03-30T10:49:16.862Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.1",
+            "published_at": "2021-03-31T04:05:42.657Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.2",
+            "published_at": "2021-04-02T09:52:10.115Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.3",
+            "published_at": "2021-04-05T14:30:03.301Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.4",
+            "published_at": "2021-04-07T04:06:33.827Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.5",
+            "published_at": "2021-04-07T10:38:14.111Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.0",
+            "published_at": "2021-04-08T09:57:37.588Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.1",
+            "published_at": "2021-04-08T16:27:04.598Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.6",
+            "published_at": "2021-04-09T02:21:15.869Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.7",
+            "published_at": "2021-04-09T05:36:31.416Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.2",
+            "published_at": "2021-04-09T05:08:47.267Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.3",
+            "published_at": "2021-04-10T04:38:34.131Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.4",
+            "published_at": "2021-04-10T12:49:11.030Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.5",
+            "published_at": "2021-04-11T15:42:04.736Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.6",
+            "published_at": "2021-04-13T08:33:04.815Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.8",
+            "published_at": "2021-04-14T02:45:01.341Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.7",
+            "published_at": "2021-04-14T02:21:36.316Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.8",
+            "published_at": "2021-04-15T14:25:21.699Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.9",
+            "published_at": "2021-04-16T16:46:17.107Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.10",
+            "published_at": "2021-04-18T13:20:25.299Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.11",
+            "published_at": "2021-04-19T14:18:26.668Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.12",
+            "published_at": "2021-04-19T18:00:46.244Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.13",
+            "published_at": "2021-04-21T02:43:53.047Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.2.9",
+            "published_at": "2021-04-23T03:05:02.244Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.14",
+            "published_at": "2021-04-23T02:16:22.461Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.15",
+            "published_at": "2021-04-27T17:34:05.999Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.16",
+            "published_at": "2021-04-29T03:42:01.430Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.17",
+            "published_at": "2021-04-30T06:28:36.432Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.18",
+            "published_at": "2021-05-02T16:07:07.278Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.19",
+            "published_at": "2021-05-03T11:04:20.816Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.20",
+            "published_at": "2021-05-06T13:51:05.923Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.21",
+            "published_at": "2021-05-07T06:03:17.090Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.22",
+            "published_at": "2021-05-10T13:51:10.759Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.23",
+            "published_at": "2021-05-11T06:29:38.183Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.24",
+            "published_at": "2021-05-11T07:55:23.435Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.25",
+            "published_at": "2021-05-13T04:57:07.813Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.26",
+            "published_at": "2021-05-14T03:00:11.674Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.27",
+            "published_at": "2021-05-14T09:43:42.626Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.28",
+            "published_at": "2021-05-15T00:48:37.383Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.29",
+            "published_at": "2021-05-17T14:58:29.937Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.30",
+            "published_at": "2021-05-18T04:05:28.275Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.31",
+            "published_at": "2021-05-18T07:22:11.522Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.33",
+            "published_at": "2021-05-18T11:17:55.172Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.34",
+            "published_at": "2021-05-19T01:44:21.736Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.35",
+            "published_at": "2021-05-20T10:43:40.326Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.36",
+            "published_at": "2021-05-20T13:27:22.224Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.37",
+            "published_at": "2021-05-23T02:54:38.775Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.38",
+            "published_at": "2021-05-23T03:31:20.273Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.39",
+            "published_at": "2021-05-23T14:00:11.386Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.41",
+            "published_at": "2021-05-24T06:53:57.071Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.42",
+            "published_at": "2021-05-24T13:37:08.267Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.43",
+            "published_at": "2021-05-25T02:30:02.573Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.44",
+            "published_at": "2021-05-25T09:44:56.008Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-alpha.45",
+            "published_at": "2021-05-25T16:48:15.943Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.0",
+            "published_at": "2021-05-26T02:54:17.051Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.1",
+            "published_at": "2021-05-26T11:19:14.892Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.2",
+            "published_at": "2021-05-27T12:17:23.438Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.4",
+            "published_at": "2021-05-28T08:34:02.431Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.5",
+            "published_at": "2021-05-30T05:08:00.256Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.6",
+            "published_at": "2021-06-01T09:56:29.124Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.7",
+            "published_at": "2021-06-01T16:37:14.648Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.8",
+            "published_at": "2021-06-02T12:43:32.782Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.9",
+            "published_at": "2021-06-02T19:31:31.339Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.10",
+            "published_at": "2021-06-03T09:29:43.028Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.11",
+            "published_at": "2021-06-04T14:23:25.585Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.12",
+            "published_at": "2021-06-05T03:24:58.370Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.13",
+            "published_at": "2021-06-06T05:29:34.697Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.14",
+            "published_at": "2021-06-06T15:42:09.216Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.15",
+            "published_at": "2021-06-07T11:45:53.304Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.16",
+            "published_at": "2021-06-07T18:37:52.419Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.17",
+            "published_at": "2021-06-08T04:35:09.661Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-beta.18",
+            "published_at": "2021-06-08T18:28:06.413Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.0",
+            "published_at": "2021-06-09T03:40:39.729Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.1",
+            "published_at": "2021-06-10T03:22:39.646Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.2",
+            "published_at": "2021-06-10T12:40:43.665Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.3",
+            "published_at": "2021-06-11T12:16:58.805Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.4",
+            "published_at": "2021-06-11T17:26:50.500Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.5",
+            "published_at": "2021-06-14T13:21:29.572Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.6",
+            "published_at": "2021-06-15T04:40:21.630Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.7",
+            "published_at": "2021-06-15T09:32:07.430Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.8",
+            "published_at": "2021-06-16T15:50:50.202Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.10",
+            "published_at": "2021-06-17T13:27:25.229Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.9",
+            "published_at": "2021-06-17T11:12:04.034Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.11",
+            "published_at": "2021-06-18T06:08:45.490Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0",
+            "published_at": "2021-06-23T09:06:58.308Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.0-rc.12",
+            "published_at": "2021-06-23T05:44:42.408Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.0",
+            "published_at": "2021-06-24T06:45:12.855Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.1",
+            "published_at": "2021-06-25T01:25:54.389Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.2",
+            "published_at": "2021-06-25T15:34:15.867Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.3",
+            "published_at": "2021-06-26T08:38:52.361Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.1",
+            "published_at": "2021-06-28T08:54:01.274Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.4",
+            "published_at": "2021-06-28T07:43:25.060Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.5",
+            "published_at": "2021-06-28T18:31:09.542Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.6",
+            "published_at": "2021-06-29T08:42:18.018Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.7",
+            "published_at": "2021-06-29T16:03:59.292Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.2",
+            "published_at": "2021-06-30T11:41:16.588Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.8",
+            "published_at": "2021-06-30T08:26:06.891Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.9",
+            "published_at": "2021-06-30T09:22:29.810Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.10",
+            "published_at": "2021-07-02T11:44:10.367Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.11",
+            "published_at": "2021-07-02T19:41:21.992Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.3",
+            "published_at": "2021-07-07T15:25:56.952Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.12",
+            "published_at": "2021-07-07T10:13:38.937Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.4",
+            "published_at": "2021-07-08T14:56:45.974Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.13",
+            "published_at": "2021-07-09T07:35:22.213Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.14",
+            "published_at": "2021-07-10T19:12:30.811Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.15",
+            "published_at": "2021-07-13T02:26:56.388Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.16",
+            "published_at": "2021-07-13T15:36:24.086Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.17",
+            "published_at": "2021-07-15T12:58:20.365Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.18",
+            "published_at": "2021-07-16T07:03:33.939Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.5",
+            "published_at": "2021-07-22T13:48:45.366Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.19",
+            "published_at": "2021-07-22T13:21:43.249Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.20",
+            "published_at": "2021-07-23T17:08:08.720Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.6",
+            "published_at": "2021-07-26T06:50:01.624Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.21",
+            "published_at": "2021-07-26T01:50:04.450Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.22",
+            "published_at": "2021-07-28T02:38:56.199Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.23",
+            "published_at": "2021-08-03T13:56:46.652Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.24",
+            "published_at": "2021-08-04T14:23:53.053Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.25",
+            "published_at": "2021-08-07T16:46:32.933Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.7",
+            "published_at": "2021-08-09T17:29:51.482Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.26",
+            "published_at": "2021-08-09T11:11:54.031Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.27",
+            "published_at": "2021-08-09T16:53:39.084Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.28",
+            "published_at": "2021-08-09T17:55:55.398Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.29",
+            "published_at": "2021-08-10T14:13:32.559Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.30",
+            "published_at": "2021-08-14T05:15:19.087Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.31",
+            "published_at": "2021-08-23T03:14:17.163Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.32",
+            "published_at": "2021-08-24T00:59:10.854Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.33",
+            "published_at": "2021-08-31T17:06:07.329Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.8",
+            "published_at": "2021-09-03T17:24:34.754Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.34",
+            "published_at": "2021-09-07T10:43:50.786Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.35",
+            "published_at": "2021-09-14T09:26:40.656Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.36",
+            "published_at": "2021-09-15T00:42:15.509Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.37",
+            "published_at": "2021-09-16T01:14:02.065Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.38",
+            "published_at": "2021-09-16T14:07:02.190Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.39",
+            "published_at": "2021-09-18T09:28:03.233Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.40",
+            "published_at": "2021-09-20T12:12:01.597Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-alpha.41",
+            "published_at": "2021-09-21T17:07:51.854Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.0",
+            "published_at": "2021-09-21T23:38:47.401Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.1",
+            "published_at": "2021-09-25T22:07:42.077Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.9",
+            "published_at": "2021-10-01T16:08:48.574Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.2",
+            "published_at": "2021-10-01T02:05:46.728Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.3",
+            "published_at": "2021-10-01T15:23:05.520Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.4",
+            "published_at": "2021-10-04T17:27:12.760Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.10",
+            "published_at": "2021-10-06T16:00:57.713Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.5",
+            "published_at": "2021-10-06T14:08:39.340Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.6",
+            "published_at": "2021-10-07T06:22:37.541Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.7",
+            "published_at": "2021-10-08T09:36:44.270Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.8",
+            "published_at": "2021-10-11T14:51:48.001Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.11",
+            "published_at": "2021-10-12T14:54:40.900Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.9",
+            "published_at": "2021-10-12T07:39:47.463Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.10",
+            "published_at": "2021-10-13T05:36:18.278Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.11",
+            "published_at": "2021-10-14T03:42:55.515Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.12",
+            "published_at": "2021-10-15T08:50:42.701Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.13",
+            "published_at": "2021-10-18T06:13:09.390Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.14",
+            "published_at": "2021-10-18T17:15:33.429Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.15",
+            "published_at": "2021-10-19T14:25:36.992Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.16",
+            "published_at": "2021-10-20T15:58:23.540Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.17",
+            "published_at": "2021-10-21T05:41:40.393Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.18",
+            "published_at": "2021-10-21T10:59:29.298Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.19",
+            "published_at": "2021-10-22T06:34:30.202Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.20",
+            "published_at": "2021-10-25T19:00:26.519Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.21",
+            "published_at": "2021-10-27T17:20:17.224Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.22",
+            "published_at": "2021-10-28T16:08:53.047Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.23",
+            "published_at": "2021-10-29T14:56:56.744Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.24",
+            "published_at": "2021-11-02T03:55:45.389Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.25",
+            "published_at": "2021-11-02T06:23:14.156Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.26",
+            "published_at": "2021-11-02T13:52:58.718Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.27",
+            "published_at": "2021-11-04T10:35:32.783Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.28",
+            "published_at": "2021-11-04T17:41:14.973Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.29",
+            "published_at": "2021-11-05T18:17:27.094Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.30",
+            "published_at": "2021-11-08T15:36:51.465Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.31",
+            "published_at": "2021-11-09T18:56:06.625Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.32",
+            "published_at": "2021-11-11T17:15:50.261Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-beta.33",
+            "published_at": "2021-11-12T14:01:06.969Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.0",
+            "published_at": "2021-11-12T15:34:09.567Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.1",
+            "published_at": "2021-11-12T19:28:33.344Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.2",
+            "published_at": "2021-11-15T17:28:42.539Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.3",
+            "published_at": "2021-11-16T14:11:30.128Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.4",
+            "published_at": "2021-11-19T07:38:31.061Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.5",
+            "published_at": "2021-11-19T12:59:32.934Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.6",
+            "published_at": "2021-11-22T07:58:48.954Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.7",
+            "published_at": "2021-11-24T00:23:15.678Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.8",
+            "published_at": "2021-11-25T09:32:58.406Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0",
+            "published_at": "2021-11-26T16:17:44.621Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.10",
+            "published_at": "2021-11-26T07:31:12.119Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.11",
+            "published_at": "2021-11-26T09:25:57.943Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.0-rc.9",
+            "published_at": "2021-11-26T02:50:35.681Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.1",
+            "published_at": "2021-11-30T00:35:02.468Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.2",
+            "published_at": "2021-12-01T04:25:25.936Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.3",
+            "published_at": "2021-12-01T06:42:31.868Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.4",
+            "published_at": "2021-12-01T23:30:03.599Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.1",
+            "published_at": "2021-12-02T17:32:05.681Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.5",
+            "published_at": "2021-12-03T08:10:47.156Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.7",
+            "published_at": "2021-12-03T15:28:23.349Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.8",
+            "published_at": "2021-12-06T06:26:05.497Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.9",
+            "published_at": "2021-12-09T02:18:19.696Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.2",
+            "published_at": "2021-12-09T02:41:20.346Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.3",
+            "published_at": "2021-12-09T06:32:18.476Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.4",
+            "published_at": "2021-12-18T04:15:18.114Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.5",
+            "published_at": "2021-12-23T08:57:03.071Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.6",
+            "published_at": "2022-01-03T16:03:59.832Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.7",
+            "published_at": "2022-01-04T12:20:36.942Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.9",
+            "published_at": "2022-01-05T17:50:08.903Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.10",
+            "published_at": "2022-01-06T15:37:33.551Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.11",
+            "published_at": "2022-01-08T08:20:34.170Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "5.3.22",
+            "published_at": "2022-01-10T12:41:33.880Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.3.13",
+            "published_at": "2022-01-10T04:38:47.784Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.10",
+            "published_at": "2022-01-10T02:50:44.144Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.12",
+            "published_at": "2022-01-10T01:41:25.685Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.13",
+            "published_at": "2022-01-10T17:21:42.241Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.12",
+            "published_at": "2022-01-11T16:16:49.306Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.14",
+            "published_at": "2022-01-11T15:37:15.858Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.15",
+            "published_at": "2022-01-12T11:00:15.303Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.16",
+            "published_at": "2022-01-13T11:51:30.185Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.17",
+            "published_at": "2022-01-14T11:38:44.273Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.13",
+            "published_at": "2022-01-15T04:11:34.136Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.18",
+            "published_at": "2022-01-16T16:05:08.903Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.19",
+            "published_at": "2022-01-17T12:00:11.166Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.20",
+            "published_at": "2022-01-18T15:28:02.481Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.21",
+            "published_at": "2022-01-18T15:49:24.541Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.22",
+            "published_at": "2022-01-20T10:41:03.697Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.14",
+            "published_at": "2022-01-21T09:56:19.124Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.23",
+            "published_at": "2022-01-24T16:24:36.775Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.15",
+            "published_at": "2022-01-28T05:52:33.297Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.24",
+            "published_at": "2022-01-28T03:30:23.430Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.25",
+            "published_at": "2022-01-28T11:07:08.930Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.26",
+            "published_at": "2022-01-28T12:18:37.871Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.16",
+            "published_at": "2022-01-29T07:30:19.787Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.27",
+            "published_at": "2022-01-29T07:04:08.563Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.28",
+            "published_at": "2022-01-29T15:36:35.653Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.17",
+            "published_at": "2022-01-31T02:12:21.834Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.29",
+            "published_at": "2022-01-31T02:34:22.794Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.30",
+            "published_at": "2022-01-31T07:47:27.965Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.31",
+            "published_at": "2022-02-01T13:26:39.976Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.32",
+            "published_at": "2022-02-01T14:46:03.161Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.33",
+            "published_at": "2022-02-01T15:44:50.931Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.18",
+            "published_at": "2022-02-02T12:39:25.360Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.34",
+            "published_at": "2022-02-02T11:48:07.571Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.36",
+            "published_at": "2022-02-04T15:07:51.410Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.38",
+            "published_at": "2022-02-08T08:56:08.603Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.39",
+            "published_at": "2022-02-11T05:04:14.918Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.19",
+            "published_at": "2022-02-12T10:06:17.451Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.40",
+            "published_at": "2022-02-19T01:34:05.594Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.41",
+            "published_at": "2022-02-22T09:16:27.990Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.42",
+            "published_at": "2022-02-24T18:37:37.607Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.43",
+            "published_at": "2022-02-28T09:31:51.783Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.44",
+            "published_at": "2022-02-28T12:30:03.679Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.45",
+            "published_at": "2022-03-01T17:58:58.338Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.46",
+            "published_at": "2022-03-05T16:11:03.289Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.47",
+            "published_at": "2022-03-09T16:35:17.539Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.48",
+            "published_at": "2022-03-14T03:37:58.544Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.49",
+            "published_at": "2022-03-17T08:26:22.399Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.50",
+            "published_at": "2022-03-23T07:36:25.430Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.51",
+            "published_at": "2022-03-25T16:11:15.393Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.52",
+            "published_at": "2022-03-31T05:35:26.820Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.20",
+            "published_at": "2022-04-01T06:43:55.952Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.53",
+            "published_at": "2022-04-01T03:28:09.588Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.54",
+            "published_at": "2022-04-01T13:00:59.252Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.55",
+            "published_at": "2022-04-03T04:09:23.104Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.56",
+            "published_at": "2022-04-05T16:17:23.271Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.57",
+            "published_at": "2022-04-06T02:28:38.376Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.59",
+            "published_at": "2022-04-07T09:07:23.347Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.60",
+            "published_at": "2022-04-08T18:31:37.429Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.21",
+            "published_at": "2022-04-09T02:09:43.002Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.61",
+            "published_at": "2022-04-11T16:15:36.606Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.62",
+            "published_at": "2022-04-13T01:23:00.871Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.4.22",
+            "published_at": "2022-04-14T04:46:44.875Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.63",
+            "published_at": "2022-04-14T08:53:12.806Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-alpha.64",
+            "published_at": "2022-04-18T02:26:32.406Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-beta.0",
+            "published_at": "2022-04-24T06:17:29.361Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-beta.1",
+            "published_at": "2022-04-28T02:56:40.118Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-beta.2",
+            "published_at": "2022-05-03T11:18:10.585Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-beta.3",
+            "published_at": "2022-05-03T17:50:08.223Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-beta.4",
+            "published_at": "2022-05-04T02:17:03.796Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-beta.5",
+            "published_at": "2022-05-04T12:11:47.010Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-beta.6",
+            "published_at": "2022-05-05T17:29:48.600Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-beta.7",
+            "published_at": "2022-05-09T02:52:56.067Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "6.5.0-beta.8",
+            "published_at": "2022-05-10T18:54:24.012Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        }
+    ]
+}

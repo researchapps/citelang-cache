@@ -1,0 +1,52 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "A packages to search for shared libraries on various platforms",
+    "forks": 3,
+    "homepage": "https://github.com/ecmwf/findlibs",
+    "keywords": [
+        "tool"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.0.2",
+    "latest_release_published_at": "2021-05-20T13:31:58.000Z",
+    "latest_stable_release_number": "0.0.2",
+    "latest_stable_release_published_at": "2021-05-20T13:31:58.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License Version 2.0",
+    "name": "findlibs",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/findlibs/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/ecmwf/findlibs",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2021-03-29T11:43:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License Version 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2021-05-20T13:31:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License Version 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

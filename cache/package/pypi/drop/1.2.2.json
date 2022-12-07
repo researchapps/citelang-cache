@@ -1,0 +1,100 @@
+{
+    "dependent_repos_count": 1,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Uploads data to a remote www directory via scp and returns a public url.",
+    "forks": 1,
+    "homepage": "https://github.com/cod3monk/drop",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.4.1",
+    "latest_release_published_at": "2020-02-20T07:45:02.000Z",
+    "latest_stable_release_number": "0.4.1",
+    "latest_stable_release_published_at": "2020-02-20T07:45:02.000Z",
+    "license_normalized": true,
+    "licenses": "AGPLv3",
+    "name": "drop",
+    "normalized_licenses": [
+        "AGPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/drop/",
+    "platform": "Pypi",
+    "rank": 6,
+    "repository_license": null,
+    "repository_url": "https://github.com/cod3monk/drop",
+    "stars": 2,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2015-02-15T22:49:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "AGPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2015-02-15T22:52:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "AGPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2015-02-18T15:05:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "AGPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2015-02-19T13:38:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "AGPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2015-05-24T21:47:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "AGPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2018-04-23T11:15:18.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.1",
+            "published_at": "2020-02-20T07:45:02.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

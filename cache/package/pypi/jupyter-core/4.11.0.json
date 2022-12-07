@@ -1,0 +1,460 @@
+{
+    "dependent_repos_count": 1978,
+    "dependents_count": 209,
+    "deprecation_reason": null,
+    "description": "Jupyter core package. A base package on which Jupyter projects rely.",
+    "forks": 168,
+    "homepage": "https://jupyter-core.readthedocs.io/",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "5.0.0rc2",
+    "latest_release_published_at": "2022-10-19T14:14:09.042Z",
+    "latest_stable_release_number": "4.12.0",
+    "latest_stable_release_published_at": "2022-11-28T13:37:01.135Z",
+    "license_normalized": true,
+    "licenses": "# The Jupyter licensing terms  Jupyter is licensed under the terms of the Modified BSD License (also known as New or Revised or 3-Clause BSD), as follows:  - Copyright (c) 2015-, Jupyter Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  Neither the name of the Jupyter Development Team nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  ## About the Jupyter Development Team  The Jupyter Development Team is the set of all contributors to the Jupyter project. This includes all of the Jupyter subprojects. A full list with details is kept in the documentation directory, in the file `about/credits.txt`.  The core team that coordinates development on GitHub can be found here: https://github.com/ipython/.  ## Our Copyright Policy  Jupyter uses a shared copyright model. Each contributor maintains copyright over their contributions to Jupyter. It is important to note that these contributions are typically only changes to the repositories. Thus, the Jupyter source code in its entirety is not the copyright of any single person or institution. Instead, it is the collective copyright of the entire Jupyter Development Team. If individual contributors want to maintain a record of what changes/contributions they have specific copyright on, they should indicate their copyright in the commit message of the change, when they commit the change to one of the Jupyter repositories.  With this in mind, the following banner should be used in any source code file to indicate the copyright and license terms:  ``` # Copyright (c) Jupyter Development Team. # Distributed under the terms of the Modified BSD License. ```",
+    "name": "jupyter-core",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/jupyter-core/",
+    "platform": "Pypi",
+    "rank": 19,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/jupyter/jupyter_core",
+    "stars": 178,
+    "status": null,
+    "versions": [
+        {
+            "number": "4.0.0",
+            "published_at": "2015-07-02T16:52:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.1",
+            "published_at": "2015-07-02T17:00:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.2",
+            "published_at": "2015-07-20T19:56:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.3",
+            "published_at": "2015-08-14T05:32:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.4",
+            "published_at": "2015-08-17T21:42:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.5",
+            "published_at": "2015-09-17T07:32:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.6",
+            "published_at": "2015-09-18T08:23:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.1.0",
+            "published_at": "2016-03-08T13:08:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.1.1",
+            "published_at": "2016-08-10T11:46:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.2.0",
+            "published_at": "2016-09-13T13:45:08.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.2.1",
+            "published_at": "2016-12-01T17:28:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.3.0",
+            "published_at": "2017-02-14T17:33:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.4.0",
+            "published_at": "2017-10-31T16:34:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.5.0",
+            "published_at": "2019-06-19T14:17:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.6.0",
+            "published_at": "2019-10-08T13:53:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.6.1",
+            "published_at": "2019-10-24T04:11:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.6.2",
+            "published_at": "2020-02-11T06:52:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.6.3",
+            "published_at": "2020-02-18T18:15:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.7.0rc0",
+            "published_at": "2020-11-02T21:38:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.7.0",
+            "published_at": "2020-11-17T23:12:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.7.1",
+            "published_at": "2021-01-31T18:31:08.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.0b0",
+            "published_at": "2021-08-18T23:26:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.0rc0",
+            "published_at": "2021-08-24T03:33:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.0rc1",
+            "published_at": "2021-09-10T02:57:26.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.0",
+            "published_at": "2021-09-17T00:16:06.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.1",
+            "published_at": "2021-09-17T01:21:46.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.0rc0",
+            "published_at": "2021-10-13T19:49:22.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.2",
+            "published_at": "2021-10-26T20:49:53.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.0",
+            "published_at": "2021-10-27T00:11:00.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.1rc0",
+            "published_at": "2021-10-27T19:22:55.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.1",
+            "published_at": "2021-10-28T04:01:05.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0.dev",
+            "published_at": "2021-12-15T16:07:20.211Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.9.2",
+            "published_at": "2022-02-15T22:34:36.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.10.0",
+            "published_at": "2022-04-18T10:56:30.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.11.0",
+            "published_at": "2022-07-07T14:29:04.645Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "# The Jupyter licensing terms  Jupyter is licensed under the terms of the Modified BSD License (also known as New or Revised or 3-Clause BSD), as follows:  - Copyright (c) 2015-, Jupyter Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  Neither the name of the Jupyter Development Team nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  ## About the Jupyter Development Team  The Jupyter Development Team is the set of all contributors to the Jupyter project. This includes all of the Jupyter subprojects. A full list with details is kept in the documentation directory, in the file `about/credits.txt`.  The core team that coordinates development on GitHub can be found here: https://github.com/ipython/.  ## Our Copyright Policy  Jupyter uses a shared copyright model. Each contributor maintains copyright over their contributions to Jupyter. It is important to note that these contributions are typically only changes to the repositories. Thus, the Jupyter source code in its entirety is not the copyright of any single person or institution. Instead, it is the collective copyright of the entire Jupyter Development Team. If individual contributors want to maintain a record of what changes/contributions they have specific copyright on, they should indicate their copyright in the commit message of the change, when they commit the change to one of the Jupyter repositories.  With this in mind, the following banner should be used in any source code file to indicate the copyright and license terms:  # Copyright (c) Jupyter Development Team. # Distributed under the terms of the Modified BSD License.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.11.1",
+            "published_at": "2022-07-08T10:35:18.503Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "# The Jupyter licensing terms  Jupyter is licensed under the terms of the Modified BSD License (also known as New or Revised or 3-Clause BSD), as follows:  - Copyright (c) 2015-, Jupyter Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  Neither the name of the Jupyter Development Team nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  ## About the Jupyter Development Team  The Jupyter Development Team is the set of all contributors to the Jupyter project. This includes all of the Jupyter subprojects. A full list with details is kept in the documentation directory, in the file `about/credits.txt`.  The core team that coordinates development on GitHub can be found here: https://github.com/ipython/.  ## Our Copyright Policy  Jupyter uses a shared copyright model. Each contributor maintains copyright over their contributions to Jupyter. It is important to note that these contributions are typically only changes to the repositories. Thus, the Jupyter source code in its entirety is not the copyright of any single person or institution. Instead, it is the collective copyright of the entire Jupyter Development Team. If individual contributors want to maintain a record of what changes/contributions they have specific copyright on, they should indicate their copyright in the commit message of the change, when they commit the change to one of the Jupyter repositories.  With this in mind, the following banner should be used in any source code file to indicate the copyright and license terms:  # Copyright (c) Jupyter Development Team. # Distributed under the terms of the Modified BSD License.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.0rc0",
+            "published_at": "2022-09-28T14:32:09.241Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "# The Jupyter licensing terms  Jupyter is licensed under the terms of the Modified BSD License (also known as New or Revised or 3-Clause BSD), as follows:  - Copyright (c) 2015-, Jupyter Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  Neither the name of the Jupyter Development Team nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  ## About the Jupyter Development Team  The Jupyter Development Team is the set of all contributors to the Jupyter project. This includes all of the Jupyter subprojects. A full list with details is kept in the documentation directory, in the file `about/credits.txt`.  The core team that coordinates development on GitHub can be found here: https://github.com/ipython/.  ## Our Copyright Policy  Jupyter uses a shared copyright model. Each contributor maintains copyright over their contributions to Jupyter. It is important to note that these contributions are typically only changes to the repositories. Thus, the Jupyter source code in its entirety is not the copyright of any single person or institution. Instead, it is the collective copyright of the entire Jupyter Development Team. If individual contributors want to maintain a record of what changes/contributions they have specific copyright on, they should indicate their copyright in the commit message of the change, when they commit the change to one of the Jupyter repositories.  With this in mind, the following banner should be used in any source code file to indicate the copyright and license terms:  # Copyright (c) Jupyter Development Team. # Distributed under the terms of the Modified BSD License.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.0rc1",
+            "published_at": "2022-09-28T14:40:09.771Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "# The Jupyter licensing terms  Jupyter is licensed under the terms of the Modified BSD License (also known as New or Revised or 3-Clause BSD), as follows:  - Copyright (c) 2015-, Jupyter Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  Neither the name of the Jupyter Development Team nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  ## About the Jupyter Development Team  The Jupyter Development Team is the set of all contributors to the Jupyter project. This includes all of the Jupyter subprojects. A full list with details is kept in the documentation directory, in the file `about/credits.txt`.  The core team that coordinates development on GitHub can be found here: https://github.com/ipython/.  ## Our Copyright Policy  Jupyter uses a shared copyright model. Each contributor maintains copyright over their contributions to Jupyter. It is important to note that these contributions are typically only changes to the repositories. Thus, the Jupyter source code in its entirety is not the copyright of any single person or institution. Instead, it is the collective copyright of the entire Jupyter Development Team. If individual contributors want to maintain a record of what changes/contributions they have specific copyright on, they should indicate their copyright in the commit message of the change, when they commit the change to one of the Jupyter repositories.  With this in mind, the following banner should be used in any source code file to indicate the copyright and license terms:  # Copyright (c) Jupyter Development Team. # Distributed under the terms of the Modified BSD License.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.11.2",
+            "published_at": "2022-10-19T14:13:15.346Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "# The Jupyter licensing terms  Jupyter is licensed under the terms of the Modified BSD License (also known as New or Revised or 3-Clause BSD), as follows:  - Copyright (c) 2015-, Jupyter Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  Neither the name of the Jupyter Development Team nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  ## About the Jupyter Development Team  The Jupyter Development Team is the set of all contributors to the Jupyter project. This includes all of the Jupyter subprojects. A full list with details is kept in the documentation directory, in the file `about/credits.txt`.  The core team that coordinates development on GitHub can be found here: https://github.com/ipython/.  ## Our Copyright Policy  Jupyter uses a shared copyright model. Each contributor maintains copyright over their contributions to Jupyter. It is important to note that these contributions are typically only changes to the repositories. Thus, the Jupyter source code in its entirety is not the copyright of any single person or institution. Instead, it is the collective copyright of the entire Jupyter Development Team. If individual contributors want to maintain a record of what changes/contributions they have specific copyright on, they should indicate their copyright in the commit message of the change, when they commit the change to one of the Jupyter repositories.  With this in mind, the following banner should be used in any source code file to indicate the copyright and license terms:  # Copyright (c) Jupyter Development Team. # Distributed under the terms of the Modified BSD License.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.0rc2",
+            "published_at": "2022-10-19T14:14:09.042Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "# The Jupyter licensing terms  Jupyter is licensed under the terms of the Modified BSD License (also known as New or Revised or 3-Clause BSD), as follows:  - Copyright (c) 2015-, Jupyter Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  Neither the name of the Jupyter Development Team nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  ## About the Jupyter Development Team  The Jupyter Development Team is the set of all contributors to the Jupyter project. This includes all of the Jupyter subprojects. A full list with details is kept in the documentation directory, in the file `about/credits.txt`.  The core team that coordinates development on GitHub can be found here: https://github.com/ipython/.  ## Our Copyright Policy  Jupyter uses a shared copyright model. Each contributor maintains copyright over their contributions to Jupyter. It is important to note that these contributions are typically only changes to the repositories. Thus, the Jupyter source code in its entirety is not the copyright of any single person or institution. Instead, it is the collective copyright of the entire Jupyter Development Team. If individual contributors want to maintain a record of what changes/contributions they have specific copyright on, they should indicate their copyright in the commit message of the change, when they commit the change to one of the Jupyter repositories.  With this in mind, the following banner should be used in any source code file to indicate the copyright and license terms:  # Copyright (c) Jupyter Development Team. # Distributed under the terms of the Modified BSD License.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.0",
+            "published_at": "2022-11-09T12:23:55.888Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "# The Jupyter licensing terms  Jupyter is licensed under the terms of the Modified BSD License (also known as New or Revised or 3-Clause BSD), as follows:  - Copyright (c) 2015-, Jupyter Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  Neither the name of the Jupyter Development Team nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  ## About the Jupyter Development Team  The Jupyter Development Team is the set of all contributors to the Jupyter project. This includes all of the Jupyter subprojects. A full list with details is kept in the documentation directory, in the file `about/credits.txt`.  The core team that coordinates development on GitHub can be found here: https://github.com/ipython/.  ## Our Copyright Policy  Jupyter uses a shared copyright model. Each contributor maintains copyright over their contributions to Jupyter. It is important to note that these contributions are typically only changes to the repositories. Thus, the Jupyter source code in its entirety is not the copyright of any single person or institution. Instead, it is the collective copyright of the entire Jupyter Development Team. If individual contributors want to maintain a record of what changes/contributions they have specific copyright on, they should indicate their copyright in the commit message of the change, when they commit the change to one of the Jupyter repositories.  With this in mind, the following banner should be used in any source code file to indicate the copyright and license terms:  ``` # Copyright (c) Jupyter Development Team. # Distributed under the terms of the Modified BSD License. ```",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.12.0",
+            "published_at": "2022-11-28T13:37:01.135Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "# The Jupyter licensing terms  Jupyter is licensed under the terms of the Modified BSD License (also known as New or Revised or 3-Clause BSD), as follows:  - Copyright (c) 2015-, Jupyter Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  Neither the name of the Jupyter Development Team nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  ## About the Jupyter Development Team  The Jupyter Development Team is the set of all contributors to the Jupyter project. This includes all of the Jupyter subprojects. A full list with details is kept in the documentation directory, in the file `about/credits.txt`.  The core team that coordinates development on GitHub can be found here: https://github.com/ipython/.  ## Our Copyright Policy  Jupyter uses a shared copyright model. Each contributor maintains copyright over their contributions to Jupyter. It is important to note that these contributions are typically only changes to the repositories. Thus, the Jupyter source code in its entirety is not the copyright of any single person or institution. Instead, it is the collective copyright of the entire Jupyter Development Team. If individual contributors want to maintain a record of what changes/contributions they have specific copyright on, they should indicate their copyright in the commit message of the change, when they commit the change to one of the Jupyter repositories.  With this in mind, the following banner should be used in any source code file to indicate the copyright and license terms:  ``` # Copyright (c) Jupyter Development Team. # Distributed under the terms of the Modified BSD License. ```",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.0",
+            "published_at": "2022-11-28T13:30:37.246Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "# The Jupyter licensing terms  Jupyter is licensed under the terms of the Modified BSD License (also known as New or Revised or 3-Clause BSD), as follows:  - Copyright (c) 2015-, Jupyter Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  Neither the name of the Jupyter Development Team nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  ## About the Jupyter Development Team  The Jupyter Development Team is the set of all contributors to the Jupyter project. This includes all of the Jupyter subprojects. A full list with details is kept in the documentation directory, in the file `about/credits.txt`.  The core team that coordinates development on GitHub can be found here: https://github.com/ipython/.  ## Our Copyright Policy  Jupyter uses a shared copyright model. Each contributor maintains copyright over their contributions to Jupyter. It is important to note that these contributions are typically only changes to the repositories. Thus, the Jupyter source code in its entirety is not the copyright of any single person or institution. Instead, it is the collective copyright of the entire Jupyter Development Team. If individual contributors want to maintain a record of what changes/contributions they have specific copyright on, they should indicate their copyright in the commit message of the change, when they commit the change to one of the Jupyter repositories.  With this in mind, the following banner should be used in any source code file to indicate the copyright and license terms:  ``` # Copyright (c) Jupyter Development Team. # Distributed under the terms of the Modified BSD License. ```",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

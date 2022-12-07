@@ -1,0 +1,62 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "A python graph library implemented in Rust",
+    "forks": 76,
+    "homepage": "https://github.com/Qiskit/rustworkx",
+    "keywords": [
+        "Networks",
+        "network",
+        "graph",
+        "Theory",
+        "DAG",
+        "graph-theory",
+        "hacktoberfest",
+        "python",
+        "rust"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.12.1",
+    "latest_release_published_at": "2022-11-23T16:40:38.319Z",
+    "latest_stable_release_number": "0.12.1",
+    "latest_stable_release_published_at": "2022-11-23T16:40:38.319Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "rustworkx",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/rustworkx/",
+    "platform": "Pypi",
+    "rank": 11,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/Qiskit/rustworkx",
+    "stars": 357,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.12.0",
+            "published_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.1",
+            "published_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.12.1",
+    "dependencies": []
+}

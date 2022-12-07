@@ -1,0 +1,99 @@
+{
+    "dependent_repos_count": 6,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Generator of Matrix Multiplication Kernels",
+    "forks": 12,
+    "homepage": "https://github.com/vincentlab/GiMMiK",
+    "keywords": [
+        "Matrix",
+        "Multiplication",
+        "GPU",
+        "CUDA",
+        "OpenCL"
+    ],
+    "language": "Mako",
+    "latest_download_url": null,
+    "latest_release_number": "2.3",
+    "latest_release_published_at": "2022-03-21T17:44:12.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "gimmik",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/gimmik/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/vincentlab/GiMMiK",
+    "stars": 11,
+    "status": null,
+    "versions": [
+        {
+            "number": "2.1",
+            "published_at": "2016-08-18T15:25:32.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.2",
+            "published_at": "2021-12-17T15:22:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.3",
+            "published_at": "2022-03-21T17:44:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "2.3",
+    "dependencies": [
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": ">=1.7",
+            "latest_stable": "1.21.6",
+            "latest": "1.21.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "mako",
+            "name": "mako",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.2.0",
+            "latest": "1.2.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

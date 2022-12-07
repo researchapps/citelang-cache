@@ -1,0 +1,228 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "A Jupyter Notebook server extension which crawls a thredds catalog",
+    "forks": 3,
+    "homepage": "https://github.com/eWaterCycle/jupyterlab_thredds",
+    "keywords": [
+        "Jupyter",
+        "JupyterLab",
+        "Thredds",
+        "jupyterlab-extension"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.5.0",
+    "latest_release_published_at": "2020-07-07T16:11:44.000Z",
+    "latest_stable_release_number": "0.5.0",
+    "latest_stable_release_published_at": "2020-07-07T16:11:44.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "jupyterlab-thredds",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/jupyterlab-thredds/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/eWaterCycle/jupyterlab_thredds",
+    "stars": 24,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2018-05-04T11:53:34.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2018-09-03T15:17:20.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2018-11-29T13:58:52.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2018-12-05T13:05:47.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2019-09-02T11:30:55.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.1",
+            "published_at": "2019-09-02T12:08:51.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2020-07-07T16:11:44.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.5.0",
+    "dependencies": [
+        {
+            "project_name": "aiohttp",
+            "name": "aiohttp",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.8.1",
+            "latest": "3.8.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "traitlets",
+            "name": "traitlets",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.1.1",
+            "latest": "4.0.0.dev",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "OWSLib",
+            "name": "OWSLib",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.25.0",
+            "latest": "0.25.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "ipyleaflet",
+            "name": "ipyleaflet",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.16.0",
+            "latest": "0.16.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "netCDF4",
+            "name": "netCDF4",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.5.8",
+            "latest": "1.5.8",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "AML"
+            ]
+        },
+        {
+            "project_name": "xarray",
+            "name": "xarray",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2022.3.0",
+            "latest": "2022.3.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "siphon",
+            "name": "siphon",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.8.0",
+            "latest": "0.9",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "notebook",
+            "name": "notebook",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "6.4.10",
+            "latest": "6.4.11",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

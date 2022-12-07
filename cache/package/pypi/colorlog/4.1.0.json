@@ -1,0 +1,664 @@
+{
+    "dependent_repos_count": 1833,
+    "dependents_count": 617,
+    "deprecation_reason": null,
+    "description": "Add colours to the output of Python's logging module.",
+    "forks": 78,
+    "homepage": "https://github.com/borntyping/python-colorlog",
+    "keywords": [
+        "library",
+        "logging",
+        "python"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "6.6.0",
+    "latest_release_published_at": "2021-11-08T16:56:43.000Z",
+    "latest_stable_release_number": "6.6.0",
+    "latest_stable_release_published_at": "2021-11-08T16:56:43.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "colorlog",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/colorlog/",
+    "platform": "Pypi",
+    "rank": 21,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/borntyping/python-colorlog",
+    "stars": 753,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2012-09-05T17:56:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2012-09-05T18:11:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2012-09-05T18:59:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2012-09-05T19:30:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE.txt",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2012-09-06T08:59:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE.txt",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2012-09-06T09:16:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Copyright (c) 2012 Sam Clements <sam@borntyping.co.uk>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0",
+            "published_at": "2012-10-11T20:17:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Copyright (c) 2012 Sam Clements <sam@borntyping.co.uk>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2012-10-11T20:29:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Copyright (c) 2012 Sam Clements <sam@borntyping.co.uk>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2",
+            "published_at": "2012-11-01T16:49:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Copyright (c) 2012 Sam Clements <sam@borntyping.co.uk>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.3",
+            "published_at": "2012-11-01T16:52:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Copyright (c) 2012 Sam Clements <sam@borntyping.co.uk>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.4",
+            "published_at": "2012-12-10T02:31:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Copyright (c) 2012 Sam Clements <sam@borntyping.co.uk>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.5",
+            "published_at": "2012-12-12T19:39:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Copyright (c) 2012 Sam Clements <sam@borntyping.co.uk>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.6",
+            "published_at": "2012-12-12T20:05:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Copyright (c) 2012 Sam Clements <sam@borntyping.co.uk>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.7",
+            "published_at": "2013-06-06T20:25:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Copyright (c) 2012 Sam Clements <sam@borntyping.co.uk>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.8",
+            "published_at": "2013-06-06T21:05:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Copyright (c) 2012 Sam Clements <sam@borntyping.co.uk>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.0",
+            "published_at": "2013-09-06T21:25:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1.0",
+            "published_at": "2014-04-27T16:24:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1.1",
+            "published_at": "2014-04-27T18:36:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.2.0",
+            "published_at": "2014-04-27T18:46:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.3.0",
+            "published_at": "2014-06-12T11:32:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.3.1",
+            "published_at": "2014-06-12T11:35:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.4.0",
+            "published_at": "2014-08-06T11:14:19.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.5.0",
+            "published_at": "2015-01-06T20:00:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.6.0",
+            "published_at": "2015-02-02T12:24:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.6.1",
+            "published_at": "2016-02-01T11:37:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.6.2",
+            "published_at": "2016-04-20T14:25:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.6.3",
+            "published_at": "2016-04-20T14:27:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.7.0",
+            "published_at": "2016-05-24T12:50:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.8.0",
+            "published_at": "2016-11-21T12:33:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.9.0",
+            "published_at": "2016-11-21T14:51:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.10.0",
+            "published_at": "2016-11-23T17:51:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.0.0",
+            "published_at": "2017-07-25T14:42:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.0.1",
+            "published_at": "2017-07-28T11:19:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.1.0",
+            "published_at": "2017-09-21T09:29:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.1.1",
+            "published_at": "2018-01-26T11:25:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.1.2",
+            "published_at": "2018-01-26T11:56:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.1.3",
+            "published_at": "2018-04-17T12:26:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.1.4",
+            "published_at": "2018-04-17T12:31:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.2.0",
+            "published_at": "2018-12-14T16:07:00.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0",
+            "published_at": "2018-12-14T16:33:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.2",
+            "published_at": "2018-12-14T16:45:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.1.0",
+            "published_at": "2020-01-02T12:25:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.2.0",
+            "published_at": "2020-07-23T15:33:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.2.1",
+            "published_at": "2020-07-23T15:34:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.3.0",
+            "published_at": "2020-10-08T16:00:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.4.0",
+            "published_at": "2020-10-08T16:05:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.5.0",
+            "published_at": "2020-11-06T10:43:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.6.0",
+            "published_at": "2020-11-09T09:28:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.6.2",
+            "published_at": "2020-11-09T10:19:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.7.0",
+            "published_at": "2021-01-14T12:42:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.7.2",
+            "published_at": "2021-01-14T12:47:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.8.0",
+            "published_at": "2021-03-22T11:26:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.0",
+            "published_at": "2021-04-13T13:26:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.1",
+            "published_at": "2021-04-13T13:51:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.0.0a1",
+            "published_at": "2021-04-13T19:03:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.0.0a2",
+            "published_at": "2021-04-13T20:03:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.0.0a3",
+            "published_at": "2021-04-13T20:16:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.1.0a1",
+            "published_at": "2021-05-27T09:18:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.2.0a1",
+            "published_at": "2021-06-14T16:46:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.3.0a1",
+            "published_at": "2021-06-14T17:02:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.4.0",
+            "published_at": "2021-08-23T10:02:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.4.1",
+            "published_at": "2021-08-23T10:10:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "6.6.0",
+            "published_at": "2021-11-08T16:56:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

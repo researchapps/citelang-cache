@@ -1,0 +1,219 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Subtype microbial whole-genome sequencing (WGS) data using SNV targeting k-mer subtyping schemes.",
+    "forks": 7,
+    "homepage": "https://github.com/phac-nml/biohansel",
+    "keywords": [
+        "Salmonella",
+        "enterica",
+        "Heidelberg",
+        "Enteritidis",
+        "SNP",
+        "kmer",
+        "subtyping",
+        "Aho-Corasick"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "2.6.0",
+    "latest_release_published_at": "2021-03-05T03:36:05.000Z",
+    "latest_stable_release_number": "2.6.0",
+    "latest_stable_release_published_at": "2021-03-05T03:36:05.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License 2.0",
+    "name": "bio-hansel",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/bio-hansel/",
+    "platform": "Pypi",
+    "rank": 11,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/phac-nml/biohansel",
+    "stars": 22,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2017-09-12T04:37:37.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2017-10-04T15:10:57.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2017-11-30T21:41:51.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2017-12-18T15:31:07.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2018-01-12T20:12:26.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.2",
+            "published_at": "2018-01-22T22:01:45.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.3",
+            "published_at": "2018-01-22T22:25:35.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.4",
+            "published_at": "2018-01-22T22:37:22.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2018-02-14T17:53:10.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.3.0",
+            "published_at": "2018-04-05T14:50:03.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.3.2",
+            "published_at": "2018-04-30T21:00:33.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.0",
+            "published_at": "2018-05-03T20:25:15.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1.0",
+            "published_at": "2018-07-31T18:11:23.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.1.1",
+            "published_at": "2019-02-19T23:51:37.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.2.0",
+            "published_at": "2019-05-19T18:03:26.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.4.0",
+            "published_at": "2019-10-13T19:20:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.5.0",
+            "published_at": "2021-02-03T15:08:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.6.0",
+            "published_at": "2021-03-05T03:36:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

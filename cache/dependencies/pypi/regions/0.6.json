@@ -1,0 +1,99 @@
+{
+    "dependent_repos_count": 8,
+    "dependents_count": 19,
+    "deprecation_reason": null,
+    "description": "Astropy coordinated package for region handling",
+    "forks": 39,
+    "homepage": "https://github.com/astropy/regions",
+    "keywords": [
+        "astronomy",
+        "astrophysics",
+        "astropy",
+        "regions",
+        "astropy-affiliated",
+        "region"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.6",
+    "latest_release_published_at": "2022-03-22T02:07:21.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause",
+    "name": "regions",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/regions/",
+    "platform": "Pypi",
+    "rank": 13,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/astropy/regions",
+    "stars": 45,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2016-07-26T16:05:28.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2017-02-16T15:02:34.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2018-09-08T20:31:51.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2019-06-17T09:37:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2021-07-20T23:59:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD 3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2022-03-22T02:07:21.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD 3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.6",
+    "dependencies": []
+}

@@ -45,11 +45,11 @@
         "javascript"
     ],
     "language": "JavaScript",
-    "latest_download_url": "https://registry.npmjs.org/aws-sdk/-/aws-sdk-2.1116.0.tgz",
-    "latest_release_number": "2.1116.0",
-    "latest_release_published_at": "2022-04-15T18:25:59.565Z",
-    "latest_stable_release_number": "2.1115.0",
-    "latest_stable_release_published_at": "2022-04-14T18:24:58.232Z",
+    "latest_download_url": "https://registry.npmjs.org/aws-sdk/-/aws-sdk-2.1120.0.tgz",
+    "latest_release_number": "2.1120.0",
+    "latest_release_published_at": "2022-04-22T18:29:01.544Z",
+    "latest_stable_release_number": "2.1119.0",
+    "latest_stable_release_published_at": "2022-04-21T18:25:30.753Z",
     "license_normalized": false,
     "licenses": "Apache-2.0",
     "name": "aws-sdk",
@@ -13777,6 +13777,46 @@
         {
             "number": "2.1116.0",
             "published_at": "2022-04-15T18:25:59.565Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.1117.0",
+            "published_at": "2022-04-19T18:27:05.733Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.1118.0",
+            "published_at": "2022-04-20T18:25:40.869Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.1119.0",
+            "published_at": "2022-04-21T18:25:30.753Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "NPM"
+            ]
+        },
+        {
+            "number": "2.1120.0",
+            "published_at": "2022-04-22T18:29:01.544Z",
             "spdx_expression": "Apache-2.0",
             "original_license": "Apache-2.0",
             "researched_at": null,

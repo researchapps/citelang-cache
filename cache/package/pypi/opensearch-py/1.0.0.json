@@ -1,0 +1,60 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 16,
+    "deprecation_reason": null,
+    "description": "Python low-level client for OpenSearch",
+    "forks": 36,
+    "homepage": "https://github.com/opensearch-project/opensearch-py",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "2.0.0",
+    "latest_release_published_at": "2022-05-31T23:25:04.000Z",
+    "latest_stable_release_number": "2.0.0",
+    "latest_stable_release_published_at": "2022-05-31T23:25:04.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "opensearch-py",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/opensearch-py/",
+    "platform": "Pypi",
+    "rank": 14,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/opensearch-project/opensearch-py",
+    "stars": 104,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2021-09-20T22:05:51.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2022-03-22T20:39:21.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.0",
+            "published_at": "2022-05-31T23:25:04.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

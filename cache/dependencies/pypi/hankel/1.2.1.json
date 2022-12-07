@@ -1,0 +1,413 @@
+{
+    "dependent_repos_count": 5,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "Hankel Transformations using method of Ogata 2005",
+    "forks": 4,
+    "homepage": "https://github.com/steven-murray/hankel",
+    "keywords": [],
+    "language": "Jupyter Notebook",
+    "latest_download_url": null,
+    "latest_release_number": "1.2.1",
+    "latest_release_published_at": "2022-04-29T22:24:18.000Z",
+    "latest_stable_release_number": "1.2.1",
+    "latest_stable_release_published_at": "2022-04-29T22:24:18.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "hankel",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/hankel/",
+    "platform": "Pypi",
+    "rank": 12,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/steven-murray/hankel",
+    "stars": 38,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2014-04-24T01:10:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2014-09-10T09:21:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2016-02-18T02:21:08.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2016-04-29T01:34:23.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2017-01-04T07:03:40.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2017-01-05T03:44:46.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2017-07-12T03:49:54.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.3",
+            "published_at": "2017-07-28T00:40:52.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.4",
+            "published_at": "2017-12-08T01:45:55.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.5",
+            "published_at": "2017-12-08T02:08:49.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.6",
+            "published_at": "2018-08-05T23:00:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.7",
+            "published_at": "2018-12-11T22:33:18.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.8",
+            "published_at": "2019-01-08T23:02:07.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.9",
+            "published_at": "2019-05-30T19:10:25.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2020-03-18T18:23:29.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2020-03-19T15:42:28.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2.dev3",
+            "published_at": "2020-03-18T23:44:34.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2020-05-31T20:32:27.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2022-04-29T19:18:43.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.1",
+            "published_at": "2022-04-29T22:24:18.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.2.1",
+    "dependencies": [
+        {
+            "project_name": "sphinx-rtd-theme",
+            "name": "sphinx-rtd-theme",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.1.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "sphinx",
+            "name": "sphinx",
+            "platform": "Pypi",
+            "requirements": ">=2.0<3",
+            "latest_stable": "5.1.0",
+            "latest": "5.0.1",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pytest-cov",
+            "name": "pytest-cov",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.0.0",
+            "latest": "3.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pre-commit",
+            "name": "pre-commit",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.20.0",
+            "latest": "2.19.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pandoc",
+            "name": "pandoc",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.0.1",
+            "latest": "2.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "numpydoc",
+            "name": "numpydoc",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.4.0",
+            "latest": "1.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "nbsphinx",
+            "name": "nbsphinx",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.8.9",
+            "latest": "0.8.9",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "ipykernel",
+            "name": "ipykernel",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "6.15.0",
+            "latest": "6.15.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Other"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": ">=0.16.1",
+            "latest_stable": "1.9.0",
+            "latest": "1.9.0rc2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": ">=1.9.3",
+            "latest_stable": "1.23.1",
+            "latest": "1.23.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "mpmath",
+            "name": "mpmath",
+            "platform": "Pypi",
+            "requirements": ">=1.0.0",
+            "latest_stable": "1.2.1",
+            "latest": "1.2.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

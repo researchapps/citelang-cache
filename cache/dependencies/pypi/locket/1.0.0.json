@@ -1,0 +1,87 @@
+{
+    "dependent_repos_count": 889,
+    "dependents_count": 31,
+    "deprecation_reason": null,
+    "description": "File-based locks for Python on Linux and Windows",
+    "forks": 8,
+    "homepage": "http://github.com/mwilliamson/locket.py",
+    "keywords": [
+        "lock",
+        "filelock",
+        "lockfile",
+        "process"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.0.0",
+    "latest_release_published_at": "2022-04-20T22:04:42.000Z",
+    "latest_stable_release_number": "1.0.0",
+    "latest_stable_release_published_at": "2022-04-20T22:04:42.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-2-Clause",
+    "name": "locket",
+    "normalized_licenses": [
+        "BSD-2-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/locket/",
+    "platform": "Pypi",
+    "rank": 17,
+    "repository_license": "BSD-2-Clause",
+    "repository_url": "https://github.com/mwilliamson/locket.py",
+    "stars": 11,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2013-02-03T23:14:39.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2013-02-03T23:54:31.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2015-05-19T22:03:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2021-01-19T21:36:44.000Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2022-04-20T22:04:42.000Z",
+            "spdx_expression": "BSD-2-Clause",
+            "original_license": "BSD-2-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.0",
+    "dependencies": []
+}

@@ -1,0 +1,340 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Encode chemical elements numerically and decode numerical representations of elements.",
+    "forks": 0,
+    "homepage": "https://github.com/kjappelbaum/element-coder",
+    "keywords": [
+        "element",
+        "periodic-table",
+        "chemistry"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.0.5",
+    "latest_release_published_at": "2022-06-25T11:30:22.000Z",
+    "latest_stable_release_number": "0.0.5",
+    "latest_stable_release_published_at": "2022-06-25T11:30:22.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "element-coder",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/element-coder/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/kjappelbaum/element-coder",
+    "stars": 2,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2022-06-12T15:51:58.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2022-06-12T17:35:47.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2022-06-13T10:55:27.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.4",
+            "published_at": "2022-06-20T06:21:43.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.5",
+            "published_at": "2022-06-25T11:30:22.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.5",
+    "dependencies": [
+        {
+            "project_name": "coverage",
+            "name": "coverage",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "6.4.3",
+            "latest": "6.4.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "tox",
+            "name": "tox",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.25.1",
+            "latest": "3.25.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "bumpversion",
+            "name": "bumpversion",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.6.0",
+            "latest": "0.6.0",
+            "deprecated": true,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pre-commit",
+            "name": "pre-commit",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.20.0",
+            "latest": "2.19.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "flake8",
+            "name": "flake8",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.0.4",
+            "latest": "4.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "black",
+            "name": "black",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "22.6.0",
+            "latest": "22.6.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "isort",
+            "name": "isort",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.10.1",
+            "latest": "5.10.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "sphinx-automodapi",
+            "name": "sphinx-automodapi",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.14.1",
+            "latest": "0.14.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "sphinx-autodoc-typehints",
+            "name": "sphinx-autodoc-typehints",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.19.2",
+            "latest": "1.19.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "sphinx-click",
+            "name": "sphinx-click",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.3.0",
+            "latest": "4.3.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "sphinx-rtd-theme",
+            "name": "sphinx-rtd-theme",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.1.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "sphinx",
+            "name": "sphinx",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.1.0",
+            "latest": "5.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "sciris[minimal]",
+            "name": "sciris[minimal]",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "click",
+            "name": "click",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "8.1.3",
+            "latest": "8.1.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "loguru",
+            "name": "loguru",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.5.3",
+            "latest": "0.5.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pymatgen",
+            "name": "pymatgen",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2022.7.25",
+            "latest": "2022.5.26",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,438 @@
+{
+    "dependent_repos_count": 174,
+    "dependents_count": 22,
+    "deprecation_reason": null,
+    "description": "Form library with advanced features like nested forms",
+    "forks": 0,
+    "homepage": "https://docs.pylonsproject.org/projects/deform/en/latest/",
+    "keywords": [
+        "web",
+        "forms",
+        "form",
+        "generation",
+        "schema",
+        "validation",
+        "pyramid"
+    ],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "2.0.15",
+    "latest_release_published_at": "2020-12-10T12:40:05.000Z",
+    "latest_stable_release_number": "2.0.15",
+    "latest_stable_release_published_at": "2020-12-10T12:40:05.000Z",
+    "license_normalized": true,
+    "licenses": "BSD-derived",
+    "name": "deform",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/deform/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2010-05-09T07:42:35.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2010-05-13T21:17:10.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2010-06-09T17:22:50.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2010-08-23T04:33:02.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2010-08-26T05:13:29.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2010-09-04T04:30:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2010-10-11T01:52:49.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8",
+            "published_at": "2010-12-02T16:17:06.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.1",
+            "published_at": "2010-12-17T20:04:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9",
+            "published_at": "2011-03-01T21:59:34.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.1",
+            "published_at": "2011-06-23T11:40:59.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.2",
+            "published_at": "2011-07-22T12:16:33.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.3",
+            "published_at": "2011-08-10T11:05:20.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.4",
+            "published_at": "2012-02-15T04:02:32.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.5",
+            "published_at": "2012-04-27T16:38:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.6",
+            "published_at": "2013-01-11T05:11:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.7",
+            "published_at": "2013-03-06T18:52:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.8",
+            "published_at": "2013-09-01T19:58:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.9",
+            "published_at": "2013-09-23T06:51:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0a1",
+            "published_at": "2013-10-05T21:16:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0a2",
+            "published_at": "2013-10-18T12:46:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0b1",
+            "published_at": "2016-10-22T19:11:52.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0b2",
+            "published_at": "2016-10-22T19:15:01.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0b3",
+            "published_at": "2016-10-22T21:00:56.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0",
+            "published_at": "2016-10-23T17:10:05.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.1",
+            "published_at": "2016-10-25T13:23:22.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.2",
+            "published_at": "2016-11-14T11:17:46.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.3",
+            "published_at": "2016-11-19T17:43:44.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.4",
+            "published_at": "2017-02-11T12:22:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.5",
+            "published_at": "2018-02-20T20:35:36.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.6",
+            "published_at": "2018-08-29T19:47:37.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.7",
+            "published_at": "2018-11-14T16:05:36.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.8",
+            "published_at": "2019-10-07T16:45:18.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.10",
+            "published_at": "2020-07-03T07:41:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.9",
+            "published_at": "2020-07-03T07:34:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.11",
+            "published_at": "2020-08-21T11:11:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.12",
+            "published_at": "2020-08-23T13:36:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.13",
+            "published_at": "2020-08-25T08:48:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.14",
+            "published_at": "2020-08-26T12:34:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.15",
+            "published_at": "2020-12-10T12:40:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-derived",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

@@ -1,9 +1,9 @@
 {
     "dependent_repos_count": 7355,
-    "dependents_count": 4194,
+    "dependents_count": 4894,
     "deprecation_reason": null,
     "description": "Async http client/server framework (asyncio)",
-    "forks": 1703,
+    "forks": 1786,
     "homepage": "https://github.com/aio-libs/aiohttp",
     "keywords": [
         "aiohttp",
@@ -29,10 +29,10 @@
     ],
     "package_manager_url": "https://pypi.org/project/aiohttp/",
     "platform": "Pypi",
-    "rank": 27,
+    "rank": 26,
     "repository_license": "Other",
     "repository_url": "https://github.com/aio-libs/aiohttp",
-    "stars": 12084,
+    "stars": 12706,
     "status": null,
     "versions": [
         {
@@ -2158,6 +2158,16 @@
         {
             "number": "3.7.4",
             "published_at": "2021-02-25T17:50:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.7.4.post0",
+            "published_at": "2021-03-06T21:03:46.000Z",
             "spdx_expression": "NOASSERTION",
             "original_license": "Apache 2",
             "researched_at": null,

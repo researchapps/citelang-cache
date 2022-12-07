@@ -1,0 +1,68 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Pegasus Workflow Management System Python Commons",
+    "forks": 68,
+    "homepage": "http://pegasus.isi.edu",
+    "keywords": [
+        "scientific",
+        "workflows",
+        "bioinformatics",
+        "distributed-systems",
+        "hpc",
+        "workflow",
+        "workflow-management-system"
+    ],
+    "language": "Java",
+    "latest_download_url": null,
+    "latest_release_number": "5.0.1",
+    "latest_release_published_at": "2021-10-07T19:36:35.000Z",
+    "latest_stable_release_number": "5.0.2",
+    "latest_stable_release_published_at": "2022-07-20T00:13:00.584Z",
+    "license_normalized": true,
+    "licenses": "Apache2",
+    "name": "pegasus-wms.common",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pegasus-wms.common/",
+    "platform": "Pypi",
+    "rank": 12,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/pegasus-isi/pegasus",
+    "stars": 137,
+    "status": null,
+    "versions": [
+        {
+            "number": "5.0.0",
+            "published_at": "2020-11-12T23:32:08.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.1",
+            "published_at": "2021-10-07T19:36:35.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.2",
+            "published_at": "2022-07-20T00:13:00.584Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

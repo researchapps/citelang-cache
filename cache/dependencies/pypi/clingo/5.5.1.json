@@ -1,0 +1,92 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 11,
+    "deprecation_reason": null,
+    "description": "CFFI-based bindings to the clingo solver.",
+    "forks": 64,
+    "homepage": "https://github.com/potassco/clingo",
+    "keywords": [],
+    "language": "C++",
+    "latest_download_url": null,
+    "latest_release_number": "5.5.1",
+    "latest_release_published_at": "2021-11-16T09:00:06.000Z",
+    "latest_stable_release_number": "5.5.1",
+    "latest_stable_release_published_at": "2021-11-16T09:00:06.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "clingo",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/clingo/",
+    "platform": "Pypi",
+    "rank": 14,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/potassco/clingo",
+    "stars": 362,
+    "status": "",
+    "versions": [
+        {
+            "number": "0.0.0",
+            "published_at": "2021-01-12T21:41:25.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.2.1.dev1",
+            "published_at": "2017-08-14T13:11:15.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.5.0",
+            "published_at": "2021-04-08T14:35:06.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.5.0.post3",
+            "published_at": "2021-04-20T16:58:56.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.5.0.post4",
+            "published_at": "2021-11-15T21:45:32.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.5.1",
+            "published_at": "2021-11-16T09:00:06.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "5.5.1",
+    "dependencies": []
+}

@@ -1,0 +1,125 @@
+{
+    "dependent_repos_count": 18,
+    "dependents_count": 7,
+    "deprecation_reason": null,
+    "description": "Citations and bibliography formatter",
+    "forks": 44,
+    "homepage": "https://github.com/brechtm/citeproc-py",
+    "keywords": [
+        "csl",
+        "citation",
+        "html",
+        "rst",
+        "bibtex",
+        "xml"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.6.0",
+    "latest_release_published_at": "2021-05-27T19:43:29.000Z",
+    "latest_stable_release_number": "0.6.0",
+    "latest_stable_release_published_at": "2021-05-27T19:43:29.000Z",
+    "license_normalized": true,
+    "licenses": "2-clause BSD License",
+    "name": "citeproc-py",
+    "normalized_licenses": [
+        "BSD-1-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/citeproc-py/",
+    "platform": "Pypi",
+    "rank": 13,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/brechtm/citeproc-py",
+    "stars": 110,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2013-09-16T20:03:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "2-clause BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2014-10-25T10:07:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "2-clause BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2014-11-07T15:38:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "2-clause BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2017-06-23T13:58:26.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2020-02-10T00:18:23.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2020-04-06T16:43:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "2-clause BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2021-05-27T19:43:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "2-clause BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.6.0",
+    "dependencies": [
+        {
+            "project_name": "lxml",
+            "name": "lxml",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.8.0",
+            "latest": "4.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

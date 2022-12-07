@@ -1,0 +1,279 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Geometry and visualization tools for collections of particles",
+    "forks": 3,
+    "homepage": "https://plato-draw.readthedocs.io/",
+    "keywords": [
+        "visualization",
+        "python",
+        "threejs",
+        "library",
+        "opengl",
+        "povray",
+        "matplotlib",
+        "raytracing",
+        "3d",
+        "2d"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.12.0",
+    "latest_release_published_at": "2021-05-17T17:18:26.000Z",
+    "latest_stable_release_number": "1.12.0",
+    "latest_stable_release_published_at": "2021-05-17T17:18:26.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "plato-draw",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/plato-draw/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/glotzerlab/plato",
+    "stars": 8,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2018-04-16T18:09:04.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2018-06-06T14:15:52.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.10.0",
+            "published_at": "2020-03-27T13:34:27.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.11.0",
+            "published_at": "2020-06-25T13:40:58.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.12.0",
+            "published_at": "2021-05-17T17:18:26.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2018-10-17T18:33:03.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.3.0",
+            "published_at": "2018-11-20T19:54:37.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.4.0",
+            "published_at": "2018-12-14T15:00:47.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.5.0",
+            "published_at": "2019-05-28T13:12:33.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.6.0",
+            "published_at": "2019-06-28T16:23:58.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.7.0",
+            "published_at": "2019-09-16T16:35:08.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.8.0",
+            "published_at": "2020-02-13T19:00:18.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.9.0",
+            "published_at": "2020-02-26T16:26:45.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.12.0",
+    "dependencies": [
+        {
+            "project_name": "pythreejs",
+            "name": "pythreejs",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.3.0",
+            "latest": "2.3.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pyside2",
+            "name": "pyside2",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.15.2",
+            "latest": "5.15.2.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Other"
+            ]
+        },
+        {
+            "project_name": "vispy",
+            "name": "vispy",
+            "platform": "Pypi",
+            "requirements": ">=0.5.3",
+            "latest_stable": "0.9.6",
+            "latest": "0.10.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pyside",
+            "name": "pyside",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.2.4",
+            "latest": "1.1.0qt474",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Other"
+            ]
+        },
+        {
+            "project_name": "rowan",
+            "name": "rowan",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.2.2",
+            "latest": "1.3.0.post1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.21.6",
+            "latest": "1.21.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

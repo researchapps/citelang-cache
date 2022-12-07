@@ -1,0 +1,118 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Code for simulationg populations of neutrino sources",
+    "forks": 6,
+    "homepage": "https://github.com/icecube/FIRESONG",
+    "keywords": [],
+    "language": "Jupyter Notebook",
+    "latest_download_url": null,
+    "latest_release_number": "1.8",
+    "latest_release_published_at": "2021-05-10T03:12:27.000Z",
+    "latest_stable_release_number": "1.6.1",
+    "latest_stable_release_published_at": "2021-04-30T20:55:53.000Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "firesong",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/firesong/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/icecube/FIRESONG",
+    "stars": 12,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.6",
+            "published_at": "2021-04-28T21:02:00.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.6.1",
+            "published_at": "2021-04-30T20:55:53.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.7",
+            "published_at": "2021-05-04T01:11:23.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.8",
+            "published_at": "2021-05-10T03:12:27.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.8",
+    "dependencies": [
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": ">=1.2.3",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": ">=1.16.6",
+            "latest_stable": "1.21.6",
+            "latest": "1.21.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "coverage",
+            "name": "coverage",
+            "platform": "Pypi",
+            "requirements": ">=5.4",
+            "latest_stable": "6.3.2",
+            "latest": "6.3.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        }
+    ]
+}

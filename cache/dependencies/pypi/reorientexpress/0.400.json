@@ -1,0 +1,218 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Script used to build, test and use models that predict the orientation of cDNA reads",
+    "forks": 0,
+    "homepage": "https://github.com/angelrure/reorientexpress",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.400",
+    "latest_release_published_at": "2019-09-07T08:37:16.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": null,
+    "name": "reorientexpress",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/reorientexpress/",
+    "platform": "Pypi",
+    "rank": 6,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/angelrure/reorientexpress",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2018-12-13T16:34:04.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.101",
+            "published_at": "2018-12-13T16:34:06.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.102",
+            "published_at": "2018-12-13T16:34:07.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.103",
+            "published_at": "2018-12-13T16:34:08.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.105",
+            "published_at": "2018-12-14T12:23:33.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.106",
+            "published_at": "2019-09-07T08:34:42.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11",
+            "published_at": "2019-02-17T19:50:26.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2019-02-17T19:45:46.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.200",
+            "published_at": "2019-02-17T19:53:57.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.300",
+            "published_at": "2019-03-04T11:18:28.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.400",
+            "published_at": "2019-09-07T08:37:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.400",
+    "dependencies": [
+        {
+            "project_name": "tensorflow",
+            "name": "tensorflow",
+            "platform": "Pypi",
+            "requirements": ">=1.11.0",
+            "latest_stable": "2.7.1",
+            "latest": "2.9.0rc1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "scikit-learn",
+            "name": "scikit-learn",
+            "platform": "Pypi",
+            "requirements": ">=0.20.1",
+            "latest_stable": "1.0.2",
+            "latest": "1.0.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pandas",
+            "name": "pandas",
+            "platform": "Pypi",
+            "requirements": ">=0.23.4",
+            "latest_stable": "1.4.2",
+            "latest": "1.4.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "Keras",
+            "name": "Keras",
+            "platform": "Pypi",
+            "requirements": ">=2.2.4",
+            "latest_stable": "2.4.3",
+            "latest": "2.4.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": ">=1.15.3",
+            "latest_stable": "1.21.6",
+            "latest": "1.21.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

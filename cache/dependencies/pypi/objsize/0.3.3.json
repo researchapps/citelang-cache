@@ -1,0 +1,124 @@
+{
+    "dependent_repos_count": 1,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "Traversal over Python's objects sub-tree and calculating the total size of the sub-tree (deep size).",
+    "forks": 3,
+    "homepage": "https://github.com/liran-funaro/objsize",
+    "keywords": [
+        "object-size",
+        "recursive",
+        "deep",
+        "traversal",
+        "object",
+        "size",
+        "debug",
+        "deep-object-size",
+        "exclusive-objects",
+        "python",
+        "python-objects"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.3.3",
+    "latest_release_published_at": "2020-08-12T11:39:53.000Z",
+    "latest_stable_release_number": "0.3.3",
+    "latest_stable_release_published_at": "2020-08-12T11:39:53.000Z",
+    "license_normalized": true,
+    "licenses": "GPL",
+    "name": "objsize",
+    "normalized_licenses": [
+        "GPL-2.0+"
+    ],
+    "package_manager_url": "https://pypi.org/project/objsize/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "GPL-3.0",
+    "repository_url": "https://github.com/liran-funaro/objsize",
+    "stars": 14,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2018-12-11T19:23:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2018-12-12T15:49:11.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2018-12-19T02:50:21.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2018-12-19T03:02:41.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2018-12-19T15:12:34.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2018-12-20T12:29:29.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2019-02-28T11:08:50.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.3",
+            "published_at": "2020-08-12T11:39:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.3.3",
+    "dependencies": []
+}

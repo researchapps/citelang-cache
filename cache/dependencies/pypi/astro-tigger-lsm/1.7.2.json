@@ -1,0 +1,217 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 5,
+    "deprecation_reason": null,
+    "description": "Python libraries and command-line tools for manipulating Tigger-format LSMs",
+    "forks": 0,
+    "homepage": "https://github.com/ska-sa/tigger-lsm",
+    "keywords": [],
+    "language": "HTML",
+    "latest_download_url": null,
+    "latest_release_number": "1.7.2",
+    "latest_release_published_at": "2022-06-06T11:14:21.000Z",
+    "latest_stable_release_number": "1.7.2",
+    "latest_stable_release_published_at": "2022-06-06T11:14:21.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "astro-tigger-lsm",
+    "normalized_licenses": [],
+    "package_manager_url": "https://pypi.org/project/astro-tigger-lsm/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": null,
+    "repository_url": "https://github.com/ska-sa/tigger-lsm",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.4",
+            "published_at": "2017-12-19T10:33:15.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.4.2",
+            "published_at": "2017-12-19T11:27:40.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.5.0",
+            "published_at": "2018-12-20T14:37:44.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.6.0",
+            "published_at": "2019-11-19T13:23:28.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.6.1",
+            "published_at": "2021-02-11T11:59:21.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.7.0",
+            "published_at": "2021-05-17T11:38:09.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.7.1",
+            "published_at": "2022-01-04T18:09:24.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.7.2",
+            "published_at": "2022-06-06T11:14:21.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.7.2",
+    "dependencies": [
+        {
+            "project_name": "python-casacore",
+            "name": "python-casacore",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.5.1",
+            "latest": "3.5.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Other"
+            ]
+        },
+        {
+            "project_name": "future",
+            "name": "future",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.18.2",
+            "latest": "0.18.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "astropy",
+            "name": "astropy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.0.4",
+            "latest": "5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "astlib",
+            "name": "astlib",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.11.7",
+            "latest": "0.11.7",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "LGPL-2.0",
+                "LGPL-3.0"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.9.0",
+            "latest": "1.9.0rc2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.23.1",
+            "latest": "1.23.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "astro-kittens",
+            "name": "astro-kittens",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.4.6",
+            "latest": "1.4.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "GPL-2.0"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,368 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Development Status :: 5 - Production/Stable",
+    "forks": 4,
+    "homepage": "https://github.com/caracal-pipeline/caracal",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.0.6",
+    "latest_release_published_at": "2022-02-08T17:14:37.000Z",
+    "latest_stable_release_number": "1.0.5",
+    "latest_stable_release_published_at": "2021-11-23T19:58:09.000Z",
+    "license_normalized": true,
+    "licenses": "GNU GPL v2",
+    "name": "caracal",
+    "normalized_licenses": [
+        "GPL-2.0-only"
+    ],
+    "package_manager_url": "https://pypi.org/project/caracal/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "GPL-2.0",
+    "repository_url": "https://github.com/caracal-pipeline/caracal",
+    "stars": 20,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.3.1",
+            "published_at": "2020-05-11T12:59:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "['GNU GPL v2']",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2020-05-11T13:02:42.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "['GNU GPL v2']",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2020-05-24T21:29:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "['GNU GPL v2']",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2020-05-25T17:53:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "['GNU GPL v2']",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2020-06-06T10:45:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "['GNU GPL v2']",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.4",
+            "published_at": "2020-11-17T17:38:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "['GNU GPL v2']",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.5",
+            "published_at": "2021-11-23T19:58:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPL v2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.6",
+            "published_at": "2022-02-08T17:14:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPL v2",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.6",
+    "dependencies": [
+        {
+            "project_name": "astroquery",
+            "name": "astroquery",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.4.6",
+            "latest": "0.4.7.dev7761",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "psutil",
+            "name": "psutil",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.9.1",
+            "latest": "5.9.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "jinja2",
+            "name": "jinja2",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.1.2",
+            "latest": "3.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "radiopadre-client",
+            "name": "radiopadre-client",
+            "platform": "Pypi",
+            "requirements": ">=1.1",
+            "latest_stable": "1.1.0",
+            "latest": "1.2rc1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "nbconvert",
+            "name": "nbconvert",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "6.5.2",
+            "latest": "7.0.0rc2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "regions",
+            "name": "regions",
+            "platform": "Pypi",
+            "requirements": ">=0.5",
+            "latest_stable": null,
+            "latest": "0.6",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "matplotlib",
+            "name": "matplotlib",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.5.2",
+            "latest": "3.5.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "project_name": "astropy",
+            "name": "astropy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.0.4",
+            "latest": "5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "pykwalify",
+            "name": "pykwalify",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "progressbar2",
+            "name": "progressbar2",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.0.0",
+            "latest": "4.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pysolr",
+            "name": "pysolr",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.9.0",
+            "latest": "3.10.0b1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.9.0",
+            "latest": "1.9.0rc2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "python-casacore",
+            "name": "python-casacore",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.5.1",
+            "latest": "3.5.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Other"
+            ]
+        },
+        {
+            "project_name": "stimela",
+            "name": "stimela",
+            "platform": "Pypi",
+            "requirements": ">=1.6.5",
+            "latest_stable": "1.7.5",
+            "latest": "1.7.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "GPL-2.0"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": ">=1.14",
+            "latest_stable": "1.23.1",
+            "latest": "1.23.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "decorator",
+            "name": "decorator",
+            "platform": "Pypi",
+            "requirements": "<5",
+            "latest_stable": "5.1.1",
+            "latest": "5.1.1",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "ruamel.yaml",
+            "name": "ruamel.yaml",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.17.21",
+            "latest": "0.17.21",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

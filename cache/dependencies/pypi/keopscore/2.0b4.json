@@ -1,0 +1,86 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "keopscore is the KeOps meta programming engine. This python module should be used through a binder (e.g. pykeops or rkeops)",
+    "forks": 44,
+    "homepage": "http://www.kernel-operations.io/",
+    "keywords": [
+        "kernels",
+        "gpu",
+        "autodiff"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "2.0",
+    "latest_release_published_at": "2022-03-17T17:26:40.000Z",
+    "latest_stable_release_number": "v1.4.2",
+    "latest_stable_release_published_at": "2020-11-27T16:02:55.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "keopscore",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/keopscore/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/getkeops/keops",
+    "stars": 640,
+    "status": null,
+    "versions": [
+        {
+            "number": "2.0",
+            "published_at": "2022-03-17T17:26:40.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0b1",
+            "published_at": "2022-02-25T15:52:20.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0b2",
+            "published_at": "2022-03-16T15:05:39.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0b3",
+            "published_at": "2022-03-16T15:21:14.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0b4",
+            "published_at": "2022-03-17T10:39:34.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "2.0b4",
+    "dependencies": []
+}

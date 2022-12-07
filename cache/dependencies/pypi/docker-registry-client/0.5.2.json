@@ -1,0 +1,126 @@
+{
+    "dependent_repos_count": 5,
+    "dependents_count": 4,
+    "deprecation_reason": null,
+    "description": "Client for Docker Registry V1 and V2",
+    "forks": 48,
+    "homepage": "https://github.com/yodle/docker-registry-client",
+    "keywords": [
+        "docker",
+        "docker-registry",
+        "REST"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.5.2",
+    "latest_release_published_at": "2017-06-16T16:05:24.000Z",
+    "latest_stable_release_number": "0.5.2",
+    "latest_stable_release_published_at": "2017-06-16T16:05:24.000Z",
+    "license_normalized": true,
+    "licenses": "Apache License 2.0",
+    "name": "docker-registry-client",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/docker-registry-client/",
+    "platform": "Pypi",
+    "rank": 12,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/yodle/docker-registry-client",
+    "stars": 42,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2015-02-25T15:39:35.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2015-04-15T19:26:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2015-04-15T20:43:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2015-04-15T21:24:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2017-01-10T14:12:32.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.1",
+            "published_at": "2017-01-10T14:13:14.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2017-01-12T15:04:28.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2017-01-12T15:15:40.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2017-06-16T16:05:24.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.5.2",
+    "dependencies": []
+}

@@ -1,0 +1,139 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "A highly scalable, user-interactive tool for the large scale analysis of Biosynthetic Gene Clusters data",
+    "forks": 13,
+    "homepage": "https://github.com/satriaphd/bigslice",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2021-02-26T22:14:42.000Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2021-02-26T22:14:42.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "bigslice",
+    "normalized_licenses": [
+        "AGPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/bigslice/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "AGPL-3.0",
+    "repository_url": "https://github.com/satriaphd/bigslice",
+    "stars": 20,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2020-06-03T22:06:35.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2020-08-13T12:28:26.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2021-02-26T22:14:42.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.1",
+    "dependencies": [
+        {
+            "project_name": "pysqlite3",
+            "name": "pysqlite3",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.4.7",
+            "latest": "0.4.7",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Zlib",
+                "Libpng"
+            ]
+        },
+        {
+            "project_name": "scikit-learn",
+            "name": "scikit-learn",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.0.2",
+            "latest": "1.0.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "biopython",
+            "name": "biopython",
+            "platform": "Pypi",
+            "requirements": "<=1.76,>=1.73",
+            "latest_stable": null,
+            "latest": "1.79",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Other"
+            ]
+        },
+        {
+            "project_name": "pandas",
+            "name": "pandas",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.4.2",
+            "latest": "1.4.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.21.6",
+            "latest": "1.21.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

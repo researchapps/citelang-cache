@@ -1,0 +1,1037 @@
+{
+    "dependent_repos_count": 138,
+    "dependents_count": 52,
+    "deprecation_reason": null,
+    "description": "Chronological Objects which can Handle Dates and Times",
+    "forks": 0,
+    "homepage": null,
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/chron_2.3-56.tar.gz",
+    "latest_release_number": "2.3-56",
+    "latest_release_published_at": "2020-08-18T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "GPL-2",
+    "name": "chron",
+    "normalized_licenses": [
+        "GPL-2.0"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=chron",
+    "platform": "CRAN",
+    "rank": 11,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "2.1-6",
+            "published_at": "1999-04-10T19:47:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.1-7",
+            "published_at": "1999-07-29T11:58:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-10",
+            "published_at": "2001-04-06T22:23:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-11",
+            "published_at": "2001-05-10T17:07:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-12",
+            "published_at": "2001-05-12T21:26:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-13",
+            "published_at": "2001-06-02T17:21:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-14",
+            "published_at": "2001-06-15T13:57:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-15",
+            "published_at": "2001-06-20T12:34:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-16",
+            "published_at": "2001-07-15T00:18:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-17",
+            "published_at": "2001-08-20T10:47:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-18",
+            "published_at": "2001-09-21T10:52:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-19",
+            "published_at": "2001-11-27T14:25:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-2",
+            "published_at": "2000-01-23T16:36:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-20",
+            "published_at": "2002-03-31T22:27:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-21",
+            "published_at": "2002-05-03T13:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-22",
+            "published_at": "2002-12-15T13:24:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-23",
+            "published_at": "2003-01-16T18:58:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-24",
+            "published_at": "2003-04-23T12:23:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-25",
+            "published_at": "2003-06-25T07:29:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-26",
+            "published_at": "2003-06-28T20:36:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-27",
+            "published_at": "2003-07-16T09:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-28",
+            "published_at": "2003-11-06T09:14:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-29",
+            "published_at": "2004-01-31T13:52:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-3",
+            "published_at": "2000-06-28T23:08:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-30",
+            "published_at": "2004-05-19T13:12:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-31",
+            "published_at": "2004-05-28T12:44:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-32",
+            "published_at": "2004-09-15T11:37:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-33",
+            "published_at": "2004-11-06T09:07:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-34",
+            "published_at": "2005-02-26T13:14:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-35",
+            "published_at": "2005-04-28T11:27:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-4",
+            "published_at": "2000-07-02T11:41:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-6",
+            "published_at": "2000-07-22T18:38:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-7",
+            "published_at": "2000-08-09T16:58:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-8",
+            "published_at": "2000-12-24T11:57:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.2-9",
+            "published_at": "2001-03-24T10:41:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-0",
+            "published_at": "2005-10-25T22:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-1",
+            "published_at": "2006-01-13T09:33:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-10",
+            "published_at": "2007-02-01T16:08:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-11",
+            "published_at": "2007-05-03T14:25:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-12",
+            "published_at": "2007-06-18T15:27:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-13",
+            "published_at": "2007-07-10T15:35:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-14",
+            "published_at": "2007-07-13T07:29:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-15",
+            "published_at": "2007-09-14T09:59:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-16",
+            "published_at": "2007-12-21T10:24:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-17",
+            "published_at": "2008-01-30T18:01:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-18",
+            "published_at": "2008-01-31T16:36:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-19",
+            "published_at": "2008-02-04T20:44:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-2",
+            "published_at": "2006-02-04T23:35:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-20",
+            "published_at": "2008-02-07T09:48:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-21",
+            "published_at": "2008-02-14T21:13:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-22",
+            "published_at": "2008-03-04T20:36:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-23",
+            "published_at": "2008-05-20T08:33:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-24",
+            "published_at": "2008-07-18T12:17:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-25",
+            "published_at": "2008-11-12T17:42:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-26",
+            "published_at": "2008-12-14T15:54:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-27",
+            "published_at": "2008-12-17T10:30:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-28",
+            "published_at": "2009-01-05T17:46:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-29",
+            "published_at": "2009-02-05T14:55:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-3",
+            "published_at": "2006-05-12T09:43:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-30",
+            "published_at": "2009-02-18T09:32:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-31",
+            "published_at": "2009-09-10T21:02:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-32",
+            "published_at": "2009-10-04T20:51:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-33",
+            "published_at": "2009-11-08T20:49:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-34",
+            "published_at": "2010-03-17T09:56:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-35",
+            "published_at": "2010-04-05T21:39:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-36",
+            "published_at": "2010-08-31T20:50:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-37",
+            "published_at": "2010-09-14T18:08:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-38",
+            "published_at": "2010-10-04T09:57:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-39",
+            "published_at": "2010-12-07T15:54:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-4",
+            "published_at": "2006-06-26T10:15:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-40",
+            "published_at": "2011-07-24T21:20:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-41",
+            "published_at": "2011-08-08T20:36:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-42",
+            "published_at": "2011-08-21T17:23:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-43",
+            "published_at": "2012-11-14T09:47:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-44",
+            "published_at": "2013-09-01T19:04:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-45",
+            "published_at": "2014-02-11T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-46",
+            "published_at": "2015-06-19T12:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-47",
+            "published_at": "2015-06-24T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-48",
+            "published_at": "2016-12-08T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-49",
+            "published_at": "2017-01-17T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-5",
+            "published_at": "2006-07-14T10:38:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-50",
+            "published_at": "2017-02-20T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-51",
+            "published_at": "2017-10-07T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-52",
+            "published_at": "2018-01-06T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-53",
+            "published_at": "2018-09-09T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-54",
+            "published_at": "2019-08-26T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-55",
+            "published_at": "2020-02-02T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-56",
+            "published_at": "2020-08-18T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-6",
+            "published_at": "2006-08-12T13:42:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-7",
+            "published_at": "2006-09-10T21:33:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-8",
+            "published_at": "2006-09-23T18:21:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "2.3-9",
+            "published_at": "2006-10-16T10:52:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "2.3-56",
+    "dependencies": [
+        {
+            "project_name": "zoo",
+            "name": "zoo",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.8-6",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "enhances",
+            "normalized_licenses": [
+                "GPL-2.0+"
+            ]
+        },
+        {
+            "project_name": "ggplot2",
+            "name": "ggplot2",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.3.6",
+            "latest": "3.3.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "scales",
+            "name": "scales",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.0.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "stats",
+            "name": "stats",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "graphics",
+            "name": "graphics",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 2.12.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

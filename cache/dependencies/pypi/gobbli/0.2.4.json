@@ -1,0 +1,388 @@
+{
+    "dependent_repos_count": 1,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Uniform interface to deep learning approaches via Docker containers.",
+    "forks": 21,
+    "homepage": "https://github.com/RTIInternational/gobbli/",
+    "keywords": [
+        "python",
+        "nlp",
+        "docker",
+        "deep-learning"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.2.4",
+    "latest_release_published_at": "2021-06-23T16:13:07.000Z",
+    "latest_stable_release_number": "0.2.4",
+    "latest_stable_release_published_at": "2021-06-23T16:13:07.000Z",
+    "license_normalized": true,
+    "licenses": "LICENSE.txt",
+    "name": "gobbli",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/gobbli/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/RTIInternational/gobbli",
+    "stars": 256,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2019-09-05T14:31:23.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2019-09-12T13:44:01.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2019-09-18T20:24:29.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.5",
+            "published_at": "2019-09-19T13:07:09.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.6",
+            "published_at": "2019-09-25T14:05:58.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.7",
+            "published_at": "2019-10-22T13:13:17.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2020-03-13T17:36:39.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2020-05-26T20:54:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE.txt",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2020-08-21T20:01:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE.txt",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.3",
+            "published_at": "2020-09-01T12:48:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE.txt",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.4",
+            "published_at": "2021-06-23T16:13:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "LICENSE.txt",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.2.4",
+    "dependencies": [
+        {
+            "project_name": "sentencepiece",
+            "name": "sentencepiece",
+            "platform": "Pypi",
+            "requirements": "<0.1.90,>=0.1.83",
+            "latest_stable": "0.1.96",
+            "latest": "0.1.96",
+            "deprecated": false,
+            "outdated": true,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "hdbscan",
+            "name": "hdbscan",
+            "platform": "Pypi",
+            "requirements": ">=0.8.24",
+            "latest_stable": "0.8.28",
+            "latest": "0.8.28",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "eli5",
+            "name": "eli5",
+            "platform": "Pypi",
+            "requirements": ">=0.10.1",
+            "latest_stable": "0.11.0",
+            "latest": "0.11.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "umap-learn",
+            "name": "umap-learn",
+            "platform": "Pypi",
+            "requirements": ">=0.3.10",
+            "latest_stable": "0.5.3",
+            "latest": "0.5.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "streamlit",
+            "name": "streamlit",
+            "platform": "Pypi",
+            "requirements": ">=0.56.0",
+            "latest_stable": "1.8.1",
+            "latest": "1.8.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "spacy",
+            "name": "spacy",
+            "platform": "Pypi",
+            "requirements": ">=2.1.4",
+            "latest_stable": "3.2.4",
+            "latest": "3.3.0.dev0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "gensim",
+            "name": "gensim",
+            "platform": "Pypi",
+            "requirements": ">=3.8.2",
+            "latest_stable": "4.1.2",
+            "latest": "4.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "LGPL-2.1-only"
+            ]
+        },
+        {
+            "project_name": "nltk",
+            "name": "nltk",
+            "platform": "Pypi",
+            "requirements": ">=3.4.4",
+            "latest_stable": "3.6.7",
+            "latest": "3.7",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "humanize",
+            "name": "humanize",
+            "platform": "Pypi",
+            "requirements": ">=1.1.0",
+            "latest_stable": "4.0.0",
+            "latest": "4.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "click",
+            "name": "click",
+            "platform": "Pypi",
+            "requirements": ">=7.0",
+            "latest_stable": "8.1.2",
+            "latest": "8.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "altair",
+            "name": "altair",
+            "platform": "Pypi",
+            "requirements": ">=3.2.0",
+            "latest_stable": "4.2.0",
+            "latest": "4.2.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "ray",
+            "name": "ray",
+            "platform": "Pypi",
+            "requirements": ">=0.8.4",
+            "latest_stable": "1.12.0",
+            "latest": "1.12.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "scikit-learn",
+            "name": "scikit-learn",
+            "platform": "Pypi",
+            "requirements": ">=0.22.0",
+            "latest_stable": "1.0.2",
+            "latest": "1.0.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pandas",
+            "name": "pandas",
+            "platform": "Pypi",
+            "requirements": ">=0.24.0",
+            "latest_stable": "1.4.2",
+            "latest": "1.4.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": ">=1.16.0",
+            "latest_stable": "1.21.6",
+            "latest": "1.21.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "docker",
+            "name": "docker",
+            "platform": "Pypi",
+            "requirements": ">=3.7.0",
+            "latest_stable": "5.0.3",
+            "latest": "5.0.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        }
+    ]
+}

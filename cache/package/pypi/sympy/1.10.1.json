@@ -1,6 +1,6 @@
 {
     "dependent_repos_count": 3211,
-    "dependents_count": 921,
+    "dependents_count": 999,
     "deprecation_reason": null,
     "description": "Computer algebra system (CAS) in Python",
     "forks": 0,
@@ -13,8 +13,8 @@
     "latest_download_url": null,
     "latest_release_number": "1.10.1",
     "latest_release_published_at": "2022-03-20T12:00:44.000Z",
-    "latest_stable_release_number": "1.7.1",
-    "latest_stable_release_published_at": "2020-12-12T23:23:00.000Z",
+    "latest_stable_release_number": "1.10.1",
+    "latest_stable_release_published_at": "2022-03-20T12:00:44.000Z",
     "license_normalized": true,
     "licenses": "BSD",
     "name": "sympy",
@@ -472,6 +472,16 @@
         {
             "number": "1.10.1",
             "published_at": "2022-03-20T12:00:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.11rc1",
+            "published_at": "2022-08-09T22:38:08.526Z",
             "spdx_expression": "NOASSERTION",
             "original_license": "BSD",
             "researched_at": null,

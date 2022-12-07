@@ -1,0 +1,652 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Smoothed particle hydrodynamics analysis and visualization with Python.",
+    "forks": 9,
+    "homepage": "https://github.com/dmentipl/plonk",
+    "keywords": [
+        "astronomy",
+        "python",
+        "smoothed-particle-hydrodynamics",
+        "visualization"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.7.4",
+    "latest_release_published_at": "2021-10-13T01:46:57.000Z",
+    "latest_stable_release_number": "0.7.4",
+    "latest_stable_release_published_at": "2021-10-13T01:46:57.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "plonk",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/plonk/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/dmentipl/plonk",
+    "stars": 28,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.2.0",
+            "published_at": "2019-11-06T09:58:10.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2019-11-27T01:31:31.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2019-12-07T05:38:04.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2020-03-06T04:32:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2020-03-14T23:56:50.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.1",
+            "published_at": "2020-03-24T06:09:12.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2020-04-20T06:42:58.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2020-07-11T05:01:22.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2020-07-28T04:42:09.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.3",
+            "published_at": "2020-07-28T06:32:44.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2020-08-05T12:14:35.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2020-08-09T06:32:24.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.2",
+            "published_at": "2020-08-11T03:54:26.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.0",
+            "published_at": "2020-08-17T02:35:02.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2020-08-21T07:43:12.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.2",
+            "published_at": "2020-08-23T06:05:39.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.3",
+            "published_at": "2020-08-28T05:06:50.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.4",
+            "published_at": "2021-10-13T01:46:57.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.7.4",
+    "dependencies": [
+        {
+            "project_name": "tqdm",
+            "name": "tqdm",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.64.0",
+            "latest": "4.64.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MPL-2.0",
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "scikit-image",
+            "name": "scikit-image",
+            "platform": "Pypi",
+            "requirements": ">=0.16",
+            "latest_stable": "0.19.3",
+            "latest": "0.19.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "project_name": "phantomconfig",
+            "name": "phantomconfig",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.3.4",
+            "latest": "0.3.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "twine",
+            "name": "twine",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.0.1",
+            "latest": "4.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "types-toml",
+            "name": "types-toml",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.10.8",
+            "latest": "0.10.7",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "sphinx",
+            "name": "sphinx",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.1.1",
+            "latest": "5.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pylint",
+            "name": "pylint",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.14.5",
+            "latest": "2.14.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "GPL-2.0"
+            ]
+        },
+        {
+            "project_name": "pydocstyle",
+            "name": "pydocstyle",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "6.1.1",
+            "latest": "6.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pydata-sphinx-theme",
+            "name": "pydata-sphinx-theme",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.9.0",
+            "latest": "0.9.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pip",
+            "name": "pip",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "22.2.1",
+            "latest": "22.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "myst-parser",
+            "name": "myst-parser",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.18.0",
+            "latest": "0.18.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "mypy",
+            "name": "mypy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.961",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "jupyterlab",
+            "name": "jupyterlab",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.4.4",
+            "latest": "4.0.0a26",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "isort",
+            "name": "isort",
+            "platform": "Pypi",
+            "requirements": ">=5.0",
+            "latest_stable": "5.10.1",
+            "latest": "5.10.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "ipython",
+            "name": "ipython",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "8.4.0",
+            "latest": "8.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "flake8",
+            "name": "flake8",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.0.4",
+            "latest": "4.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "doc8",
+            "name": "doc8",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.0.0",
+            "latest": "0.11.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "coveralls",
+            "name": "coveralls",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.3.1",
+            "latest": "3.3.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "coverage[toml]",
+            "name": "coverage[toml]",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "black",
+            "name": "black",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "22.6.0",
+            "latest": "22.6.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "toml",
+            "name": "toml",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.10.2",
+            "latest": "0.10.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.9.0",
+            "latest": "1.9.0rc2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pint",
+            "name": "pint",
+            "platform": "Pypi",
+            "requirements": ">=0.10.1",
+            "latest_stable": "0.19.2",
+            "latest": "0.19.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pandas",
+            "name": "pandas",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.4.3",
+            "latest": "1.4.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.23.1",
+            "latest": "1.23.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numba",
+            "name": "numba",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.55.2",
+            "latest": "0.56.0rc1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "matplotlib",
+            "name": "matplotlib",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.5.3",
+            "latest": "3.5.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "project_name": "h5py",
+            "name": "h5py",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.7.0",
+            "latest": "3.7.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

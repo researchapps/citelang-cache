@@ -1,0 +1,109 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Scientific Computational Imaging COde: A Python package for scientific imaging problems",
+    "forks": 6,
+    "homepage": "https://github.com/lanl/scico",
+    "keywords": [
+        "Computational",
+        "Imaging",
+        "Inverse",
+        "Problems",
+        "Optimization",
+        "ADMM",
+        "PGM",
+        "computational-imaging",
+        "convex-optimization",
+        "fista",
+        "inverse-problems",
+        "jax",
+        "plug-and-play-priors",
+        "proximal-algorithms",
+        "proximal-operators",
+        "total-variation"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.0.2",
+    "latest_release_published_at": "2022-02-15T01:35:25.000Z",
+    "latest_stable_release_number": "0.0.3",
+    "latest_stable_release_published_at": "2022-09-22T03:49:11.911Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "scico",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/scico/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/lanl/scico",
+    "stars": 28,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2021-11-24T19:28:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.1a1",
+            "published_at": "2020-09-22T22:48:02.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.1a4",
+            "published_at": "2021-09-21T21:13:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.1b1",
+            "published_at": "2021-11-16T15:21:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2022-02-15T01:35:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.3",
+    "dependencies": []
+}

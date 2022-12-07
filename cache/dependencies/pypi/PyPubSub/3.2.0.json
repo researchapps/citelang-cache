@@ -1,0 +1,206 @@
+{
+    "dependent_repos_count": 70,
+    "dependents_count": 46,
+    "deprecation_reason": null,
+    "description": "Python Publish-Subscribe Package",
+    "forks": 26,
+    "homepage": "https://github.com/schollii/pypubsub",
+    "keywords": [
+        "publish",
+        "subscribe",
+        "observer",
+        "pattern",
+        "signal",
+        "signals",
+        "event",
+        "events",
+        "message",
+        "messages",
+        "messaging",
+        "dispatch",
+        "dispatching"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "3.4.2",
+    "latest_release_published_at": "2019-04-01T02:56:16.000Z",
+    "latest_stable_release_number": "3.2.0",
+    "latest_stable_release_published_at": "2021-12-15T14:41:21.338Z",
+    "license_normalized": true,
+    "licenses": "BSD License",
+    "name": "PyPubSub",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/PyPubSub/",
+    "platform": "Pypi",
+    "rank": 17,
+    "repository_license": "BSD-2-Clause",
+    "repository_url": "https://github.com/schollii/pypubsub",
+    "stars": 144,
+    "status": null,
+    "versions": [
+        {
+            "number": "3.1.2",
+            "published_at": "2016-10-11T05:03:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.2.0",
+            "published_at": null,
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.3.0",
+            "published_at": "2015-12-30T05:14:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.0",
+            "published_at": "2019-03-24T14:00:18.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.1",
+            "published_at": "2019-04-01T01:48:28.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.1rc1",
+            "published_at": "2019-03-24T20:20:36.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.2",
+            "published_at": "2019-04-01T02:56:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0",
+            "published_at": "2016-12-28T18:08:22.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0rc2",
+            "published_at": "2016-10-11T05:33:33.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0rc4",
+            "published_at": "2016-10-30T16:09:32.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0rc5",
+            "published_at": "2016-10-30T16:42:25.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0rc6",
+            "published_at": "2016-10-30T20:21:29.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0rc7",
+            "published_at": "2016-10-30T20:28:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0rc8",
+            "published_at": "2016-11-03T03:54:31.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.2",
+            "published_at": "2019-01-27T20:50:40.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.3",
+            "published_at": "2019-01-28T00:36:11.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "3.2.0",
+    "dependencies": []
+}

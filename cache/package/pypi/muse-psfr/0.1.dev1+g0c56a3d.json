@@ -1,0 +1,59 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "MUSE WFM-AO PSF reconstruction from SPARTA",
+    "forks": 0,
+    "homepage": "https://github.com/musevlt/muse-psfr",
+    "keywords": [
+        "astronomy",
+        "astrophysics",
+        "science",
+        "muse",
+        "vlt",
+        "adaptive-optics",
+        "musevlt",
+        "python"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.0",
+    "latest_release_published_at": "2020-02-06T03:24:46.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "muse-psfr",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/muse-psfr/",
+    "platform": "Pypi",
+    "rank": 6,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/musevlt/muse-psfr",
+    "stars": 3,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0rc2",
+            "published_at": "2019-07-09T15:30:21.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0",
+            "published_at": "2020-02-06T03:24:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MIT License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

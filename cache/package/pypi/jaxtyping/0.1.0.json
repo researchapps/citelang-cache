@@ -1,0 +1,64 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.",
+    "forks": 5,
+    "homepage": "https://github.com/google/jaxtyping",
+    "keywords": [
+        "jax",
+        "python-typing",
+        "typing"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.1.0",
+    "latest_release_published_at": "2022-08-01T00:13:00.913Z",
+    "latest_stable_release_number": "0.1.0",
+    "latest_stable_release_published_at": "2022-08-01T00:13:00.913Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "jaxtyping",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/jaxtyping/",
+    "platform": "Pypi",
+    "rank": 5,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/google/jaxtyping",
+    "stars": 158,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2022-07-11T11:17:00.651Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2022-07-11T12:18:00.175Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2022-08-01T00:13:00.913Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

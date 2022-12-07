@@ -1,0 +1,133 @@
+{
+    "dependent_repos_count": 22,
+    "dependents_count": 30,
+    "deprecation_reason": null,
+    "description": "Manage dependencies of tests",
+    "forks": 21,
+    "homepage": "https://github.com/RKrahl/pytest-dependency",
+    "keywords": [
+        "pytest",
+        "pytest-plugin",
+        "python",
+        "testing"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.5.1",
+    "latest_release_published_at": "2020-02-14T21:07:09.000Z",
+    "latest_stable_release_number": "0.5.1",
+    "latest_stable_release_published_at": "2020-02-14T21:07:09.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License 2.0",
+    "name": "pytest-dependency",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-dependency/",
+    "platform": "Pypi",
+    "rank": 13,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/RKrahl/pytest-dependency",
+    "stars": 72,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2017-01-29T16:53:37.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2017-05-28T10:03:55.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2017-12-26T17:04:38.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2017-12-26T22:08:22.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2018-01-17T22:22:04.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2018-12-02T19:42:08.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2020-02-14T19:57:50.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2020-02-14T21:07:09.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.5.1",
+    "dependencies": [
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": ">=3.6.0",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

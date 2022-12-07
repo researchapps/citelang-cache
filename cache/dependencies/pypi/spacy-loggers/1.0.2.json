@@ -1,0 +1,85 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Logging utilities for SpaCy",
+    "forks": 6,
+    "homepage": "https://github.com/explosion/spacy-loggers",
+    "keywords": [
+        "logging",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp",
+        "python",
+        "spacy"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.0.2",
+    "latest_release_published_at": "2022-03-30T14:08:43.000Z",
+    "latest_stable_release_number": "1.0.2",
+    "latest_stable_release_published_at": "2022-03-30T14:08:43.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "spacy-loggers",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/spacy-loggers/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/explosion/spacy-loggers",
+    "stars": 2,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2021-09-23T19:30:51.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2021-10-21T07:21:54.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2022-03-30T14:08:43.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.2",
+    "dependencies": [
+        {
+            "project_name": "wasabi",
+            "name": "wasabi",
+            "platform": "Pypi",
+            "requirements": "<1.1.0,>=0.8.1",
+            "latest_stable": "0.9.0",
+            "latest": "0.9.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

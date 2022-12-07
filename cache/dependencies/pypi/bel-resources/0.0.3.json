@@ -1,0 +1,121 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Utilities for BEL resource files.",
+    "forks": 0,
+    "homepage": "https://github.com/cthoyt/bel-resources",
+    "keywords": [
+        "Biological",
+        "Expression",
+        "Language",
+        "BEL",
+        "Semantic",
+        "Web",
+        "Networks",
+        "Biology",
+        "Systems",
+        "Ontologies",
+        "biological-expression-language",
+        "terminologies"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.0.3",
+    "latest_release_published_at": "2019-11-15T13:44:04.000Z",
+    "latest_stable_release_number": "0.0.3",
+    "latest_stable_release_published_at": "2019-11-15T13:44:04.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "bel-resources",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/bel-resources/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/cthoyt/bel-resources",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2019-01-06T14:04:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2019-01-30T12:12:58.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2019-11-15T13:44:04.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.3",
+    "dependencies": [
+        {
+            "project_name": "requests-file",
+            "name": "requests-file",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.5.1",
+            "latest": "1.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "multisplitby",
+            "name": "multisplitby",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.0.1",
+            "latest": "0.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "requests",
+            "name": "requests",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.28.1",
+            "latest": "2.28.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        }
+    ]
+}

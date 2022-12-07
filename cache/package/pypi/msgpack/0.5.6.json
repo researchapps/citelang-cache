@@ -1,0 +1,193 @@
+{
+    "dependent_repos_count": 1315,
+    "dependents_count": 620,
+    "deprecation_reason": null,
+    "description": "MessagePack (de)serializer.",
+    "forks": 204,
+    "homepage": "https://msgpack.org/",
+    "keywords": [
+        "msgpack",
+        "python"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.0.3",
+    "latest_release_published_at": "2021-11-24T12:22:39.000Z",
+    "latest_stable_release_number": "1.0.3",
+    "latest_stable_release_published_at": "2021-11-24T12:22:39.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "msgpack",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/msgpack/",
+    "platform": "Pypi",
+    "rank": 22,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/msgpack/msgpack-python",
+    "stars": 1534,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.5.0",
+            "published_at": "2018-01-06T18:11:05.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.1",
+            "published_at": "2018-01-09T18:34:23.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2018-02-02T11:52:56.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.3",
+            "published_at": "2018-02-03T01:59:07.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.4",
+            "published_at": "2018-02-05T03:31:18.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.5",
+            "published_at": "2018-02-22T09:11:46.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.6",
+            "published_at": "2018-02-23T07:00:29.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2018-11-30T10:10:51.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2019-01-25T12:54:44.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.2",
+            "published_at": "2019-09-20T07:42:44.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0rc1",
+            "published_at": "2019-12-12T11:41:53.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2020-02-18T16:04:50.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2020-12-11T10:26:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2020-12-18T08:40:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.3rc1",
+            "published_at": "2021-11-17T01:57:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2021-11-24T12:22:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

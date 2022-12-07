@@ -1,0 +1,78 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "This package serves as a toolkit and repository for the White-Kauffmann-Le Minor scheme for Salmonella serotyping, which defines nomenclature and antigenic factors for each recognized serovar. The scheme is made available in multiple formats, along with methods for querying and comparing serovar names and antigenic formulae, as well as determining the most abundant serovar for a cluster of isolates.",
+    "forks": 0,
+    "homepage": "https://github.com/CFSAN-Biostatistics/serotools",
+    "keywords": [
+        "bioinformatics",
+        "Salmonella",
+        "serovar",
+        "serotype",
+        "serotyping",
+        "White-Kauffmann-Le",
+        "Minor"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.2.1",
+    "latest_release_published_at": "2020-09-04T18:52:43.000Z",
+    "latest_stable_release_number": "0.2.1",
+    "latest_stable_release_published_at": "2020-09-04T18:52:43.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "serotools",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/serotools/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/CFSAN-Biostatistics/serotools",
+    "stars": 2,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2019-11-20T17:40:47.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2019-11-28T04:42:40.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2020-02-17T21:21:23.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2020-09-04T18:52:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

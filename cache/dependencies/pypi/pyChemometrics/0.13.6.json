@@ -1,0 +1,88 @@
+{
+    "dependent_repos_count": 2,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "The pyChemometrics provides objects which wrap pre-existing scikit-learn PCA and PLS algorithms and adds model assessment metrics and functions common in the Chemometrics literature.",
+    "forks": 10,
+    "homepage": "https://github.com/Gscorreia89/pyChemometrics/",
+    "keywords": [
+        "chemometrics",
+        "cross-validation",
+        "pca",
+        "pls",
+        "spectroscopy"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.13.6",
+    "latest_release_published_at": "2021-01-13T22:40:14.000Z",
+    "latest_stable_release_number": "0.13.6",
+    "latest_stable_release_published_at": "2021-01-13T22:40:14.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause License",
+    "name": "pyChemometrics",
+    "normalized_licenses": [
+        "BSD-1-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyChemometrics/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/Gscorreia89/pyChemometrics",
+    "stars": 13,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2018-01-23T15:20:45.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.3",
+            "published_at": "2020-09-28T21:57:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD 3-Clause License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.4",
+            "published_at": "2021-01-13T16:11:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD 3-Clause License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.5",
+            "published_at": "2021-01-13T16:25:07.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD 3-Clause License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.6",
+            "published_at": "2021-01-13T22:40:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD 3-Clause License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.13.6",
+    "dependencies": []
+}

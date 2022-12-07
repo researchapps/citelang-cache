@@ -1,0 +1,102 @@
+{
+    "dependent_repos_count": 12,
+    "dependents_count": 6,
+    "deprecation_reason": null,
+    "description": "World Population Prospects 2015",
+    "forks": 0,
+    "homepage": "http://esa.un.org/wpp",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/wpp2015_1.1-2.tar.gz",
+    "latest_release_number": "1.1-2",
+    "latest_release_published_at": "2019-01-07T00:00:00.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": false,
+    "licenses": "GPL-2 | GPL-3 [expanded from: GPL (\u2265 2)]",
+    "name": "wpp2015",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible",
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=wpp2015",
+    "platform": "CRAN",
+    "rank": 7,
+    "repository_license": null,
+    "repository_url": null,
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0-0",
+            "published_at": "2015-08-08T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.0-1",
+            "published_at": "2015-10-15T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1-0",
+            "published_at": "2016-06-03T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1-2",
+            "published_at": "2019-01-07T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1-2",
+    "dependencies": [
+        {
+            "project_name": "plyr",
+            "name": "plyr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.8.5",
+            "latest": "1.8.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 2.14.2",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

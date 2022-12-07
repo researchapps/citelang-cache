@@ -1,0 +1,57 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "thread safe connection pool",
+    "forks": 3,
+    "homepage": "https://github.com/zhouyl/ConnectionPool",
+    "keywords": [
+        "connection-pool",
+        "pool",
+        "python",
+        "python2",
+        "python3",
+        "thread-safety"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.0.2",
+    "latest_release_published_at": "2018-06-11T00:55:22.000Z",
+    "latest_stable_release_number": "0.0.2",
+    "latest_stable_release_published_at": "2018-06-11T00:55:22.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "connection-pool",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/connection-pool/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/zhouyl/ConnectionPool",
+    "stars": 10,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2018-06-08T06:45:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2018-06-11T00:55:22.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "variant calling and phylogenies from microbial WGS data",
+    "forks": 0,
+    "homepage": "https://github.com/dmnfarrell/snipgenie",
+    "keywords": [
+        "bioinformatics",
+        "biology",
+        "genomics",
+        "ngs-pipeline",
+        "pyqt5",
+        "pyside2",
+        "python",
+        "variant-calling"
+    ],
+    "language": "Jupyter Notebook",
+    "latest_download_url": null,
+    "latest_release_number": "0.5.0",
+    "latest_release_published_at": "2021-11-01T20:49:01.000Z",
+    "latest_stable_release_number": "0.5.0",
+    "latest_stable_release_published_at": "2021-11-01T20:49:01.000Z",
+    "license_normalized": true,
+    "licenses": "GPL v3",
+    "name": "snipgenie",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/snipgenie/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "GPL-3.0",
+    "repository_url": "https://github.com/dmnfarrell/snipgenie",
+    "stars": 2,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.4.0",
+            "published_at": "2021-07-16T14:06:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2021-11-01T20:49:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPL v3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.5.0",
+    "dependencies": []
+}

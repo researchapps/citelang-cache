@@ -1,0 +1,645 @@
+{
+    "name": "adios2",
+    "aliases": [],
+    "versions": [
+        {
+            "number": "master"
+        },
+        {
+            "number": "2.8.0"
+        },
+        {
+            "number": "2.7.1"
+        },
+        {
+            "number": "2.7.0"
+        },
+        {
+            "number": "2.6.0"
+        },
+        {
+            "number": "2.5.0"
+        },
+        {
+            "number": "2.4.0"
+        },
+        {
+            "number": "2.3.1"
+        }
+    ],
+    "latest_version": "2.8.0",
+    "build_system": "CMakePackage",
+    "conflicts": [
+        {
+            "name": "%gcc@:4",
+            "spec": "+cuda ^cuda@11.0:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@:5",
+            "spec": "+cuda ^cuda@11.4:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@10:",
+            "spec": "+cuda ^cuda@:11.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@11:",
+            "spec": "+cuda ^cuda@:11.4.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@12:",
+            "spec": "+cuda ^cuda@:11.7~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%clang@12:",
+            "spec": "+cuda ^cuda@:11.4.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%clang@13:",
+            "spec": "+cuda ^cuda@:11.5~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%clang@14:",
+            "spec": "+cuda ^cuda@:11.7~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@10",
+            "spec": "+cuda ^cuda@:11.4.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@5:",
+            "spec": "+cuda ^cuda@:7.5~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@6:",
+            "spec": "+cuda ^cuda@:8~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@6:",
+            "spec": "+cuda ^cuda@:9~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@7:",
+            "spec": "+cuda ^cuda@:9.1~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@8:",
+            "spec": "+cuda ^cuda@:10.0.130~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@8:",
+            "spec": "+cuda ^cuda@:10.0.130~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@9:",
+            "spec": "+cuda ^cuda@:10.2.89~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@9:",
+            "spec": "+cuda ^cuda@:10.1.243~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:14.8",
+            "spec": "+cuda ^cuda@:7.0.27~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:15.3,15.5:",
+            "spec": "+cuda ^cuda@7.5~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:16.2,16.0:16.3",
+            "spec": "+cuda ^cuda@8~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:15,18:",
+            "spec": "+cuda ^cuda@9.0:9.1~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:16,19:",
+            "spec": "+cuda ^cuda@9.2.88:10~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:17,20:",
+            "spec": "+cuda ^cuda@10.1.105:10.2.89~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:17,21:",
+            "spec": "+cuda ^cuda@11.0.2:11.1.0~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.4",
+            "spec": "+cuda ^cuda@:7.5~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,4:",
+            "spec": "+cuda ^cuda@8.0:9.0~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,4.1:",
+            "spec": "+cuda ^cuda@9.1~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,5.1:",
+            "spec": "+cuda ^cuda@9.2~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,6.1:",
+            "spec": "+cuda ^cuda@10.0.130~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,7.1:",
+            "spec": "+cuda ^cuda@10.1.105~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,8.1:",
+            "spec": "+cuda ^cuda@10.1.105:10.1.243~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.2,9:",
+            "spec": "+cuda ^cuda@10.2.89~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:5",
+            "spec": "+cuda ^cuda@11.0.2:~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:5",
+            "spec": "+cuda ^cuda@11.0.2:~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@10:",
+            "spec": "+cuda ^cuda@:11.0.3~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@10:",
+            "spec": "+cuda ^cuda@:11.0.2~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@11:",
+            "spec": "+cuda ^cuda@:11.1.0~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@11:",
+            "spec": "+cuda ^cuda@:11.1.0~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi",
+            "spec": "+cuda ^cuda@:8~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:16",
+            "spec": "+cuda ^cuda@:9.1.185~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:17",
+            "spec": "+cuda ^cuda@:10~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@4:",
+            "spec": "+cuda ^cuda@:9.0.176~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@5:",
+            "spec": "+cuda ^cuda@:9.1~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@6:",
+            "spec": "+cuda ^cuda@:9.2~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@7:",
+            "spec": "+cuda ^cuda@10.0.130~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@7.1:",
+            "spec": "+cuda ^cuda@:10.1.105~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@8.1:",
+            "spec": "+cuda ^cuda@:10.2.89~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%intel@:11.0",
+            "spec": "+cuda ^cuda@:3.1~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@:12.0",
+            "spec": "+cuda ^cuda@5.5:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@:13.0",
+            "spec": "+cuda ^cuda@6.0:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@:13.2",
+            "spec": "+cuda ^cuda@6.5:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@:14.9",
+            "spec": "+cuda ^cuda@7:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@16.0:",
+            "spec": "+cuda ^cuda@:8.0.43~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@17.0:",
+            "spec": "+cuda ^cuda@:8.0.60~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@18.0:",
+            "spec": "+cuda ^cuda@:9.9~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@19.0:",
+            "spec": "+cuda ^cuda@:10.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@19.1:",
+            "spec": "+cuda ^cuda@:10.1~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@19.2:",
+            "spec": "+cuda ^cuda@:11.1.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%xl@:12,14:",
+            "spec": "+cuda ^cuda@:9.1~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%xl@:12,14:15,17:",
+            "spec": "+cuda ^cuda@9.2~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%xl@:12,17:",
+            "spec": "+cuda ^cuda@:11.1.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "platform=darwin",
+            "spec": "+cuda ^cuda@11.0.2:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "+ipo",
+            "spec": "^cmake@:3.8",
+            "description": "+ipo is not supported by CMake < 3.9"
+        },
+        {
+            "name": "%gcc@:4.7",
+            "spec": "",
+            "description": "None"
+        },
+        {
+            "name": "%intel@:15",
+            "spec": "",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:14",
+            "spec": "",
+            "description": "None"
+        }
+    ],
+    "variants": [
+        {
+            "name": "cuda",
+            "default": false,
+            "description": "Enable CUDA support"
+        },
+        {
+            "name": "cuda_arch",
+            "default": "none",
+            "description": "CUDA architecture"
+        },
+        {
+            "name": "build_type",
+            "default": "Release",
+            "description": "CMake build type"
+        },
+        {
+            "name": "ipo",
+            "default": false,
+            "description": "CMake interprocedural optimization"
+        },
+        {
+            "name": "shared",
+            "default": true,
+            "description": "Build shared libraries"
+        },
+        {
+            "name": "pic",
+            "default": true,
+            "description": "Build pic-enabled static libraries"
+        },
+        {
+            "name": "mpi",
+            "default": true,
+            "description": "Enable MPI"
+        },
+        {
+            "name": "blosc",
+            "default": true,
+            "description": "Enable Blosc compression"
+        },
+        {
+            "name": "bzip2",
+            "default": true,
+            "description": "Enable BZip2 compression"
+        },
+        {
+            "name": "zfp",
+            "default": true,
+            "description": "Enable ZFP compression"
+        },
+        {
+            "name": "png",
+            "default": true,
+            "description": "Enable PNG compression"
+        },
+        {
+            "name": "sz",
+            "default": true,
+            "description": "Enable SZ compression"
+        },
+        {
+            "name": "sst",
+            "default": true,
+            "description": "Enable the SST staging engine"
+        },
+        {
+            "name": "dataman",
+            "default": false,
+            "description": "Enable the DataMan engine for WAN transports"
+        },
+        {
+            "name": "dataspaces",
+            "default": false,
+            "description": "Enable support for DATASPACES"
+        },
+        {
+            "name": "ssc",
+            "default": true,
+            "description": "Enable the SSC staging engine"
+        },
+        {
+            "name": "hdf5",
+            "default": false,
+            "description": "Enable the HDF5 engine"
+        },
+        {
+            "name": "python",
+            "default": false,
+            "description": "Enable the Python bindings"
+        },
+        {
+            "name": "fortran",
+            "default": true,
+            "description": "Enable the Fortran bindings"
+        }
+    ],
+    "homepage": "https://csmd.ornl.gov/software/adios2",
+    "maintainers": [
+        "ax3l",
+        "chuckatkins",
+        "williamfgc"
+    ],
+    "patches": [
+        {
+            "owner": "builtin.adios2",
+            "sha256": "c9cbff920d00c3db10aadf2d6f11d647cb56f5ff6aba2e8b4749e23e7636832f",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "cmake-update-findmpi.patch",
+            "version": "@2.4.0"
+        },
+        {
+            "owner": "builtin.adios2",
+            "sha256": "095b2c8d91ba384e1582eaceeb30a8e34727545fe1afb97cf76f1e4fc55e5106",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "2.5-fix-clear_cache.patch",
+            "version": "@2.5.0"
+        },
+        {
+            "owner": "builtin.adios2",
+            "sha256": "d9195eafee772b9fbc30db6d2fa2bd7c1cb863ac27cef39302bd54e8bb6ab7e6",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "2.7-fix-python-test-deps.patch",
+            "version": "@2.5.0:2.7.0"
+        },
+        {
+            "owner": "builtin.adios2",
+            "sha256": "66f86a189de98bb7889d42151d13c236497253d401d340c9437e6a0a55442953",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "2.6-fix-gcc10-symbols.patch",
+            "version": "@2.6.0"
+        },
+        {
+            "owner": "builtin.adios2",
+            "sha256": "8221073d1b2f8944395a88a5d60a15c7370646b62f5fc6309867bbb6a8c2096c",
+            "level": 1,
+            "working_dir": ".",
+            "url": "https://github.com/ornladios/adios2/pull/2710.patch?full_index=1",
+            "version": "@:2.7.1"
+        }
+    ],
+    "resources": [],
+    "description": "The Adaptable Input Output System version 2, developed in the Exascale\nComputing Program\n",
+    "dependencies": [
+        {
+            "name": "cuda",
+            "description": "CUDA is a parallel computing platform and programming model invented by\nNVIDIA. It enables dramatic increases in computing performance by\nharnessing the power of the graphics processing unit (GPU). Note: This\npackage does not currently install the drivers necessary to run CUDA.\nThese will need to be installed manually. See:\nhttps://docs.nvidia.com/cuda/ for details."
+        },
+        {
+            "name": "cmake",
+            "description": "A cross-platform, open-source build system. CMake is a family of tools\ndesigned to build, test and package software."
+        },
+        {
+            "name": "pkgconfig",
+            "description": "pkgconf is a program which helps to configure compiler and linker flags\nfor development frameworks. It is similar to pkg-config from\nfreedesktop.org, providing additional functionality while also\nmaintaining compatibility."
+        },
+        {
+            "name": "libffi",
+            "description": "The libffi library provides a portable, high level programming interface\nto various calling conventions. This allows a programmer to call any\nfunction specified by a call interface description at run time."
+        },
+        {
+            "name": "libfabric",
+            "description": "The Open Fabrics Interfaces (OFI) is a framework focused on exporting\nfabric communication services to applications."
+        },
+        {
+            "name": "mpi",
+            "description": "Cray/HPE packaging of MVAPICH2 for HPE Apollo systems"
+        },
+        {
+            "name": "libzmq",
+            "description": "The ZMQ networking/concurrency library and core API"
+        },
+        {
+            "name": "dataspaces",
+            "description": "an extreme scale data management framework."
+        },
+        {
+            "name": "hdf5",
+            "description": "HDF5 is a data model, library, and file format for storing and managing\ndata. It supports an unlimited variety of datatypes, and is designed for\nflexible and efficient I/O and for high volume and complex data."
+        },
+        {
+            "name": "c-blosc",
+            "description": "Blosc, an extremely fast, multi-threaded, meta-compressor library"
+        },
+        {
+            "name": "bzip2",
+            "description": "bzip2 is a freely available, patent free high-quality data compressor.\nIt typically compresses files to within 10% to 15% of the best available\ntechniques (the PPM family of statistical compressors), whilst being\naround twice as fast at compression and six times faster at\ndecompression."
+        },
+        {
+            "name": "libpng",
+            "description": "libpng is the official PNG reference library."
+        },
+        {
+            "name": "zfp",
+            "description": "zfp is a compressed number format for multidimensional floating-point\nand integer arrays. zfp provides compressed-array classes that support\nhigh throughput read and write random access to individual array\nelements. zfp also supports serial and parallel (OpenMP and CUDA)\ncompression of whole arrays."
+        },
+        {
+            "name": "sz",
+            "description": "Error-bounded Lossy Compressor for HPC Data"
+        },
+        {
+            "name": "python",
+            "description": "The Python programming language."
+        },
+        {
+            "name": "py-numpy",
+            "description": "NumPy is the fundamental package for scientific computing with Python.\nIt contains among other things: a powerful N-dimensional array object,\nsophisticated (broadcasting) functions, tools for integrating C/C++ and\nFortran code, and useful linear algebra, Fourier transform, and random\nnumber capabilities"
+        },
+        {
+            "name": "py-mpi4py",
+            "description": "This package provides Python bindings for the Message Passing Interface\n(MPI) standard. It is implemented on top of the MPI-1/MPI-2\nspecification and exposes an API which grounds on the standard MPI-2 C++\nbindings."
+        }
+    ],
+    "dependent_to": [
+        {
+            "name": "ecp-data-vis-sdk",
+            "description": "ECP Data & Vis SDK"
+        },
+        {
+            "name": "fenics-dolfinx",
+            "description": "Next generation FEniCS problem solving environment"
+        },
+        {
+            "name": "paraview",
+            "description": "ParaView is an open-source, multi-platform data analysis and\nvisualization application. This package includes the Catalyst in-situ\nlibrary for versions 5.7 and greater, otherwise use the catalyst\npackage."
+        },
+        {
+            "name": "casacore",
+            "description": "A suite of c++ libraries for radio astronomy data processing."
+        },
+        {
+            "name": "seacas",
+            "description": "The SEACAS Project contains the Exodus and IOSS libraries and a\ncollection of applications which create, query, modify, or translate\nexodus databases. Default is to build the exodus and IOSS libraries and\nthe io_shell, io_info, io_modify, struc_to_unstruc apps."
+        },
+        {
+            "name": "fides",
+            "description": "A library that provides a schema for ADIOS2 streams."
+        },
+        {
+            "name": "trilinos",
+            "description": "The Trilinos Project is an effort to develop algorithms and enabling\ntechnologies within an object-oriented software framework for the\nsolution of large-scale, complex multi-physics engineering and\nscientific problems. A unique design feature of Trilinos is its focus on\npackages."
+        },
+        {
+            "name": "ftk",
+            "description": "FTK is a library that simplifies, scales, and delivers feature tracking\nalgorithms for scientific data."
+        },
+        {
+            "name": "lammps",
+            "description": "LAMMPS stands for Large-scale Atomic/Molecular Massively Parallel\nSimulator. This package uses patch releases, not stable release. See\nhttps://github.com/spack/spack/pull/5342 for a detailed discussion."
+        },
+        {
+            "name": "openpmd-api",
+            "description": "C++ & Python API for Scientific I/O"
+        },
+        {
+            "name": "openfoam",
+            "description": "OpenFOAM is a GPL-opensource C++ CFD-toolbox. This offering is supported\nby OpenCFD Ltd, producer and distributor of the OpenFOAM software via\nwww.openfoam.com, and owner of the OPENFOAM trademark. OpenCFD Ltd has\nbeen developing and releasing OpenFOAM since its debut in 2004."
+        },
+        {
+            "name": "sensei",
+            "description": "SENSEI is a platform for scalable in-situ analysis and visualization.\nIts design motto is 'Write once, run everywhere', this means that once\nthe application is instrumented with SENSEI it can use existing and\nfuture analysis backends. Existing backends include: Paraview/Catalyst,\nVisit/Libsim, ADIOS, Python scripts, and so on."
+        },
+        {
+            "name": "visit",
+            "description": "VisIt is an Open Source, interactive, scalable, visualization, animation\nand analysis tool. See comments in VisIt's package.py for tips about\nbuilding VisIt with spack. Building VisIt with Spack is still\nexperimental and many standard features are likely disabled\nLINUX-------------------------------------------------------------------\nspack install visit ^python+shared ^glib@2.56.3 ^py-setuptools@44.1.0\nLINUX-W/O-OPENGL--------------------------------------------------------\nspack install visit ^python+shared ^glib@2.56.3 ^py-setuptools@44.1.0 \\\n^mesa+opengl\nMACOS-------------------------------------------------------------------\nspack install visit ^python+shared ^glib@2.56.3 ^py-setuptools@44.1.0 \\\n^qt~framework"
+        },
+        {
+            "name": "ascent",
+            "description": "Ascent is an open source many-core capable lightweight in situ\nvisualization and analysis infrastructure for multi-physics HPC\nsimulations."
+        },
+        {
+            "name": "tau",
+            "description": "A portable profiling and tracing toolkit for performance analysis of\nparallel programs written in Fortran, C, C++, UPC, Java, Python."
+        }
+    ],
+    "keywords": [],
+    "language": null
+}

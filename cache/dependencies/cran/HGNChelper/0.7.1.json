@@ -1,0 +1,239 @@
+{
+    "dependent_repos_count": 4,
+    "dependents_count": 2,
+    "deprecation_reason": null,
+    "description": "Identify and Correct Invalid HGNC Human Gene Symbols and MGI\nMouse Gene Symbols",
+    "forks": 7,
+    "homepage": "https://github.com/waldronlab/HGNChelper",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/HGNChelper_0.7.1.tar.gz",
+    "latest_release_number": "0.7.1",
+    "latest_release_published_at": "2019-03-05T00:00:00.000Z",
+    "latest_stable_release_number": "0.7.1",
+    "latest_stable_release_published_at": "2019-03-05T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-2 | GPL-3 [expanded from: GPL (\u2265 2.0)]",
+    "name": "HGNChelper",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible",
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=HGNChelper",
+    "platform": "CRAN",
+    "rank": 8,
+    "repository_license": null,
+    "repository_url": "https://github.com/waldronlab/HGNChelper",
+    "stars": 27,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1",
+            "published_at": "2012-07-20T13:46:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2012-08-16T07:45:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2012-10-07T23:08:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2013-01-02T18:54:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.2.5",
+            "published_at": "2013-07-26T15:06:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2014-03-22T01:40:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2014-12-04T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.4",
+            "published_at": "2017-01-26T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.5",
+            "published_at": "2017-06-13T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3.6",
+            "published_at": "2017-08-29T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.5.2",
+            "published_at": "2018-07-06T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2019-03-05T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.7.1",
+    "dependencies": [
+        {
+            "project_name": "rmarkdown",
+            "name": "rmarkdown",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "0.9.6",
+            "latest": "2.13",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "knitr",
+            "name": "knitr",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.15.1",
+            "latest": "1.38",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "utils",
+            "name": "utils",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "methods",
+            "name": "methods",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 3.5.0",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

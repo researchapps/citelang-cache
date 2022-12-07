@@ -1,0 +1,131 @@
+{
+    "dependent_repos_count": 86,
+    "dependents_count": 110,
+    "deprecation_reason": null,
+    "description": "The FlatBuffers serialization format for Python",
+    "forks": 2728,
+    "homepage": "https://google.github.io/flatbuffers/",
+    "keywords": [
+        "c",
+        "c-plus-plus",
+        "c-sharp",
+        "cross-platform",
+        "flatbuffers",
+        "go",
+        "grpc",
+        "java",
+        "javascript",
+        "json-parser",
+        "marshalling",
+        "mmap",
+        "protobuf",
+        "python",
+        "rpc",
+        "rust",
+        "serialization",
+        "serialization-library",
+        "typescript",
+        "zero-copy"
+    ],
+    "language": "C++",
+    "latest_download_url": null,
+    "latest_release_number": "2.0",
+    "latest_release_published_at": "2021-05-10T19:55:09.000Z",
+    "latest_stable_release_number": "v2.0.6",
+    "latest_stable_release_published_at": "2022-02-15T16:48:42.000Z",
+    "license_normalized": true,
+    "licenses": "Apache 2.0",
+    "name": "flatbuffers",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/flatbuffers/",
+    "platform": "Pypi",
+    "rank": 19,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/google/flatbuffers",
+    "stars": 17560,
+    "status": null,
+    "versions": [
+        {
+            "number": "2015.05.14.0",
+            "published_at": "2015-05-14T19:07:56.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2015.08.19.0",
+            "published_at": "2015-08-19T23:07:47.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2015.12.22.1",
+            "published_at": "2015-12-22T22:45:39.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.9",
+            "published_at": "2018-06-25T21:46:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.10",
+            "published_at": "2018-10-03T21:06:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.11",
+            "published_at": "2019-04-24T19:21:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.12",
+            "published_at": "2020-03-12T23:34:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0",
+            "published_at": "2021-05-10T19:55:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

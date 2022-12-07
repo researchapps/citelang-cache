@@ -1,0 +1,467 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 492,
+    "deprecation_reason": null,
+    "description": "Python client for the Prometheus monitoring system.",
+    "forks": 640,
+    "homepage": "https://github.com/prometheus/client_python",
+    "keywords": [
+        "prometheus",
+        "monitoring",
+        "instrumentation",
+        "client",
+        "metrics",
+        "python"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.14.1",
+    "latest_release_published_at": "2022-04-08T16:07:14.000Z",
+    "latest_stable_release_number": "0.14.1",
+    "latest_stable_release_published_at": "2022-04-08T16:07:14.000Z",
+    "license_normalized": true,
+    "licenses": "Apache Software License 2.0",
+    "name": "prometheus-client",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/prometheus-client/",
+    "platform": "Pypi",
+    "rank": 19,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/prometheus/client_python",
+    "stars": 2675,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2015-02-09T22:53:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2015-02-10T22:08:11.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2015-02-10T22:46:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.4",
+            "published_at": "2015-02-11T17:18:22.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.5",
+            "published_at": "2015-02-17T19:55:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.6",
+            "published_at": "2015-02-23T19:38:08.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.7",
+            "published_at": "2015-02-23T19:56:53.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.8",
+            "published_at": "2015-04-06T13:36:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.9",
+            "published_at": "2015-04-22T08:28:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.10",
+            "published_at": "2015-06-23T22:16:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.11",
+            "published_at": "2015-07-15T20:42:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.12",
+            "published_at": "2015-10-09T13:09:48.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.13",
+            "published_at": "2015-10-09T15:15:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.14",
+            "published_at": "2016-07-15T18:50:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.15",
+            "published_at": "2016-10-02T08:45:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.16",
+            "published_at": "2016-10-10T16:36:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.17",
+            "published_at": "2016-10-19T09:39:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.18",
+            "published_at": "2016-11-24T20:46:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.19",
+            "published_at": "2017-01-31T12:00:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.20",
+            "published_at": "2017-07-19T11:36:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.21",
+            "published_at": "2017-09-14T10:37:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2017-12-14T14:39:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2018-01-15T16:28:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2018-04-03T10:53:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2018-07-10T12:16:30.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2018-07-30T10:15:20.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2018-10-03T14:28:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.1",
+            "published_at": "2018-10-09T13:22:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.2",
+            "published_at": "2018-10-15T12:41:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0",
+            "published_at": "2018-12-06T15:45:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2019-02-19T16:30:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.0",
+            "published_at": "2019-06-07T10:38:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2019-06-20T13:35:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.0",
+            "published_at": "2020-05-25T12:14:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.0",
+            "published_at": "2020-11-16T13:34:22.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.0",
+            "published_at": "2021-04-02T15:52:09.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.10.1",
+            "published_at": "2021-04-08T16:34:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.11.0",
+            "published_at": "2021-06-01T17:38:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.12.0",
+            "published_at": "2021-10-29T17:38:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.0",
+            "published_at": "2022-01-25T20:30:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.13.1",
+            "published_at": "2022-01-28T16:02:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.0",
+            "published_at": "2022-04-05T21:00:56.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.14.1",
+            "published_at": "2022-04-08T16:07:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "Apache Software License 2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

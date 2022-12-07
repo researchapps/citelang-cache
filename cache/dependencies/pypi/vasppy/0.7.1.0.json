@@ -1,0 +1,471 @@
+{
+    "dependent_repos_count": 3,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Python utilities for working with VASP inputs and outputs",
+    "forks": 20,
+    "homepage": "https://github.com/bjmorgan/vasppy",
+    "keywords": [
+        "vasp"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.7.1.0",
+    "latest_release_published_at": "2021-05-13T09:10:54.000Z",
+    "latest_stable_release_number": "2018.7.15",
+    "latest_stable_release_published_at": "2018-07-15T16:04:29.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "vasppy",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/vasppy/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/bjmorgan/vasppy",
+    "stars": 23,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2014-04-13T20:32:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2014-04-13T21:02:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2018-07-17T09:55:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "UNKNOWN",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.0",
+            "published_at": "2017-11-10T11:05:09.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0",
+            "published_at": "2018-07-15T19:01:43.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0.10",
+            "published_at": "2019-03-26T12:29:47.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0.11",
+            "published_at": "2019-03-26T12:37:15.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0.12",
+            "published_at": "2019-03-26T12:42:17.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0.2",
+            "published_at": "2018-07-15T19:27:57.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0.4",
+            "published_at": "2018-07-15T19:44:12.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0.5",
+            "published_at": "2018-07-16T08:35:58.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0.6",
+            "published_at": "2018-07-17T09:55:02.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0.8",
+            "published_at": "2018-11-01T07:33:23.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.0.9",
+            "published_at": "2018-11-11T14:14:03.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4.1.0",
+            "published_at": "2019-05-05T09:39:34.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5.0.0",
+            "published_at": "2019-05-17T10:34:44.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0.0",
+            "published_at": "2020-02-13T11:29:02.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1.0",
+            "published_at": "2020-02-22T13:09:00.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1.1",
+            "published_at": "2020-06-15T17:19:00.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.2.0",
+            "published_at": "2021-01-14T14:38:44.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.3.0",
+            "published_at": "2021-01-24T15:09:23.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.0.0",
+            "published_at": "2021-03-22T16:09:13.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.1.0",
+            "published_at": "2021-05-13T09:10:54.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2018.3.10",
+            "published_at": "2018-03-10T18:20:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2018.6.4",
+            "published_at": "2018-06-04T12:41:32.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2018.7.15",
+            "published_at": "2018-07-15T16:04:29.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2018.7.15.2",
+            "published_at": "2018-07-15T16:53:41.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.7.1.0",
+    "dependencies": [
+        {
+            "project_name": "lxml",
+            "name": "lxml",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.8.0",
+            "latest": "4.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "tqdm",
+            "name": "tqdm",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.64.0",
+            "latest": "4.64.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MPL-2.0",
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": ">=1.4.1",
+            "latest_stable": "1.8.0",
+            "latest": "1.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "fortranformat",
+            "name": "fortranformat",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.2.0",
+            "latest": "1.2.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "codeclimate-test-reporter",
+            "name": "codeclimate-test-reporter",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.2.3",
+            "latest": "0.2.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "coverage",
+            "name": "coverage",
+            "platform": "Pypi",
+            "requirements": "==4.3.4",
+            "latest_stable": "6.3.2",
+            "latest": "6.3.2",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "PyYAML",
+            "name": "PyYAML",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.4.1",
+            "latest": "6.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pymatgen",
+            "name": "pymatgen",
+            "platform": "Pypi",
+            "requirements": ">=2022.0.0",
+            "latest_stable": "2022.4.26",
+            "latest": "2022.4.26",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pandas",
+            "name": "pandas",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.4.2",
+            "latest": "1.4.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": ">=1.16.2",
+            "latest_stable": "1.21.6",
+            "latest": "1.21.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "monty",
+            "name": "monty",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2022.4.26",
+            "latest": "2022.4.26",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

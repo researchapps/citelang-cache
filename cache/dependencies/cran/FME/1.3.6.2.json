@@ -1,0 +1,298 @@
+{
+    "dependent_repos_count": 8,
+    "dependents_count": 14,
+    "deprecation_reason": null,
+    "description": "A Flexible Modelling Environment for Inverse Modelling,\nSensitivity, Identifiability and Monte Carlo Analysis",
+    "forks": 0,
+    "homepage": "http://fme.r-forge.r-project.org/",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": "https://cran.r-project.org/src/contrib/FME_1.3.6.2.tar.gz",
+    "latest_release_number": "1.3.6.2",
+    "latest_release_published_at": "2021-10-12T00:00:00.000Z",
+    "latest_stable_release_number": "1.3.5",
+    "latest_stable_release_published_at": "2016-09-09T10:13:00.000Z",
+    "license_normalized": true,
+    "licenses": "GPL-2 | GPL-3 [expanded from: GPL (\u2265 2)]",
+    "name": "FME",
+    "normalized_licenses": [
+        "CNRI-Python-GPL-Compatible",
+        "CNRI-Python-GPL-Compatible"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=FME",
+    "platform": "CRAN",
+    "rank": 9,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0",
+            "published_at": "2009-09-18T22:15:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2010-02-01T14:52:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2011-03-26T15:43:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.3",
+            "published_at": "2012-03-24T16:18:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.3.1",
+            "published_at": "2014-01-13T11:12:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.3.2",
+            "published_at": "2014-11-04T00:11:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.3.5",
+            "published_at": "2016-09-09T10:13:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.3.6.1",
+            "published_at": "2019-12-18T09:20:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "1.3.6.2",
+            "published_at": "2021-10-12T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.3.6.2",
+    "dependencies": [
+        {
+            "project_name": "diagram",
+            "name": "diagram",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.6.5",
+            "latest": "1.6.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "minqa",
+            "name": "minqa",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.2.4",
+            "latest": "1.2.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-2.0"
+            ]
+        },
+        {
+            "project_name": "utils",
+            "name": "utils",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "stats",
+            "name": "stats",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "grDevices",
+            "name": "grDevices",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "graphics",
+            "name": "graphics",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        },
+        {
+            "project_name": "MASS",
+            "name": "MASS",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "7.3-57",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-2.0+"
+            ]
+        },
+        {
+            "project_name": "minpack.lm",
+            "name": "minpack.lm",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "1.2-2",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": [
+                "GPL-3.0"
+            ]
+        },
+        {
+            "project_name": "coda",
+            "name": "coda",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.19-4",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "rootSolve",
+            "name": "rootSolve",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.8.2",
+            "latest": "1.8.2.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "deSolve",
+            "name": "deSolve",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "1.27.1",
+            "latest": "1.32",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": [
+                "CNRI-Python-GPL-Compatible",
+                "CNRI-Python-GPL-Compatible"
+            ]
+        },
+        {
+            "project_name": "R",
+            "name": "R",
+            "platform": "CRAN",
+            "requirements": ">= 2.6",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "depends",
+            "normalized_licenses": null
+        }
+    ]
+}

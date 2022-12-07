@@ -1,0 +1,293 @@
+{
+    "dependent_repos_count": 1,
+    "dependents_count": 12,
+    "deprecation_reason": null,
+    "description": "Advanced Normalization Tools in Python",
+    "forks": 119,
+    "homepage": "https://github.com/ANTsX/ANTsPy",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.3.3",
+    "latest_release_published_at": "2022-06-07T14:18:57.000Z",
+    "latest_stable_release_number": "0.3.3",
+    "latest_stable_release_published_at": "2022-06-07T14:18:57.000Z",
+    "license_normalized": false,
+    "licenses": "",
+    "name": "antspyx",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/antspyx/",
+    "platform": "Pypi",
+    "rank": 14,
+    "repository_license": "Apache-2.0",
+    "repository_url": "https://github.com/ANTsX/ANTsPy",
+    "stars": 352,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.2.2",
+            "published_at": "2019-10-07T15:34:24.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.4",
+            "published_at": "2020-03-13T15:55:51.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.5",
+            "published_at": "2020-03-13T18:44:53.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.7",
+            "published_at": "2021-02-11T17:38:16.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.9",
+            "published_at": "2021-07-21T17:10:40.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2021-12-11T15:23:28.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.2",
+            "published_at": "2022-03-17T18:07:35.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.3",
+            "published_at": "2022-06-07T14:18:57.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.3.3",
+    "dependencies": [
+        {
+            "project_name": "nibabel",
+            "name": "nibabel",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "4.0.1",
+            "latest": "4.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "Pillow",
+            "name": "Pillow",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "9.2.0",
+            "latest": "9.2.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "HPND"
+            ]
+        },
+        {
+            "project_name": "chart-studio",
+            "name": "chart-studio",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.1.0",
+            "latest": "1.1.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "pyyaml",
+            "name": "pyyaml",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.4.1",
+            "latest": "6.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "matplotlib",
+            "name": "matplotlib",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.5.2",
+            "latest": "3.5.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "project_name": "webcolors",
+            "name": "webcolors",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.11.1",
+            "latest": "1.12",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "statsmodels",
+            "name": "statsmodels",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.13.2",
+            "latest": "0.13.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "scikit-learn",
+            "name": "scikit-learn",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.1.2",
+            "latest": "1.1.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "scikit-image",
+            "name": "scikit-image",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.19.3",
+            "latest": "0.19.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-2-Clause"
+            ]
+        },
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.9.0",
+            "latest": "1.9.0rc2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.23.1",
+            "latest": "1.23.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pandas",
+            "name": "pandas",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.4.3",
+            "latest": "1.4.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

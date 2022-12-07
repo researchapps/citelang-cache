@@ -1,0 +1,296 @@
+{
+    "dependent_repos_count": 52,
+    "dependents_count": 44,
+    "deprecation_reason": null,
+    "description": "pyahocorasick is a fast and memory efficient library for exact or approximate multi-pattern string search.  With the \"ahocorasick.Automaton\" class, you can find multiple key string occurrences at once in some input text.  You can use it as a plain dict-like Trie or convert a Trie to an automaton for efficient Aho-Corasick search. And pickle to disk for easy reuse of large automatons. Implemented in C and tested on Python 3.6+. Works on Linux, macOS and Windows. BSD-3-Cause license.",
+    "forks": 104,
+    "homepage": "http://github.com/WojciechMula/pyahocorasick",
+    "keywords": [
+        "aho-corasick",
+        "trie",
+        "automaton",
+        "dictionary",
+        "string-manipulation"
+    ],
+    "language": "C",
+    "latest_download_url": null,
+    "latest_release_number": "2.0.0b1",
+    "latest_release_published_at": "2022-05-04T14:25:29.000Z",
+    "latest_stable_release_number": "1.4.3",
+    "latest_stable_release_published_at": "2022-02-20T12:46:39.000Z",
+    "license_normalized": true,
+    "licenses": "BSD-3-Clause and Public-Domain",
+    "name": "pyahocorasick",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pyahocorasick/",
+    "platform": "Pypi",
+    "rank": 19,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/WojciechMula/pyahocorasick",
+    "stars": 705,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2014-11-25T18:53:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD (3 clauses)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2016-04-19T18:25:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD (3 clauses)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2016-04-23T19:10:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD (3 clauses)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2016-04-24T16:00:54.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD (3 clauses)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2016-04-26T18:08:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD (3 clauses)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2016-07-29T16:54:55.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.2",
+            "published_at": "2016-08-06T17:47:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.3",
+            "published_at": "2016-08-08T07:23:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.4",
+            "published_at": "2016-08-08T07:56:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.5",
+            "published_at": "2017-11-22T12:55:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.6",
+            "published_at": "2017-11-27T17:40:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.7",
+            "published_at": "2018-02-23T18:02:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": " BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.7.dev1",
+            "published_at": "2018-02-23T16:52:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": " BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.8",
+            "published_at": "2018-04-25T18:19:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": " BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.9",
+            "published_at": "2018-10-25T14:18:44.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": " BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.10",
+            "published_at": "2018-11-06T22:40:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.11",
+            "published_at": "2018-12-02T17:49:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": " BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.12",
+            "published_at": "2018-12-03T18:06:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": " BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.13",
+            "published_at": "2018-12-11T18:22:01.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.13.1",
+            "published_at": "2018-12-11T18:38:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": " BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.3.0",
+            "published_at": "2018-12-20T19:06:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": " BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.4.0",
+            "published_at": "2019-01-14T16:20:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": " BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.4.1",
+            "published_at": "2021-01-26T17:38:47.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.4.2",
+            "published_at": "2021-03-27T18:19:12.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.4.3",
+            "published_at": "2022-02-20T12:46:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.0b1",
+            "published_at": "2022-05-04T14:25:29.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD-3-Clause and Public-Domain",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

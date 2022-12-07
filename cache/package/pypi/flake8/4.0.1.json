@@ -1,14 +1,13 @@
 {
     "dependent_repos_count": 35645,
-    "dependents_count": 4873,
+    "dependents_count": 6254,
     "deprecation_reason": null,
     "description": "the modular source code checker: pep8 pyflakes and co",
-    "forks": 177,
+    "forks": 221,
     "homepage": "https://github.com/pycqa/flake8",
     "keywords": [
         "complexity-analysis",
         "flake8",
-        "hacktoberfest",
         "linter",
         "linter-flake8",
         "pep8",
@@ -24,8 +23,8 @@
     "latest_download_url": null,
     "latest_release_number": "4.0.1",
     "latest_release_published_at": "2021-10-11T12:42:47.000Z",
-    "latest_stable_release_number": "4.0.1",
-    "latest_stable_release_published_at": "2021-10-11T12:42:47.000Z",
+    "latest_stable_release_number": "5.0.4",
+    "latest_stable_release_published_at": "2022-08-03T23:23:36.795Z",
     "license_normalized": false,
     "licenses": "MIT",
     "name": "flake8",
@@ -37,7 +36,7 @@
     "rank": 26,
     "repository_license": "Other",
     "repository_url": "https://github.com/pycqa/flake8",
-    "stars": 1612,
+    "stars": 2194,
     "status": null,
     "versions": [
         {
@@ -843,6 +842,56 @@
         {
             "number": "4.0.1",
             "published_at": "2021-10-11T12:42:47.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.0",
+            "published_at": "2022-07-30T21:03:31.085Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.1",
+            "published_at": "2022-07-31T22:13:39.661Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.2",
+            "published_at": "2022-08-01T13:04:31.657Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.3",
+            "published_at": "2022-08-01T23:24:41.651Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.4",
+            "published_at": "2022-08-03T23:23:36.795Z",
             "spdx_expression": "MIT",
             "original_license": "MIT",
             "researched_at": null,

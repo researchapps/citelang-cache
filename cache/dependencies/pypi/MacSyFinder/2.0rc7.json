@@ -1,0 +1,52 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "MacSyFinder: Detection of macromolecular systems in protein datasets using systems modelling and similarity search",
+    "forks": 12,
+    "homepage": "https://github.com/gem-pasteur/macsyfinder/",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "2.0rc7",
+    "latest_release_published_at": "2022-04-22T15:01:46.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "GPLv3",
+    "name": "MacSyFinder",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/MacSyFinder/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/gem-pasteur/macsyfinder",
+    "stars": 22,
+    "status": null,
+    "versions": [
+        {
+            "number": "2.0rc6",
+            "published_at": "2022-01-24T10:52:58.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0rc7",
+            "published_at": "2022-04-22T15:01:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GPLv3",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "2.0rc7",
+    "dependencies": []
+}

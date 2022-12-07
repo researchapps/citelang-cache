@@ -1,0 +1,84 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "Funsies is a library to build and execution engine for reproducible, composable and data-persistent computational workflows.",
+    "forks": 2,
+    "homepage": "https://github.com/aspuru-guzik-group/funsies",
+    "keywords": [
+        "workflows",
+        "hashtree",
+        "redis",
+        "compchem",
+        "chemistry",
+        "parallel",
+        "hpc",
+        "automation",
+        "data-engineering",
+        "data-ops",
+        "infrastructure",
+        "python",
+        "workflow-engine"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.8.1",
+    "latest_release_published_at": "2021-09-25T17:11:33.000Z",
+    "latest_stable_release_number": "0.8.1",
+    "latest_stable_release_published_at": "2021-09-25T17:11:33.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "funsies",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/funsies/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/aspuru-guzik-group/funsies",
+    "stars": 23,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.7.0",
+            "published_at": "2021-04-28T17:16:24.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2021-07-19T17:31:11.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.0",
+            "published_at": "2021-08-26T16:21:12.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.8.1",
+            "published_at": "2021-09-25T17:11:33.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

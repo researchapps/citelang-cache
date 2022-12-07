@@ -1,0 +1,69 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "A module for calculating centers though least asymmetry",
+    "forks": 2,
+    "homepage": "https://github.com/natelust/least_asymmetry",
+    "keywords": [
+        "astronomy",
+        "centering",
+        "astrophysics",
+        "centroid",
+        "least",
+        "asymmetry"
+    ],
+    "language": "C++",
+    "latest_download_url": null,
+    "latest_release_number": "0.40",
+    "latest_release_published_at": "2017-06-29T14:09:22.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "UNKNOWN",
+    "name": "least_asymmetry",
+    "normalized_licenses": [
+        "Other"
+    ],
+    "package_manager_url": "https://pypi.org/project/least_asymmetry/",
+    "platform": "Pypi",
+    "rank": 6,
+    "repository_license": "MPL-2.0",
+    "repository_url": "https://github.com/natelust/least_asymmetry",
+    "stars": 1,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.35",
+            "published_at": "2017-04-28T20:40:28.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.38",
+            "published_at": "2017-04-28T21:11:46.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.40",
+            "published_at": "2017-06-29T14:09:22.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.40",
+    "dependencies": []
+}

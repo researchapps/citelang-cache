@@ -1,0 +1,80 @@
+{
+    "dependent_repos_count": 7,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "Estimate the autocorrelation time of a time series quickly.",
+    "forks": 9,
+    "homepage": "http://github.com/dfm/acor",
+    "keywords": [],
+    "language": "C",
+    "latest_download_url": null,
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2014-08-05T18:19:47.000Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2014-08-05T18:19:47.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "acor",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/acor/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/dfm/acor",
+    "stars": 29,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2012-02-02T04:21:31.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2012-06-08T00:32:11.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2012-06-08T17:37:15.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2014-01-03T18:28:08.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2014-08-05T18:19:47.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

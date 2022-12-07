@@ -1,0 +1,143 @@
+{
+    "dependent_repos_count": 6,
+    "dependents_count": 13,
+    "deprecation_reason": null,
+    "description": "Control remote side information.",
+    "forks": 14,
+    "homepage": "https://github.com/aio-libs/aiohttp-remotes",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.2.0",
+    "latest_release_published_at": "2021-12-15T10:03:44.000Z",
+    "latest_stable_release_number": "1.2.0",
+    "latest_stable_release_published_at": "2021-12-15T10:03:44.000Z",
+    "license_normalized": true,
+    "licenses": "MIT License",
+    "name": "aiohttp-remotes",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/aiohttp-remotes/",
+    "platform": "Pypi",
+    "rank": 15,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/aio-libs/aiohttp-remotes",
+    "stars": 70,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.2",
+            "published_at": "2017-11-16T11:00:19.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.4",
+            "published_at": "2017-11-16T11:22:55.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.5",
+            "published_at": "2017-11-16T14:46:54.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2017-12-19T10:07:33.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2017-12-29T18:07:52.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2018-03-01T09:48:29.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2021-11-04T13:27:00.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.0",
+            "published_at": "2021-12-15T10:03:44.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.2.0",
+    "dependencies": [
+        {
+            "project_name": "typing-extensions",
+            "name": "typing-extensions",
+            "platform": "Pypi",
+            "requirements": ">=",
+            "latest_stable": "4.2.0",
+            "latest": "4.2.0",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "PSF-2.0"
+            ]
+        },
+        {
+            "project_name": "aiohttp",
+            "name": "aiohttp",
+            "platform": "Pypi",
+            "requirements": ">=",
+            "latest_stable": "3.8.1",
+            "latest": "3.8.1",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        }
+    ]
+}

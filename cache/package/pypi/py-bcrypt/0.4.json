@@ -1,0 +1,50 @@
+{
+    "dependent_repos_count": 458,
+    "dependents_count": 21,
+    "deprecation_reason": null,
+    "description": "bcrypt password hashing and key derivation",
+    "forks": 0,
+    "homepage": "https://code.google.com/p/py-bcrypt",
+    "keywords": [],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "0.4",
+    "latest_release_published_at": "2013-08-25T00:37:06.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "py-bcrypt",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/py-bcrypt/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.3",
+            "published_at": "2013-03-18T21:39:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2013-08-25T00:37:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

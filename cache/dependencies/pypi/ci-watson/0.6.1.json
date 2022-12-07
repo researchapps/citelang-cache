@@ -1,0 +1,257 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 6,
+    "deprecation_reason": null,
+    "description": "CI helper for STScI Jenkins",
+    "forks": 8,
+    "homepage": "https://github.com/spacetelescope/ci_watson",
+    "keywords": [
+        "continuous-integration",
+        "helper-functions",
+        "pytest"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.6.1",
+    "latest_release_published_at": "2022-03-11T13:29:24.000Z",
+    "latest_stable_release_number": "0.6.1",
+    "latest_stable_release_published_at": "2022-03-11T13:29:24.000Z",
+    "license_normalized": true,
+    "licenses": "BSD",
+    "name": "ci-watson",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/ci-watson/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/spacetelescope/ci_watson",
+    "stars": 1,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2018-08-20T04:08:57.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1",
+            "published_at": "2018-08-20T13:38:33.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2018-09-13T18:10:23.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2018-09-14T13:59:09.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2",
+            "published_at": "2018-10-31T17:31:43.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2019-03-01T17:48:06.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.4",
+            "published_at": "2019-08-13T18:30:57.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.5",
+            "published_at": "2020-02-05T21:37:50.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.0",
+            "published_at": "2022-03-03T18:02:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2022-03-11T13:29:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.6.1",
+    "dependencies": [
+        {
+            "project_name": "pytest-astropy-header",
+            "name": "pytest-astropy-header",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.2.1",
+            "latest": "0.2.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "sphinx-automodapi",
+            "name": "sphinx-automodapi",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.14.1",
+            "latest": "0.14.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "sphinx-rtd-theme",
+            "name": "sphinx-rtd-theme",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.1.0",
+            "latest": "1.0.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "numpydoc",
+            "name": "numpydoc",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.4.0",
+            "latest": "1.4.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "astropy",
+            "name": "astropy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.0.4",
+            "latest": "5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "crds",
+            "name": "crds",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "11.16.8",
+            "latest": "11.16.5",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "requests",
+            "name": "requests",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.28.1",
+            "latest": "2.28.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": ">=3",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,416 @@
+{
+    "dependent_repos_count": 23236,
+    "dependents_count": 897,
+    "deprecation_reason": null,
+    "description": "Decorators for Humans",
+    "forks": 86,
+    "homepage": "https://github.com/micheles/decorator",
+    "keywords": [
+        "decorators",
+        "generic",
+        "utility",
+        "metaprogramming",
+        "python"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "5.1.1",
+    "latest_release_published_at": "2022-01-07T08:20:03.000Z",
+    "latest_stable_release_number": "5.1.1",
+    "latest_stable_release_published_at": "2022-01-07T08:20:03.000Z",
+    "license_normalized": true,
+    "licenses": "new BSD License",
+    "name": "decorator",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/decorator/",
+    "platform": "Pypi",
+    "rank": 23,
+    "repository_license": "BSD-2-Clause",
+    "repository_url": "https://github.com/micheles/decorator",
+    "stars": 641,
+    "status": null,
+    "versions": [
+        {
+            "number": "3.3.1",
+            "published_at": "2011-04-22T14:36:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.3.2",
+            "published_at": "2011-09-01T12:02:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.3.3",
+            "published_at": "2012-04-23T16:52:06.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.0",
+            "published_at": "2012-10-18T08:53:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.1",
+            "published_at": "2015-03-16T15:42:35.587Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "3.4.2",
+            "published_at": "2015-03-22T13:14:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.0",
+            "published_at": "2015-07-24T10:03:27.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.1",
+            "published_at": "2015-07-28T03:44:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.2",
+            "published_at": "2015-07-28T07:31:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.3",
+            "published_at": "2015-09-25T02:19:15.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.4",
+            "published_at": "2015-09-25T02:37:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.6",
+            "published_at": "2015-12-11T04:15:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.7",
+            "published_at": "2016-02-07T15:30:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.9",
+            "published_at": "2016-02-08T10:18:46.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.10",
+            "published_at": "2016-06-07T02:26:49.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.0.11",
+            "published_at": "2017-01-15T09:47:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.1.0",
+            "published_at": "2017-07-15T07:29:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.1.1",
+            "published_at": "2017-07-15T12:46:39.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.1.2",
+            "published_at": "2017-07-23T15:25:25.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.2.1",
+            "published_at": "2018-01-14T10:12:19.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.3.0",
+            "published_at": "2018-04-15T12:50:31.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.3.1",
+            "published_at": "2019-01-24T13:42:38.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.3.2",
+            "published_at": "2019-01-24T14:02:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.4.0",
+            "published_at": "2019-03-16T06:41:57.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.4.1",
+            "published_at": "2019-10-27T08:09:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "4.4.2",
+            "published_at": "2020-02-29T05:24:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.0",
+            "published_at": "2021-04-02T06:19:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.1",
+            "published_at": "2021-04-02T11:33:45.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.2",
+            "published_at": "2021-04-02T15:45:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.3",
+            "published_at": "2021-04-02T16:26:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.4",
+            "published_at": "2021-04-03T13:58:36.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.5",
+            "published_at": "2021-04-04T05:24:26.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.6",
+            "published_at": "2021-04-08T05:46:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.7",
+            "published_at": "2021-04-14T04:11:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.8",
+            "published_at": "2021-05-15T04:09:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.0.9",
+            "published_at": "2021-05-16T04:08:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.0",
+            "published_at": "2021-09-11T05:30:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "5.1.1",
+            "published_at": "2022-01-07T08:20:03.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "new BSD License",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

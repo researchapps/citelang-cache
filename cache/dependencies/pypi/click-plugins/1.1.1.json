@@ -1,0 +1,123 @@
+{
+    "dependent_repos_count": 353,
+    "dependents_count": 112,
+    "deprecation_reason": null,
+    "description": "An extension module for click to enable registering CLI commands via setuptools entry-points.",
+    "forks": 16,
+    "homepage": "https://github.com/click-contrib/click-plugins",
+    "keywords": [
+        "click",
+        "plugin",
+        "setuptools",
+        "entry-point"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2019-04-04T04:27:03.000Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2019-04-04T04:27:03.000Z",
+    "license_normalized": true,
+    "licenses": "New BSD",
+    "name": "click-plugins",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/click-plugins/",
+    "platform": "Pypi",
+    "rank": 18,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/click-contrib/click-plugins",
+    "stars": 109,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0",
+            "published_at": "2015-07-21T02:58:24.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "New BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2015-08-20T14:25:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "New BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2015-09-23T15:30:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "New BSD",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2016-01-05T18:47:11.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.4",
+            "published_at": "2018-09-16T00:26:15.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1",
+            "published_at": "2019-04-04T04:17:13.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2019-04-04T04:27:03.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.1",
+    "dependencies": [
+        {
+            "project_name": "click",
+            "name": "click",
+            "platform": "Pypi",
+            "requirements": ">=4.0",
+            "latest_stable": "8.1.2",
+            "latest": "8.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,294 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "ASDF serialization support for astropy",
+    "forks": 10,
+    "homepage": "https://github.com/astropy/asdf-astropy",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.2.1",
+    "latest_release_published_at": "2022-04-18T23:11:30.000Z",
+    "latest_stable_release_number": "0.2.1",
+    "latest_stable_release_published_at": "2022-04-18T23:11:30.000Z",
+    "license_normalized": false,
+    "licenses": "BSD-3-Clause",
+    "name": "asdf-astropy",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/asdf-astropy/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/astropy/asdf-astropy",
+    "stars": 1,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0",
+            "published_at": "2021-12-01T21:36:08.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.1",
+            "published_at": "2021-12-04T19:55:26.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.2",
+            "published_at": "2021-12-14T22:19:00.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2022-03-08T19:31:49.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2022-04-18T23:11:30.000Z",
+            "spdx_expression": "BSD-3-Clause",
+            "original_license": "BSD-3-Clause",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.2.1",
+    "dependencies": [
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.9.0",
+            "latest": "1.9.0rc2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "coverage",
+            "name": "coverage",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "6.4.3",
+            "latest": "6.4.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "pytest-astropy",
+            "name": "pytest-astropy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.10.0",
+            "latest": "0.10.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "sphinx-asdf",
+            "name": "sphinx-asdf",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.1.4",
+            "latest": "0.1.3",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "sphinx-automodapi",
+            "name": "sphinx-automodapi",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.14.1",
+            "latest": "0.14.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        },
+        {
+            "project_name": "sphinx-astropy",
+            "name": "sphinx-astropy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.7.0",
+            "latest": "1.7.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "sphinx",
+            "name": "sphinx",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "5.1.1",
+            "latest": "5.0.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "importlib-resources",
+            "name": "importlib-resources",
+            "platform": "Pypi",
+            "requirements": ">=3",
+            "latest_stable": "5.9.0",
+            "latest": "5.8.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "packaging",
+            "name": "packaging",
+            "platform": "Pypi",
+            "requirements": ">=16.0",
+            "latest_stable": null,
+            "latest": "21.3",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-2-Clause",
+                "Apache-2.0"
+            ]
+        },
+        {
+            "project_name": "asdf-transform-schemas",
+            "name": "asdf-transform-schemas",
+            "platform": "Pypi",
+            "requirements": ">=0.2.2",
+            "latest_stable": "0.2.2",
+            "latest": "0.2.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "asdf-coordinates-schemas",
+            "name": "asdf-coordinates-schemas",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.1.0",
+            "latest": "0.1.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.23.1",
+            "latest": "1.23.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "asdf",
+            "name": "asdf",
+            "platform": "Pypi",
+            "requirements": ">=2.8.0",
+            "latest_stable": "2.12.0",
+            "latest": "2.12.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "astropy",
+            "name": "astropy",
+            "platform": "Pypi",
+            "requirements": ">=5.0.4",
+            "latest_stable": "5.0.4",
+            "latest": "5.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-1-Clause"
+            ]
+        }
+    ]
+}

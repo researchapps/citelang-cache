@@ -1,0 +1,413 @@
+{
+    "dependent_repos_count": 1204,
+    "dependents_count": 339,
+    "deprecation_reason": null,
+    "description": "MySQL driver written in Python",
+    "forks": 0,
+    "homepage": "http://dev.mysql.com/doc/connector-python/en/index.html",
+    "keywords": [
+        "mysql",
+        "db"
+    ],
+    "language": null,
+    "latest_download_url": null,
+    "latest_release_number": "8.0.29",
+    "latest_release_published_at": "2022-04-26T07:43:34.000Z",
+    "latest_stable_release_number": "8.0.29",
+    "latest_stable_release_published_at": "2022-04-26T07:43:34.000Z",
+    "license_normalized": true,
+    "licenses": "GNU GPLv2 (with FOSS License Exception)",
+    "name": "mysql-connector-python",
+    "normalized_licenses": [
+        "GPL-2.0-with-font-exception"
+    ],
+    "package_manager_url": "https://pypi.org/project/mysql-connector-python/",
+    "platform": "Pypi",
+    "rank": 14,
+    "repository_license": null,
+    "repository_url": "",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "8.0.5",
+            "published_at": "2017-11-20T14:14:18.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.6",
+            "published_at": "2018-02-01T19:17:23.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.11",
+            "published_at": "2018-04-19T21:16:16.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.12",
+            "published_at": "2018-07-27T15:45:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.13",
+            "published_at": "2018-10-22T05:38:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.14",
+            "published_at": "2019-01-21T07:56:51.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.15",
+            "published_at": "2019-02-01T15:34:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.16",
+            "published_at": "2019-04-25T02:55:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.17",
+            "published_at": "2019-07-22T08:35:50.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.18",
+            "published_at": "2019-10-14T11:01:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.19",
+            "published_at": "2020-01-13T09:29:59.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.20",
+            "published_at": "2020-05-04T10:54:01.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.21",
+            "published_at": "2020-07-13T03:58:33.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.22",
+            "published_at": "2020-10-19T07:36:14.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.23",
+            "published_at": "2021-01-18T10:40:40.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.24",
+            "published_at": "2021-04-20T06:11:10.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.25",
+            "published_at": "2021-05-11T08:03:28.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.26",
+            "published_at": "2021-07-20T12:17:37.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.27",
+            "published_at": "2021-10-19T11:55:05.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "MySQL Connector/Python 8.0 license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.10",
+            "published_at": "2021-12-15T14:28:54.984Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.12",
+            "published_at": "2021-12-15T14:39:21.126Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.5",
+            "published_at": "2021-12-15T14:05:24.867Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.5b1",
+            "published_at": "2021-12-15T14:05:25.469Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.6b2",
+            "published_at": "2021-12-15T14:07:35.098Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.7",
+            "published_at": "2021-12-15T14:10:58.935Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.9",
+            "published_at": "2021-12-15T14:21:12.842Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.4",
+            "published_at": "2021-12-15T14:52:03.397Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.5",
+            "published_at": "2021-12-15T14:55:33.726Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.6",
+            "published_at": "2021-12-15T14:58:32.685Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.2",
+            "published_at": "2021-12-15T15:11:20.875Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.2.3",
+            "published_at": "2021-12-15T15:25:37.576Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.1",
+            "published_at": "2021-12-15T15:31:24.229Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.2",
+            "published_at": "2021-12-15T15:37:11.127Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.3",
+            "published_at": "2021-12-15T15:52:19.474Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "2.0.4",
+            "published_at": "2021-12-15T16:22:02.280Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.28",
+            "published_at": "2022-01-18T12:27:17.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.29",
+            "published_at": "2022-04-26T07:43:34.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "8.0.30",
+            "published_at": "2022-07-26T06:13:02.871Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU GPLv2 (with FOSS License Exception)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

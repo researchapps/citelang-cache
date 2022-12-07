@@ -1,0 +1,96 @@
+{
+    "dependent_repos_count": 10,
+    "dependents_count": 3,
+    "deprecation_reason": null,
+    "description": "Fixtures for pytest allowing test functions/methods to easily retrieve test resources from the local filesystem.",
+    "forks": 2,
+    "homepage": "https://github.com/Tblue/pytest-datadir-ng",
+    "keywords": [
+        "py",
+        "test",
+        "resources",
+        "files",
+        "data",
+        "directory",
+        "directories"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.1.1",
+    "latest_release_published_at": "2019-12-25T02:23:41.000Z",
+    "latest_stable_release_number": "1.1.1",
+    "latest_stable_release_published_at": "2019-12-25T02:23:41.000Z",
+    "license_normalized": true,
+    "licenses": "BSD 3-Clause License",
+    "name": "pytest-datadir-ng",
+    "normalized_licenses": [
+        "BSD-1-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/pytest-datadir-ng/",
+    "platform": "Pypi",
+    "rank": 10,
+    "repository_license": "BSD-3-Clause",
+    "repository_url": "https://github.com/Tblue/pytest-datadir-ng",
+    "stars": 4,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2015-12-26T21:37:26.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2016-01-08T22:19:44.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.0",
+            "published_at": "2016-05-01T14:20:38.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.1.1",
+            "published_at": "2019-12-25T02:23:41.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.1.1",
+    "dependencies": [
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

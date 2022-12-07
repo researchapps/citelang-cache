@@ -1,0 +1,65 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "A python module creating/accessing GTF-based interval trees with associated meta-data",
+    "forks": 2,
+    "homepage": "https://github.com/deeptools/deeptools_intervals",
+    "keywords": [
+        "bioinformatics",
+        "GTF",
+        "bed",
+        "interval-tree"
+    ],
+    "language": "C",
+    "latest_download_url": null,
+    "latest_release_number": "0.1.9",
+    "latest_release_published_at": "2019-08-07T18:15:38.000Z",
+    "latest_stable_release_number": "0.1.9",
+    "latest_stable_release_published_at": "2019-08-07T18:15:38.000Z",
+    "license_normalized": false,
+    "licenses": null,
+    "name": "deeptoolsintervals",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/deeptoolsintervals/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/deeptools/deeptools_intervals",
+    "stars": 2,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.7",
+            "published_at": "2018-11-16T21:35:14.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.8",
+            "published_at": "2019-05-13T22:13:09.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.9",
+            "published_at": "2019-08-07T18:15:38.000Z",
+            "spdx_expression": "NONE",
+            "original_license": "",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

@@ -1,9 +1,9 @@
 {
     "dependent_repos_count": 6,
-    "dependents_count": 36,
+    "dependents_count": 50,
     "deprecation_reason": null,
     "description": "Get the currently executing AST node of a frame, and other information",
-    "forks": 20,
+    "forks": 22,
     "homepage": "https://github.com/alexmojaki/executing",
     "keywords": [
         "python"
@@ -12,8 +12,8 @@
     "latest_download_url": null,
     "latest_release_number": "0.8.3",
     "latest_release_published_at": "2022-02-27T22:45:22.000Z",
-    "latest_stable_release_number": "0.8.3",
-    "latest_stable_release_published_at": "2022-02-27T22:45:22.000Z",
+    "latest_stable_release_number": "0.9.1",
+    "latest_stable_release_published_at": "2022-07-26T12:25:00.936Z",
     "license_normalized": false,
     "licenses": "MIT",
     "name": "executing",
@@ -25,7 +25,7 @@
     "rank": 17,
     "repository_license": "MIT",
     "repository_url": "https://github.com/alexmojaki/executing",
-    "stars": 134,
+    "stars": 181,
     "status": null,
     "versions": [
         {
@@ -261,6 +261,26 @@
         {
             "number": "0.8.3",
             "published_at": "2022-02-27T22:45:22.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.0",
+            "published_at": "2022-07-24T11:45:34.908Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.1",
+            "published_at": "2022-07-26T12:25:00.936Z",
             "spdx_expression": "MIT",
             "original_license": "MIT",
             "researched_at": null,

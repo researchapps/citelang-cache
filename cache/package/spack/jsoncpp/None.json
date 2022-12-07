@@ -1,0 +1,108 @@
+{
+    "name": "jsoncpp",
+    "aliases": [],
+    "versions": [
+        {
+            "number": "1.9.4"
+        },
+        {
+            "number": "1.9.3"
+        },
+        {
+            "number": "1.9.2"
+        },
+        {
+            "number": "1.9.1"
+        },
+        {
+            "number": "1.9.0"
+        },
+        {
+            "number": "1.8.4"
+        },
+        {
+            "number": "1.8.3"
+        },
+        {
+            "number": "1.8.2"
+        },
+        {
+            "number": "1.8.1"
+        },
+        {
+            "number": "1.8.0"
+        },
+        {
+            "number": "1.7.7"
+        },
+        {
+            "number": "1.7.6"
+        },
+        {
+            "number": "1.7.5"
+        },
+        {
+            "number": "1.7.4"
+        },
+        {
+            "number": "1.7.3"
+        }
+    ],
+    "latest_version": "1.9.4",
+    "build_system": "CMakePackage",
+    "conflicts": [
+        {
+            "name": "+ipo",
+            "spec": "^cmake@:3.8",
+            "description": "+ipo is not supported by CMake < 3.9"
+        }
+    ],
+    "variants": [
+        {
+            "name": "build_type",
+            "default": "RelWithDebInfo",
+            "description": "The build type to build"
+        },
+        {
+            "name": "ipo",
+            "default": false,
+            "description": "CMake interprocedural optimization"
+        },
+        {
+            "name": "cxxstd",
+            "default": "default",
+            "description": "Use the specified C++ standard when building."
+        }
+    ],
+    "homepage": "https://github.com/open-source-parsers/jsoncpp",
+    "maintainers": [],
+    "patches": [],
+    "resources": [],
+    "description": "JsonCpp is a C++ library that allows manipulating JSON values, including\nserialization and deserialization to and from strings. It can also\npreserve existing comment in unserialization/serialization steps, making\nit a convenient format to store user input files.\n",
+    "dependencies": [
+        {
+            "name": "cmake",
+            "description": "A cross-platform, open-source build system. CMake is a family of tools\ndesigned to build, test and package software."
+        },
+        {
+            "name": "python",
+            "description": "The Python programming language."
+        }
+    ],
+    "dependent_to": [
+        {
+            "name": "paraview",
+            "description": "ParaView is an open-source, multi-platform data analysis and\nvisualization application. This package includes the Catalyst in-situ\nlibrary for versions 5.7 and greater, otherwise use the catalyst\npackage."
+        },
+        {
+            "name": "vtk",
+            "description": "The Visualization Toolkit (VTK) is an open-source, freely available\nsoftware system for 3D computer graphics, image processing and\nvisualization."
+        },
+        {
+            "name": "bamtools",
+            "description": "C++ API & command-line toolkit for working with BAM data."
+        }
+    ],
+    "keywords": [],
+    "language": null
+}

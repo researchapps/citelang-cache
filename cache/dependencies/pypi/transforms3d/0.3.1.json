@@ -1,0 +1,72 @@
+{
+    "dependent_repos_count": 62,
+    "dependents_count": 44,
+    "deprecation_reason": null,
+    "description": "Functions for 3D coordinate transformations",
+    "forks": 50,
+    "homepage": "http://github.com/matthew-brett/transforms3d",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.3.1",
+    "latest_release_published_at": "2017-06-16T08:54:00.000Z",
+    "latest_stable_release_number": "0.3.1",
+    "latest_stable_release_published_at": "2017-06-16T08:54:00.000Z",
+    "license_normalized": true,
+    "licenses": "BSD license",
+    "name": "transforms3d",
+    "normalized_licenses": [
+        "BSD-3-Clause"
+    ],
+    "package_manager_url": "https://pypi.org/project/transforms3d/",
+    "platform": "Pypi",
+    "rank": 14,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/matthew-brett/transforms3d",
+    "stars": 207,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.2",
+            "published_at": "2015-01-12T21:24:43.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2015-03-24T16:11:04.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "BSD license",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2016-08-03T22:53:17.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.3.1",
+            "published_at": "2017-06-16T08:54:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.3.1",
+    "dependencies": []
+}

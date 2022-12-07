@@ -1,0 +1,195 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 1,
+    "deprecation_reason": null,
+    "description": "Python package for manipulating Octopus output files",
+    "forks": 0,
+    "homepage": "https://github.com/afatt/octopuspy",
+    "keywords": [
+        "octopuspy"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "1.0.3",
+    "latest_release_published_at": "2021-07-23T20:08:12.000Z",
+    "latest_stable_release_number": "1.0.3",
+    "latest_stable_release_published_at": "2021-07-23T20:08:12.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "octopuspy",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/octopuspy/",
+    "platform": "Pypi",
+    "rank": 8,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/afatt/octopuspy",
+    "stars": 0,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.0.0",
+            "published_at": "2021-06-10T21:28:55.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.1",
+            "published_at": "2021-06-11T23:41:45.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.2",
+            "published_at": "2021-06-12T00:54:57.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.3",
+            "published_at": "2021-07-23T20:08:12.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.3",
+    "dependencies": [
+        {
+            "project_name": "six",
+            "name": "six",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.16.0",
+            "latest": "1.16.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "python-dateutil",
+            "name": "python-dateutil",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.8.2",
+            "latest": "1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "NRL"
+            ]
+        },
+        {
+            "project_name": "pyparsing",
+            "name": "pyparsing",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.0.9",
+            "latest": "3.0.9",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.21.6",
+            "latest": "1.21.6",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "matplotlib",
+            "name": "matplotlib",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "3.5.2",
+            "latest": "3.5.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Python-2.0"
+            ]
+        },
+        {
+            "project_name": "kiwisolver",
+            "name": "kiwisolver",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.4.2",
+            "latest": "1.4.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Other"
+            ]
+        },
+        {
+            "project_name": "cycler",
+            "name": "cycler",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.11.0",
+            "latest": "0.11.0",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "coverage",
+            "name": "coverage",
+            "platform": "Pypi",
+            "requirements": "==4.3.4",
+            "latest_stable": "6.3.2",
+            "latest": "6.3.2",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "Apache-2.0"
+            ]
+        }
+    ]
+}

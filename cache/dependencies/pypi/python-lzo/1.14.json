@@ -1,0 +1,109 @@
+{
+    "dependent_repos_count": 20,
+    "dependents_count": 8,
+    "deprecation_reason": null,
+    "description": "Python bindings for the LZO data compression library",
+    "forks": 32,
+    "homepage": "https://github.com/jd-boyd/python-lzo",
+    "keywords": [
+        "hacktoberfest",
+        "lzo",
+        "lzo-library",
+        "python",
+        "python-bindings",
+        "python-lzo"
+    ],
+    "language": "C",
+    "latest_download_url": null,
+    "latest_release_number": "1.14",
+    "latest_release_published_at": "2021-12-26T07:52:41.000Z",
+    "latest_stable_release_number": null,
+    "latest_stable_release_published_at": null,
+    "license_normalized": true,
+    "licenses": "GNU General Public License (GPL)",
+    "name": "python-lzo",
+    "normalized_licenses": [
+        "GPL-3.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/python-lzo/",
+    "platform": "Pypi",
+    "rank": 13,
+    "repository_license": "GPL-2.0",
+    "repository_url": "https://github.com/jd-boyd/python-lzo",
+    "stars": 56,
+    "status": null,
+    "versions": [
+        {
+            "number": "1.08",
+            "published_at": "2015-11-19T05:24:52.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License (GPL)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.09",
+            "published_at": "2015-11-19T05:50:05.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.10",
+            "published_at": "2016-01-20T06:08:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.11",
+            "published_at": "2016-01-25T08:44:36.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.12",
+            "published_at": "2018-05-24T04:29:55.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.13",
+            "published_at": "2021-12-26T07:41:13.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License (GPL)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.14",
+            "published_at": "2021-12-26T07:52:41.000Z",
+            "spdx_expression": "NOASSERTION",
+            "original_license": "GNU General Public License (GPL)",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.14",
+    "dependencies": []
+}

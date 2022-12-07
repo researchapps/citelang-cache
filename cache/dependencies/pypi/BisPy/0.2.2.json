@@ -1,0 +1,118 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "A bisimulation library for Python",
+    "forks": 1,
+    "homepage": "https://github.com/fAndreuzzi/BisPy",
+    "keywords": [
+        "algorithms",
+        "graph-algorithms",
+        "graph-theory",
+        "bisimulation"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.2.2",
+    "latest_release_published_at": "2021-07-18T22:56:19.000Z",
+    "latest_stable_release_number": "0.2.2",
+    "latest_stable_release_published_at": "2021-07-18T22:56:19.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "BisPy",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/BisPy/",
+    "platform": "Pypi",
+    "rank": 7,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/fAndreuzzi/BisPy",
+    "stars": 3,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.2",
+            "published_at": "2021-07-11T18:23:06.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.3",
+            "published_at": "2021-07-11T18:33:09.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2021-07-13T22:20:38.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2021-07-15T22:25:48.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.2",
+            "published_at": "2021-07-18T22:56:19.000Z",
+            "spdx_expression": "MIT",
+            "original_license": "MIT",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.2.2",
+    "dependencies": [
+        {
+            "project_name": "llist",
+            "name": "llist",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "0.7.1",
+            "latest": "0.7.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "networkx",
+            "name": "networkx",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "2.7.1",
+            "latest": "2.8",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        }
+    ]
+}

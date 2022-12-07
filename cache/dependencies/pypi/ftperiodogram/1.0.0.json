@@ -1,0 +1,143 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 0,
+    "deprecation_reason": null,
+    "description": "ftperiodogram: NlogN periodic template fitting",
+    "forks": 9,
+    "homepage": "http://github.com/jakevdp/nfft/",
+    "keywords": [],
+    "language": "Jupyter Notebook",
+    "latest_download_url": null,
+    "latest_release_number": "1.0.0",
+    "latest_release_published_at": "2017-07-20T01:48:42.000Z",
+    "latest_stable_release_number": "1.0.0",
+    "latest_stable_release_published_at": "2017-07-20T01:48:42.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "ftperiodogram",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/ftperiodogram/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/jakevdp/nfft",
+    "stars": 62,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.9.4",
+            "published_at": "2017-07-18T15:58:09.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.41",
+            "published_at": "2017-07-18T16:05:16.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.5",
+            "published_at": "2017-07-20T01:25:57.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.9.5.dev0",
+            "published_at": "2017-07-20T01:14:34.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "1.0.0",
+            "published_at": "2017-07-20T01:48:42.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "1.0.0",
+    "dependencies": [
+        {
+            "project_name": "scipy",
+            "name": "scipy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.9.0",
+            "latest": "1.9.0rc2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "pytest",
+            "name": "pytest",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "7.1.2",
+            "latest": "7.1.2",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "numpy",
+            "name": "numpy",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": "1.23.1",
+            "latest": "1.23.1",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "project_name": "nfft",
+            "name": "nfft",
+            "platform": "Pypi",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": "0.1",
+            "deprecated": false,
+            "outdated": null,
+            "filepath": null,
+            "kind": "runtime",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        }
+    ]
+}

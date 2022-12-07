@@ -1,0 +1,151 @@
+{
+    "dependent_repos_count": 31,
+    "dependents_count": 8,
+    "deprecation_reason": null,
+    "description": "Command-Line Interface Specification Language",
+    "forks": 17,
+    "homepage": "https://github.com/docopt/docopt.R",
+    "keywords": [],
+    "language": "R",
+    "latest_download_url": "https://cran.r-project.org/src/contrib/docopt_0.7.1.tar.gz",
+    "latest_release_number": "0.7.1",
+    "latest_release_published_at": "2020-06-24T00:00:00.000Z",
+    "latest_stable_release_number": "0.7.1",
+    "latest_stable_release_published_at": "2020-06-24T00:00:00.000Z",
+    "license_normalized": true,
+    "licenses": "MIT + file LICENSE",
+    "name": "docopt",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://cran.r-project.org/package=docopt",
+    "platform": "CRAN",
+    "rank": 13,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/docopt/docopt.R",
+    "stars": 172,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.1",
+            "published_at": "2014-06-10T10:44:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.3",
+            "published_at": "2014-09-03T19:18:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4.2",
+            "published_at": "2015-01-05T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4.3.3",
+            "published_at": "2015-05-04T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.4.5",
+            "published_at": "2016-06-13T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.6",
+            "published_at": "2018-08-03T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.6.1",
+            "published_at": "2018-10-11T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.7",
+            "published_at": "2020-06-23T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        },
+        {
+            "number": "0.7.1",
+            "published_at": "2020-06-24T00:00:00.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "CRAN"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.7.1",
+    "dependencies": [
+        {
+            "project_name": "testthat",
+            "name": "testthat",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": "3.0.4",
+            "latest": "3.0.4",
+            "deprecated": false,
+            "outdated": false,
+            "filepath": null,
+            "kind": "suggests",
+            "normalized_licenses": [
+                "MIT"
+            ]
+        },
+        {
+            "project_name": "methods",
+            "name": "methods",
+            "platform": "CRAN",
+            "requirements": "*",
+            "latest_stable": null,
+            "latest": null,
+            "deprecated": null,
+            "outdated": null,
+            "filepath": null,
+            "kind": "imports",
+            "normalized_licenses": null
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "dependent_repos_count": 17,
+    "dependents_count": 6,
+    "deprecation_reason": null,
+    "description": "A wrapper over urllib3 that matches httplib2's interface",
+    "forks": 13,
+    "homepage": "https://github.com/GoogleCloudPlatform/httplib2shim",
+    "keywords": [
+        "httplib2",
+        "http",
+        "urllib3"
+    ],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.0.3",
+    "latest_release_published_at": "2017-06-26T16:33:15.000Z",
+    "latest_stable_release_number": "0.0.3",
+    "latest_stable_release_published_at": "2017-06-26T16:33:15.000Z",
+    "license_normalized": false,
+    "licenses": "MIT",
+    "name": "httplib2shim",
+    "normalized_licenses": [
+        "MIT"
+    ],
+    "package_manager_url": "https://pypi.org/project/httplib2shim/",
+    "platform": "Pypi",
+    "rank": 11,
+    "repository_license": "MIT",
+    "repository_url": "https://github.com/GoogleCloudPlatform/httplib2shim",
+    "stars": 19,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.0.1",
+            "published_at": "2016-02-05T21:43:15.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.2",
+            "published_at": "2017-04-17T17:25:37.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.0.3",
+            "published_at": "2017-06-26T16:33:15.000Z",
+            "spdx_expression": null,
+            "original_license": null,
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ],
+    "dependencies_for_version": "0.0.3",
+    "dependencies": []
+}

@@ -1,0 +1,90 @@
+{
+    "dependent_repos_count": 0,
+    "dependents_count": 30,
+    "deprecation_reason": null,
+    "description": "Backport of the standard library zoneinfo module",
+    "forks": 2,
+    "homepage": "https://github.com/pganssle/zoneinfo",
+    "keywords": [],
+    "language": "Python",
+    "latest_download_url": null,
+    "latest_release_number": "0.2.1",
+    "latest_release_published_at": "2020-06-23T13:51:18.000Z",
+    "latest_stable_release_number": "0.2.1",
+    "latest_stable_release_published_at": "2020-06-23T13:51:18.000Z",
+    "license_normalized": false,
+    "licenses": "Apache-2.0",
+    "name": "backports.zoneinfo",
+    "normalized_licenses": [
+        "Apache-2.0"
+    ],
+    "package_manager_url": "https://pypi.org/project/backports.zoneinfo/",
+    "platform": "Pypi",
+    "rank": 9,
+    "repository_license": "Other",
+    "repository_url": "https://github.com/pganssle/zoneinfo",
+    "stars": 24,
+    "status": null,
+    "versions": [
+        {
+            "number": "0.1.0a0.dev1",
+            "published_at": "2020-05-21T13:57:21.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0b0",
+            "published_at": "2020-05-21T14:12:10.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0b1",
+            "published_at": "2020-05-22T16:53:20.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.1.0",
+            "published_at": "2020-05-27T20:40:19.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.0",
+            "published_at": "2020-05-29T14:26:09.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        },
+        {
+            "number": "0.2.1",
+            "published_at": "2020-06-23T13:51:18.000Z",
+            "spdx_expression": "Apache-2.0",
+            "original_license": "Apache-2.0",
+            "researched_at": null,
+            "repository_sources": [
+                "Pypi"
+            ]
+        }
+    ]
+}

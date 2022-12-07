@@ -1,0 +1,2871 @@
+{
+    "name": "opencv",
+    "aliases": [],
+    "versions": [
+        {
+            "number": "master"
+        },
+        {
+            "number": "4.5.4"
+        },
+        {
+            "number": "4.5.2"
+        },
+        {
+            "number": "4.5.1"
+        },
+        {
+            "number": "4.5.0"
+        },
+        {
+            "number": "4.2.0"
+        },
+        {
+            "number": "4.1.2"
+        },
+        {
+            "number": "4.1.1"
+        },
+        {
+            "number": "4.1.0"
+        },
+        {
+            "number": "4.0.1"
+        },
+        {
+            "number": "4.0.0"
+        },
+        {
+            "number": "3.4.12"
+        },
+        {
+            "number": "3.4.6"
+        },
+        {
+            "number": "3.4.5"
+        },
+        {
+            "number": "3.4.4"
+        },
+        {
+            "number": "3.4.3"
+        },
+        {
+            "number": "3.4.1"
+        },
+        {
+            "number": "3.4.0"
+        },
+        {
+            "number": "3.3.1"
+        },
+        {
+            "number": "3.3.0"
+        }
+    ],
+    "latest_version": "4.5.4",
+    "build_system": "CMakePackage",
+    "conflicts": [
+        {
+            "name": "%gcc@:4",
+            "spec": "+cuda ^cuda@11.0:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@:5",
+            "spec": "+cuda ^cuda@11.4:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@10:",
+            "spec": "+cuda ^cuda@:11.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@11:",
+            "spec": "+cuda ^cuda@:11.4.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@12:",
+            "spec": "+cuda ^cuda@:11.7~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%clang@12:",
+            "spec": "+cuda ^cuda@:11.4.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%clang@13:",
+            "spec": "+cuda ^cuda@:11.5~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%clang@14:",
+            "spec": "+cuda ^cuda@:11.7~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@10",
+            "spec": "+cuda ^cuda@:11.4.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@5:",
+            "spec": "+cuda ^cuda@:7.5~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@6:",
+            "spec": "+cuda ^cuda@:8~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@6:",
+            "spec": "+cuda ^cuda@:9~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@7:",
+            "spec": "+cuda ^cuda@:9.1~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@8:",
+            "spec": "+cuda ^cuda@:10.0.130~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@8:",
+            "spec": "+cuda ^cuda@:10.0.130~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@9:",
+            "spec": "+cuda ^cuda@:10.2.89~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%gcc@9:",
+            "spec": "+cuda ^cuda@:10.1.243~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:14.8",
+            "spec": "+cuda ^cuda@:7.0.27~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:15.3,15.5:",
+            "spec": "+cuda ^cuda@7.5~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:16.2,16.0:16.3",
+            "spec": "+cuda ^cuda@8~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:15,18:",
+            "spec": "+cuda ^cuda@9.0:9.1~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:16,19:",
+            "spec": "+cuda ^cuda@9.2.88:10~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:17,20:",
+            "spec": "+cuda ^cuda@10.1.105:10.2.89~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:17,21:",
+            "spec": "+cuda ^cuda@11.0.2:11.1.0~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.4",
+            "spec": "+cuda ^cuda@:7.5~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,4:",
+            "spec": "+cuda ^cuda@8.0:9.0~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,4.1:",
+            "spec": "+cuda ^cuda@9.1~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,5.1:",
+            "spec": "+cuda ^cuda@9.2~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,6.1:",
+            "spec": "+cuda ^cuda@10.0.130~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,7.1:",
+            "spec": "+cuda ^cuda@10.1.105~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.7,8.1:",
+            "spec": "+cuda ^cuda@10.1.105:10.1.243~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:3.2,9:",
+            "spec": "+cuda ^cuda@10.2.89~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:5",
+            "spec": "+cuda ^cuda@11.0.2:~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@:5",
+            "spec": "+cuda ^cuda@11.0.2:~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@10:",
+            "spec": "+cuda ^cuda@:11.0.3~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@10:",
+            "spec": "+cuda ^cuda@:11.0.2~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@11:",
+            "spec": "+cuda ^cuda@:11.1.0~allow-unsupported-compilers arch=linux-None-x86_64:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@11:",
+            "spec": "+cuda ^cuda@:11.1.0~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi",
+            "spec": "+cuda ^cuda@:8~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:16",
+            "spec": "+cuda ^cuda@:9.1.185~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%pgi@:17",
+            "spec": "+cuda ^cuda@:10~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@4:",
+            "spec": "+cuda ^cuda@:9.0.176~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@5:",
+            "spec": "+cuda ^cuda@:9.1~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@6:",
+            "spec": "+cuda ^cuda@:9.2~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@7:",
+            "spec": "+cuda ^cuda@10.0.130~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@7.1:",
+            "spec": "+cuda ^cuda@:10.1.105~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%clang@8.1:",
+            "spec": "+cuda ^cuda@:10.2.89~allow-unsupported-compilers arch=linux-None-ppc64le:",
+            "description": "None"
+        },
+        {
+            "name": "%intel@:11.0",
+            "spec": "+cuda ^cuda@:3.1~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@:12.0",
+            "spec": "+cuda ^cuda@5.5:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@:13.0",
+            "spec": "+cuda ^cuda@6.0:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@:13.2",
+            "spec": "+cuda ^cuda@6.5:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@:14.9",
+            "spec": "+cuda ^cuda@7:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@16.0:",
+            "spec": "+cuda ^cuda@:8.0.43~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@17.0:",
+            "spec": "+cuda ^cuda@:8.0.60~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@18.0:",
+            "spec": "+cuda ^cuda@:9.9~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@19.0:",
+            "spec": "+cuda ^cuda@:10.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@19.1:",
+            "spec": "+cuda ^cuda@:10.1~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%intel@19.2:",
+            "spec": "+cuda ^cuda@:11.1.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%xl@:12,14:",
+            "spec": "+cuda ^cuda@:9.1~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%xl@:12,14:15,17:",
+            "spec": "+cuda ^cuda@9.2~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "%xl@:12,17:",
+            "spec": "+cuda ^cuda@:11.1.0~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "platform=darwin",
+            "spec": "+cuda ^cuda@11.0.2:~allow-unsupported-compilers",
+            "description": "None"
+        },
+        {
+            "name": "+ipo",
+            "spec": "^cmake@:3.8",
+            "description": "+ipo is not supported by CMake < 3.9"
+        },
+        {
+            "name": "~highgui",
+            "spec": "+annotation",
+            "description": "None"
+        },
+        {
+            "name": "~highgui",
+            "spec": "+createsamples",
+            "description": "None"
+        },
+        {
+            "name": "~highgui",
+            "spec": "+interactive-calibration",
+            "description": "None"
+        },
+        {
+            "name": "~highgui",
+            "spec": "+traincascade",
+            "description": "None"
+        },
+        {
+            "name": "~highgui",
+            "spec": "+visualisation",
+            "description": "None"
+        },
+        {
+            "name": "~highgui",
+            "spec": "+ts",
+            "description": "None"
+        },
+        {
+            "name": "~highgui",
+            "spec": "+ccalib",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+annotation",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+createsamples",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+traincascade",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+visualisation",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+highgui",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+ts",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+videoio",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+datasets",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+optflow",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+sfm",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+ximgproc",
+            "description": "None"
+        },
+        {
+            "name": "~imgcodecs",
+            "spec": "+xobjdetect",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+annotation",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+createsamples",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+interactive-calibration",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+traincascade",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+visualisation",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+calib3d",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+dnn",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+features2d",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+gapi",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+highgui",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+imgcodecs",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+java",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+objc",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+objc_bindings_generator",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+objdetect",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+photo",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+stitching",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+ts",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+video",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+videoio",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+alphamat",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+aruco",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+barcode",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+bgsegm",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+ccalib",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+cudafilters",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+cudaimgproc",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+cudawarping",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+cvv",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+dnn_objdetect",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+dnn_superres",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+dpm",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+face",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+fuzzy",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+freetype",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+hfs",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+img_hash",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+intensity_transform",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+line_descriptor",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+mcc",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+optflow",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+phase_unwrapping",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+plot",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+quality",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+rapid",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+reg",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+rgbd",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+saliency",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+shape",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+stereo",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+structured_light",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+superres",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+text",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+tracking",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+videostab",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+wechat_qrcode",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+xfeatures2d",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+ximgproc",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+xobjdetect",
+            "description": "None"
+        },
+        {
+            "name": "~imgproc",
+            "spec": "+xphoto",
+            "description": "None"
+        },
+        {
+            "name": "~videoio",
+            "spec": "+annotation",
+            "description": "None"
+        },
+        {
+            "name": "~videoio",
+            "spec": "+createsamples",
+            "description": "None"
+        },
+        {
+            "name": "~videoio",
+            "spec": "+interactive-calibration",
+            "description": "None"
+        },
+        {
+            "name": "~videoio",
+            "spec": "+visualisation",
+            "description": "None"
+        },
+        {
+            "name": "~videoio",
+            "spec": "+ts",
+            "description": "None"
+        },
+        {
+            "name": "~videoio",
+            "spec": "+cudacodec",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+createsamples",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+interactive-calibration",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+traincascade",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+objdetect",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+stitching",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+aruco",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+bgsegm",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+ccalib",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+cudastereo",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+face",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+mcc",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+optflow",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+rapid",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+rgbd",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+sfm",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+shape",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+stereo",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+structured_light",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+videostab",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+xfeatures2d",
+            "description": "None"
+        },
+        {
+            "name": "~calib3d",
+            "spec": "+ximgproc",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+createsamples",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+interactive-calibration",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+traincascade",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+calib3d",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+stitching",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+ccalib",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+cudafeatures2d",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+cvv",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+saliency",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+sfm",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+stereo",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+text",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+videostab",
+            "description": "None"
+        },
+        {
+            "name": "~features2d",
+            "spec": "+xfeatures2d",
+            "description": "None"
+        },
+        {
+            "name": "~objdetect",
+            "spec": "+createsamples",
+            "description": "None"
+        },
+        {
+            "name": "~objdetect",
+            "spec": "+traincascade",
+            "description": "None"
+        },
+        {
+            "name": "~objdetect",
+            "spec": "+cudaobjdetect",
+            "description": "None"
+        },
+        {
+            "name": "~objdetect",
+            "spec": "+dpm",
+            "description": "None"
+        },
+        {
+            "name": "~objdetect",
+            "spec": "+face",
+            "description": "None"
+        },
+        {
+            "name": "~objdetect",
+            "spec": "+xobjdetect",
+            "description": "None"
+        },
+        {
+            "name": "~dnn",
+            "spec": "+model-diagnostics",
+            "description": "None"
+        },
+        {
+            "name": "~dnn",
+            "spec": "+objdetect",
+            "description": "None"
+        },
+        {
+            "name": "~dnn",
+            "spec": "+barcode",
+            "description": "None"
+        },
+        {
+            "name": "~dnn",
+            "spec": "+dnn_objdetect",
+            "description": "None"
+        },
+        {
+            "name": "~dnn",
+            "spec": "+dnn_superres",
+            "description": "None"
+        },
+        {
+            "name": "~dnn",
+            "spec": "+mcc",
+            "description": "None"
+        },
+        {
+            "name": "~dnn",
+            "spec": "+text",
+            "description": "None"
+        },
+        {
+            "name": "~dnn",
+            "spec": "+wechat_qrcode",
+            "description": "None"
+        },
+        {
+            "name": "~flann",
+            "spec": "+calib3d",
+            "description": "None"
+        },
+        {
+            "name": "~flann",
+            "spec": "+stitching",
+            "description": "None"
+        },
+        {
+            "name": "~flann",
+            "spec": "+datasets",
+            "description": "None"
+        },
+        {
+            "name": "~flann",
+            "spec": "+optflow",
+            "description": "None"
+        },
+        {
+            "name": "~flann",
+            "spec": "+surface_matching",
+            "description": "None"
+        },
+        {
+            "name": "~protobuf",
+            "spec": "+dnn",
+            "description": "None"
+        },
+        {
+            "name": "~ade",
+            "spec": "+gapi",
+            "description": "None"
+        },
+        {
+            "name": "~java_bindings_generator",
+            "spec": "+java",
+            "description": "None"
+        },
+        {
+            "name": "~python2~python3",
+            "spec": "+java",
+            "description": "None"
+        },
+        {
+            "name": "~python2~python3",
+            "spec": "+matlab",
+            "description": "None"
+        },
+        {
+            "name": "~objc_bindings_generator",
+            "spec": "+objc",
+            "description": "None"
+        },
+        {
+            "name": "+python3",
+            "spec": "+python2",
+            "description": "None"
+        },
+        {
+            "name": "~python_bindings_generator",
+            "spec": "+python2",
+            "description": "None"
+        },
+        {
+            "name": "~python_bindings_generator",
+            "spec": "+python3",
+            "description": "None"
+        },
+        {
+            "name": "+python2",
+            "spec": "+python3",
+            "description": "None"
+        },
+        {
+            "name": "~ffmpeg",
+            "spec": "+videoio",
+            "description": "None"
+        },
+        {
+            "name": "~eigen",
+            "spec": "+alphamat",
+            "description": "None"
+        },
+        {
+            "name": "~eigen",
+            "spec": "+rgbd",
+            "description": "None"
+        },
+        {
+            "name": "~eigen",
+            "spec": "+sfm",
+            "description": "None"
+        },
+        {
+            "name": "~video",
+            "spec": "+bgsegm",
+            "description": "None"
+        },
+        {
+            "name": "~video",
+            "spec": "+cudabgsegm",
+            "description": "None"
+        },
+        {
+            "name": "~video",
+            "spec": "+cudalegacy",
+            "description": "None"
+        },
+        {
+            "name": "~video",
+            "spec": "+cudaoptflow",
+            "description": "None"
+        },
+        {
+            "name": "~video",
+            "spec": "+optflow",
+            "description": "None"
+        },
+        {
+            "name": "~video",
+            "spec": "+superres",
+            "description": "None"
+        },
+        {
+            "name": "~video",
+            "spec": "+tracking",
+            "description": "None"
+        },
+        {
+            "name": "~video",
+            "spec": "+videostab",
+            "description": "None"
+        },
+        {
+            "name": "~video",
+            "spec": "+ximgproc",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cublas",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cudaarithm",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cudabgsegm",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cudafeatures2d",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cudafilters",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cudaimgproc",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cudalegacy",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cudaobjdetect",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cudaoptflow",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cudastereo",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cudawarping",
+            "description": "None"
+        },
+        {
+            "name": "~cuda",
+            "spec": "+cudev",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cublas",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cuda",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cudaarithm",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cudabgsegm",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cudacodec",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cudafeatures2d",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cudafilters",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cudaimgproc",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cudalegacy",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cudaobjdetect",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cudaoptflow",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cudastereo",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cudawarping",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cuda+hfs",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cuda+superres",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cuda+videostab",
+            "description": "None"
+        },
+        {
+            "name": "~cudev",
+            "spec": "+cuda+xfeatures2d",
+            "description": "None"
+        },
+        {
+            "name": "~cublas",
+            "spec": "+cudaarithm",
+            "description": "None"
+        },
+        {
+            "name": "~cufft",
+            "spec": "+cudaarithm",
+            "description": "None"
+        },
+        {
+            "name": "~cudafilters",
+            "spec": "+cudafeatures2d",
+            "description": "None"
+        },
+        {
+            "name": "~cudawarping",
+            "spec": "+cudafeatures2d",
+            "description": "None"
+        },
+        {
+            "name": "~cudawarping",
+            "spec": "+cudaobjdetect",
+            "description": "None"
+        },
+        {
+            "name": "~cudawarping",
+            "spec": "+cudaoptflow",
+            "description": "None"
+        },
+        {
+            "name": "~cudaarithm",
+            "spec": "+cudafilters",
+            "description": "None"
+        },
+        {
+            "name": "~cudaarithm",
+            "spec": "+cudaobjdetect",
+            "description": "None"
+        },
+        {
+            "name": "~cudaarithm",
+            "spec": "+cudaoptflow",
+            "description": "None"
+        },
+        {
+            "name": "~cudaimgproc",
+            "spec": "+cudaoptflow",
+            "description": "None"
+        },
+        {
+            "name": "~optflow",
+            "spec": "+cudaoptflow",
+            "description": "None"
+        },
+        {
+            "name": "~optflow",
+            "spec": "+superres",
+            "description": "None"
+        },
+        {
+            "name": "~qt",
+            "spec": "+cvv",
+            "description": "None"
+        },
+        {
+            "name": "~ml",
+            "spec": "+datasets",
+            "description": "None"
+        },
+        {
+            "name": "~ml",
+            "spec": "+quality",
+            "description": "None"
+        },
+        {
+            "name": "~ml",
+            "spec": "+text",
+            "description": "None"
+        },
+        {
+            "name": "~photo",
+            "spec": "+face",
+            "description": "None"
+        },
+        {
+            "name": "~photo",
+            "spec": "+videostab",
+            "description": "None"
+        },
+        {
+            "name": "~photo",
+            "spec": "+xphoto",
+            "description": "None"
+        },
+        {
+            "name": "~ximgproc",
+            "spec": "+optflow",
+            "description": "None"
+        },
+        {
+            "name": "%intel",
+            "spec": "+saliency",
+            "description": "None"
+        },
+        {
+            "name": "~xfeatures2d",
+            "spec": "+sfm",
+            "description": "None"
+        },
+        {
+            "name": "~tracking",
+            "spec": "+stereo",
+            "description": "None"
+        },
+        {
+            "name": "~phase_unwrapping",
+            "spec": "+structured_light",
+            "description": "None"
+        },
+        {
+            "name": "~plot",
+            "spec": "+tracking",
+            "description": "None"
+        },
+        {
+            "name": "~vtk",
+            "spec": "+viz",
+            "description": "None"
+        },
+        {
+            "name": "+android_mediandk",
+            "spec": "arch=darwin-None-None",
+            "description": "Android only"
+        },
+        {
+            "name": "+android_mediandk",
+            "spec": "arch=linux-None-None",
+            "description": "Android only"
+        },
+        {
+            "name": "+android_mediandk",
+            "spec": "arch=cray-None-None",
+            "description": "Android only"
+        },
+        {
+            "name": "+android_native_camera",
+            "spec": "arch=darwin-None-None",
+            "description": "Android only"
+        },
+        {
+            "name": "+android_native_camera",
+            "spec": "arch=linux-None-None",
+            "description": "Android only"
+        },
+        {
+            "name": "+android_native_camera",
+            "spec": "arch=cray-None-None",
+            "description": "Android only"
+        },
+        {
+            "name": "+avfoundation",
+            "spec": "arch=linux-None-None",
+            "description": "iOS/macOS only"
+        },
+        {
+            "name": "+avfoundation",
+            "spec": "arch=cray-None-None",
+            "description": "iOS/macOS only"
+        },
+        {
+            "name": "+cap_ios",
+            "spec": "arch=darwin-None-None",
+            "description": "iOS only"
+        },
+        {
+            "name": "+cap_ios",
+            "spec": "arch=linux-None-None",
+            "description": "iOS only"
+        },
+        {
+            "name": "+cap_ios",
+            "spec": "arch=cray-None-None",
+            "description": "iOS only"
+        },
+        {
+            "name": "+carotene",
+            "spec": "arch=linux-None-x86:",
+            "description": "ARM/AARCH64 only"
+        },
+        {
+            "name": "+carotene",
+            "spec": "arch=linux-None-x86_64:",
+            "description": "ARM/AARCH64 only"
+        },
+        {
+            "name": "+cpufeatures",
+            "spec": "arch=darwin-None-None",
+            "description": "Android only"
+        },
+        {
+            "name": "+cpufeatures",
+            "spec": "arch=linux-None-None",
+            "description": "Android only"
+        },
+        {
+            "name": "+cpufeatures",
+            "spec": "arch=cray-None-None",
+            "description": "Android only"
+        },
+        {
+            "name": "+cublas",
+            "spec": "~cuda",
+            "description": "None"
+        },
+        {
+            "name": "+cudnn",
+            "spec": "~cuda",
+            "description": "None"
+        },
+        {
+            "name": "+cufft",
+            "spec": "~cuda",
+            "description": "None"
+        },
+        {
+            "name": "+directx",
+            "spec": "arch=darwin-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+directx",
+            "spec": "arch=linux-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+directx",
+            "spec": "arch=cray-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+dshow",
+            "spec": "arch=darwin-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+dshow",
+            "spec": "arch=linux-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+dshow",
+            "spec": "arch=cray-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+gtk",
+            "spec": "arch=darwin-None-None",
+            "description": "Linux only"
+        },
+        {
+            "name": "+ipp",
+            "spec": "arch=linux-None-aarch64:",
+            "description": "x86 or x86_64 only"
+        },
+        {
+            "name": "+jasper",
+            "spec": "+openjpeg",
+            "description": "None"
+        },
+        {
+            "name": "+msmf",
+            "spec": "arch=darwin-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+msmf",
+            "spec": "arch=linux-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+msmf",
+            "spec": "arch=cray-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+msmf_dxva",
+            "spec": "arch=darwin-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+msmf_dxva",
+            "spec": "arch=linux-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+msmf_dxva",
+            "spec": "arch=cray-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+opencl_d3d11_nv",
+            "spec": "arch=darwin-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+opencl_d3d11_nv",
+            "spec": "arch=linux-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+opencl_d3d11_nv",
+            "spec": "arch=cray-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+opengl",
+            "spec": "~qt",
+            "description": "None"
+        },
+        {
+            "name": "+tengine",
+            "spec": "arch=darwin-None-None",
+            "description": "Linux only"
+        },
+        {
+            "name": "+tengine",
+            "spec": "arch=linux-None-x86:",
+            "description": "ARM/AARCH64 only"
+        },
+        {
+            "name": "+tengine",
+            "spec": "arch=linux-None-x86_64:",
+            "description": "ARM/AARCH64 only"
+        },
+        {
+            "name": "+v4l",
+            "spec": "arch=darwin-None-None",
+            "description": "Linux only"
+        },
+        {
+            "name": "+win32ui",
+            "spec": "arch=darwin-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+win32ui",
+            "spec": "arch=linux-None-None",
+            "description": "Windows only"
+        },
+        {
+            "name": "+win32ui",
+            "spec": "arch=cray-None-None",
+            "description": "Windows only"
+        }
+    ],
+    "variants": [
+        {
+            "name": "cuda",
+            "default": false,
+            "description": "Include cuda support"
+        },
+        {
+            "name": "cuda_arch",
+            "default": "none",
+            "description": "CUDA architecture"
+        },
+        {
+            "name": "build_type",
+            "default": "RelWithDebInfo",
+            "description": "CMake build type"
+        },
+        {
+            "name": "ipo",
+            "default": false,
+            "description": "CMake interprocedural optimization"
+        },
+        {
+            "name": "annotation",
+            "default": false,
+            "description": "Install annotation app"
+        },
+        {
+            "name": "createsamples",
+            "default": false,
+            "description": "Install createsamples app"
+        },
+        {
+            "name": "interactive-calibration",
+            "default": false,
+            "description": "Install interactive-calibration app"
+        },
+        {
+            "name": "model-diagnostics",
+            "default": false,
+            "description": "Install model-diagnostics app"
+        },
+        {
+            "name": "traincascade",
+            "default": false,
+            "description": "Install traincascade app"
+        },
+        {
+            "name": "version",
+            "default": false,
+            "description": "Install version app"
+        },
+        {
+            "name": "visualisation",
+            "default": false,
+            "description": "Install visualisation app"
+        },
+        {
+            "name": "calib3d",
+            "default": false,
+            "description": "Include opencv_calib3d module"
+        },
+        {
+            "name": "dnn",
+            "default": false,
+            "description": "Include opencv_dnn module"
+        },
+        {
+            "name": "features2d",
+            "default": false,
+            "description": "Include opencv_features2d module"
+        },
+        {
+            "name": "flann",
+            "default": false,
+            "description": "Include opencv_flann module"
+        },
+        {
+            "name": "gapi",
+            "default": false,
+            "description": "Include opencv_gapi module"
+        },
+        {
+            "name": "highgui",
+            "default": false,
+            "description": "Include opencv_highgui module"
+        },
+        {
+            "name": "imgcodecs",
+            "default": false,
+            "description": "Include opencv_imgcodecs module"
+        },
+        {
+            "name": "imgproc",
+            "default": false,
+            "description": "Include opencv_imgproc module"
+        },
+        {
+            "name": "java",
+            "default": false,
+            "description": "Include opencv_java module"
+        },
+        {
+            "name": "java_bindings_generator",
+            "default": false,
+            "description": "Include opencv_java_bindings_generator module"
+        },
+        {
+            "name": "ml",
+            "default": false,
+            "description": "Include opencv_ml module"
+        },
+        {
+            "name": "objc",
+            "default": false,
+            "description": "Include opencv_objc module"
+        },
+        {
+            "name": "objc_bindings_generator",
+            "default": false,
+            "description": "Include opencv_objc_bindings_generator module"
+        },
+        {
+            "name": "objdetect",
+            "default": false,
+            "description": "Include opencv_objdetect module"
+        },
+        {
+            "name": "photo",
+            "default": false,
+            "description": "Include opencv_photo module"
+        },
+        {
+            "name": "python2",
+            "default": false,
+            "description": "Include opencv_python2 module"
+        },
+        {
+            "name": "python3",
+            "default": false,
+            "description": "Include opencv_python3 module"
+        },
+        {
+            "name": "python_bindings_generator",
+            "default": false,
+            "description": "Include opencv_python_bindings_generator module"
+        },
+        {
+            "name": "python_tests",
+            "default": false,
+            "description": "Include opencv_python_tests module"
+        },
+        {
+            "name": "stitching",
+            "default": false,
+            "description": "Include opencv_stitching module"
+        },
+        {
+            "name": "ts",
+            "default": false,
+            "description": "Include opencv_ts module"
+        },
+        {
+            "name": "video",
+            "default": false,
+            "description": "Include opencv_video module"
+        },
+        {
+            "name": "videoio",
+            "default": false,
+            "description": "Include opencv_videoio module"
+        },
+        {
+            "name": "world",
+            "default": false,
+            "description": "Include opencv_world module"
+        },
+        {
+            "name": "alphamat",
+            "default": false,
+            "description": "Include opencv_alphamat contrib module"
+        },
+        {
+            "name": "aruco",
+            "default": false,
+            "description": "Include opencv_aruco contrib module"
+        },
+        {
+            "name": "barcode",
+            "default": false,
+            "description": "Include opencv_barcode contrib module"
+        },
+        {
+            "name": "bgsegm",
+            "default": false,
+            "description": "Include opencv_bgsegm contrib module"
+        },
+        {
+            "name": "bioinspired",
+            "default": false,
+            "description": "Include opencv_bioinspired contrib module"
+        },
+        {
+            "name": "ccalib",
+            "default": false,
+            "description": "Include opencv_ccalib contrib module"
+        },
+        {
+            "name": "cudaarithm",
+            "default": false,
+            "description": "Include opencv_cudaarithm contrib module"
+        },
+        {
+            "name": "cudabgsegm",
+            "default": false,
+            "description": "Include opencv_cudabgsegm contrib module"
+        },
+        {
+            "name": "cudacodec",
+            "default": false,
+            "description": "Include opencv_cudacodec contrib module"
+        },
+        {
+            "name": "cudafeatures2d",
+            "default": false,
+            "description": "Include opencv_cudafeatures2d contrib module"
+        },
+        {
+            "name": "cudafilters",
+            "default": false,
+            "description": "Include opencv_cudafilters contrib module"
+        },
+        {
+            "name": "cudaimgproc",
+            "default": false,
+            "description": "Include opencv_cudaimgproc contrib module"
+        },
+        {
+            "name": "cudalegacy",
+            "default": false,
+            "description": "Include opencv_cudalegacy contrib module"
+        },
+        {
+            "name": "cudaobjdetect",
+            "default": false,
+            "description": "Include opencv_cudaobjdetect contrib module"
+        },
+        {
+            "name": "cudaoptflow",
+            "default": false,
+            "description": "Include opencv_cudaoptflow contrib module"
+        },
+        {
+            "name": "cudastereo",
+            "default": false,
+            "description": "Include opencv_cudastereo contrib module"
+        },
+        {
+            "name": "cudawarping",
+            "default": false,
+            "description": "Include opencv_cudawarping contrib module"
+        },
+        {
+            "name": "cudev",
+            "default": false,
+            "description": "Include opencv_cudev contrib module"
+        },
+        {
+            "name": "cvv",
+            "default": false,
+            "description": "Include opencv_cvv contrib module"
+        },
+        {
+            "name": "datasets",
+            "default": false,
+            "description": "Include opencv_datasets contrib module"
+        },
+        {
+            "name": "dnn_objdetect",
+            "default": false,
+            "description": "Include opencv_dnn_objdetect contrib module"
+        },
+        {
+            "name": "dnn_superres",
+            "default": false,
+            "description": "Include opencv_dnn_superres contrib module"
+        },
+        {
+            "name": "dpm",
+            "default": false,
+            "description": "Include opencv_dpm contrib module"
+        },
+        {
+            "name": "face",
+            "default": false,
+            "description": "Include opencv_face contrib module"
+        },
+        {
+            "name": "freetype",
+            "default": false,
+            "description": "Include opencv_freetype contrib module"
+        },
+        {
+            "name": "fuzzy",
+            "default": false,
+            "description": "Include opencv_fuzzy contrib module"
+        },
+        {
+            "name": "hdf",
+            "default": false,
+            "description": "Include opencv_hdf contrib module"
+        },
+        {
+            "name": "hfs",
+            "default": false,
+            "description": "Include opencv_hfs contrib module"
+        },
+        {
+            "name": "img_hash",
+            "default": false,
+            "description": "Include opencv_img_hash contrib module"
+        },
+        {
+            "name": "intensity_transform",
+            "default": false,
+            "description": "Include opencv_intensity_transform contrib module"
+        },
+        {
+            "name": "line_descriptor",
+            "default": false,
+            "description": "Include opencv_line_descriptor contrib module"
+        },
+        {
+            "name": "matlab",
+            "default": false,
+            "description": "Include opencv_matlab contrib module"
+        },
+        {
+            "name": "mcc",
+            "default": false,
+            "description": "Include opencv_mcc contrib module"
+        },
+        {
+            "name": "optflow",
+            "default": false,
+            "description": "Include opencv_optflow contrib module"
+        },
+        {
+            "name": "phase_unwrapping",
+            "default": false,
+            "description": "Include opencv_phase_unwrapping contrib module"
+        },
+        {
+            "name": "plot",
+            "default": false,
+            "description": "Include opencv_plot contrib module"
+        },
+        {
+            "name": "quality",
+            "default": false,
+            "description": "Include opencv_quality contrib module"
+        },
+        {
+            "name": "rapid",
+            "default": false,
+            "description": "Include opencv_rapid contrib module"
+        },
+        {
+            "name": "reg",
+            "default": false,
+            "description": "Include opencv_reg contrib module"
+        },
+        {
+            "name": "rgbd",
+            "default": false,
+            "description": "Include opencv_rgbd contrib module"
+        },
+        {
+            "name": "saliency",
+            "default": false,
+            "description": "Include opencv_saliency contrib module"
+        },
+        {
+            "name": "sfm",
+            "default": false,
+            "description": "Include opencv_sfm contrib module"
+        },
+        {
+            "name": "shape",
+            "default": false,
+            "description": "Include opencv_shape contrib module"
+        },
+        {
+            "name": "stereo",
+            "default": false,
+            "description": "Include opencv_stereo contrib module"
+        },
+        {
+            "name": "structured_light",
+            "default": false,
+            "description": "Include opencv_structured_light contrib module"
+        },
+        {
+            "name": "superres",
+            "default": false,
+            "description": "Include opencv_superres contrib module"
+        },
+        {
+            "name": "surface_matching",
+            "default": false,
+            "description": "Include opencv_surface_matching contrib module"
+        },
+        {
+            "name": "text",
+            "default": false,
+            "description": "Include opencv_text contrib module"
+        },
+        {
+            "name": "tracking",
+            "default": false,
+            "description": "Include opencv_tracking contrib module"
+        },
+        {
+            "name": "videostab",
+            "default": false,
+            "description": "Include opencv_videostab contrib module"
+        },
+        {
+            "name": "viz",
+            "default": false,
+            "description": "Include opencv_viz contrib module"
+        },
+        {
+            "name": "wechat_qrcode",
+            "default": false,
+            "description": "Include opencv_wechat_qrcode contrib module"
+        },
+        {
+            "name": "xfeatures2d",
+            "default": false,
+            "description": "Include opencv_xfeatures2d contrib module"
+        },
+        {
+            "name": "ximgproc",
+            "default": false,
+            "description": "Include opencv_ximgproc contrib module"
+        },
+        {
+            "name": "xobjdetect",
+            "default": false,
+            "description": "Include opencv_xobjdetect contrib module"
+        },
+        {
+            "name": "xphoto",
+            "default": false,
+            "description": "Include opencv_xphoto contrib module"
+        },
+        {
+            "name": "1394",
+            "default": false,
+            "description": "Include 1394 support"
+        },
+        {
+            "name": "ade",
+            "default": false,
+            "description": "Include ade support"
+        },
+        {
+            "name": "android_mediandk",
+            "default": false,
+            "description": "Include android_mediandk support"
+        },
+        {
+            "name": "android_native_camera",
+            "default": false,
+            "description": "Include android_native_camera support"
+        },
+        {
+            "name": "avfoundation",
+            "default": false,
+            "description": "Include avfoundation support"
+        },
+        {
+            "name": "cap_ios",
+            "default": false,
+            "description": "Include cap_ios support"
+        },
+        {
+            "name": "carotene",
+            "default": false,
+            "description": "Include carotene support"
+        },
+        {
+            "name": "clp",
+            "default": false,
+            "description": "Include clp support"
+        },
+        {
+            "name": "cpufeatures",
+            "default": false,
+            "description": "Include cpufeatures support"
+        },
+        {
+            "name": "cublas",
+            "default": false,
+            "description": "Include cublas support"
+        },
+        {
+            "name": "cudnn",
+            "default": false,
+            "description": "Include cudnn support"
+        },
+        {
+            "name": "cufft",
+            "default": false,
+            "description": "Include cufft support"
+        },
+        {
+            "name": "directx",
+            "default": false,
+            "description": "Include directx support"
+        },
+        {
+            "name": "dshow",
+            "default": false,
+            "description": "Include dshow support"
+        },
+        {
+            "name": "eigen",
+            "default": false,
+            "description": "Include eigen support"
+        },
+        {
+            "name": "ffmpeg",
+            "default": false,
+            "description": "Include ffmpeg support"
+        },
+        {
+            "name": "gdal",
+            "default": false,
+            "description": "Include gdal support"
+        },
+        {
+            "name": "gtk",
+            "default": false,
+            "description": "Include gtk support"
+        },
+        {
+            "name": "hpx",
+            "default": false,
+            "description": "Include hpx support"
+        },
+        {
+            "name": "imgcodec_hdr",
+            "default": false,
+            "description": "Include imgcodec_hdr support"
+        },
+        {
+            "name": "imgcodec_pfm",
+            "default": false,
+            "description": "Include imgcodec_pfm support"
+        },
+        {
+            "name": "imgcodec_pxm",
+            "default": false,
+            "description": "Include imgcodec_pxm support"
+        },
+        {
+            "name": "imgcodec_sunraster",
+            "default": false,
+            "description": "Include imgcodec_sunraster support"
+        },
+        {
+            "name": "ipp",
+            "default": false,
+            "description": "Include ipp support"
+        },
+        {
+            "name": "itt",
+            "default": false,
+            "description": "Include itt support"
+        },
+        {
+            "name": "jasper",
+            "default": false,
+            "description": "Include jasper support"
+        },
+        {
+            "name": "jpeg",
+            "default": false,
+            "description": "Include jpeg support"
+        },
+        {
+            "name": "lapack",
+            "default": false,
+            "description": "Include lapack support"
+        },
+        {
+            "name": "msmf",
+            "default": false,
+            "description": "Include msmf support"
+        },
+        {
+            "name": "msmf_dxva",
+            "default": false,
+            "description": "Include msmf_dxva support"
+        },
+        {
+            "name": "onnx",
+            "default": false,
+            "description": "Include onnx support"
+        },
+        {
+            "name": "opencl",
+            "default": false,
+            "description": "Include opencl support"
+        },
+        {
+            "name": "opencl_d3d11_nv",
+            "default": false,
+            "description": "Include opencl_d3d11_nv support"
+        },
+        {
+            "name": "openexr",
+            "default": false,
+            "description": "Include openexr support"
+        },
+        {
+            "name": "opengl",
+            "default": false,
+            "description": "Include opengl support"
+        },
+        {
+            "name": "openjpeg",
+            "default": false,
+            "description": "Include openjpeg support"
+        },
+        {
+            "name": "openmp",
+            "default": false,
+            "description": "Include openmp support"
+        },
+        {
+            "name": "plaidml",
+            "default": false,
+            "description": "Include plaidml support"
+        },
+        {
+            "name": "png",
+            "default": false,
+            "description": "Include png support"
+        },
+        {
+            "name": "protobuf",
+            "default": false,
+            "description": "Include protobuf support"
+        },
+        {
+            "name": "pthreads_pf",
+            "default": false,
+            "description": "Include pthreads_pf support"
+        },
+        {
+            "name": "qt",
+            "default": false,
+            "description": "Include qt support"
+        },
+        {
+            "name": "quirc",
+            "default": false,
+            "description": "Include quirc support"
+        },
+        {
+            "name": "tbb",
+            "default": false,
+            "description": "Include tbb support"
+        },
+        {
+            "name": "tengine",
+            "default": false,
+            "description": "Include tengine support"
+        },
+        {
+            "name": "tesseract",
+            "default": false,
+            "description": "Include tesseract support"
+        },
+        {
+            "name": "tiff",
+            "default": false,
+            "description": "Include tiff support"
+        },
+        {
+            "name": "v4l",
+            "default": false,
+            "description": "Include v4l support"
+        },
+        {
+            "name": "vtk",
+            "default": false,
+            "description": "Include vtk support"
+        },
+        {
+            "name": "vulcan",
+            "default": false,
+            "description": "Include vulcan support"
+        },
+        {
+            "name": "webp",
+            "default": false,
+            "description": "Include webp support"
+        },
+        {
+            "name": "win32ui",
+            "default": false,
+            "description": "Include win32ui support"
+        },
+        {
+            "name": "shared",
+            "default": true,
+            "description": "Enables the build of shared libraries"
+        },
+        {
+            "name": "powerpc",
+            "default": false,
+            "description": "Enable PowerPC for GCC"
+        },
+        {
+            "name": "fast-math",
+            "default": false,
+            "description": "Enable -ffast-math (not recommended for GCC 4.6.x)"
+        },
+        {
+            "name": "nonfree",
+            "default": false,
+            "description": "Enable non-free algorithms"
+        }
+    ],
+    "homepage": "https://opencv.org/",
+    "maintainers": [
+        "bvanessen",
+        "adamjstewart",
+        "glennpj"
+    ],
+    "patches": [
+        {
+            "owner": "builtin.opencv",
+            "sha256": "7c45f23c563cbccdf29038814062d0ed5be8913a2eef17bcc37eb65005ed0839",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "dnn_cuda.patch",
+            "version": "@3.3.0:3.4.1+cuda+dnn"
+        },
+        {
+            "owner": "builtin.opencv",
+            "sha256": "a2eb9cdeb1ad03e7c075e2ac5dc1dd2571c0201fe5e5e25ed7aae0bde350c465",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "opencv3.2_cmake.patch",
+            "version": "@3.2:3.4.1"
+        },
+        {
+            "owner": "builtin.opencv",
+            "sha256": "3cab4513e01ba583a5a071c3b4afef0de1d9df211ec5d1b012b500c6a6d69531",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "cmake_no-system-paths.patch",
+            "version": ""
+        },
+        {
+            "owner": "builtin.opencv",
+            "sha256": "2aea289955a0e83df95a4b441b57084cb33b8c19652c6cfbfc6a0cbb375795c1",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "opencv4.1.1_clp_cmake.patch",
+            "version": "@4.1.1:"
+        },
+        {
+            "owner": "builtin.opencv",
+            "sha256": "d52acf66633efb69492774ba31a25536c75c063f7d2111f3282df76a0f027005",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "opencv4.0.0_clp_cmake.patch",
+            "version": "@4.0.0:4.1.0"
+        },
+        {
+            "owner": "builtin.opencv",
+            "sha256": "9c53834cb675045a3e7e2fa5f094f95fb02a32d2ef996dcb29a05f2f180b633f",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "opencv3.4.12_clp_cmake.patch",
+            "version": "@3.4.12"
+        },
+        {
+            "owner": "builtin.opencv",
+            "sha256": "588fe30113b3ab0a5c1f9749bd50ce1aa23cd6e234e794ee1f118ea3eb09ce91",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "opencv3.3_clp_cmake.patch",
+            "version": "@:3.4.6"
+        },
+        {
+            "owner": "builtin.opencv",
+            "sha256": "1d30f1243dbecb31f0efa0fcca3f45fd88cea79fb2f6437f485e41d39a313193",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "opencv3.4.4_cvv_cmake.patch",
+            "version": "@3.4.4:"
+        },
+        {
+            "owner": "builtin.opencv",
+            "sha256": "e1931a64513afd75e0893dc45220e95f03434e062d59996f5203c26ee8f9556c",
+            "level": 1,
+            "working_dir": ".",
+            "relative_path": "opencv3.3_cvv_cmake.patch",
+            "version": "@:3.4.3"
+        }
+    ],
+    "resources": [
+        {
+            "version": "@3.3.0",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@3.3.1",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@3.4.0",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@3.4.1",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@3.4.3",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@3.4.4",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@3.4.5",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@3.4.6",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@3.4.12",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@4.0.0",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@4.0.1",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@4.1.0",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@4.1.1",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@4.1.2",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@4.2.0",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@4.5.0",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@4.5.1",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@4.5.2",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        },
+        {
+            "version": "@4.5.4",
+            "name": "contrib",
+            "destination": "",
+            "placement": null
+        }
+    ],
+    "description": "OpenCV (Open Source Computer Vision Library) is an open source computer\nvision and machine learning software library.\n",
+    "dependencies": [
+        {
+            "name": "cuda",
+            "description": "CUDA is a parallel computing platform and programming model invented by\nNVIDIA. It enables dramatic increases in computing performance by\nharnessing the power of the graphics processing unit (GPU). Note: This\npackage does not currently install the drivers necessary to run CUDA.\nThese will need to be installed manually. See:\nhttps://docs.nvidia.com/cuda/ for details."
+        },
+        {
+            "name": "cmake",
+            "description": "A cross-platform, open-source build system. CMake is a family of tools\ndesigned to build, test and package software."
+        },
+        {
+            "name": "java",
+            "description": "The IcedTea project provides a harness to build the source code from\nhttps://openjdk.java.net/ using Free Software build tools and adds a\nnumber of key features to the upstream OpenJDK codebase. IcedTea\nrequires an existing IcedTea or OpenJDK install to build."
+        },
+        {
+            "name": "ant",
+            "description": "Apache Ant is a Java library and command-line tool whose mission is to\ndrive processes described in build files as targets and extension points\ndependent upon each other"
+        },
+        {
+            "name": "python",
+            "description": "The Python programming language."
+        },
+        {
+            "name": "py-setuptools",
+            "description": "A Python utility that aids in the process of downloading, building,\nupgrading, installing, and uninstalling Python packages."
+        },
+        {
+            "name": "py-numpy",
+            "description": "NumPy is the fundamental package for scientific computing with Python.\nIt contains among other things: a powerful N-dimensional array object,\nsophisticated (broadcasting) functions, tools for integrating C/C++ and\nFortran code, and useful linear algebra, Fourier transform, and random\nnumber capabilities"
+        },
+        {
+            "name": "freetype",
+            "description": "FreeType is a freely available software library to render fonts. It is\nwritten in C, designed to be small, efficient, highly customizable, and\nportable while capable of producing high-quality output (glyph images)\nof most vector and bitmap font formats."
+        },
+        {
+            "name": "harfbuzz",
+            "description": "The Harfbuzz package contains an OpenType text shaping engine."
+        },
+        {
+            "name": "hdf5",
+            "description": "HDF5 is a data model, library, and file format for storing and managing\ndata. It supports an unlimited variety of datatypes, and is designed for\nflexible and efficient I/O and for high volume and complex data."
+        },
+        {
+            "name": "matlab",
+            "description": "MATLAB (MATrix LABoratory) is a multi-paradigm numerical computing\nenvironment and fourth-generation programming language. A proprietary\nprogramming language developed by MathWorks, MATLAB allows matrix\nmanipulations, plotting of functions and data, implementation of\nalgorithms, creation of user interfaces, and interfacing with programs\nwritten in other languages, including C, C++, C#, Java, Fortran and\nPython. Note: MATLAB is licensed software. You will need to create an\naccount on the MathWorks homepage and download MATLAB yourself. Spack\nwill search your current directory for the download file. Alternatively,\nadd this file to a mirror so that Spack can find it. For instructions on\nhow to set up a mirror, see\nhttps://spack.readthedocs.io/en/latest/mirrors.html"
+        },
+        {
+            "name": "py-jinja2",
+            "description": "Jinja2 is a template engine written in pure Python. It provides a Django\ninspired non-XML syntax but supports inline expressions and an optional\nsandboxed environment."
+        },
+        {
+            "name": "ceres-solver",
+            "description": "Ceres Solver is an open source C++ library for modeling and solving\nlarge, complicated optimization problems. It can be used to solve Non-\nlinear Least Squares problems with bounds constraints and general\nunconstrained optimization problems. It is a mature, feature rich, and\nperformant library that has been used in production at Google since\n2010."
+        },
+        {
+            "name": "gflags",
+            "description": "The gflags package contains a C++ library that implements commandline\nflags processing. It includes built-in support for standard types such\nas string and the ability to define flags in the source file in which\nthey are used. Online documentation available at:\nhttps://gflags.github.io/gflags/"
+        },
+        {
+            "name": "glog",
+            "description": "C++ implementation of the Google logging module."
+        },
+        {
+            "name": "libiconv",
+            "description": "GNU libiconv provides an implementation of the iconv() function and the\niconv program for character set conversion."
+        },
+        {
+            "name": "zlib",
+            "description": "A free, general-purpose, legally unencumbered lossless data-compression\nlibrary."
+        },
+        {
+            "name": "clp",
+            "description": "Clp (Coin-or linear programming) is an open-source linear programming\nsolver written in C++."
+        },
+        {
+            "name": "cudnn",
+            "description": "NVIDIA cuDNN is a GPU-accelerated library of primitives for deep neural\nnetworks"
+        },
+        {
+            "name": "eigen",
+            "description": "Eigen is a C++ template library for linear algebra matrices, vectors,\nnumerical solvers, and related algorithms."
+        },
+        {
+            "name": "ffmpeg",
+            "description": "FFmpeg is a complete, cross-platform solution to record, convert and\nstream audio and video."
+        },
+        {
+            "name": "gdal",
+            "description": "GDAL (Geospatial Data Abstraction Library) is a translator library for\nraster and vector geospatial data formats that is released under an\nX/MIT style Open Source license by the Open Source Geospatial\nFoundation. As a library, it presents a single raster abstract data\nmodel and vector abstract data model to the calling application for all\nsupported formats. It also comes with a variety of useful command line\nutilities for data translation and processing."
+        },
+        {
+            "name": "gtkplus",
+            "description": "The GTK+ package contains libraries used for creating graphical user\ninterfaces for applications."
+        },
+        {
+            "name": "hpx",
+            "description": "C++ runtime system for parallel and distributed applications."
+        },
+        {
+            "name": "ipp",
+            "description": "Intel Integrated Performance Primitives."
+        },
+        {
+            "name": "jasper",
+            "description": "Library for manipulating JPEG-2000 images"
+        },
+        {
+            "name": "jpeg",
+            "description": "libjpeg is a widely used free library with functions for handling the\nJPEG image data format. It implements a JPEG codec (encoding and\ndecoding) alongside various utilities for handling JPEG data."
+        },
+        {
+            "name": "lapack",
+            "description": "Lightweight but flexible shim designed to rectify the incompatibilities\nbetween the Accelerate/vecLib BLAS and LAPACK libraries shipped with\nmacOS and FORTRAN code compiled with modern compilers such as GNU\nFortran."
+        },
+        {
+            "name": "onnx",
+            "description": "Open Neural Network Exchange (ONNX). ONNX provides an open source format\nfor AI models, both deep learning and traditional ML. It defines an\nextensible computation graph model, as well as definitions of built-in\noperators and standard data types."
+        },
+        {
+            "name": "opencl",
+            "description": "Portable Computing Language (pocl) is an open source implementation of\nthe OpenCL standard which can be easily adapted for new targets and\ndevices, both for homogeneous CPU and heterogeneous GPUs/accelerators."
+        },
+        {
+            "name": "openexr",
+            "description": "OpenEXR Graphics Tools (high dynamic-range image file format)"
+        },
+        {
+            "name": "gl",
+            "description": "Mesa is an open-source implementation of the OpenGL specification - a\nsystem for rendering interactive 3D graphics."
+        },
+        {
+            "name": "openjpeg",
+            "description": "OpenJPEG is an open-source JPEG 2000 codec written in C language. It has\nbeen developed in order to promote the use of JPEG 2000, a still-image\ncompression standard from the Joint Photographic Experts Group (JPEG).\nSince April 2015, it is officially recognized by ISO/IEC and ITU-T as a\nJPEG 2000 Reference Software."
+        },
+        {
+            "name": "libpng",
+            "description": "libpng is the official PNG reference library."
+        },
+        {
+            "name": "protobuf",
+            "description": "Google's data interchange format."
+        },
+        {
+            "name": "qt",
+            "description": "Qt is a comprehensive cross-platform C++ application framework."
+        },
+        {
+            "name": "tbb",
+            "description": "Intel oneAPI TBB. LICENSE INFORMATION: By downloading and using this\nsoftware, you agree to the terms and conditions of the software license\nagreements at https://intel.ly/393CijO."
+        },
+        {
+            "name": "libtiff",
+            "description": "LibTIFF - Tag Image File Format (TIFF) Library and Utilities."
+        },
+        {
+            "name": "vtk",
+            "description": "The Visualization Toolkit (VTK) is an open-source, freely available\nsoftware system for 3D computer graphics, image processing and\nvisualization."
+        },
+        {
+            "name": "libwebp",
+            "description": "WebP is a modern image format that provides superior lossless and lossy\ncompression for images on the web. Using WebP, webmasters and web\ndevelopers can create smaller, richer images that make the web faster."
+        },
+        {
+            "name": "tesseract",
+            "description": "Tesseract Open Source OCR Engine."
+        },
+        {
+            "name": "leptonica",
+            "description": "Leptonica is an open source library containing software that is broadly\nuseful for image processing and image analysis applications."
+        },
+        {
+            "name": "libdc1394",
+            "description": "Library providing an API for IEEE 1394 cameras."
+        }
+    ],
+    "dependent_to": [
+        {
+            "name": "candle-benchmarks",
+            "description": "ECP-CANDLE Benchmarks"
+        },
+        {
+            "name": "saga-gis",
+            "description": "SAGA is a GIS for Automated Geoscientific Analyses and has been\ndesigned for an easy and effective implementation of spatial algorithms.\nIt offers a comprehensive, growing set of geoscientific methods and\nprovides an easily approachable user interface with many visualisation\noptions"
+        },
+        {
+            "name": "dbow2",
+            "description": "DBoW2 is an improved version of the DBow library, an open source C++\nlibrary for indexing and converting images into a bag-of-word\nrepresentation."
+        },
+        {
+            "name": "mxnet",
+            "description": "MXNet is a deep learning framework designed for both efficiency and\nflexibility."
+        },
+        {
+            "name": "3dtk",
+            "description": "The 3D Toolkit provides algorithms and methods to process 3D point\nclouds. It includes automatic high-accurate registration (6D\nsimultaneous localization and mapping, 6D SLAM) and other tools, e.g., a\nfast 3D viewer, plane extraction software, etc. Several file formats for\nthe point clouds are natively supported, new formats can be implemented\neasily."
+        },
+        {
+            "name": "caffe",
+            "description": "Caffe is a deep learning framework made with expression, speed, and\nmodularity in mind. It is developed by the Berkeley Vision and Learning\nCenter (BVLC) and by community contributors."
+        },
+        {
+            "name": "py-tomopy",
+            "description": "TomoPy is an open-source Python package for tomographic data processing\nand image reconstruction."
+        },
+        {
+            "name": "py-torchgeo",
+            "description": "TorchGeo: datasets, transforms, and models for geospatial data. TorchGeo\nis a PyTorch domain library, similar to torchvision, that provides\ndatasets, transforms, samplers, and pre-trained models specific to\ngeospatial data."
+        },
+        {
+            "name": "bohrium",
+            "description": "Library for automatic acceleration of array operations"
+        },
+        {
+            "name": "py-mmcv",
+            "description": "MMCV is a foundational python library for computer vision research and\nsupports many research projects in MMLAB, such as MMDetection and\nMMAction."
+        },
+        {
+            "name": "dlib",
+            "description": "DLib is a collection of C++ classes to solve common tasks in C++\nprograms, as well as to offer additional functionality to use OpenCV\ndata and to solve computer vision problems."
+        },
+        {
+            "name": "cntk",
+            "description": "The Microsoft Cognitive Toolkit is a unified deep-learning toolkit that\ndescribes neural networks as a series of computational steps via a\ndirected graph."
+        },
+        {
+            "name": "mivisionx",
+            "description": "MIVisionX toolkit is a set of comprehensive computer vision and machine\nintelligence libraries, utilities, and applications bundled into a\nsingle toolkit."
+        },
+        {
+            "name": "lbann",
+            "description": "LBANN: Livermore Big Artificial Neural Network Toolkit. A distributed\nmemory, HPC-optimized, model and data parallel training toolkit for deep\nneural networks."
+        },
+        {
+            "name": "py-cinema-lib",
+            "description": "cinema_lib is a set of tools and library for interacting with a Cinema\ndatabase (currently Spec A and Spec D) through Python and the command\nline tool, cinema."
+        },
+        {
+            "name": "py-imgaug",
+            "description": "A library for image augmentation in machine learning experiments,\nparticularly convolutional neural networks. Supports the augmentation of\nimages, keypoints/landmarks, bounding boxes, heatmaps and segmentation\nmaps in a variety of different ways."
+        }
+    ],
+    "keywords": [],
+    "language": null
+}
